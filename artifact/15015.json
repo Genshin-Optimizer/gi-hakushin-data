@@ -1,0 +1,65 @@
+{
+  "Id": 15015,
+  "Icon": "UI_RelicIcon_15015_4",
+  "Need": [2, 4],
+  "Rank": [3, 4, 5],
+  "Affix": [
+    {
+      "id": 215015,
+      "affixId": 2150150,
+      "addProps": [
+        { "value": 0.35, "propType": "FIGHT_PROP_SHIELD_COST_MINUS_RATIO" },
+        { "propType": "FIGHT_PROP_NONE" },
+        { "propType": "FIGHT_PROP_NONE" }
+      ],
+      "Name": "Retracing Bolide",
+      "Desc": "Increases Shield Strength by 35%."
+    },
+    {
+      "level": 1,
+      "paramList": [0.4],
+      "id": 215015,
+      "openConfig": "Relic_ShieldEnhanceAtk",
+      "affixId": 2150151,
+      "addProps": [
+        { "propType": "FIGHT_PROP_NONE" },
+        { "propType": "FIGHT_PROP_NONE" },
+        { "propType": "FIGHT_PROP_NONE" }
+      ],
+      "Name": "Retracing Bolide",
+      "Desc": "While protected by a shield, gain an additional 40% Normal and Charged Attack DMG."
+    }
+  ],
+  "Parts": {
+    "EQUIP_RING": {
+      "Icon": "UI_RelicIcon_15015_1",
+      "Name": "Summer Night's Waterballoon",
+      "Desc": "",
+      "Story": 185151
+    },
+    "EQUIP_NECKLACE": {
+      "Icon": "UI_RelicIcon_15015_2",
+      "Name": "Summer Night's Finale",
+      "Desc": "",
+      "Story": 185152
+    },
+    "EQUIP_DRESS": {
+      "Icon": "UI_RelicIcon_15015_3",
+      "Name": "Summer Night's Mask",
+      "Desc": "",
+      "Story": 185153
+    },
+    "EQUIP_BRACER": {
+      "Icon": "UI_RelicIcon_15015_4",
+      "Name": "Summer Night's Bloom",
+      "Desc": "",
+      "Story": 185154
+    },
+    "EQUIP_SHOES": {
+      "Icon": "UI_RelicIcon_15015_5",
+      "Name": "Summer Night's Moment",
+      "Desc": "",
+      "Story": 185155
+    }
+  }
+}

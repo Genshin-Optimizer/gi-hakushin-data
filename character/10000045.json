@@ -1,0 +1,2535 @@
+{
+  "Name": "Rosaria",
+  "Desc": "A sister of the church, though you wouldn't know it if it weren't for her attire. Known for her sharp, cold words and manner, she often works alone.",
+  "CharaInfo": {
+    "ReleaseDate": "2021-04-06 18:00:00",
+    "Birth": [1, 24],
+    "Vision": "Cryo",
+    "Constellation": "Spinea Corona",
+    "Region": "ASSOC_TYPE_MONDSTADT",
+    "Title": "Thorny Benevolence",
+    "Native": "Church of Favonius",
+    "Detail": "A sister of the church, though you wouldn't know it if it weren't for her attire. Known for her sharp, cold words and manner, she often works alone.",
+    "VA": {
+      "Chinese": "张安琪",
+      "Japanese": "加隈亜衣",
+      "English": "Elizabeth Maxwell",
+      "Korean": "Kim Bo-na"
+    },
+    "Stories": [
+      {
+        "Title": "Character Details",
+        "Text": "Rosaria is one of the sisters of Mondstadt's Church of Favonius.\\nThough she is just as much a woman of the cloth as the likes of Barbara and Jilliana, people tend to make a mental distinction between Rosaria and other members of the clergy.\\nWhile she might dress the part — at least, to a certain extent — her speech and actions do not reflect her office in the slightest.\\nFurthermore, she displays even less reverence towards the gods than the ordinary citizens, and she routinely skips her various church engagements.\\nShe comes, goes, and acts in solitude, and if she were ever to make an appearance in the Cathedral, it would be to smoke in the rearmost pew.\\nSuch a lone wolf is Rosaria that perhaps she should be considered a clergywoman in name only.",
+        "Unlock": []
+      },
+      {
+        "Title": "Character Story 1",
+        "Text": "If Rosaria has been lectured once, she has been lectured a thousand times before concerning her unorthodox behavior.\\nFor some reason, however, she has never faced any serious consequences for her transgressions. She does not work together with her church colleagues and only rarely shows up to celebratory events in the city.\\nThe strange and mysterious Rosaria moves about almost like a wisp of black smoke — blink, and you'll miss her as she disappears into thin air.\\nHer social interactions are never more than superficial, and the rest of the time she keeps herself to herself.\\nHowever, Sister Victoria would say that the ever good-natured Barbara is one person who has always made the effort to get close to Rosaria.\\n\"Please don't smoke in the Cathedral...\" \"Could you try to attend the ceremony on time next time...?\"\\n\"And... Hey, come back, I'm still talking to you!\"\\nBarbara is forever anxiously chasing after Rosaria, urging her to complete her various daily tasks.\\nYet even when faced with Barbara, the beloved idol of Mondstadt, Rosaria remains completely unmoved.\\nSurely her heart can't be completely made of stone?",
+        "Unlock": ["Unlocks at Friendship Lv. 2"]
+      },
+      {
+        "Title": "Character Story 2",
+        "Text": "Rosaria's movements are unpredictable. She often leaves without notifying anyone and can be gone for up to several days on end.\\nDuring these times, none of her church colleagues know where to find her.\\nOne of the sisters who took it upon herself to observe Rosaria once groused that \"even a stray cat should at least give you notice before running off...\"\\nRosaria uses these disappearances to do work that only she can do in corners unseen by others.\\nAn unfamiliar merchant, a suspicious traveler — are these people threats to Mondstadt?\\nShe investigates, shadows, and if necessary, interrogates.\\nIf they must disappear, then Rosaria shall be the last person they meet.\\nSuch dark work, which cannot see the light of day, is to be done by her hand alone.\\nShe always sets out after the sun has set, finishing her work in one fell swoop. Sometimes, if she makes it back by the crack of dawn, she gets to usher in the day ahead with a glass of breakfast wine.\\nThe people of Mondstadt live in the golden sunlight, but Rosaria dwells under the silver moonlight.\\nIt is a cold, piercing light... just like that of the ice she forms with her Cryo abilities.\\n\"There are some things that young people need not know,\" Rosaria thinks.\\nThough, in her eyes, \"young people\" means all citizens of Mondstadt who live in the light of the sun, regardless of their age.",
+        "Unlock": ["Unlocks at Friendship Lv. 3"]
+      },
+      {
+        "Title": "Character Story 3",
+        "Text": "Like a puff of smoke, the lackadaisical Rosaria is impossible to pin down.\\nNevertheless, once she takes on a job, she can be relied on to handle it with the utmost professionalism.\\n\"Lazy\" is the last word that anyone would use to describe her ruthless interrogations of suspicious individuals.\\nShe also possesses exceptional strength and knows the weaknesses of the human body like the back of her hand — and has no reservations about using this knowledge to kill.\\nPeople know her as the lazy, chain-smoking sister, but behind the scenes, she is a formidable purveyor of justice.\\nA strange fate for one who ostensibly basks in the light of the gods.\\nWhat led her to become a blood-soaked slayer? Why does she stay silent while others praise the gods for their protection?\\nPerhaps it should come as no surprise that Rosaria was not born and bred in Mondstadt.\\n\"A city that is fortunate enough to be boring always needs someone to do the dirty work...\"\\nRosaria stubs her cigarette out as she speaks in her characteristically languid manner.\\n\"And as far as I'm concerned, the things I deal with are far simpler than living the life of a traditional sister.\"",
+        "Unlock": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "Character Story 4",
+        "Text": "Rosaria may not be one to attend prayer meetings, but that does not mean she doesn't have her own theological viewpoints.\\nIn her view, freedom is the spiritual pillar of Mondstadt's people, and it is the very thing that caused her to end up here in the first place.\\nRosaria was born in a remote mountain village, but was taken from her home shortly after birth by the very same bandits who drenched it in blood.\\nRaised by those crooks, she learned how to fight, sometimes thieving, other times doing odd jobs for the crew.\\nShe was their servant, but also their tool, a crook, yet still a child.\\nShe fought against outsiders and her comrades alike, and growing up was a constant battle for survival against the hunger and cold.\\nRosaria's youth was just like Mondstadt's sunset — blood-red from horizon to horizon, and so fleeting that night had fallen before she'd had the chance to stop and take in the view.\\nUltimately, the bandit crew was wiped out by the Knights of Favonius. As their youngest member, Rosaria was judged to have a chance of rehabilitation.\\nGrand Master Varka brought her to Mondstadt. Sincerely hoping that she might someday fit in here, he advised her:\\n\"Go to the Cathedral and be cleansed by the light of our archon. You still have the chance to turn your fate around and live a normal life.\"\\nBut Varka had not counted on Rosaria constantly skipping classes and dodging hymnal.\\nShe would rather hunt in the wild than settle into a life of dutiful service as a sister. As far as she was concerned, the golden sunlight was not so much cleansing as blinding.\\nFor Rosaria had long since come to understand that she was a child of the moonlight, and it was inevitable that she would someday return to the embrace of darkness.",
+        "Unlock": ["Unlocks at Friendship Lv. 5"]
+      },
+      {
+        "Title": "Character Story 5",
+        "Text": "Rosaria, the Church's number one truant, became infamous for her absence very early on.\\n\"Miss Rosaria, please, show a little more circumspection in your actions! You are a member of the Church. How is it appropriate that you simply never turn up for hymn practice?\"\\n\"Please calm down, Sister Ophila. Miss Rosaria, I'm told that you have never attended a single one of your compulsory classes. Is that so?\"\\n\"Yes.\"\\n\"Mother Maria, please look at this... Rosaria's theological essay is an utter mess!\"\\n\"Miss Rosaria, if I may ask frankly... do you intend to do any work at all here at the Church?\"\\n\"No. I've already found other work.\"\\nRosaria never showed so much as a hint of anxiety in any of these exchanges. What's more, it was true — she had indeed found other work for herself, and much darker work at that.\\nThe unexpected twist was that she would ultimately end up doing this work under the aegis of the Church.\\nRosaria the novice did not leave the clergy, but instead became Sister Rosaria without much incident.\\nNevertheless, when she's not on a mission, she does everything she can to avoid attending church activities, instead heading to the taverns to drink or scaling the city walls to view the scenery.\\nAnd when she simply cannot escape a church engagement, you can be sure that she will be the first to leave.\\nThe instant the workday is done, Rosaria vanishes.\\nWhether by bright day or dark night, there is one principle that she will never transgress: no overtime.",
+        "Unlock": ["Unlocks at Friendship Lv. 6"]
+      },
+      {
+        "Title": "Church-Issue Journal",
+        "Text": "A journal with a white cover. The words \"Church of Favonius\" are inscribed on the cover.\\nThe handwriting is beautiful, but the content is the most of the most banal variety imaginable.\\n\"Dandelion Wine — now eighty percent off!\"\\n\"Fisherman's Toast — an incredible flavor at an unbelievable price!\"\\n\"Crazy discounts on Wheat — ask at the counter and we'll grind it into Flour for you.\"\\n\"Buy three Tomatoes and get one free!\"\\n\"Fresh Small Lamp Grass! Use it to light up your bathroom! Come on, Sir, have a look!\"\\nThere is something incongruous about a random assortment of marketplace cries and advertising slogans having been penned by such a graceful and elegant hand.\\nThis journal is a relic from Rosaria's novice days.\\nClearly, she must have skipped class and headed to the rooftops on the merchant street, bathing in the sun, listening to the eclectic cries of the street vendors, and committing them to paper.",
+        "Unlock": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "Vision",
+        "Text": "Rosaria's Vision came to her on a particularly frigid night.\\nThings were getting desperate for the bandit gang — people were starving and the food supplies were dwindling.\\nNever able to eat her fill, Rosaria was driven by hunger to flee into the freezing wind rather than continue another second with the hard labor she was forced to endure.\\nOne of the elders of the gang pursued her and brought her back.\\nHe was the very person who had taken her from the village of her birth, and the one who had taught her how to kill.\\n\"Fleeing makes you a traitor, and traitors can only earn their freedom through victory in combat.\"\\nThe old bandit tossed Rosaria an old dagger.\\n\"Well, come on then! Kill me, and you can leave this place. I'm long in the tooth now, while you've got youth on your side. You can do this, can't ya?\"\\nNo one thought that she would be able to kill him — and yet, the old lion would indeed fall by the newborn cub's claws.\\nThus did the bandits lose an old member and welcome a new one that very night.\\nThe bandits were reluctant to accept Rosaria at first since she had slain one of their own, but they quickly had a change of heart after seeing the Vision in her hand.\\nSurely, a Vision wielder had to be far stronger than some old coot who was about to kick the bucket right? And she ate less, to boot... They could save some food this way.\\nMeanwhile, a question crept into Rosaria's frozen heart:\\nDid he let me replace him on purpose? ...Could a false father have harbored genuine affection for a child he stole so arbitrarily?",
+        "Unlock": ["Unlocks at Friendship Lv. 6"]
+      }
+    ],
+    "Quotes": [
+      {
+        "Title": "Hello",
+        "Text": "Listen disciple, if you've got a problem you can't handle, then I'm the one for the job. But if you're looking for prayer, you'd better find some other Sister\\n...Huh? You're not a disciple?",
+        "Unlocked": []
+      },
+      {
+        "Title": "Chat: Boredom",
+        "Text": "Don't we have a job to do?",
+        "Unlocked": []
+      },
+      {
+        "Title": "Chat: Overtime",
+        "Text": "Everything is negotiable, except overtime.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Chat: Life in Mondstadt",
+        "Text": "Work hard and live each day to the fullest. That is what life in Mondstadt is all about, isn't it?",
+        "Unlocked": []
+      },
+      {
+        "Title": "When It Rains",
+        "Text": "This will slow things down.",
+        "Unlocked": []
+      },
+      {
+        "Title": "When Thunder Strikes",
+        "Text": "...What a nuisance.",
+        "Unlocked": []
+      },
+      {
+        "Title": "When It Snows",
+        "Text": "We should keep moving, but watch your step in the snow.",
+        "Unlocked": []
+      },
+      {
+        "Title": "When the Wind Is Blowing",
+        "Text": "Blessings from the Anemo Archon Barsibato? Wait... no, it's Bartobas...?",
+        "Unlocked": []
+      },
+      {
+        "Title": "Good Morning",
+        "Text": "*yawn* Good morning... I've missed morning mass, haven't I? Ugh, it starts too early anyway.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Good Afternoon",
+        "Text": "I'd say I sleep even better in the afternoon sun. You should try it sometime.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Good Evening",
+        "Text": "Good evening. Don't expect to see me at prayer tonight... And don't ask why.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Good Night",
+        "Text": "Go ahead, take a break. I'll handle things here.",
+        "Unlocked": []
+      },
+      {
+        "Title": "About Rosaria: Sister",
+        "Text": "Me? I'm just another ordinary person. Church, work... I just do what I have to do.",
+        "Unlocked": []
+      },
+      {
+        "Title": "About Rosaria: Troubles",
+        "Text": "Each of the Sisters is worse than the next. If it's not about prayer, then it's about choir or some other thing I'm supposed to participate in... I'm trying to stay out of sight, so don't you dare tell them you saw me here.",
+        "Unlocked": []
+      },
+      {
+        "Title": "About Us: Beliefs",
+        "Text": "Perhaps a god has the power to protect everyone if they would choose to do so, but that would never happen. Otherwise, people's suffering couldn't ever be taken seriously.",
+        "Unlocked": []
+      },
+      {
+        "Title": "About Us: Prayer",
+        "Text": "Pray. Not for the gods, nor the betterment of others... but for yourself.",
+        "Unlocked": ["Unlocks at Friendship Lv. 6"]
+      },
+      {
+        "Title": "About Us: Battle",
+        "Text": "Don't overdo it. Let me take care of the dirty work.",
+        "Unlocked": ["Unlocks at Friendship Lv. 6"]
+      },
+      {
+        "Title": "About the Vision",
+        "Text": "A Vision... Could be proof of strength, or a medal for having survived... who knows? There're two sides to every coin. I won't limit my Vision with ceremonies and definitions. It witnesses me, and I witness it, that's all.",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "Something to Share",
+        "Text": "You don't always know why good things happen, or why we should be happy about them. Heh... But if you ever face a problem too big to handle, don't give up hope. You never know, someone may be there to help, even if you can't see them.",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "Interesting Things",
+        "Text": "I take no interest in plant life and the sort, but the dandelion is an exception. How such a simple flower could turn into such a delectable wine is beyond me. A glass of dandelion wine after work is even better than sleeping in on Sunday.",
+        "Unlocked": []
+      },
+      {
+        "Title": "About Diluc",
+        "Text": "Isn't it obvious? There's more than meets the eye to that rich tycoon. He's confident, yet discreet... and even a little bit dangerous.",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "About Kaeya",
+        "Text": "Wine has its uses... like revealing someone's true colors, for example. Smooth talk is Kaeya's veil, but being me, I can see right through it. Hah, you should see him when he's drunk.",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "About Venti",
+        "Text": "There's something extremely interesting about this bard... I can't quite put my finger on it. There's something that makes him different from the others in Mondstadt.",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "About Barbara",
+        "Text": "Barbara is like a thorn in my side, always nagging me about mass and choir practice. I wouldn't be surprised if Sister Victoria specifically asked her to keep an eye on me.",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "About Jean",
+        "Text": "She's not only competent in her own work but also somehow manages to clear up various matters for others... Huh. Now that's a woman who deserves admiration.",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "About Albedo",
+        "Text": "He's like an oil painting you find hanging on the wall in some ancient hall, profound and mysterious... hard to see through. But what can I say, I find people with stories... interesting.",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "About Lisa",
+        "Text": "Although I deplore those who play truant on a job, I respect her punctuality when it comes to closing up for the day.",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "About Klee",
+        "Text": "Trouble, and lots of it. Although, it is sort of a cute kind of trouble...",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "About Varka",
+        "Text": "I'm sure Varka means well, but his long-winded conversations get real old real quick. Although, he does really care for those around him, doesn't he?",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "About Her Father",
+        "Text": "Father? I'm not familiar with the word. You could say that I don't have one — could also say I have many, too. What's it to you?",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "More About Rosaria: I",
+        "Text": "Let's forgo the formalities. I'm here to finish a job. Just leave the dirty work to me.",
+        "Unlocked": []
+      },
+      {
+        "Title": "More About Rosaria: II",
+        "Text": "What's weird about a Sister without reverence for the gods? There are hunters who don't eat pork, and fisherman who don't eat fish, aren't there? Just because you do something doesn't mean you love to do it. That's how every job goes.",
+        "Unlocked": ["Unlocks at Friendship Lv. 3"]
+      },
+      {
+        "Title": "More About Rosaria: III",
+        "Text": "This year's Dandelion Wine is sinfully good. Care for a glass?",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "More About Rosaria: IV",
+        "Text": "Mondstadt is a beast of light, both old and young. Old in the sense that it constantly requires someone's protection, yet too young to ever survive on its own. That's why there's people like me. I care for Mondstadt just as the other Sisters care for the believers, we are all guiding that which we love onward on the path towards freedom. Huh? Why do I call it a beast of light? Because people like myself can only be found in the dark...",
+        "Unlocked": ["Unlocks at Friendship Lv. 5"]
+      },
+      {
+        "Title": "More About Rosaria: V",
+        "Text": "I sometimes feel that my former selves from years past still exist alongside me, urging me on. I'm sure you know the feeling, too. Even if you decide to venture down a new path, don't just abandon the former you. For that is the foundation upon which you now take footing. Do not fear your past, and do not be scared to come to grips with it.",
+        "Unlocked": ["Unlocks at Friendship Lv. 6"]
+      },
+      {
+        "Title": "Rosaria's Hobbies",
+        "Text": "There are some troubles that only a stiff drink can take away. That being said, I never get drunk.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Rosaria's Troubles",
+        "Text": "Ugh, definitely skipping next month's choir concert, but I bet Sister Victoria will be personally taking roll... What a nuisance.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Favorite Food",
+        "Text": "Have you ever tried Beef Bourguignon? Big chunks of meat with the smooth taste of alcohol... Mmm, it's delectable.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Least Favorite Food",
+        "Text": "You mean I'm supposed to dip this hash brown in jam? Ugh, this is sacrilege!",
+        "Unlocked": []
+      },
+      {
+        "Title": "Birthday",
+        "Text": "Today's your birthday, so if you have any dirty work that needs taking care of, I can give you a hand... Just don't tell anybody, got it?",
+        "Unlocked": []
+      },
+      {
+        "Title": "Feelings About Ascension: Intro",
+        "Text": "Hmm, just what I needed.",
+        "Unlocked": ["Unlocks at Ascension Phase 1"]
+      },
+      {
+        "Title": "Feelings About Ascension: Building Up",
+        "Text": "You have a job for me? I've got time.",
+        "Unlocked": ["Unlocks at Ascension Phase 2"]
+      },
+      {
+        "Title": "Feelings About Ascension: Climax",
+        "Text": "Good. Getting stronger means finishing jobs quicker.",
+        "Unlocked": ["Unlocks at Ascension Phase 4"]
+      },
+      {
+        "Title": "Feelings About Ascension: Conclusion",
+        "Text": "I'm no stranger to spilling blood, but never have I possessed such power before. For such blessings, I give you thanks.",
+        "Unlocked": ["Unlocks at Ascension Phase 6"]
+      },
+      { "Title": "Elemental Skill: I", "Text": "Hyah!", "Unlocked": [] },
+      { "Title": "Elemental Skill: II", "Text": "Judgment!", "Unlocked": [] },
+      {
+        "Title": "Elemental Skill: III",
+        "Text": "You can't run!",
+        "Unlocked": []
+      },
+      { "Title": "Elemental Burst: I", "Text": "Punishment!", "Unlocked": [] },
+      { "Title": "Elemental Burst: II", "Text": "Shiver!", "Unlocked": [] },
+      {
+        "Title": "Elemental Burst: III",
+        "Text": "Lights out...",
+        "Unlocked": []
+      },
+      {
+        "Title": "Opening Treasure Chest: I",
+        "Text": "...Hm, there are a few interesting trinkets here.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Opening Treasure Chest: II",
+        "Text": "I suppose it wasn't too much trouble.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Opening Treasure Chest: III",
+        "Text": "That felt... pretty good.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Low HP: I",
+        "Text": "Hmph. Things are getting interesting...",
+        "Unlocked": []
+      },
+      {
+        "Title": "Low HP: II",
+        "Text": "Looks like overtime today.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Low HP: III",
+        "Text": "So you know your stuff, huh?",
+        "Unlocked": []
+      },
+      {
+        "Title": "Ally at Low HP: I",
+        "Text": "Let me handle this!",
+        "Unlocked": []
+      },
+      {
+        "Title": "Ally at Low HP: II",
+        "Text": "Don't try to be a hero!",
+        "Unlocked": []
+      },
+      {
+        "Title": "Fallen: I",
+        "Text": "At least... no more... work.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Fallen: II",
+        "Text": "Maybe this is just... fate's dark design.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Fallen: III",
+        "Text": "Is this... my final job?",
+        "Unlocked": []
+      },
+      {
+        "Title": "Light Hit Taken: I",
+        "Text": "I see how it is.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Heavy Hit Taken: I",
+        "Text": "Ugh, what a nuisance!",
+        "Unlocked": []
+      },
+      {
+        "Title": "Joining Party: I",
+        "Text": "I hear you've got a job for me.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Joining Party: II",
+        "Text": "Make sure to keep up.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Joining Party: III",
+        "Text": "Sooner we're done, the better.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Receiving a Gift: I",
+        "Text": "It seems that our tastes are aligned when it comes to food.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Receiving a Gift: II",
+        "Text": "At least I'll be able to eat my fill with this.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Receiving a Gift: III",
+        "Text": "Do you really like this food?",
+        "Unlocked": []
+      }
+    ],
+    "SpecialFood": {
+      "Id": 108234,
+      "Recipe": 2002,
+      "Name": "Dinner of Judgment",
+      "Icon": "UI_ItemIcon_108234",
+      "Rank": 2
+    },
+    "Namecard": {
+      "Id": 210063,
+      "Name": "Rosaria: Indenture",
+      "Desc": "Namecard style.\\nThe unselfish warmth and goodwill of the people is, to her, a kindness that she must repay, and so it is an indenture that follows her forever.",
+      "Icon": "UI_NameCardPic_Rosaria_P"
+    },
+    "Costume": [
+      {
+        "Id": 204501,
+        "Name": "To the Church's Free Spirit",
+        "Desc": "Rosaria's outfit. This seems to have been custom-made for her by the Church.",
+        "Icon": "UI_AvatarIcon_RosariaCostumeWic",
+        "Quality": 4
+      },
+      {
+        "Id": 204500,
+        "Name": "Executor's Thorns",
+        "Desc": "Rosaria's outfit. Rosaria has heavily modified this particular Church of Favonius uniform.",
+        "Icon": "",
+        "Quality": null
+      }
+    ],
+    "TraceEffect": []
+  },
+  "Weapon": "WEAPON_POLE",
+  "Rarity": "QUALITY_PURPLE",
+  "Icon": "UI_AvatarIcon_Rosaria",
+  "StaminaRecovery": 25,
+  "BaseHP": 1030.3239,
+  "BaseATK": 20.12304,
+  "BaseDEF": 59.514,
+  "CritRate": 0.05,
+  "CritDMG": 0.5,
+  "LevelEXP": [
+    1000, 1325, 1700, 2150, 2625, 3150, 3725, 4350, 5000, 5700, 6450, 7225,
+    8050, 8925, 9825, 10750, 11725, 12725, 13775, 14875, 16800, 18000, 19250,
+    20550, 21875, 23250, 24650, 26100, 27575, 29100, 30650, 32250, 33875, 35550,
+    37250, 38975, 40750, 42575, 44425, 46300, 50625, 52700, 54775, 56900, 59075,
+    61275, 63525, 65800, 68125, 70475, 76500, 79050, 81650, 84275, 86950, 89650,
+    92400, 95175, 98000, 100875, 108950, 112050, 115175, 118325, 121525, 124775,
+    128075, 131400, 134775, 138175, 148700, 152375, 156075, 159825, 163600,
+    167425, 171300, 175225, 179175, 183175, 216225, 243025, 273100, 306800,
+    344600, 386950, 434425, 487625, 547200, 613950
+  ],
+  "StatsModifier": {
+    "HP": {
+      "1": 1,
+      "2": 1.083,
+      "3": 1.165,
+      "4": 1.248,
+      "5": 1.33,
+      "6": 1.413,
+      "7": 1.495,
+      "8": 1.578,
+      "9": 1.661,
+      "10": 1.743,
+      "11": 1.826,
+      "12": 1.908,
+      "13": 1.991,
+      "14": 2.073,
+      "15": 2.156,
+      "16": 2.239,
+      "17": 2.321,
+      "18": 2.404,
+      "19": 2.486,
+      "20": 2.569,
+      "21": 2.651,
+      "22": 2.734,
+      "23": 2.817,
+      "24": 2.899,
+      "25": 2.982,
+      "26": 3.064,
+      "27": 3.147,
+      "28": 3.229,
+      "29": 3.312,
+      "30": 3.394,
+      "31": 3.477,
+      "32": 3.56,
+      "33": 3.642,
+      "34": 3.725,
+      "35": 3.807,
+      "36": 3.89,
+      "37": 3.972,
+      "38": 4.055,
+      "39": 4.138,
+      "40": 4.22,
+      "41": 4.303,
+      "42": 4.385,
+      "43": 4.468,
+      "44": 4.55,
+      "45": 4.633,
+      "46": 4.716,
+      "47": 4.798,
+      "48": 4.881,
+      "49": 4.963,
+      "50": 5.046,
+      "51": 5.128,
+      "52": 5.211,
+      "53": 5.294,
+      "54": 5.376,
+      "55": 5.459,
+      "56": 5.541,
+      "57": 5.624,
+      "58": 5.706,
+      "59": 5.789,
+      "60": 5.872,
+      "61": 5.954,
+      "62": 6.037,
+      "63": 6.119,
+      "64": 6.202,
+      "65": 6.284,
+      "66": 6.367,
+      "67": 6.45,
+      "68": 6.532,
+      "69": 6.615,
+      "70": 6.697,
+      "71": 6.78,
+      "72": 6.862,
+      "73": 6.945,
+      "74": 7.028,
+      "75": 7.11,
+      "76": 7.193,
+      "77": 7.275,
+      "78": 7.358,
+      "79": 7.44,
+      "80": 7.523,
+      "81": 7.606,
+      "82": 7.688,
+      "83": 7.771,
+      "84": 7.853,
+      "85": 7.936,
+      "86": 8.018,
+      "87": 8.101,
+      "88": 8.183,
+      "89": 8.266,
+      "90": 8.349,
+      "91": 8.431,
+      "92": 8.514,
+      "93": 8.596,
+      "94": 8.679,
+      "95": 8.761,
+      "96": 8.844,
+      "97": 8.927,
+      "98": 9.009,
+      "99": 9.092,
+      "100": 9.174
+    },
+    "ATK": {
+      "1": 1,
+      "2": 1.083,
+      "3": 1.165,
+      "4": 1.248,
+      "5": 1.33,
+      "6": 1.413,
+      "7": 1.495,
+      "8": 1.578,
+      "9": 1.661,
+      "10": 1.743,
+      "11": 1.826,
+      "12": 1.908,
+      "13": 1.991,
+      "14": 2.073,
+      "15": 2.156,
+      "16": 2.239,
+      "17": 2.321,
+      "18": 2.404,
+      "19": 2.486,
+      "20": 2.569,
+      "21": 2.651,
+      "22": 2.734,
+      "23": 2.817,
+      "24": 2.899,
+      "25": 2.982,
+      "26": 3.064,
+      "27": 3.147,
+      "28": 3.229,
+      "29": 3.312,
+      "30": 3.394,
+      "31": 3.477,
+      "32": 3.56,
+      "33": 3.642,
+      "34": 3.725,
+      "35": 3.807,
+      "36": 3.89,
+      "37": 3.972,
+      "38": 4.055,
+      "39": 4.138,
+      "40": 4.22,
+      "41": 4.303,
+      "42": 4.385,
+      "43": 4.468,
+      "44": 4.55,
+      "45": 4.633,
+      "46": 4.716,
+      "47": 4.798,
+      "48": 4.881,
+      "49": 4.963,
+      "50": 5.046,
+      "51": 5.128,
+      "52": 5.211,
+      "53": 5.294,
+      "54": 5.376,
+      "55": 5.459,
+      "56": 5.541,
+      "57": 5.624,
+      "58": 5.706,
+      "59": 5.789,
+      "60": 5.872,
+      "61": 5.954,
+      "62": 6.037,
+      "63": 6.119,
+      "64": 6.202,
+      "65": 6.284,
+      "66": 6.367,
+      "67": 6.45,
+      "68": 6.532,
+      "69": 6.615,
+      "70": 6.697,
+      "71": 6.78,
+      "72": 6.862,
+      "73": 6.945,
+      "74": 7.028,
+      "75": 7.11,
+      "76": 7.193,
+      "77": 7.275,
+      "78": 7.358,
+      "79": 7.44,
+      "80": 7.523,
+      "81": 7.606,
+      "82": 7.688,
+      "83": 7.771,
+      "84": 7.853,
+      "85": 7.936,
+      "86": 8.018,
+      "87": 8.101,
+      "88": 8.183,
+      "89": 8.266,
+      "90": 8.349,
+      "91": 8.431,
+      "92": 8.514,
+      "93": 8.596,
+      "94": 8.679,
+      "95": 8.761,
+      "96": 8.844,
+      "97": 8.927,
+      "98": 9.009,
+      "99": 9.092,
+      "100": 9.174
+    },
+    "DEF": {
+      "1": 1,
+      "2": 1.083,
+      "3": 1.165,
+      "4": 1.248,
+      "5": 1.33,
+      "6": 1.413,
+      "7": 1.495,
+      "8": 1.578,
+      "9": 1.661,
+      "10": 1.743,
+      "11": 1.826,
+      "12": 1.908,
+      "13": 1.991,
+      "14": 2.073,
+      "15": 2.156,
+      "16": 2.239,
+      "17": 2.321,
+      "18": 2.404,
+      "19": 2.486,
+      "20": 2.569,
+      "21": 2.651,
+      "22": 2.734,
+      "23": 2.817,
+      "24": 2.899,
+      "25": 2.982,
+      "26": 3.064,
+      "27": 3.147,
+      "28": 3.229,
+      "29": 3.312,
+      "30": 3.394,
+      "31": 3.477,
+      "32": 3.56,
+      "33": 3.642,
+      "34": 3.725,
+      "35": 3.807,
+      "36": 3.89,
+      "37": 3.972,
+      "38": 4.055,
+      "39": 4.138,
+      "40": 4.22,
+      "41": 4.303,
+      "42": 4.385,
+      "43": 4.468,
+      "44": 4.55,
+      "45": 4.633,
+      "46": 4.716,
+      "47": 4.798,
+      "48": 4.881,
+      "49": 4.963,
+      "50": 5.046,
+      "51": 5.128,
+      "52": 5.211,
+      "53": 5.294,
+      "54": 5.376,
+      "55": 5.459,
+      "56": 5.541,
+      "57": 5.624,
+      "58": 5.706,
+      "59": 5.789,
+      "60": 5.872,
+      "61": 5.954,
+      "62": 6.037,
+      "63": 6.119,
+      "64": 6.202,
+      "65": 6.284,
+      "66": 6.367,
+      "67": 6.45,
+      "68": 6.532,
+      "69": 6.615,
+      "70": 6.697,
+      "71": 6.78,
+      "72": 6.862,
+      "73": 6.945,
+      "74": 7.028,
+      "75": 7.11,
+      "76": 7.193,
+      "77": 7.275,
+      "78": 7.358,
+      "79": 7.44,
+      "80": 7.523,
+      "81": 7.606,
+      "82": 7.688,
+      "83": 7.771,
+      "84": 7.853,
+      "85": 7.936,
+      "86": 8.018,
+      "87": 8.101,
+      "88": 8.183,
+      "89": 8.266,
+      "90": 8.349,
+      "91": 8.431,
+      "92": 8.514,
+      "93": 8.596,
+      "94": 8.679,
+      "95": 8.761,
+      "96": 8.844,
+      "97": 8.927,
+      "98": 9.009,
+      "99": 9.092,
+      "100": 9.174
+    },
+    "Ascension": [
+      {
+        "FIGHT_PROP_BASE_HP": 769.70465,
+        "FIGHT_PROP_BASE_DEFENSE": 44.46,
+        "FIGHT_PROP_BASE_ATTACK": 15.033294,
+        "FIGHT_PROP_ATTACK_PERCENT": 0
+      },
+      {
+        "FIGHT_PROP_BASE_HP": 1316.6001,
+        "FIGHT_PROP_BASE_DEFENSE": 76.05,
+        "FIGHT_PROP_BASE_ATTACK": 25.714846,
+        "FIGHT_PROP_ATTACK_PERCENT": 0.06
+      },
+      {
+        "FIGHT_PROP_BASE_HP": 2045.794,
+        "FIGHT_PROP_BASE_DEFENSE": 118.17,
+        "FIGHT_PROP_BASE_ATTACK": 39.956913,
+        "FIGHT_PROP_ATTACK_PERCENT": 0.12
+      },
+      {
+        "FIGHT_PROP_BASE_HP": 2592.6895,
+        "FIGHT_PROP_BASE_DEFENSE": 149.76,
+        "FIGHT_PROP_BASE_ATTACK": 50.638466,
+        "FIGHT_PROP_ATTACK_PERCENT": 0.12
+      },
+      {
+        "FIGHT_PROP_BASE_HP": 3139.5847,
+        "FIGHT_PROP_BASE_DEFENSE": 181.35,
+        "FIGHT_PROP_BASE_ATTACK": 61.320015,
+        "FIGHT_PROP_ATTACK_PERCENT": 0.18
+      },
+      {
+        "FIGHT_PROP_BASE_HP": 3686.4802,
+        "FIGHT_PROP_BASE_DEFENSE": 212.94,
+        "FIGHT_PROP_BASE_ATTACK": 72.001564,
+        "FIGHT_PROP_ATTACK_PERCENT": 0.24
+      }
+    ],
+    "PropGrowCurves": [
+      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S4" },
+      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S4" },
+      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S4" }
+    ],
+    "RecommendedProps": []
+  },
+  "Skills": [
+    {
+      "Name": "Normal Attack: Spear of the Church",
+      "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 5 consecutive spear strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "Promote": {
+        "0": {
+          "Level": 1,
+          "Icon": "Skill_A_03",
+          "Desc": [
+            "1-Hit DMG|{param1:F1P}",
+            "2-Hit DMG|{param2:F1P}",
+            "3-Hit DMG|{param3:F1P}×2",
+            "4-Hit DMG|{param4:F1P}",
+            "5-Hit DMG|{param5:F1P}+{param6:F1P}",
+            "Charged Attack DMG|{param7:P}",
+            "Charged Attack Stamina Cost|{param8:F1}",
+            "Plunge DMG|{param9:F1P}",
+            "Low/High Plunge DMG|{param10:P}/{param11:P}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            0.5246, 0.516, 0.3182, 0.6966, 0.41624, 0.43, 1.3674, 25, 0.639324,
+            1.278377, 1.596762
+          ]
+        },
+        "1": {
+          "Level": 2,
+          "Icon": "Skill_A_03",
+          "Desc": [
+            "1-Hit DMG|{param1:F1P}",
+            "2-Hit DMG|{param2:F1P}",
+            "3-Hit DMG|{param3:F1P}×2",
+            "4-Hit DMG|{param4:F1P}",
+            "5-Hit DMG|{param5:F1P}+{param6:F1P}",
+            "Charged Attack DMG|{param7:P}",
+            "Charged Attack Stamina Cost|{param8:F1}",
+            "Plunge DMG|{param9:F1P}",
+            "Low/High Plunge DMG|{param10:P}/{param11:P}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            0.5673, 0.558, 0.3441, 0.7533, 0.45012, 0.465, 1.4787, 25, 0.691362,
+            1.382431, 1.726731
+          ]
+        },
+        "2": {
+          "Level": 3,
+          "Icon": "Skill_A_03",
+          "Desc": [
+            "1-Hit DMG|{param1:F1P}",
+            "2-Hit DMG|{param2:F1P}",
+            "3-Hit DMG|{param3:F1P}×2",
+            "4-Hit DMG|{param4:F1P}",
+            "5-Hit DMG|{param5:F1P}+{param6:F1P}",
+            "Charged Attack DMG|{param7:P}",
+            "Charged Attack Stamina Cost|{param8:F1}",
+            "Plunge DMG|{param9:F1P}",
+            "Low/High Plunge DMG|{param10:P}/{param11:P}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            0.61, 0.6, 0.37, 0.81, 0.484, 0.5, 1.59, 25, 0.7434, 1.486485,
+            1.8567
+          ]
+        },
+        "3": {
+          "Level": 4,
+          "Icon": "Skill_A_03",
+          "Desc": [
+            "1-Hit DMG|{param1:F1P}",
+            "2-Hit DMG|{param2:F1P}",
+            "3-Hit DMG|{param3:F1P}×2",
+            "4-Hit DMG|{param4:F1P}",
+            "5-Hit DMG|{param5:F1P}+{param6:F1P}",
+            "Charged Attack DMG|{param7:P}",
+            "Charged Attack Stamina Cost|{param8:F1}",
+            "Plunge DMG|{param9:F1P}",
+            "Low/High Plunge DMG|{param10:P}/{param11:P}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            0.671, 0.66, 0.407, 0.891, 0.5324, 0.55, 1.749, 25, 0.81774,
+            1.635134, 2.04237
+          ]
+        },
+        "4": {
+          "Level": 5,
+          "Icon": "Skill_A_03",
+          "Desc": [
+            "1-Hit DMG|{param1:F1P}",
+            "2-Hit DMG|{param2:F1P}",
+            "3-Hit DMG|{param3:F1P}×2",
+            "4-Hit DMG|{param4:F1P}",
+            "5-Hit DMG|{param5:F1P}+{param6:F1P}",
+            "Charged Attack DMG|{param7:P}",
+            "Charged Attack Stamina Cost|{param8:F1}",
+            "Plunge DMG|{param9:F1P}",
+            "Low/High Plunge DMG|{param10:P}/{param11:P}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            0.7137, 0.702, 0.4329, 0.9477, 0.56628, 0.585, 1.8603, 25, 0.869778,
+            1.739187, 2.172339
+          ]
+        },
+        "5": {
+          "Level": 6,
+          "Icon": "Skill_A_03",
+          "Desc": [
+            "1-Hit DMG|{param1:F1P}",
+            "2-Hit DMG|{param2:F1P}",
+            "3-Hit DMG|{param3:F1P}×2",
+            "4-Hit DMG|{param4:F1P}",
+            "5-Hit DMG|{param5:F1P}+{param6:F1P}",
+            "Charged Attack DMG|{param7:P}",
+            "Charged Attack Stamina Cost|{param8:F1}",
+            "Plunge DMG|{param9:F1P}",
+            "Low/High Plunge DMG|{param10:P}/{param11:P}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            0.7625, 0.75, 0.4625, 1.0125, 0.605, 0.625, 1.9875, 25, 0.92925,
+            1.858106, 2.320875
+          ]
+        },
+        "6": {
+          "Level": 7,
+          "Icon": "Skill_A_03",
+          "Desc": [
+            "1-Hit DMG|{param1:F1P}",
+            "2-Hit DMG|{param2:F1P}",
+            "3-Hit DMG|{param3:F1P}×2",
+            "4-Hit DMG|{param4:F1P}",
+            "5-Hit DMG|{param5:F1P}+{param6:F1P}",
+            "Charged Attack DMG|{param7:P}",
+            "Charged Attack Stamina Cost|{param8:F1}",
+            "Plunge DMG|{param9:F1P}",
+            "Low/High Plunge DMG|{param10:P}/{param11:P}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            0.8296, 0.816, 0.5032, 1.1016, 0.65824, 0.68, 2.1624, 25, 1.011024,
+            2.02162, 2.525112
+          ]
+        },
+        "7": {
+          "Level": 8,
+          "Icon": "Skill_A_03",
+          "Desc": [
+            "1-Hit DMG|{param1:F1P}",
+            "2-Hit DMG|{param2:F1P}",
+            "3-Hit DMG|{param3:F1P}×2",
+            "4-Hit DMG|{param4:F1P}",
+            "5-Hit DMG|{param5:F1P}+{param6:F1P}",
+            "Charged Attack DMG|{param7:P}",
+            "Charged Attack Stamina Cost|{param8:F1}",
+            "Plunge DMG|{param9:F1P}",
+            "Low/High Plunge DMG|{param10:P}/{param11:P}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            0.8967, 0.882, 0.5439, 1.1907, 0.71148, 0.735, 2.3373, 25, 1.092798,
+            2.185133, 2.729349
+          ]
+        },
+        "8": {
+          "Level": 9,
+          "Icon": "Skill_A_03",
+          "Desc": [
+            "1-Hit DMG|{param1:F1P}",
+            "2-Hit DMG|{param2:F1P}",
+            "3-Hit DMG|{param3:F1P}×2",
+            "4-Hit DMG|{param4:F1P}",
+            "5-Hit DMG|{param5:F1P}+{param6:F1P}",
+            "Charged Attack DMG|{param7:P}",
+            "Charged Attack Stamina Cost|{param8:F1}",
+            "Plunge DMG|{param9:F1P}",
+            "Low/High Plunge DMG|{param10:P}/{param11:P}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            0.9638, 0.948, 0.5846, 1.2798, 0.76472, 0.79, 2.5122, 25, 1.174572,
+            2.348646, 2.933586
+          ]
+        },
+        "9": {
+          "Level": 10,
+          "Icon": "Skill_A_03",
+          "Desc": [
+            "1-Hit DMG|{param1:F1P}",
+            "2-Hit DMG|{param2:F1P}",
+            "3-Hit DMG|{param3:F1P}×2",
+            "4-Hit DMG|{param4:F1P}",
+            "5-Hit DMG|{param5:F1P}+{param6:F1P}",
+            "Charged Attack DMG|{param7:P}",
+            "Charged Attack Stamina Cost|{param8:F1}",
+            "Plunge DMG|{param9:F1P}",
+            "Low/High Plunge DMG|{param10:P}/{param11:P}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            1.037, 1.02, 0.629, 1.377, 0.8228, 0.85, 2.703, 25, 1.26378,
+            2.527025, 3.15639
+          ]
+        },
+        "10": {
+          "Level": 11,
+          "Icon": "Skill_A_03",
+          "Desc": [
+            "1-Hit DMG|{param1:F1P}",
+            "2-Hit DMG|{param2:F1P}",
+            "3-Hit DMG|{param3:F1P}×2",
+            "4-Hit DMG|{param4:F1P}",
+            "5-Hit DMG|{param5:F1P}+{param6:F1P}",
+            "Charged Attack DMG|{param7:P}",
+            "Charged Attack Stamina Cost|{param8:F1}",
+            "Plunge DMG|{param9:F1P}",
+            "Low/High Plunge DMG|{param10:P}/{param11:P}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            1.1102, 1.092, 0.6734, 1.4742, 0.88088, 0.91, 2.8938, 25, 1.352988,
+            2.705403, 3.379194
+          ]
+        },
+        "11": {
+          "Level": 12,
+          "Icon": "Skill_A_03",
+          "Desc": [
+            "1-Hit DMG|{param1:F1P}",
+            "2-Hit DMG|{param2:F1P}",
+            "3-Hit DMG|{param3:F1P}×2",
+            "4-Hit DMG|{param4:F1P}",
+            "5-Hit DMG|{param5:F1P}+{param6:F1P}",
+            "Charged Attack DMG|{param7:P}",
+            "Charged Attack Stamina Cost|{param8:F1}",
+            "Plunge DMG|{param9:F1P}",
+            "Low/High Plunge DMG|{param10:P}/{param11:P}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            1.1834, 1.164, 0.7178, 1.5714, 0.93896, 0.97, 3.0846, 25, 1.442196,
+            2.883781, 3.601998
+          ]
+        },
+        "12": {
+          "Level": 13,
+          "Icon": "Skill_A_03",
+          "Desc": [
+            "1-Hit DMG|{param1:F1P}",
+            "2-Hit DMG|{param2:F1P}",
+            "3-Hit DMG|{param3:F1P}×2",
+            "4-Hit DMG|{param4:F1P}",
+            "5-Hit DMG|{param5:F1P}+{param6:F1P}",
+            "Charged Attack DMG|{param7:P}",
+            "Charged Attack Stamina Cost|{param8:F1}",
+            "Plunge DMG|{param9:F1P}",
+            "Low/High Plunge DMG|{param10:P}/{param11:P}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            1.2566, 1.236, 0.7622, 1.6686, 0.99704, 1.03, 3.2754, 25, 1.531404,
+            3.062159, 3.824802
+          ]
+        },
+        "13": {
+          "Level": 14,
+          "Icon": "Skill_A_03",
+          "Desc": [
+            "1-Hit DMG|{param1:F1P}",
+            "2-Hit DMG|{param2:F1P}",
+            "3-Hit DMG|{param3:F1P}×2",
+            "4-Hit DMG|{param4:F1P}",
+            "5-Hit DMG|{param5:F1P}+{param6:F1P}",
+            "Charged Attack DMG|{param7:P}",
+            "Charged Attack Stamina Cost|{param8:F1}",
+            "Plunge DMG|{param9:F1P}",
+            "Low/High Plunge DMG|{param10:P}/{param11:P}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            1.3298, 1.308, 0.8066, 1.7658, 1.05512, 1.09, 3.4662, 25, 1.620612,
+            3.240537, 4.047606
+          ]
+        },
+        "14": {
+          "Level": 15,
+          "Icon": "Skill_A_03",
+          "Desc": [
+            "1-Hit DMG|{param1:F1P}",
+            "2-Hit DMG|{param2:F1P}",
+            "3-Hit DMG|{param3:F1P}×2",
+            "4-Hit DMG|{param4:F1P}",
+            "5-Hit DMG|{param5:F1P}+{param6:F1P}",
+            "Charged Attack DMG|{param7:P}",
+            "Charged Attack Stamina Cost|{param8:F1}",
+            "Plunge DMG|{param9:F1P}",
+            "Low/High Plunge DMG|{param10:P}/{param11:P}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            1.403, 1.38, 0.851, 1.863, 1.1132, 1.15, 3.657, 25, 1.70982,
+            3.418915, 4.27041
+          ]
+        }
+      }
+    },
+    {
+      "Name": "Ravaging Confession",
+      "Desc": "Rosaria swiftly shifts her position to appear behind her opponent, then stabs and slashes them with her polearm, dealing <color=#99FFFFFF>Cryo DMG</color>.\\nThis ability cannot be used to travel behind opponents of a larger build.\\n\\n<i>Those who confess to Sister Rosaria will be granted no absolution. All sinners shall be met with the piercing cold of punishment proportionate to the weight of their sins.</i>",
+      "Promote": {
+        "0": {
+          "Level": 1,
+          "Icon": "Skill_S_Rosaria_01",
+          "Desc": [
+            "Skill DMG|{param1:P}+{param2:P}",
+            "CD|{param3:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [0.584, 1.36, 6]
+        },
+        "1": {
+          "Level": 2,
+          "Icon": "Skill_S_Rosaria_01",
+          "Desc": [
+            "Skill DMG|{param1:P}+{param2:P}",
+            "CD|{param3:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [0.6278, 1.462, 6]
+        },
+        "2": {
+          "Level": 3,
+          "Icon": "Skill_S_Rosaria_01",
+          "Desc": [
+            "Skill DMG|{param1:P}+{param2:P}",
+            "CD|{param3:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [0.6716, 1.564, 6]
+        },
+        "3": {
+          "Level": 4,
+          "Icon": "Skill_S_Rosaria_01",
+          "Desc": [
+            "Skill DMG|{param1:P}+{param2:P}",
+            "CD|{param3:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [0.73, 1.7, 6]
+        },
+        "4": {
+          "Level": 5,
+          "Icon": "Skill_S_Rosaria_01",
+          "Desc": [
+            "Skill DMG|{param1:P}+{param2:P}",
+            "CD|{param3:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [0.7738, 1.802, 6]
+        },
+        "5": {
+          "Level": 6,
+          "Icon": "Skill_S_Rosaria_01",
+          "Desc": [
+            "Skill DMG|{param1:P}+{param2:P}",
+            "CD|{param3:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [0.8176, 1.904, 6]
+        },
+        "6": {
+          "Level": 7,
+          "Icon": "Skill_S_Rosaria_01",
+          "Desc": [
+            "Skill DMG|{param1:P}+{param2:P}",
+            "CD|{param3:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [0.876, 2.04, 6]
+        },
+        "7": {
+          "Level": 8,
+          "Icon": "Skill_S_Rosaria_01",
+          "Desc": [
+            "Skill DMG|{param1:P}+{param2:P}",
+            "CD|{param3:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [0.9344, 2.176, 6]
+        },
+        "8": {
+          "Level": 9,
+          "Icon": "Skill_S_Rosaria_01",
+          "Desc": [
+            "Skill DMG|{param1:P}+{param2:P}",
+            "CD|{param3:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [0.9928, 2.312, 6]
+        },
+        "9": {
+          "Level": 10,
+          "Icon": "Skill_S_Rosaria_01",
+          "Desc": [
+            "Skill DMG|{param1:P}+{param2:P}",
+            "CD|{param3:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.0512, 2.448, 6]
+        },
+        "10": {
+          "Level": 11,
+          "Icon": "Skill_S_Rosaria_01",
+          "Desc": [
+            "Skill DMG|{param1:P}+{param2:P}",
+            "CD|{param3:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.1096, 2.584, 6]
+        },
+        "11": {
+          "Level": 12,
+          "Icon": "Skill_S_Rosaria_01",
+          "Desc": [
+            "Skill DMG|{param1:P}+{param2:P}",
+            "CD|{param3:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.168, 2.72, 6]
+        },
+        "12": {
+          "Level": 13,
+          "Icon": "Skill_S_Rosaria_01",
+          "Desc": [
+            "Skill DMG|{param1:P}+{param2:P}",
+            "CD|{param3:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.241, 2.89, 6]
+        },
+        "13": {
+          "Level": 14,
+          "Icon": "Skill_S_Rosaria_01",
+          "Desc": [
+            "Skill DMG|{param1:P}+{param2:P}",
+            "CD|{param3:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.314, 3.06, 6]
+        },
+        "14": {
+          "Level": 15,
+          "Icon": "Skill_S_Rosaria_01",
+          "Desc": [
+            "Skill DMG|{param1:P}+{param2:P}",
+            "CD|{param3:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.387, 3.23, 6]
+        }
+      }
+    },
+    {
+      "Name": "Rites of Termination",
+      "Desc": "Rosaria's unique take on this prayer ritual: First, she swings her weapon to slash surrounding opponents; then, she summons a frigid Ice Lance that strikes the ground. Both actions deal <color=#99FFFFFF>Cryo DMG</color>.\\nWhile active, the Ice Lance periodically releases a blast of cold air, dealing <color=#99FFFFFF>Cryo DMG</color> to surrounding opponents.\\n\\n<i>Judgment is such a tedious ordeal — much easier to skip that phase and get straight to the last rites. Rosaria was never very devoted to the Anemo God anyway, which makes performing them all too easy.</i>",
+      "Promote": {
+        "0": {
+          "Level": 1,
+          "Icon": "Skill_E_Rosaria_01",
+          "Desc": [
+            "Skill DMG|{param1:P}+{param2:P}",
+            "Ice Lance DoT|{param3:P}",
+            "Duration|{param4:F1}s",
+            "CD|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.04, 1.52, 1.32, 8, 15, 60]
+        },
+        "1": {
+          "Level": 2,
+          "Icon": "Skill_E_Rosaria_01",
+          "Desc": [
+            "Skill DMG|{param1:P}+{param2:P}",
+            "Ice Lance DoT|{param3:P}",
+            "Duration|{param4:F1}s",
+            "CD|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.118, 1.634, 1.419, 8, 15, 60]
+        },
+        "2": {
+          "Level": 3,
+          "Icon": "Skill_E_Rosaria_01",
+          "Desc": [
+            "Skill DMG|{param1:P}+{param2:P}",
+            "Ice Lance DoT|{param3:P}",
+            "Duration|{param4:F1}s",
+            "CD|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.196, 1.748, 1.518, 8, 15, 60]
+        },
+        "3": {
+          "Level": 4,
+          "Icon": "Skill_E_Rosaria_01",
+          "Desc": [
+            "Skill DMG|{param1:P}+{param2:P}",
+            "Ice Lance DoT|{param3:P}",
+            "Duration|{param4:F1}s",
+            "CD|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.3, 1.9, 1.65, 8, 15, 60]
+        },
+        "4": {
+          "Level": 5,
+          "Icon": "Skill_E_Rosaria_01",
+          "Desc": [
+            "Skill DMG|{param1:P}+{param2:P}",
+            "Ice Lance DoT|{param3:P}",
+            "Duration|{param4:F1}s",
+            "CD|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.378, 2.014, 1.749, 8, 15, 60]
+        },
+        "5": {
+          "Level": 6,
+          "Icon": "Skill_E_Rosaria_01",
+          "Desc": [
+            "Skill DMG|{param1:P}+{param2:P}",
+            "Ice Lance DoT|{param3:P}",
+            "Duration|{param4:F1}s",
+            "CD|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.456, 2.128, 1.848, 8, 15, 60]
+        },
+        "6": {
+          "Level": 7,
+          "Icon": "Skill_E_Rosaria_01",
+          "Desc": [
+            "Skill DMG|{param1:P}+{param2:P}",
+            "Ice Lance DoT|{param3:P}",
+            "Duration|{param4:F1}s",
+            "CD|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.56, 2.28, 1.98, 8, 15, 60]
+        },
+        "7": {
+          "Level": 8,
+          "Icon": "Skill_E_Rosaria_01",
+          "Desc": [
+            "Skill DMG|{param1:P}+{param2:P}",
+            "Ice Lance DoT|{param3:P}",
+            "Duration|{param4:F1}s",
+            "CD|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.664, 2.432, 2.112, 8, 15, 60]
+        },
+        "8": {
+          "Level": 9,
+          "Icon": "Skill_E_Rosaria_01",
+          "Desc": [
+            "Skill DMG|{param1:P}+{param2:P}",
+            "Ice Lance DoT|{param3:P}",
+            "Duration|{param4:F1}s",
+            "CD|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.768, 2.584, 2.244, 8, 15, 60]
+        },
+        "9": {
+          "Level": 10,
+          "Icon": "Skill_E_Rosaria_01",
+          "Desc": [
+            "Skill DMG|{param1:P}+{param2:P}",
+            "Ice Lance DoT|{param3:P}",
+            "Duration|{param4:F1}s",
+            "CD|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.872, 2.736, 2.376, 8, 15, 60]
+        },
+        "10": {
+          "Level": 11,
+          "Icon": "Skill_E_Rosaria_01",
+          "Desc": [
+            "Skill DMG|{param1:P}+{param2:P}",
+            "Ice Lance DoT|{param3:P}",
+            "Duration|{param4:F1}s",
+            "CD|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.976, 2.888, 2.508, 8, 15, 60]
+        },
+        "11": {
+          "Level": 12,
+          "Icon": "Skill_E_Rosaria_01",
+          "Desc": [
+            "Skill DMG|{param1:P}+{param2:P}",
+            "Ice Lance DoT|{param3:P}",
+            "Duration|{param4:F1}s",
+            "CD|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [2.08, 3.04, 2.64, 8, 15, 60]
+        },
+        "12": {
+          "Level": 13,
+          "Icon": "Skill_E_Rosaria_01",
+          "Desc": [
+            "Skill DMG|{param1:P}+{param2:P}",
+            "Ice Lance DoT|{param3:P}",
+            "Duration|{param4:F1}s",
+            "CD|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [2.21, 3.23, 2.805, 8, 15, 60]
+        },
+        "13": {
+          "Level": 14,
+          "Icon": "Skill_E_Rosaria_01",
+          "Desc": [
+            "Skill DMG|{param1:P}+{param2:P}",
+            "Ice Lance DoT|{param3:P}",
+            "Duration|{param4:F1}s",
+            "CD|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [2.34, 3.42, 2.97, 8, 15, 60]
+        },
+        "14": {
+          "Level": 15,
+          "Icon": "Skill_E_Rosaria_01",
+          "Desc": [
+            "Skill DMG|{param1:P}+{param2:P}",
+            "Ice Lance DoT|{param3:P}",
+            "Duration|{param4:F1}s",
+            "CD|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [2.47, 3.61, 3.135, 8, 15, 60]
+        }
+      }
+    }
+  ],
+  "Passives": [
+    {
+      "Name": "Regina Probationum",
+      "Desc": "When Rosaria strikes an opponent from behind using <color=#FFD780FF>Ravaging Confession</color>, Rosaria's CRIT Rate increases by 12% for 5s.",
+      "Icon": "UI_Talent_S_Rosaria_05",
+      "Unlock": 1,
+      "ParamList": [0.12, 5]
+    },
+    {
+      "Name": "Shadow Samaritan",
+      "Desc": "Casting <color=#FFD780FF>Rites of Termination</color> increases CRIT Rate of all nearby party members (except Rosaria herself) by 15% of Rosaria's CRIT Rate for 10s.\\nCRIT Rate Bonus gained this way cannot exceed 15%.",
+      "Icon": "UI_Talent_S_Rosaria_06",
+      "Unlock": 4,
+      "ParamList": [0.15, 10, 0.15]
+    },
+    {
+      "Name": "Night Walk",
+      "Desc": "At night (18:00 – 06:00), your party members gain the Swift Stride effect: Movement SPD increased by 10%.\\nDoes not take effect in Domains, Trounce Domains, or Spiral Abyss. Swift Stride does not stack.",
+      "Icon": "UI_Talent_Rosaria_NightRunner",
+      "Unlock": 0,
+      "ParamList": [0.1]
+    }
+  ],
+  "Constellations": [
+    {
+      "Name": "Unholy Revelation",
+      "Desc": "When Rosaria deals a CRIT Hit, her ATK SPD increases by 10% and her Normal Attack DMG increases by 10% for 4s.",
+      "Icon": "UI_Talent_S_Rosaria_01",
+      "ParamList": [0.1, 0.1, 4]
+    },
+    {
+      "Name": "Land Without Promise",
+      "Desc": "The duration of the Ice Lance created by <color=#FFD780FF>Rites of Termination</color> is increased by 4s.",
+      "Icon": "UI_Talent_S_Rosaria_02",
+      "ParamList": [4]
+    },
+    {
+      "Name": "The Wages of Sin",
+      "Desc": "Increases the Level of <color=#FFD780FF>Ravaging Confession</color> by 3.\\nMaximum upgrade level is 15.",
+      "Icon": "UI_Talent_U_Rosaria_01",
+      "ParamList": []
+    },
+    {
+      "Name": "Painful Grace",
+      "Desc": "<color=#FFD780FF>Ravaging Confession</color>'s CRIT Hits regenerate 5 Energy for Rosaria.\\nCan only be triggered once each time Ravaging Confession is cast.",
+      "Icon": "UI_Talent_S_Rosaria_03",
+      "ParamList": [5]
+    },
+    {
+      "Name": "Last Rites",
+      "Desc": "Increases the Level of <color=#FFD780FF>Rites of Termination</color> by 3.\\nMaximum upgrade level is 15.",
+      "Icon": "UI_Talent_U_Rosaria_02",
+      "ParamList": []
+    },
+    {
+      "Name": "Divine Retribution",
+      "Desc": "<color=#FFD780FF>Rites of Termination</color>'s attack decreases opponents' Physical RES by 20% for 10s.",
+      "Icon": "UI_Talent_S_Rosaria_04",
+      "ParamList": [0.2, 10, 1]
+    }
+  ],
+  "Materials": {
+    "Ascensions": [
+      {
+        "Mats": [
+          {
+            "Name": "Shivada Jade Sliver",
+            "Id": 104161,
+            "Count": 1,
+            "Rank": 2
+          },
+          { "Name": "Valberry", "Id": 100022, "Count": 3, "Rank": 1 },
+          { "Name": "Recruit's Insignia", "Id": 112032, "Count": 3, "Rank": 1 }
+        ],
+        "Cost": 20000
+      },
+      {
+        "Mats": [
+          {
+            "Name": "Shivada Jade Fragment",
+            "Id": 104162,
+            "Count": 3,
+            "Rank": 3
+          },
+          { "Name": "Hoarfrost Core", "Id": 113010, "Count": 2, "Rank": 4 },
+          { "Name": "Valberry", "Id": 100022, "Count": 10, "Rank": 1 },
+          { "Name": "Recruit's Insignia", "Id": 112032, "Count": 15, "Rank": 1 }
+        ],
+        "Cost": 40000
+      },
+      {
+        "Mats": [
+          {
+            "Name": "Shivada Jade Fragment",
+            "Id": 104162,
+            "Count": 6,
+            "Rank": 3
+          },
+          { "Name": "Hoarfrost Core", "Id": 113010, "Count": 4, "Rank": 4 },
+          { "Name": "Valberry", "Id": 100022, "Count": 20, "Rank": 1 },
+          {
+            "Name": "Sergeant's Insignia",
+            "Id": 112033,
+            "Count": 12,
+            "Rank": 2
+          }
+        ],
+        "Cost": 60000
+      },
+      {
+        "Mats": [
+          { "Name": "Shivada Jade Chunk", "Id": 104163, "Count": 3, "Rank": 4 },
+          { "Name": "Hoarfrost Core", "Id": 113010, "Count": 8, "Rank": 4 },
+          { "Name": "Valberry", "Id": 100022, "Count": 30, "Rank": 1 },
+          {
+            "Name": "Sergeant's Insignia",
+            "Id": 112033,
+            "Count": 18,
+            "Rank": 2
+          }
+        ],
+        "Cost": 80000
+      },
+      {
+        "Mats": [
+          { "Name": "Shivada Jade Chunk", "Id": 104163, "Count": 6, "Rank": 4 },
+          { "Name": "Hoarfrost Core", "Id": 113010, "Count": 12, "Rank": 4 },
+          { "Name": "Valberry", "Id": 100022, "Count": 45, "Rank": 1 },
+          {
+            "Name": "Lieutenant's Insignia",
+            "Id": 112034,
+            "Count": 12,
+            "Rank": 3
+          }
+        ],
+        "Cost": 100000
+      },
+      {
+        "Mats": [
+          {
+            "Name": "Shivada Jade Gemstone",
+            "Id": 104164,
+            "Count": 6,
+            "Rank": 5
+          },
+          { "Name": "Hoarfrost Core", "Id": 113010, "Count": 20, "Rank": 4 },
+          { "Name": "Valberry", "Id": 100022, "Count": 60, "Rank": 1 },
+          {
+            "Name": "Lieutenant's Insignia",
+            "Id": 112034,
+            "Count": 24,
+            "Rank": 3
+          }
+        ],
+        "Cost": 120000
+      }
+    ],
+    "Talents": [
+      [
+        {
+          "Mats": [
+            {
+              "Name": "Teachings of Ballad",
+              "Id": 104307,
+              "Count": 3,
+              "Rank": 2
+            },
+            {
+              "Name": "Recruit's Insignia",
+              "Id": 112032,
+              "Count": 6,
+              "Rank": 1
+            }
+          ],
+          "Cost": 12500
+        },
+        {
+          "Mats": [
+            { "Name": "Guide to Ballad", "Id": 104308, "Count": 2, "Rank": 3 },
+            {
+              "Name": "Sergeant's Insignia",
+              "Id": 112033,
+              "Count": 3,
+              "Rank": 2
+            }
+          ],
+          "Cost": 17500
+        },
+        {
+          "Mats": [
+            { "Name": "Guide to Ballad", "Id": 104308, "Count": 4, "Rank": 3 },
+            {
+              "Name": "Sergeant's Insignia",
+              "Id": 112033,
+              "Count": 4,
+              "Rank": 2
+            }
+          ],
+          "Cost": 25000
+        },
+        {
+          "Mats": [
+            { "Name": "Guide to Ballad", "Id": 104308, "Count": 6, "Rank": 3 },
+            {
+              "Name": "Sergeant's Insignia",
+              "Id": 112033,
+              "Count": 6,
+              "Rank": 2
+            }
+          ],
+          "Cost": 30000
+        },
+        {
+          "Mats": [
+            { "Name": "Guide to Ballad", "Id": 104308, "Count": 9, "Rank": 3 },
+            {
+              "Name": "Sergeant's Insignia",
+              "Id": 112033,
+              "Count": 9,
+              "Rank": 2
+            }
+          ],
+          "Cost": 37500
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Ballad",
+              "Id": 104309,
+              "Count": 4,
+              "Rank": 4
+            },
+            {
+              "Name": "Lieutenant's Insignia",
+              "Id": 112034,
+              "Count": 4,
+              "Rank": 3
+            },
+            {
+              "Name": "Shadow of the Warrior",
+              "Id": 113015,
+              "Count": 1,
+              "Rank": 5
+            }
+          ],
+          "Cost": 120000
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Ballad",
+              "Id": 104309,
+              "Count": 6,
+              "Rank": 4
+            },
+            {
+              "Name": "Lieutenant's Insignia",
+              "Id": 112034,
+              "Count": 6,
+              "Rank": 3
+            },
+            {
+              "Name": "Shadow of the Warrior",
+              "Id": 113015,
+              "Count": 1,
+              "Rank": 5
+            }
+          ],
+          "Cost": 260000
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Ballad",
+              "Id": 104309,
+              "Count": 12,
+              "Rank": 4
+            },
+            {
+              "Name": "Lieutenant's Insignia",
+              "Id": 112034,
+              "Count": 9,
+              "Rank": 3
+            },
+            {
+              "Name": "Shadow of the Warrior",
+              "Id": 113015,
+              "Count": 2,
+              "Rank": 5
+            }
+          ],
+          "Cost": 450000
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Ballad",
+              "Id": 104309,
+              "Count": 16,
+              "Rank": 4
+            },
+            {
+              "Name": "Lieutenant's Insignia",
+              "Id": 112034,
+              "Count": 12,
+              "Rank": 3
+            },
+            {
+              "Name": "Shadow of the Warrior",
+              "Id": 113015,
+              "Count": 2,
+              "Rank": 5
+            },
+            { "Name": "Crown of Insight", "Id": 104319, "Count": 1, "Rank": 5 }
+          ],
+          "Cost": 700000
+        }
+      ],
+      [
+        {
+          "Mats": [
+            {
+              "Name": "Teachings of Ballad",
+              "Id": 104307,
+              "Count": 3,
+              "Rank": 2
+            },
+            {
+              "Name": "Recruit's Insignia",
+              "Id": 112032,
+              "Count": 6,
+              "Rank": 1
+            }
+          ],
+          "Cost": 12500
+        },
+        {
+          "Mats": [
+            { "Name": "Guide to Ballad", "Id": 104308, "Count": 2, "Rank": 3 },
+            {
+              "Name": "Sergeant's Insignia",
+              "Id": 112033,
+              "Count": 3,
+              "Rank": 2
+            }
+          ],
+          "Cost": 17500
+        },
+        {
+          "Mats": [
+            { "Name": "Guide to Ballad", "Id": 104308, "Count": 4, "Rank": 3 },
+            {
+              "Name": "Sergeant's Insignia",
+              "Id": 112033,
+              "Count": 4,
+              "Rank": 2
+            }
+          ],
+          "Cost": 25000
+        },
+        {
+          "Mats": [
+            { "Name": "Guide to Ballad", "Id": 104308, "Count": 6, "Rank": 3 },
+            {
+              "Name": "Sergeant's Insignia",
+              "Id": 112033,
+              "Count": 6,
+              "Rank": 2
+            }
+          ],
+          "Cost": 30000
+        },
+        {
+          "Mats": [
+            { "Name": "Guide to Ballad", "Id": 104308, "Count": 9, "Rank": 3 },
+            {
+              "Name": "Sergeant's Insignia",
+              "Id": 112033,
+              "Count": 9,
+              "Rank": 2
+            }
+          ],
+          "Cost": 37500
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Ballad",
+              "Id": 104309,
+              "Count": 4,
+              "Rank": 4
+            },
+            {
+              "Name": "Lieutenant's Insignia",
+              "Id": 112034,
+              "Count": 4,
+              "Rank": 3
+            },
+            {
+              "Name": "Shadow of the Warrior",
+              "Id": 113015,
+              "Count": 1,
+              "Rank": 5
+            }
+          ],
+          "Cost": 120000
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Ballad",
+              "Id": 104309,
+              "Count": 6,
+              "Rank": 4
+            },
+            {
+              "Name": "Lieutenant's Insignia",
+              "Id": 112034,
+              "Count": 6,
+              "Rank": 3
+            },
+            {
+              "Name": "Shadow of the Warrior",
+              "Id": 113015,
+              "Count": 1,
+              "Rank": 5
+            }
+          ],
+          "Cost": 260000
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Ballad",
+              "Id": 104309,
+              "Count": 12,
+              "Rank": 4
+            },
+            {
+              "Name": "Lieutenant's Insignia",
+              "Id": 112034,
+              "Count": 9,
+              "Rank": 3
+            },
+            {
+              "Name": "Shadow of the Warrior",
+              "Id": 113015,
+              "Count": 2,
+              "Rank": 5
+            }
+          ],
+          "Cost": 450000
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Ballad",
+              "Id": 104309,
+              "Count": 16,
+              "Rank": 4
+            },
+            {
+              "Name": "Lieutenant's Insignia",
+              "Id": 112034,
+              "Count": 12,
+              "Rank": 3
+            },
+            {
+              "Name": "Shadow of the Warrior",
+              "Id": 113015,
+              "Count": 2,
+              "Rank": 5
+            },
+            { "Name": "Crown of Insight", "Id": 104319, "Count": 1, "Rank": 5 }
+          ],
+          "Cost": 700000
+        }
+      ],
+      [
+        {
+          "Mats": [
+            {
+              "Name": "Teachings of Ballad",
+              "Id": 104307,
+              "Count": 3,
+              "Rank": 2
+            },
+            {
+              "Name": "Recruit's Insignia",
+              "Id": 112032,
+              "Count": 6,
+              "Rank": 1
+            }
+          ],
+          "Cost": 12500
+        },
+        {
+          "Mats": [
+            { "Name": "Guide to Ballad", "Id": 104308, "Count": 2, "Rank": 3 },
+            {
+              "Name": "Sergeant's Insignia",
+              "Id": 112033,
+              "Count": 3,
+              "Rank": 2
+            }
+          ],
+          "Cost": 17500
+        },
+        {
+          "Mats": [
+            { "Name": "Guide to Ballad", "Id": 104308, "Count": 4, "Rank": 3 },
+            {
+              "Name": "Sergeant's Insignia",
+              "Id": 112033,
+              "Count": 4,
+              "Rank": 2
+            }
+          ],
+          "Cost": 25000
+        },
+        {
+          "Mats": [
+            { "Name": "Guide to Ballad", "Id": 104308, "Count": 6, "Rank": 3 },
+            {
+              "Name": "Sergeant's Insignia",
+              "Id": 112033,
+              "Count": 6,
+              "Rank": 2
+            }
+          ],
+          "Cost": 30000
+        },
+        {
+          "Mats": [
+            { "Name": "Guide to Ballad", "Id": 104308, "Count": 9, "Rank": 3 },
+            {
+              "Name": "Sergeant's Insignia",
+              "Id": 112033,
+              "Count": 9,
+              "Rank": 2
+            }
+          ],
+          "Cost": 37500
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Ballad",
+              "Id": 104309,
+              "Count": 4,
+              "Rank": 4
+            },
+            {
+              "Name": "Lieutenant's Insignia",
+              "Id": 112034,
+              "Count": 4,
+              "Rank": 3
+            },
+            {
+              "Name": "Shadow of the Warrior",
+              "Id": 113015,
+              "Count": 1,
+              "Rank": 5
+            }
+          ],
+          "Cost": 120000
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Ballad",
+              "Id": 104309,
+              "Count": 6,
+              "Rank": 4
+            },
+            {
+              "Name": "Lieutenant's Insignia",
+              "Id": 112034,
+              "Count": 6,
+              "Rank": 3
+            },
+            {
+              "Name": "Shadow of the Warrior",
+              "Id": 113015,
+              "Count": 1,
+              "Rank": 5
+            }
+          ],
+          "Cost": 260000
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Ballad",
+              "Id": 104309,
+              "Count": 12,
+              "Rank": 4
+            },
+            {
+              "Name": "Lieutenant's Insignia",
+              "Id": 112034,
+              "Count": 9,
+              "Rank": 3
+            },
+            {
+              "Name": "Shadow of the Warrior",
+              "Id": 113015,
+              "Count": 2,
+              "Rank": 5
+            }
+          ],
+          "Cost": 450000
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Ballad",
+              "Id": 104309,
+              "Count": 16,
+              "Rank": 4
+            },
+            {
+              "Name": "Lieutenant's Insignia",
+              "Id": 112034,
+              "Count": 12,
+              "Rank": 3
+            },
+            {
+              "Name": "Shadow of the Warrior",
+              "Id": 113015,
+              "Count": 2,
+              "Rank": 5
+            },
+            { "Name": "Crown of Insight", "Id": 104319, "Count": 1, "Rank": 5 }
+          ],
+          "Cost": 700000
+        }
+      ]
+    ]
+  }
+}

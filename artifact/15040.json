@@ -1,0 +1,65 @@
+{
+  "Id": 15040,
+  "Icon": "UI_RelicIcon_15040_4",
+  "Need": [2, 4],
+  "Rank": [4, 5],
+  "Affix": [
+    {
+      "id": 215040,
+      "affixId": 2150400,
+      "addProps": [
+        { "value": 0.15, "propType": "FIGHT_PROP_ICE_ADD_HURT" },
+        { "propType": "FIGHT_PROP_NONE" },
+        { "propType": "FIGHT_PROP_NONE" }
+      ],
+      "Name": "Finale of the Deep Galleries",
+      "Desc": "Cryo DMG Bonus +15%"
+    },
+    {
+      "level": 1,
+      "paramList": [0.6, 0.6, 6],
+      "id": 215040,
+      "openConfig": "Relic_SpiralAbyss",
+      "affixId": 2150401,
+      "addProps": [
+        { "propType": "FIGHT_PROP_NONE" },
+        { "propType": "FIGHT_PROP_NONE" },
+        { "propType": "FIGHT_PROP_NONE" }
+      ],
+      "Name": "Finale of the Deep Galleries",
+      "Desc": "When the equipping character has 0 Elemental Energy, Normal Attack DMG is increased by 60% and Elemental Burst DMG is increased by 60%. After the equipping character deals Normal Attack DMG, the aforementioned Elemental Burst effect will stop applying for 6s. After the equipping character deals Elemental Burst DMG, the aforementioned Normal Attack effect will stop applying for 6s. This effect can trigger even if the equipping character is off the field."
+    }
+  ],
+  "Parts": {
+    "EQUIP_RING": {
+      "Icon": "UI_RelicIcon_15040_1",
+      "Name": "Deep Gallery's Bestowed Banquet",
+      "Desc": "A cup fashioned from northland jade. They say that the people of an ancient civilization once used it as a ceremonial vessel to make offerings to the heavens.",
+      "Story": 185401
+    },
+    "EQUIP_NECKLACE": {
+      "Icon": "UI_RelicIcon_15040_2",
+      "Name": "Deep Gallery's Distant Pact",
+      "Desc": "A feathered accessory fashioned from northland jade that shimmers with an otherworldly glow.",
+      "Story": 185402
+    },
+    "EQUIP_DRESS": {
+      "Icon": "UI_RelicIcon_15040_3",
+      "Name": "Deep Gallery's Lost Crown",
+      "Desc": "A helmet steeped in obsession, just like the mind of its previous owner. Its jade ornamentation seems to come from an age more ancient still.",
+      "Story": 185403
+    },
+    "EQUIP_BRACER": {
+      "Icon": "UI_RelicIcon_15040_4",
+      "Name": "Deep Gallery's Echoing Song",
+      "Desc": "An icy flower fashioned from northland jade. Over the course of its long life, its petals have crumbled to dust.",
+      "Story": 185404
+    },
+    "EQUIP_SHOES": {
+      "Icon": "UI_RelicIcon_15040_5",
+      "Name": "Deep Gallery's Moment of Oblivion",
+      "Desc": "A pocket watch fashioned from northland jade. Its hands are forever frozen in the moment of its destruction.",
+      "Story": 185405
+    }
+  }
+}

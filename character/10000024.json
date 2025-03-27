@@ -1,0 +1,2469 @@
+{
+  "Name": "Beidou",
+  "Desc": "Captain of her crew, The Crux. She's quite an unbound and forthright woman.",
+  "CharaInfo": {
+    "ReleaseDate": "2020-09-15 04:00:00",
+    "Birth": [2, 14],
+    "Vision": "Electro",
+    "Constellation": "Victor Mare",
+    "Region": "ASSOC_TYPE_LIYUE",
+    "Title": "Uncrowned Lord of the Ocean",
+    "Native": "The Crux",
+    "Detail": "Captain of her crew, The Crux. She's quite an unbound and forthright woman.",
+    "VA": {
+      "Chinese": "唐雅菁",
+      "Japanese": "小清水亜美",
+      "English": "Allegra Clark",
+      "Korean": "Jung Yoo-mi"
+    },
+    "Stories": [
+      {
+        "Title": "Character Details",
+        "Text": "Beidou is the leader of The Crux — an armed crew based in Liyue Harbor.\\nAn armed crew means exactly what it sounds like: a crew of sailors armed to the teeth.\\nWithout getting into too many details, everything The Crux does is approved by the Qixing... more or less.\\nBeidou is a trusted leader, so much so that her crew believes her capable of taming the storms and billows on the sea.\\n\"It's Beidou! Even the mightiest of storms must bow its head to her might!\"",
+        "Unlock": []
+      },
+      {
+        "Title": "Character Story 1",
+        "Text": "Beidou is something of a cultural icon in Liyue.\\nThough her fame does not quite reach the same lofty heights as that of the Liyue Qixing, one can be certain that every merchant in the city knows her name — and that of her crew, The Crux.\\nNaturally, there are rumors abound regarding someone of her status. People love to tell epic tales of her earth-shattering (or rather, sea-splitting) feats. Tales in which her abilities are exaggerated to almost superhuman levels.\\nOne rumor is that she can channel Electro energy with her sword. It is said that she once used it to cut a formidable sea monster from the depths of the ocean abyss in half with just one hit.\\nBystanders who overhear such tales generally dismiss them as drunken ramblings. But to anyone who has ever voyaged with Beidou themselves, these stories are no joke. In their view, if this world really were home to a giant sea monster from the ocean abyss... Beidou would certainly be capable of cutting it in half.\\nIn summary, Beidou's abilities are every bit as impressive as her reputation in business circles. So if you hear her lauded as the Uncrowned Lord of the Ocean — suffice to say that there is no smoke without fire.",
+        "Unlock": ["Unlocks at Friendship Lv. 2"]
+      },
+      {
+        "Title": "Character Story 2",
+        "Text": "Business people tend to put profit before their humanity. This is just accepted as the way of the world. At most, it makes for some light verbal sparring at the dinner table.\\nBut things are different in Liyue, where everyone is involved in business. They reject the notion entirely, claiming that Liyue Harbor is a special place where humanity is sacred.\\nForeign merchants will retort that the only thing special about Liyue is that \"They've managed to commodify humanity, too!\" To this, Liyue locals respond, \"Then how do you explain The Crux?\"\\nWith The Crux having made a name for itself over many years, its services are extremely expensive to charter. And yet, on one voyage when The Crux encountered a strong storm, Beidou noticed a small private boat nearby. Seeing the way it was tossed about by the waves, she ordered her crew to tow the boat to safety — despite the risk that her ship's keel might give way. What little food and water the fleet had left, Beidou shared with the rescued crew as she navigated her vessel onward through the raging storm.\\nFinally, after several days, The Crux delivered the rescued boat to a safe mooring spot. Grateful to Beidou for saving their lives, the crew of the rescued boat became her loyal trade partners thereafter.\\nAfter Liyue locals recount this story, they smile and insist, \"When you have someone risking their life like that, you can be sure that it takes far more than commodification to explain their actions! Would you really dare to look Beidou in the eyes and talk about the commodification of humanity?\"",
+        "Unlock": ["Unlocks at Friendship Lv. 3"]
+      },
+      {
+        "Title": "Character Story 3",
+        "Text": "Word has it that The Crux's boss behind the curtains is none other than the Qixing's Tianquan, Ningguang, herself.\\nBoth of the people involved deny this outright, though they do so for different reasons.\\nAs a member of the Qixing, Ningguang often needs someone else to do her dirty work for her. Of the many candidates available, she picked Beidou.\\nNingguang would emphasize that she picked Beidou, not The Crux. Ningguang's collaboration with The Crux is, therefore, purely incidental.\\nMeanwhile, when Beidou hears the rumors about her dealings with Ningguang, she furiously insists that she collaborates with Ningguang on an equal footing: Beidou is her own boss and no one, not even Ningguang, is sitting in the background pulling the strings for her.\\nBeidou is certainly unique among Ningguang's collaborators.\\nShe does not tread carefully or show reverence in the way that most of them do. In fact, one could even say Beidou is sometimes at odds with Ningguang.\\nNingguang's advisers worry constantly that Beidou is too unpredictable and too much of a maverick. But Ningguang simply smiles and dismisses their concerns.\\n\"On the contrary, Beidou is the most reliable person in Liyue,\" she replies. \"Just tell her the truth, as well as what's in it for her, and she'll come around in her own time.\"",
+        "Unlock": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "Character Story 4",
+        "Text": "Once, after disembarking from a long voyage, The Crux held its customary three-day celebratory banquet. The autumn was like any other before it — except for the new chef in town. This was Xiangling, the head chef-to-be of the Wanmin Restaurant.\\nLooking to keep costs down, they lured Xiangling onboard after meeting her on the streets, by hook and by crook. When she saw Beidou, Xiangling was dismayed, and let Beidou know this in no uncertain terms: \"If you want to have Yue-style seafood, then I can't agree to help you. I'll have you know that I intend to transcend Liyue's two warring culinary styles with my cooking...\"\\nBeidou merely smiled and gestured to the chest of gold coins beside her: \"Just do what you're good at. We made quite a bit on our last run. How does a retainer of fifty thousand Mora sound?\"\\nNot one to shy away for a chance to prove the worth of her cooking, Xiangling took the job.\\nWhen the day was done, Beidou was indeed won over by Xiangling's skill. She declared in front of her crew that Xiangling would soon be a renowned chef throughout Liyue. She also insisted that they refer to her as \"Madam Xiangling.\"\\nHaving only begun to make her name, Xiangling admired Beidou for her generosity with money and her direct personality. Thereafter, Xiangling would sail with Beidou often, looking for new and exotic seafood ingredients. She found herself surprised by Beidou's vast knowledge of seafood and their culinary preparation, given how far she usually was from any kitchen.\\nOf course, that didn't mean Xiangling would necessarily heed Beidou's advice on whether something was edible or not...but that is a story for another time.",
+        "Unlock": ["Unlocks at Friendship Lv. 5"]
+      },
+      {
+        "Title": "Character Story 5",
+        "Text": "Some say an object takes after its master.\\nThough it may not be a suitable description, The Crux crew does indeed take after Beidou, exhibiting the same qualities.\\nHowever, there are still secrets among the crew, spreading in places unnoticed by Beidou.\\nHer First Mate always takes new sailors out after their first safe return for drinks and fills them in on the details of an old story:\\nIn the past, the crew went on a journey to brave the unknown seas and found itself at death's door in a horrific storm.\\nAt that time, Beidou stood on the deck behind the wheel, singing a Liyue fishermen's song in the storm.\\n\"...all the way until the waves died down and dawn broke on the far horizon...\"\\nThe First Mate often ends the story with this final line and a look of longing on his face.\\nAs business grew and the crew expanded, more and more outrageously incredible details were added to the story, making the rookies worship Beidou like a goddess.",
+        "Unlock": ["Unlocks at Friendship Lv. 6"]
+      },
+      {
+        "Title": "Pier Laborers' Gossip",
+        "Text": "1. Facing a three-headed hydra of unrivaled girth, Beidou hurled forth her greatsword. Spinning in the air, it sliced clean through all three of the hydra's vertebrae, before returning to her waiting hand.\\n2. Beidou has beaten Ningguang at chess. Twice. The important part is not so much that she did win Ningguang's money, but more that she dared to.\\n3. Since the day she slew the sea monster Haishan, Beidou has never sung a fishermen's shanty ever again.\\n4. Yes, Beidou knows shanties. But don't you dare ask her that to her face. I mean, you know how that hydra ended up, don't you...",
+        "Unlock": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "Vision",
+        "Text": "Liyue and Inazuma share a common saying: \"Its fins formed the ocean deep, its tail the mountains high.\" The fishermen learned this phrase while ashore long ago, and sang it over and over, spreading the tune far and wide till it became the much-loved song people know today. Whenever the mists gather over the sea's surface, one can hear the distant song of the fishermen hidden in the white shroud: \"its fins formed the oceans deep, its tail the mountains high...\"\\nThis was Beidou's childhood lullaby. The tale of Rex Lapis smiting the sea monsters had become legendary among the people of Liyue. As a child, Beidou loved tales like this, and in her dreams, she thought: One day, I want to see this big fish too.\\nThis day, however, she sang this song with a different emotion in her heart. Her entire crew sang along as they sailed.\\nHaishan was in the waters with them — at once like a dragon and a fish, it was larger than any could have imagined in their worst nightmares, and mighty as a deity, raising waves dozens of meters high with ease.\\nAll who ply their trade on the high seas are destined to meet Haishan eventually. Beidou had longed to do so since she was nine, dreaming of slicing its head off in a single blow.\\nMany times she had challenged the creature, and many times she had failed. But this day was different. This day she charged at Haishan with her best greatsword in hand, and crack sailors at her back.\\nThe battle would rage fiercely for four days. With cannons and harpoons, arrows and ropes the fleet would assail Haishan, while Beidou battled the thusly tied-down creature for ten hours, well into the night.\\nNow, nighttime was when Haishan was in its element, and in their vigilance not a single member of the fleet dared sleep a wink. Beidou stood upon the prow, listening to the wind.\\nOne strike. Just one strike. That was all she needed. And so she waited, unmoving, in the freezing wind.\\nThen, at the crack of dawn, having neither eaten nor drank throughout the night, Beidou heard a change in the sound of the waves.\\nWith one almighty strike that sounded as if it could have sliced the moon in two or ripped a mountain from the face of the world, she chopped the leviathan's head clean off!\\nThe sound of thunder filled the heavens, and a single bolt of purple lightning struck the ocean right in front of Beidou, even as she bathed in the blood of her nemesis.\\nThus descended a Vision to the slayer of the sea monster, its violet glow as stunning as lightning, and its immaculate, jeweled form a treasure more precious than dragon blood. A suitably divine gift for the hero who subdued Haishan.",
+        "Unlock": ["Unlocks at Friendship Lv. 6"]
+      }
+    ],
+    "Quotes": [
+      {
+        "Title": "Hello",
+        "Text": "I'm Beidou. You've heard of my ship, The Crux and its crew? If you too love adventure, then join me. I've got your back.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Chat: Sparring",
+        "Text": "If you ever want to trade tactics, I'm always ready.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Chat: Drinking",
+        "Text": "Ah! A cold beer after a hard day's work... Nothing like it!",
+        "Unlocked": []
+      },
+      {
+        "Title": "Chat: Land",
+        "Text": "It's hard to remain on dry land for so long. Can never seem to quite get my land legs back.",
+        "Unlocked": []
+      },
+      {
+        "Title": "When It Rains",
+        "Text": "When stuck on a deserted island, rain is a precious source of drinking water. There's no need for it now though.",
+        "Unlocked": []
+      },
+      {
+        "Title": "When Thunder Strikes",
+        "Text": "Hey, it's just a little lightning. No need to fear it on the open ocean, so there's even less need to fear it on dry land.",
+        "Unlocked": []
+      },
+      {
+        "Title": "When It's Windy",
+        "Text": "This weather would be great for setting sail.",
+        "Unlocked": []
+      },
+      {
+        "Title": "When the Wind Is Blowing",
+        "Text": "Wind's picking up. If sand gets in your eyes, be sure not to rub them.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Good Morning",
+        "Text": "Yo, good morning. I'm about to head off, coming with me?",
+        "Unlocked": []
+      },
+      {
+        "Title": "Good Afternoon",
+        "Text": "Let's get Xiangling to whip us up something for lunch. Believe me, a hot meal from her is far better than the salted fish we eat out at sea.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Good Evening",
+        "Text": "Alright, I'm off for a drink. Hahaha, no one willing to sell you a proper drink, huh? Perhaps I can...",
+        "Unlocked": []
+      },
+      {
+        "Title": "Good Night",
+        "Text": "Time moves quickly. Haha, go, may the wind be at your back.",
+        "Unlocked": []
+      },
+      {
+        "Title": "About Beidou",
+        "Text": "We're setting sail! Men, to your posts! A new adventure is about to begin!",
+        "Unlocked": []
+      },
+      {
+        "Title": "About Us: Titles",
+        "Text": "I'm the captain, so you can be my first mate! Deal? Ha? Such names are too outdated for you huh? We'll call each other whatever you wish then.",
+        "Unlocked": []
+      },
+      {
+        "Title": "About Us: Eye for People",
+        "Text": "I tend to be a good judge of character. When you've learned to read the open ocean, reading people is a cinch. Haha, and that's how I knew you're the good sort the second I laid eyes on ya!",
+        "Unlocked": ["Unlocks at Friendship Lv. 6"]
+      },
+      {
+        "Title": "About Us: Choices",
+        "Text": "I chose you as my crewmate, as my comrade on the sea. It gives me great pride to be able to say that.",
+        "Unlocked": ["Unlocks at Friendship Lv. 6"]
+      },
+      {
+        "Title": "About the Vision",
+        "Text": "To those that don't have a Vision, it must seem that those with Visions are like flagships from the Archons to follow. As such, I make sure to fly my flag with pride. That is my motivation.",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "Something to Share",
+        "Text": "At a loss? When you don't know what to do, just take the first step. The rest will figure itself out naturally.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Interesting Things",
+        "Text": "Every time I return from a long journey and I see the lapis gledes, I'm reminded that I'm almost home. The scenery out on the open ocean gets familiar real quick. Sure, they're birds of prey, but seeing them fly so freely is heart-warming.",
+        "Unlocked": []
+      },
+      {
+        "Title": "About Ningguang: Liyue Qixing",
+        "Text": "Ningguang, eh? As far as Liyue Qixing is concerned, she seems to be doing a good job. But for me, my responsibility lies with my ship and my men, and not with Liyue Qixing.",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "About Ningguang: Attitudes",
+        "Text": "Ningguang is never really one to speak frankly, but she has been very direct with her criticism of me in the past. Haha... But hey, whether she likes me or hates me is her choice, nothing I can do to sway her.",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "About Xiangling: Culinary Skills",
+        "Text": "When we're out on the open ocean, the one thing we do all miss is Xiangling's cooking. When spirits are low, just thinking of her fried jueyun chili, bursting with flavor... It gives everyone just that little extra kick.",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "About Xiangling: Food Tasting",
+        "Text": "Xiangling huh? She sometimes uses some... interesting ingredients in her dishes to bring about some, ah... intriguing flavors. Though... there's no way she can improve without having someone to taste-test — a role that I am more than happy to fill.",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "About Zhongli",
+        "Text": "You mean the gentleman from Wangsheng Funeral Parlor? My men sometimes speak of the rumors surrounding him — he sounds interesting. Yes, if I get the chance I'd like to meet him someday.",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "About Xiao",
+        "Text": "One year on the eve of the Lantern Rite, we ran into a storm as we were returning to port. Try as we did, we only made it back to Liyue Harbor in the dead of night, long after the lanterns had all been released. As I looked towards Guyun Stone Forest, I saw an adeptus, floating in the air, in the form of what appeared to be a young boy. I guess it is like the legends say — there really must be those that watch over Liyue, even if they cannot be seen.",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "About Ganyu",
+        "Text": "Privately, Ganyu and I get on like a house on fire! But as you know, she's the secretary to the Liyue Qixing... and I'm not exactly in their good books right now! Doesn't bother me, but I wouldn't want to put Ganyu in a difficult position. So just keep what I said between us, yeah?",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "About Xinyan",
+        "Text": "She's got a great personality, that one! The guys in the crew love that rock and roll of hers. Me? We have common ground, just... not when it comes to taste in music.",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "About Yaoyao",
+        "Text": "Yaoyao always comes on board to play when we're in the harbor. Trouble is, when it's time for her to go she gives you the puppy eyes, and no one has the heart to send her away... Means we're always cutting it quite close by the time we manage to set sail.",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "About Kaedehara Kazuha",
+        "Text": "Kazuha? That scallywag actually blocked a strike from the Raiden Shogun outside Tenshukaku! Easier said than done... After the battle he came to the Crux Fleet — said he'd voyage with us a while longer. I was more than happy to oblige. If the day comes when he decides to set off again by himself on the next stage of his journey, I'll send him off with a drink, haha...",
+        "Unlocked": [
+          "Unlocks at Friendship Lv. 4",
+          "Complete \"Omnipresence Over Mortals\""
+        ]
+      },
+      {
+        "Title": "More About Beidou: I",
+        "Text": "Before you step foot on The Alcor, you need to answer one question. When the sea is full of perils — why is it that you still wish to come aboard my ship?",
+        "Unlocked": []
+      },
+      {
+        "Title": "More About Beidou: II",
+        "Text": "You want to know of my legendary tales? Hahaha, that's just my men exaggerating, adding in their own little details. Although, if you were to ask me if I'm afraid of what monsters lurk in the deep, I'd tell you I have no fear of them.",
+        "Unlocked": ["Unlocks at Friendship Lv. 3"]
+      },
+      {
+        "Title": "More About Beidou: III",
+        "Text": "You wanna know why I help the common folk? Why not? Everyone has their low points in life. I don't really do anything, other than help steer those who are truly lost towards a brighter future.",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "More About Beidou: IV",
+        "Text": "I've been through some hard times. When I was a child we had little money, so nothing to eat, and lived for years by stealing fruit off of people's trees. Even after I got my own ship, I was cast out by pompous merchants. But me telling you such stories is merely for your amusement. I have no intention of making you live through it too.",
+        "Unlocked": ["Unlocks at Friendship Lv. 5"]
+      },
+      {
+        "Title": "More About Beidou: V",
+        "Text": "I have many brothers that sail with me. I have asked, and remember, why each and every one of them came on board. You, however, are special. I know you still have your own things to deal with, and as such, I won't try to rope you into coming onboard permanently. But remember, there is always a place for you onboard The Alcor.",
+        "Unlocked": ["Unlocks at Friendship Lv. 6"]
+      },
+      {
+        "Title": "Beidou's Hobbies",
+        "Text": "My hobbies...? Eh, lemme think... Well, there's adventure, sailing, making friends, drinking, eating... more than I can count on one hand.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Beidou's Troubles",
+        "Text": "If you can change something, change it. If you can't, don't waste time thinking about it. That's how I go about things. But really, if you get stuck, come find me. I'll help you deal with it.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Favorite Food",
+        "Text": "I like food with robust flavors. Spicy fried meat or spicy tofu are my favorites. Sitting down to a big hearty meal together, where everyone can fill their bellies — now that's when things get lively! Haha, alright, alright, all this talk is making me hungry!",
+        "Unlocked": []
+      },
+      {
+        "Title": "Least Favorite Food",
+        "Text": "I'm not a fan of anything cold, it does nothing to fire up my appetite. I'd rather fry up a few fish.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Birthday",
+        "Text": "Come, board my ship. I've gathered the crew. The food and drink are all prepared. Today is your birthday, so you are the captain. Haha, so: where should we set sail?",
+        "Unlocked": []
+      },
+      {
+        "Title": "Feelings About Ascension: Intro",
+        "Text": "Great! I feel much stronger.",
+        "Unlocked": ["Unlocks at Ascension Phase 1"]
+      },
+      {
+        "Title": "Feelings About Ascension: Building Up",
+        "Text": "We're making progress. Let's crack open a bottle to celebrate!",
+        "Unlocked": ["Unlocks at Ascension Phase 2"]
+      },
+      {
+        "Title": "Feelings About Ascension: Climax",
+        "Text": "A prime example! It is an honor to have you aboard. I need to keep up if I'm to keep the respect of my crew.",
+        "Unlocked": ["Unlocks at Ascension Phase 4"]
+      },
+      {
+        "Title": "Feelings About Ascension: Conclusion",
+        "Text": "After all this training, I feel like I'm finally at my best. Thank you... But please, I'd still like for you to keep me on my toes.",
+        "Unlocked": ["Unlocks at Ascension Phase 6"]
+      },
+      { "Title": "Elemental Skill: I", "Text": "Back off!", "Unlocked": [] },
+      { "Title": "Elemental Skill: II", "Text": "Ha!", "Unlocked": [] },
+      {
+        "Title": "Elemental Skill: III",
+        "Text": "Back at ya!",
+        "Unlocked": []
+      },
+      { "Title": "Elemental Skill: IV", "Text": "Take this!", "Unlocked": [] },
+      { "Title": "Elemental Skill: V", "Text": "Hurrrh!", "Unlocked": [] },
+      {
+        "Title": "Elemental Burst: I",
+        "Text": "Power that ended Haishan!",
+        "Unlocked": []
+      },
+      { "Title": "Elemental Burst: II", "Text": "Eyes on me!", "Unlocked": [] },
+      { "Title": "Elemental Burst: III", "Text": "To ashes!", "Unlocked": [] },
+      {
+        "Title": "Opening Treasure Chest: I",
+        "Text": "Huh, where've you been hiding?",
+        "Unlocked": []
+      },
+      {
+        "Title": "Opening Treasure Chest: II",
+        "Text": "Nice, I'm starting to lose count!",
+        "Unlocked": []
+      },
+      {
+        "Title": "Opening Treasure Chest: III",
+        "Text": "The Mora the merrier. First round's on me!",
+        "Unlocked": []
+      },
+      { "Title": "Low HP: I", "Text": "It's not over!", "Unlocked": [] },
+      {
+        "Title": "Low HP: II",
+        "Text": "Hah, I've still got some kick.",
+        "Unlocked": []
+      },
+      { "Title": "Low HP: III", "Text": "I never yield.", "Unlocked": [] },
+      {
+        "Title": "Ally at Low HP: I",
+        "Text": "Get behind me!",
+        "Unlocked": []
+      },
+      {
+        "Title": "Ally at Low HP: II",
+        "Text": "Get back! Don't be a hero.",
+        "Unlocked": []
+      },
+      { "Title": "Fallen: I", "Text": "This isn't good...", "Unlocked": [] },
+      {
+        "Title": "Fallen: II",
+        "Text": "Men... Fall... back...",
+        "Unlocked": []
+      },
+      {
+        "Title": "Fallen: III",
+        "Text": "Crew... Set sail for home...",
+        "Unlocked": []
+      },
+      {
+        "Title": "Light Hit Taken: I",
+        "Text": "Just a scratch.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Heavy Hit Taken: I",
+        "Text": "You haven't won yet.",
+        "Unlocked": []
+      },
+      { "Title": "Heavy Hit Taken: II", "Text": "Not bad.", "Unlocked": [] },
+      {
+        "Title": "Joining Party: I",
+        "Text": "Alright, let's go!",
+        "Unlocked": []
+      },
+      { "Title": "Joining Party: II", "Text": "Come with me.", "Unlocked": [] },
+      { "Title": "Joining Party: III", "Text": "I trust you.", "Unlocked": [] },
+      {
+        "Title": "Receiving a Gift: I",
+        "Text": "Tastes good, I like it! Mind giving me a bowl of rice with this?",
+        "Unlocked": []
+      },
+      {
+        "Title": "Receiving a Gift: II",
+        "Text": "Your cooking skills aren't bad at all, eating your food has me in a good mood.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Receiving a Gift: III",
+        "Text": "You know, at the end of the day, food is food, and that's fine by me.",
+        "Unlocked": []
+      }
+    ],
+    "SpecialFood": {
+      "Id": 108138,
+      "Recipe": 1102,
+      "Name": "Flash-Fried Filet",
+      "Icon": "UI_ItemIcon_108138",
+      "Rank": 1
+    },
+    "Namecard": {
+      "Id": 210039,
+      "Name": "Beidou: Weighing Anchor",
+      "Desc": "Namecard style.\\n\"Weighing anchor out to sea, one is wont to waver. But look to the skies, and the stars shall light the way.\"",
+      "Icon": "UI_NameCardPic_Beidou_P"
+    },
+    "Costume": [
+      {
+        "Id": 202400,
+        "Name": "Rolling Waves",
+        "Desc": "Beidou's outfit. Lightweight clothing saturated with a brave seafarer's spirit.",
+        "Icon": "",
+        "Quality": null
+      }
+    ],
+    "TraceEffect": []
+  },
+  "Weapon": "WEAPON_CLAYMORE",
+  "Rarity": "QUALITY_PURPLE",
+  "Icon": "UI_AvatarIcon_Beidou",
+  "StaminaRecovery": 25,
+  "BaseHP": 1094.1492,
+  "BaseATK": 18.87648,
+  "BaseDEF": 54.36375,
+  "CritRate": 0.05,
+  "CritDMG": 0.5,
+  "LevelEXP": [
+    1000, 1325, 1700, 2150, 2625, 3150, 3725, 4350, 5000, 5700, 6450, 7225,
+    8050, 8925, 9825, 10750, 11725, 12725, 13775, 14875, 16800, 18000, 19250,
+    20550, 21875, 23250, 24650, 26100, 27575, 29100, 30650, 32250, 33875, 35550,
+    37250, 38975, 40750, 42575, 44425, 46300, 50625, 52700, 54775, 56900, 59075,
+    61275, 63525, 65800, 68125, 70475, 76500, 79050, 81650, 84275, 86950, 89650,
+    92400, 95175, 98000, 100875, 108950, 112050, 115175, 118325, 121525, 124775,
+    128075, 131400, 134775, 138175, 148700, 152375, 156075, 159825, 163600,
+    167425, 171300, 175225, 179175, 183175, 216225, 243025, 273100, 306800,
+    344600, 386950, 434425, 487625, 547200, 613950
+  ],
+  "StatsModifier": {
+    "HP": {
+      "1": 1,
+      "2": 1.083,
+      "3": 1.165,
+      "4": 1.248,
+      "5": 1.33,
+      "6": 1.413,
+      "7": 1.495,
+      "8": 1.578,
+      "9": 1.661,
+      "10": 1.743,
+      "11": 1.826,
+      "12": 1.908,
+      "13": 1.991,
+      "14": 2.073,
+      "15": 2.156,
+      "16": 2.239,
+      "17": 2.321,
+      "18": 2.404,
+      "19": 2.486,
+      "20": 2.569,
+      "21": 2.651,
+      "22": 2.734,
+      "23": 2.817,
+      "24": 2.899,
+      "25": 2.982,
+      "26": 3.064,
+      "27": 3.147,
+      "28": 3.229,
+      "29": 3.312,
+      "30": 3.394,
+      "31": 3.477,
+      "32": 3.56,
+      "33": 3.642,
+      "34": 3.725,
+      "35": 3.807,
+      "36": 3.89,
+      "37": 3.972,
+      "38": 4.055,
+      "39": 4.138,
+      "40": 4.22,
+      "41": 4.303,
+      "42": 4.385,
+      "43": 4.468,
+      "44": 4.55,
+      "45": 4.633,
+      "46": 4.716,
+      "47": 4.798,
+      "48": 4.881,
+      "49": 4.963,
+      "50": 5.046,
+      "51": 5.128,
+      "52": 5.211,
+      "53": 5.294,
+      "54": 5.376,
+      "55": 5.459,
+      "56": 5.541,
+      "57": 5.624,
+      "58": 5.706,
+      "59": 5.789,
+      "60": 5.872,
+      "61": 5.954,
+      "62": 6.037,
+      "63": 6.119,
+      "64": 6.202,
+      "65": 6.284,
+      "66": 6.367,
+      "67": 6.45,
+      "68": 6.532,
+      "69": 6.615,
+      "70": 6.697,
+      "71": 6.78,
+      "72": 6.862,
+      "73": 6.945,
+      "74": 7.028,
+      "75": 7.11,
+      "76": 7.193,
+      "77": 7.275,
+      "78": 7.358,
+      "79": 7.44,
+      "80": 7.523,
+      "81": 7.606,
+      "82": 7.688,
+      "83": 7.771,
+      "84": 7.853,
+      "85": 7.936,
+      "86": 8.018,
+      "87": 8.101,
+      "88": 8.183,
+      "89": 8.266,
+      "90": 8.349,
+      "91": 8.431,
+      "92": 8.514,
+      "93": 8.596,
+      "94": 8.679,
+      "95": 8.761,
+      "96": 8.844,
+      "97": 8.927,
+      "98": 9.009,
+      "99": 9.092,
+      "100": 9.174
+    },
+    "ATK": {
+      "1": 1,
+      "2": 1.083,
+      "3": 1.165,
+      "4": 1.248,
+      "5": 1.33,
+      "6": 1.413,
+      "7": 1.495,
+      "8": 1.578,
+      "9": 1.661,
+      "10": 1.743,
+      "11": 1.826,
+      "12": 1.908,
+      "13": 1.991,
+      "14": 2.073,
+      "15": 2.156,
+      "16": 2.239,
+      "17": 2.321,
+      "18": 2.404,
+      "19": 2.486,
+      "20": 2.569,
+      "21": 2.651,
+      "22": 2.734,
+      "23": 2.817,
+      "24": 2.899,
+      "25": 2.982,
+      "26": 3.064,
+      "27": 3.147,
+      "28": 3.229,
+      "29": 3.312,
+      "30": 3.394,
+      "31": 3.477,
+      "32": 3.56,
+      "33": 3.642,
+      "34": 3.725,
+      "35": 3.807,
+      "36": 3.89,
+      "37": 3.972,
+      "38": 4.055,
+      "39": 4.138,
+      "40": 4.22,
+      "41": 4.303,
+      "42": 4.385,
+      "43": 4.468,
+      "44": 4.55,
+      "45": 4.633,
+      "46": 4.716,
+      "47": 4.798,
+      "48": 4.881,
+      "49": 4.963,
+      "50": 5.046,
+      "51": 5.128,
+      "52": 5.211,
+      "53": 5.294,
+      "54": 5.376,
+      "55": 5.459,
+      "56": 5.541,
+      "57": 5.624,
+      "58": 5.706,
+      "59": 5.789,
+      "60": 5.872,
+      "61": 5.954,
+      "62": 6.037,
+      "63": 6.119,
+      "64": 6.202,
+      "65": 6.284,
+      "66": 6.367,
+      "67": 6.45,
+      "68": 6.532,
+      "69": 6.615,
+      "70": 6.697,
+      "71": 6.78,
+      "72": 6.862,
+      "73": 6.945,
+      "74": 7.028,
+      "75": 7.11,
+      "76": 7.193,
+      "77": 7.275,
+      "78": 7.358,
+      "79": 7.44,
+      "80": 7.523,
+      "81": 7.606,
+      "82": 7.688,
+      "83": 7.771,
+      "84": 7.853,
+      "85": 7.936,
+      "86": 8.018,
+      "87": 8.101,
+      "88": 8.183,
+      "89": 8.266,
+      "90": 8.349,
+      "91": 8.431,
+      "92": 8.514,
+      "93": 8.596,
+      "94": 8.679,
+      "95": 8.761,
+      "96": 8.844,
+      "97": 8.927,
+      "98": 9.009,
+      "99": 9.092,
+      "100": 9.174
+    },
+    "DEF": {
+      "1": 1,
+      "2": 1.083,
+      "3": 1.165,
+      "4": 1.248,
+      "5": 1.33,
+      "6": 1.413,
+      "7": 1.495,
+      "8": 1.578,
+      "9": 1.661,
+      "10": 1.743,
+      "11": 1.826,
+      "12": 1.908,
+      "13": 1.991,
+      "14": 2.073,
+      "15": 2.156,
+      "16": 2.239,
+      "17": 2.321,
+      "18": 2.404,
+      "19": 2.486,
+      "20": 2.569,
+      "21": 2.651,
+      "22": 2.734,
+      "23": 2.817,
+      "24": 2.899,
+      "25": 2.982,
+      "26": 3.064,
+      "27": 3.147,
+      "28": 3.229,
+      "29": 3.312,
+      "30": 3.394,
+      "31": 3.477,
+      "32": 3.56,
+      "33": 3.642,
+      "34": 3.725,
+      "35": 3.807,
+      "36": 3.89,
+      "37": 3.972,
+      "38": 4.055,
+      "39": 4.138,
+      "40": 4.22,
+      "41": 4.303,
+      "42": 4.385,
+      "43": 4.468,
+      "44": 4.55,
+      "45": 4.633,
+      "46": 4.716,
+      "47": 4.798,
+      "48": 4.881,
+      "49": 4.963,
+      "50": 5.046,
+      "51": 5.128,
+      "52": 5.211,
+      "53": 5.294,
+      "54": 5.376,
+      "55": 5.459,
+      "56": 5.541,
+      "57": 5.624,
+      "58": 5.706,
+      "59": 5.789,
+      "60": 5.872,
+      "61": 5.954,
+      "62": 6.037,
+      "63": 6.119,
+      "64": 6.202,
+      "65": 6.284,
+      "66": 6.367,
+      "67": 6.45,
+      "68": 6.532,
+      "69": 6.615,
+      "70": 6.697,
+      "71": 6.78,
+      "72": 6.862,
+      "73": 6.945,
+      "74": 7.028,
+      "75": 7.11,
+      "76": 7.193,
+      "77": 7.275,
+      "78": 7.358,
+      "79": 7.44,
+      "80": 7.523,
+      "81": 7.606,
+      "82": 7.688,
+      "83": 7.771,
+      "84": 7.853,
+      "85": 7.936,
+      "86": 8.018,
+      "87": 8.101,
+      "88": 8.183,
+      "89": 8.266,
+      "90": 8.349,
+      "91": 8.431,
+      "92": 8.514,
+      "93": 8.596,
+      "94": 8.679,
+      "95": 8.761,
+      "96": 8.844,
+      "97": 8.927,
+      "98": 9.009,
+      "99": 9.092,
+      "100": 9.174
+    },
+    "Ascension": [
+      {
+        "FIGHT_PROP_BASE_HP": 817.3855,
+        "FIGHT_PROP_BASE_DEFENSE": 40.6125,
+        "FIGHT_PROP_BASE_ATTACK": 14.102028,
+        "FIGHT_PROP_ELEC_ADD_HURT": 0
+      },
+      {
+        "FIGHT_PROP_BASE_HP": 1398.1593,
+        "FIGHT_PROP_BASE_DEFENSE": 69.46875,
+        "FIGHT_PROP_BASE_ATTACK": 24.12189,
+        "FIGHT_PROP_ELEC_ADD_HURT": 0.06
+      },
+      {
+        "FIGHT_PROP_BASE_HP": 2172.5247,
+        "FIGHT_PROP_BASE_DEFENSE": 107.94375,
+        "FIGHT_PROP_BASE_ATTACK": 37.481705,
+        "FIGHT_PROP_ELEC_ADD_HURT": 0.12
+      },
+      {
+        "FIGHT_PROP_BASE_HP": 2753.2983,
+        "FIGHT_PROP_BASE_DEFENSE": 136.8,
+        "FIGHT_PROP_BASE_ATTACK": 47.501568,
+        "FIGHT_PROP_ELEC_ADD_HURT": 0.12
+      },
+      {
+        "FIGHT_PROP_BASE_HP": 3334.0723,
+        "FIGHT_PROP_BASE_DEFENSE": 165.65625,
+        "FIGHT_PROP_BASE_ATTACK": 57.52143,
+        "FIGHT_PROP_ELEC_ADD_HURT": 0.18
+      },
+      {
+        "FIGHT_PROP_BASE_HP": 3914.8462,
+        "FIGHT_PROP_BASE_DEFENSE": 194.5125,
+        "FIGHT_PROP_BASE_ATTACK": 67.54129,
+        "FIGHT_PROP_ELEC_ADD_HURT": 0.24
+      }
+    ],
+    "PropGrowCurves": [
+      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S4" },
+      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S4" },
+      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S4" }
+    ],
+    "RecommendedProps": []
+  },
+  "Skills": [
+    {
+      "Name": "Normal Attack: Oceanborne",
+      "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 5 consecutive strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nDrains Stamina over time to perform continuous slashes.\\nAt the end of the sequence, performs a more powerful slash.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "Promote": {
+        "0": {
+          "Level": 1,
+          "Icon": "Skill_A_04",
+          "Desc": [
+            "1-Hit DMG|{param1:F1P}",
+            "2-Hit DMG|{param2:F1P}",
+            "3-Hit DMG|{param3:F1P}",
+            "4-Hit DMG|{param4:F1P}",
+            "5-Hit DMG|{param5:P}",
+            "Charged Attack Cyclic DMG|{param6:F1P}",
+            "Charged Attack Final DMG|{param7:P}",
+            "Charged Attack Stamina Cost|{param8:F1}/s",
+            "Max Duration|{param9:F1}s",
+            "Plunge DMG|{param10:F1P}",
+            "Low/High Plunge DMG|{param11:P}/{param12:P}",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            0.71122, 0.70864, 0.88322, 0.86516, 1.12144, 0.56244, 1.01824, 40,
+            5, 0.745878, 1.49144, 1.862889
+          ]
+        },
+        "1": {
+          "Level": 2,
+          "Icon": "Skill_A_04",
+          "Desc": [
+            "1-Hit DMG|{param1:F1P}",
+            "2-Hit DMG|{param2:F1P}",
+            "3-Hit DMG|{param3:F1P}",
+            "4-Hit DMG|{param4:F1P}",
+            "5-Hit DMG|{param5:P}",
+            "Charged Attack Cyclic DMG|{param6:F1P}",
+            "Charged Attack Final DMG|{param7:P}",
+            "Charged Attack Stamina Cost|{param8:F1}/s",
+            "Max Duration|{param9:F1}s",
+            "Plunge DMG|{param10:F1P}",
+            "Low/High Plunge DMG|{param11:P}/{param12:P}",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            0.76911, 0.76632, 0.95511, 0.93558, 1.21272, 0.60822, 1.10112, 40,
+            5, 0.806589, 1.612836, 2.01452
+          ]
+        },
+        "2": {
+          "Level": 3,
+          "Icon": "Skill_A_04",
+          "Desc": [
+            "1-Hit DMG|{param1:F1P}",
+            "2-Hit DMG|{param2:F1P}",
+            "3-Hit DMG|{param3:P}",
+            "4-Hit DMG|{param4:P}",
+            "5-Hit DMG|{param5:P}",
+            "Charged Attack Cyclic DMG|{param6:F1P}",
+            "Charged Attack Final DMG|{param7:P}",
+            "Charged Attack Stamina Cost|{param8:F1}/s",
+            "Max Duration|{param9:F1}s",
+            "Plunge DMG|{param10:F1P}",
+            "Low/High Plunge DMG|{param11:P}/{param12:P}",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            0.827, 0.824, 1.027, 1.006, 1.304, 0.654, 1.184, 40, 5, 0.8673,
+            1.734233, 2.16615
+          ]
+        },
+        "3": {
+          "Level": 4,
+          "Icon": "Skill_A_04",
+          "Desc": [
+            "1-Hit DMG|{param1:F1P}",
+            "2-Hit DMG|{param2:F1P}",
+            "3-Hit DMG|{param3:P}",
+            "4-Hit DMG|{param4:P}",
+            "5-Hit DMG|{param5:P}",
+            "Charged Attack Cyclic DMG|{param6:F1P}",
+            "Charged Attack Final DMG|{param7:P}",
+            "Charged Attack Stamina Cost|{param8:F1}/s",
+            "Max Duration|{param9:F1}s",
+            "Plunge DMG|{param10:F1P}",
+            "Low/High Plunge DMG|{param11:P}/{param12:P}",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            0.9097, 0.9064, 1.1297, 1.1066, 1.4344, 0.7194, 1.3024, 40, 5,
+            0.95403, 1.907656, 2.382765
+          ]
+        },
+        "4": {
+          "Level": 5,
+          "Icon": "Skill_A_04",
+          "Desc": [
+            "1-Hit DMG|{param1:F1P}",
+            "2-Hit DMG|{param2:F1P}",
+            "3-Hit DMG|{param3:P}",
+            "4-Hit DMG|{param4:P}",
+            "5-Hit DMG|{param5:P}",
+            "Charged Attack Cyclic DMG|{param6:F1P}",
+            "Charged Attack Final DMG|{param7:P}",
+            "Charged Attack Stamina Cost|{param8:F1}/s",
+            "Max Duration|{param9:F1}s",
+            "Plunge DMG|{param10:F1P}",
+            "Low/High Plunge DMG|{param11:P}/{param12:P}",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            0.96759, 0.96408, 1.20159, 1.17702, 1.52568, 0.76518, 1.38528, 40,
+            5, 1.014741, 2.029052, 2.534396
+          ]
+        },
+        "5": {
+          "Level": 6,
+          "Icon": "Skill_A_04",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "4-Hit DMG|{param4:P}",
+            "5-Hit DMG|{param5:P}",
+            "Charged Attack Cyclic DMG|{param6:F1P}",
+            "Charged Attack Final DMG|{param7:P}",
+            "Charged Attack Stamina Cost|{param8:F1}/s",
+            "Max Duration|{param9:F1}s",
+            "Plunge DMG|{param10:F1P}",
+            "Low/High Plunge DMG|{param11:P}/{param12:P}",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            1.03375, 1.03, 1.28375, 1.2575, 1.63, 0.8175, 1.48, 40, 5, 1.084125,
+            2.167791, 2.707688
+          ]
+        },
+        "6": {
+          "Level": 7,
+          "Icon": "Skill_A_04",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "4-Hit DMG|{param4:P}",
+            "5-Hit DMG|{param5:P}",
+            "Charged Attack Cyclic DMG|{param6:F1P}",
+            "Charged Attack Final DMG|{param7:P}",
+            "Charged Attack Stamina Cost|{param8:F1}/s",
+            "Max Duration|{param9:F1}s",
+            "Plunge DMG|{param10:F1P}",
+            "Low/High Plunge DMG|{param11:P}/{param12:P}",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            1.12472, 1.12064, 1.39672, 1.36816, 1.77344, 0.88944, 1.61024, 40,
+            5, 1.179528, 2.358556, 2.945964
+          ]
+        },
+        "7": {
+          "Level": 8,
+          "Icon": "Skill_A_04",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "4-Hit DMG|{param4:P}",
+            "5-Hit DMG|{param5:P}",
+            "Charged Attack Cyclic DMG|{param6:F1P}",
+            "Charged Attack Final DMG|{param7:P}",
+            "Charged Attack Stamina Cost|{param8:F1}/s",
+            "Max Duration|{param9:F1}s",
+            "Plunge DMG|{param10:F1P}",
+            "Low/High Plunge DMG|{param11:P}/{param12:P}",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            1.21569, 1.21128, 1.50969, 1.47882, 1.91688, 0.96138, 1.74048, 40,
+            5, 1.274931, 2.549322, 3.184241
+          ]
+        },
+        "8": {
+          "Level": 9,
+          "Icon": "Skill_A_04",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "4-Hit DMG|{param4:P}",
+            "5-Hit DMG|{param5:P}",
+            "Charged Attack Cycling DMG|{param6:P}",
+            "Charged Attack Final DMG|{param7:P}",
+            "Charged Attack Stamina Cost|{param8:F1}/s",
+            "Max Duration|{param9:F1}s",
+            "Plunge DMG|{param10:F1P}",
+            "Low/High Plunge DMG|{param11:P}/{param12:P}",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            1.30666, 1.30192, 1.62266, 1.58948, 2.06032, 1.03332, 1.87072, 40,
+            5, 1.370334, 2.740087, 3.422517
+          ]
+        },
+        "9": {
+          "Level": 10,
+          "Icon": "Skill_A_04",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "4-Hit DMG|{param4:P}",
+            "5-Hit DMG|{param5:P}",
+            "Charged Attack Cycling DMG|{param6:P}",
+            "Charged Attack Final DMG|{param7:P}",
+            "Charged Attack Stamina Cost|{param8:F1}/s",
+            "Max Duration|{param9:F1}s",
+            "Plunge DMG|{param10:F1P}",
+            "Low/High Plunge DMG|{param11:P}/{param12:P}",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            1.4059, 1.4008, 1.7459, 1.7102, 2.2168, 1.1118, 2.0128, 40, 5,
+            1.47441, 2.948195, 3.682455
+          ]
+        },
+        "10": {
+          "Level": 11,
+          "Icon": "Skill_A_04",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "4-Hit DMG|{param4:P}",
+            "5-Hit DMG|{param5:P}",
+            "Charged Attack Cycling DMG|{param6:P}",
+            "Charged Attack Final DMG|{param7:P}",
+            "Charged Attack Stamina Cost|{param8:F1}/s",
+            "Max Duration|{param9:F1}s",
+            "Plunge DMG|{param10:F1P}",
+            "Low/High Plunge DMG|{param11:P}/{param12:P}",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            1.519613, 1.5141, 1.887112, 1.848525, 2.3961, 1.201725, 2.1756, 40,
+            5, 1.578486, 3.156303, 3.942393
+          ]
+        },
+        "11": {
+          "Level": 12,
+          "Icon": "Skill_A_04",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "4-Hit DMG|{param4:P}",
+            "5-Hit DMG|{param5:P}",
+            "Charged Attack Cycling DMG|{param6:P}",
+            "Charged Attack Final DMG|{param7:P}",
+            "Charged Attack Stamina Cost|{param8:F1}/s",
+            "Max Duration|{param9:F1}s",
+            "Plunge DMG|{param10:F1P}",
+            "Low/High Plunge DMG|{param11:P}/{param12:P}",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            1.653338, 1.647341, 2.053178, 2.011195, 2.606957, 1.307477,
+            2.367053, 40, 5, 1.682562, 3.364411, 4.202331
+          ]
+        },
+        "12": {
+          "Level": 13,
+          "Icon": "Skill_A_04",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "4-Hit DMG|{param4:P}",
+            "5-Hit DMG|{param5:P}",
+            "Charged Attack Cycling DMG|{param6:P}",
+            "Charged Attack Final DMG|{param7:P}",
+            "Charged Attack Stamina Cost|{param8:F1}/s",
+            "Max Duration|{param9:F1}s",
+            "Plunge DMG|{param10:F1P}",
+            "Low/High Plunge DMG|{param11:P}/{param12:P}",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            1.787064, 1.780582, 2.219244, 2.173865, 2.817814, 1.413229,
+            2.558506, 40, 5, 1.786638, 3.572519, 4.462269
+          ]
+        },
+        "13": {
+          "Level": 14,
+          "Icon": "Skill_A_04",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "4-Hit DMG|{param4:P}",
+            "5-Hit DMG|{param5:P}",
+            "Charged Attack Cycling DMG|{param6:P}",
+            "Charged Attack Final DMG|{param7:P}",
+            "Charged Attack Stamina Cost|{param8:F1}/s",
+            "Max Duration|{param9:F1}s",
+            "Plunge DMG|{param10:F1P}",
+            "Low/High Plunge DMG|{param11:P}/{param12:P}",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            1.92079, 1.913822, 2.38531, 2.336536, 3.02867, 1.51898, 2.749958,
+            40, 5, 1.890714, 3.780627, 4.722207
+          ]
+        },
+        "14": {
+          "Level": 15,
+          "Icon": "Skill_A_04",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "4-Hit DMG|{param4:P}",
+            "5-Hit DMG|{param5:P}",
+            "Charged Attack Cycling DMG|{param6:P}",
+            "Charged Attack Final DMG|{param7:P}",
+            "Charged Attack Stamina Cost|{param8:F1}/s",
+            "Max Duration|{param9:F1}s",
+            "Plunge DMG|{param10:F1P}",
+            "Low/High Plunge DMG|{param11:P}/{param12:P}",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            2.066673, 2.059176, 2.566473, 2.513994, 3.258696, 1.634346,
+            2.958816, 40, 5, 1.99479, 3.988735, 4.982145
+          ]
+        }
+      }
+    },
+    {
+      "Name": "Tidecaller",
+      "Desc": "#Nothing to worry about. Should anyone raise a hand against her or her men, she will avenge it ten-fold with sword and thunder.\\n\\n<color=#FFD780FF>{LAYOUT_MOBILE#Tap}{LAYOUT_PC#Press}{LAYOUT_PS#Press}</color>\\nAccumulating the power of lightning, Beidou swings her blade forward fiercely, dealing <color=#FFACFFFF>Electro DMG</color>.\\n\\n<color=#FFD780FF>Hold</color>\\nLifts her weapon up as a shield. Max DMG absorbed scales off Beidou's Max HP.\\nAttacks using the energy stored within the greatsword upon release or once this ability's duration expires, dealing <color=#FFACFFFF>Electro DMG</color>. DMG dealt scales with the number of times Beidou is attacked in the skill's duration. The greatest DMG Bonus will be attained once this effect is triggered twice.\\nThe shield possesses the following properties:\\n·Has 250% <color=#FFACFFFF>Electro DMG</color> Absorption Efficiency.\\n·Applies the <color=#FFACFFFF>Electro element</color> to Beidou upon activation.\\n\\n<i>Conquer the high seas! Pursue the waves and chase the storm!</i>",
+      "Promote": {
+        "0": {
+          "Level": 1,
+          "Icon": "Skill_S_Beidou_01",
+          "Desc": [
+            "Shield DMG Absorption|{param1:F1P} Max HP+{param2:I}",
+            "Base DMG|{param3:P}",
+            "DMG Bonus on Hit Taken|{param4:P}",
+            "CD|{param5:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [0.144, 1386.3678, 1.216, 1.6, 7.5]
+        },
+        "1": {
+          "Level": 2,
+          "Icon": "Skill_S_Beidou_01",
+          "Desc": [
+            "Shield DMG Absorption|{param1:F1P} Max HP+{param2:I}",
+            "Base DMG|{param3:P}",
+            "DMG Bonus on Hit Taken|{param4:P}",
+            "CD|{param5:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [0.1548, 1525.0239, 1.3072, 1.72, 7.5]
+        },
+        "2": {
+          "Level": 3,
+          "Icon": "Skill_S_Beidou_01",
+          "Desc": [
+            "Shield DMG Absorption|{param1:F1P} Max HP+{param2:I}",
+            "Base DMG|{param3:P}",
+            "DMG Bonus on Hit Taken|{param4:P}",
+            "CD|{param5:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [0.1656, 1675.2346, 1.3984, 1.84, 7.5]
+        },
+        "3": {
+          "Level": 4,
+          "Icon": "Skill_S_Beidou_01",
+          "Desc": [
+            "Shield DMG Absorption|{param1:F1P} Max HP+{param2:I}",
+            "Base DMG|{param3:P}",
+            "DMG Bonus on Hit Taken|{param4:P}",
+            "CD|{param5:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [0.18, 1837, 1.52, 2, 7.5]
+        },
+        "4": {
+          "Level": 5,
+          "Icon": "Skill_S_Beidou_01",
+          "Desc": [
+            "Shield DMG Absorption|{param1:F1P} Max HP+{param2:I}",
+            "Base DMG|{param3:P}",
+            "DMG Bonus on Hit Taken|{param4:P}",
+            "CD|{param5:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [0.1908, 2010.3201, 1.6112, 2.12, 7.5]
+        },
+        "5": {
+          "Level": 6,
+          "Icon": "Skill_S_Beidou_01",
+          "Desc": [
+            "Shield DMG Absorption|{param1:F1P} Max HP+{param2:I}",
+            "Base DMG|{param3:P}",
+            "DMG Bonus on Hit Taken|{param4:P}",
+            "CD|{param5:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [0.2016, 2195.1948, 1.7024, 2.24, 7.5]
+        },
+        "6": {
+          "Level": 7,
+          "Icon": "Skill_S_Beidou_01",
+          "Desc": [
+            "Shield DMG Absorption|{param1:F1P} Max HP+{param2:I}",
+            "Base DMG|{param3:P}",
+            "DMG Bonus on Hit Taken|{param4:P}",
+            "CD|{param5:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [0.216, 2391.6243, 1.824, 2.4, 7.5]
+        },
+        "7": {
+          "Level": 8,
+          "Icon": "Skill_S_Beidou_01",
+          "Desc": [
+            "Shield DMG Absorption|{param1:F1P} Max HP+{param2:I}",
+            "Base DMG|{param3:P}",
+            "DMG Bonus on Hit Taken|{param4:P}",
+            "CD|{param5:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [0.2304, 2599.6084, 1.9456, 2.56, 7.5]
+        },
+        "8": {
+          "Level": 9,
+          "Icon": "Skill_S_Beidou_01",
+          "Desc": [
+            "Shield DMG Absorption|{param1:F1P} Max HP+{param2:I}",
+            "Base DMG|{param3:P}",
+            "DMG Bonus on Hit Taken|{param4:P}",
+            "CD|{param5:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [0.2448, 2819.147, 2.0672, 2.72, 7.5]
+        },
+        "9": {
+          "Level": 10,
+          "Icon": "Skill_S_Beidou_01",
+          "Desc": [
+            "Shield DMG Absorption|{param1:F1P} Max HP+{param2:I}",
+            "Base DMG|{param3:P}",
+            "DMG Bonus on Hit Taken|{param4:P}",
+            "CD|{param5:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [0.2592, 3050.2405, 2.1888, 2.88, 7.5]
+        },
+        "10": {
+          "Level": 11,
+          "Icon": "Skill_S_Beidou_01",
+          "Desc": [
+            "Shield DMG Absorption|{param1:F1P} Max HP+{param2:I}",
+            "Base DMG|{param3:P}",
+            "DMG Bonus on Hit Taken|{param4:P}",
+            "CD|{param5:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [0.2736, 3292.8887, 2.3104, 3.04, 7.5]
+        },
+        "11": {
+          "Level": 12,
+          "Icon": "Skill_S_Beidou_01",
+          "Desc": [
+            "Shield DMG Absorption|{param1:F1P} Max HP+{param2:I}",
+            "Base DMG|{param3:P}",
+            "DMG Bonus on Hit Taken|{param4:P}",
+            "CD|{param5:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [0.288, 3547.0913, 2.432, 3.2, 7.5]
+        },
+        "12": {
+          "Level": 13,
+          "Icon": "Skill_S_Beidou_01",
+          "Desc": [
+            "Shield DMG Absorption|{param1:F1P} Max HP+{param2:I}",
+            "Base DMG|{param3:P}",
+            "DMG Bonus on Hit Taken|{param4:P}",
+            "CD|{param5:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [0.306, 3812.8489, 2.584, 3.4, 7.5]
+        },
+        "13": {
+          "Level": 14,
+          "Icon": "Skill_S_Beidou_01",
+          "Desc": [
+            "Shield DMG Absorption|{param1:F1P} Max HP+{param2:I}",
+            "Base DMG|{param3:P}",
+            "DMG Bonus on Hit Taken|{param4:P}",
+            "CD|{param5:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [0.324, 4090.161, 2.736, 3.6, 7.5]
+        },
+        "14": {
+          "Level": 15,
+          "Icon": "Skill_S_Beidou_01",
+          "Desc": [
+            "Shield DMG Absorption|{param1:F1P} Max HP+{param2:I}",
+            "Base DMG|{param3:P}",
+            "DMG Bonus on Hit Taken|{param4:P}",
+            "CD|{param5:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [0.342, 4379.028, 2.888, 3.8, 7.5]
+        }
+      }
+    },
+    {
+      "Name": "Stormbreaker",
+      "Desc": "Recalling her slaying of the great beast Haishan, Beidou calls upon that monstrous strength and the lightning to create a Thunderbeast's Targe around herself, dealing <color=#FFACFFFF>Electro DMG</color> to nearby opponents.\\n\\n<color=#FFD780FF>Thunderbeast's Targe</color>\\n·When Normal and Charged Attacks hit, they create a lightning discharge that can jump between opponents, dealing <color=#FFACFFFF>Electro DMG</color>.\\n·Increases the character's resistance to interruption, and decreases DMG taken.\\n\\nA maximum of 1 lightning discharge can be triggered per second.\\n\\n<i>With a peal of thunder, Haishan is slain.</i>",
+      "Promote": {
+        "0": {
+          "Level": 1,
+          "Icon": "Skill_E_Beidou_01",
+          "Desc": [
+            "Skill DMG|{param1:P}",
+            "Lightning DMG|{param2:F1P}",
+            "DMG Reduction|{param3:P}",
+            "Duration|{param4:F1}s",
+            "CD|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.216, 0.96, 0.2, 15, 20, 80]
+        },
+        "1": {
+          "Level": 2,
+          "Icon": "Skill_E_Beidou_01",
+          "Desc": [
+            "Skill DMG|{param1:P}",
+            "Lightning DMG|{param2:P}",
+            "DMG Reduction|{param3:P}",
+            "Duration|{param4:F1}s",
+            "CD|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.3072, 1.032, 0.21, 15, 20, 80]
+        },
+        "2": {
+          "Level": 3,
+          "Icon": "Skill_E_Beidou_01",
+          "Desc": [
+            "Skill DMG|{param1:P}",
+            "Lightning DMG|{param2:P}",
+            "DMG Reduction|{param3:P}",
+            "Duration|{param4:F1}s",
+            "CD|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.3984, 1.104, 0.22, 15, 20, 80]
+        },
+        "3": {
+          "Level": 4,
+          "Icon": "Skill_E_Beidou_01",
+          "Desc": [
+            "Skill DMG|{param1:P}",
+            "Lightning DMG|{param2:P}",
+            "DMG Reduction|{param3:P}",
+            "Duration|{param4:F1}s",
+            "CD|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.52, 1.2, 0.24, 15, 20, 80]
+        },
+        "4": {
+          "Level": 5,
+          "Icon": "Skill_E_Beidou_01",
+          "Desc": [
+            "Skill DMG|{param1:P}",
+            "Lightning DMG|{param2:P}",
+            "DMG Reduction|{param3:P}",
+            "Duration|{param4:F1}s",
+            "CD|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.6112, 1.272, 0.25, 15, 20, 80]
+        },
+        "5": {
+          "Level": 6,
+          "Icon": "Skill_E_Beidou_01",
+          "Desc": [
+            "Skill DMG|{param1:P}",
+            "Lightning DMG|{param2:P}",
+            "DMG Reduction|{param3:P}",
+            "Duration|{param4:F1}s",
+            "CD|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.7024, 1.344, 0.26, 15, 20, 80]
+        },
+        "6": {
+          "Level": 7,
+          "Icon": "Skill_E_Beidou_01",
+          "Desc": [
+            "Skill DMG|{param1:P}",
+            "Lightning DMG|{param2:P}",
+            "DMG Reduction|{param3:P}",
+            "Duration|{param4:F1}s",
+            "CD|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.824, 1.44, 0.28, 15, 20, 80]
+        },
+        "7": {
+          "Level": 8,
+          "Icon": "Skill_E_Beidou_01",
+          "Desc": [
+            "Skill DMG|{param1:P}",
+            "Lightning DMG|{param2:P}",
+            "DMG Reduction|{param3:P}",
+            "Duration|{param4:F1}s",
+            "CD|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.9456, 1.536, 0.3, 15, 20, 80]
+        },
+        "8": {
+          "Level": 9,
+          "Icon": "Skill_E_Beidou_01",
+          "Desc": [
+            "Skill DMG|{param1:P}",
+            "Lightning DMG|{param2:P}",
+            "DMG Reduction|{param3:P}",
+            "Duration|{param4:F1}s",
+            "CD|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [2.0672, 1.632, 0.32, 15, 20, 80]
+        },
+        "9": {
+          "Level": 10,
+          "Icon": "Skill_E_Beidou_01",
+          "Desc": [
+            "Skill DMG|{param1:P}",
+            "Lightning DMG|{param2:P}",
+            "DMG Reduction|{param3:P}",
+            "Duration|{param4:F1}s",
+            "CD|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [2.1888, 1.728, 0.34, 15, 20, 80]
+        },
+        "10": {
+          "Level": 11,
+          "Icon": "Skill_E_Beidou_01",
+          "Desc": [
+            "Skill DMG|{param1:P}",
+            "Lightning DMG|{param2:P}",
+            "DMG Reduction|{param3:P}",
+            "Duration|{param4:F1}s",
+            "CD|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [2.3104, 1.824, 0.35, 15, 20, 80]
+        },
+        "11": {
+          "Level": 12,
+          "Icon": "Skill_E_Beidou_01",
+          "Desc": [
+            "Skill DMG|{param1:P}",
+            "Lightning DMG|{param2:P}",
+            "DMG Reduction|{param3:P}",
+            "Duration|{param4:F1}s",
+            "CD|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [2.432, 1.92, 0.36, 15, 20, 80]
+        },
+        "12": {
+          "Level": 13,
+          "Icon": "Skill_E_Beidou_01",
+          "Desc": [
+            "Skill DMG|{param1:P}",
+            "Lightning DMG|{param2:P}",
+            "DMG Reduction|{param3:P}",
+            "Duration|{param4:F1}s",
+            "CD|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [2.584, 2.04, 0.37, 15, 20, 80]
+        },
+        "13": {
+          "Level": 14,
+          "Icon": "Skill_E_Beidou_01",
+          "Desc": [
+            "Skill DMG|{param1:P}",
+            "Lightning DMG|{param2:P}",
+            "DMG Reduction|{param3:P}",
+            "Duration|{param4:F1}s",
+            "CD|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [2.736, 2.16, 0.38, 15, 20, 80]
+        },
+        "14": {
+          "Level": 15,
+          "Icon": "Skill_E_Beidou_01",
+          "Desc": [
+            "Skill DMG|{param1:P}",
+            "Lightning DMG|{param2:P}",
+            "DMG Reduction|{param3:P}",
+            "Duration|{param4:F1}s",
+            "CD|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [2.888, 2.28, 0.39, 15, 20, 80]
+        }
+      }
+    }
+  ],
+  "Passives": [
+    {
+      "Name": "Retribution",
+      "Desc": "Counterattacking with <color=#FFD780FF>Tidecaller</color> at the precise moment when the character is hit grants the maximum DMG Bonus.",
+      "Icon": "UI_Talent_S_Beidou_05",
+      "Unlock": 1,
+      "ParamList": [2]
+    },
+    {
+      "Name": "Lightning Storm",
+      "Desc": "Gain the following effects for 10s after unleashing <color=#FFD780FF>Tidecaller</color> with its maximum DMG Bonus: \\n·DMG dealt by Normal and Charged Attacks is increased by 15%. ATK SPD of Normal and Charged Attacks is increased by 15%.\\n·Greatly reduced delay before unleashing Charged Attacks.",
+      "Icon": "UI_Talent_S_Beidou_06",
+      "Unlock": 4,
+      "ParamList": [0.15]
+    },
+    {
+      "Name": "Conqueror of Tides",
+      "Desc": "Decreases swimming Stamina consumption for your own party members by 20%.\\nNot stackable with Passive Talents that provide the exact same effects.",
+      "Icon": "UI_Talent_Explosion_Swim",
+      "Unlock": 0,
+      "ParamList": []
+    }
+  ],
+  "Constellations": [
+    {
+      "Name": "Sea Beast's Scourge",
+      "Desc": "When <color=#FFD780FF>Stormbreaker</color> is used:\\nCreates a shield that absorbs up to 16% of Beidou's Max HP for 15s.\\nThis shield absorbs <color=#FFACFFFF>Electro DMG</color> 250% more effectively.",
+      "Icon": "UI_Talent_S_Beidou_02",
+      "ParamList": [0.16]
+    },
+    {
+      "Name": "Upon the Turbulent Sea, the Thunder Arises",
+      "Desc": "<color=#FFD780FF>Stormbreaker</color>'s arc lightning can jump to 2 additional targets.",
+      "Icon": "UI_Talent_S_Beidou_01",
+      "ParamList": []
+    },
+    {
+      "Name": "Summoner of Storm",
+      "Desc": "Increases the Level of <color=#FFD780FF>Tidecaller</color> by 3.\\nMaximum upgrade level is 15.",
+      "Icon": "UI_Talent_U_Beidou_01",
+      "ParamList": []
+    },
+    {
+      "Name": "Stunning Revenge",
+      "Desc": "Upon being attacked, Beidou's Normal Attacks gain an additional instance of 20% <color=#FFACFFFF>Electro DMG</color> for 10s.",
+      "Icon": "UI_Talent_S_Beidou_03",
+      "ParamList": [0.2, 10, 0.1]
+    },
+    {
+      "Name": "Crimson Tidewalker",
+      "Desc": "Increases the Level of <color=#FFD780FF>Stormbreaker</color> by 3.\\nMaximum upgrade level is 15.",
+      "Icon": "UI_Talent_U_Beidou_02",
+      "ParamList": []
+    },
+    {
+      "Name": "Bane of Evil",
+      "Desc": "During the duration of <color=#FFD780FF>Stormbreaker</color>, the <color=#FFACFFFF>Electro RES</color> of surrounding opponents is decreased by 15%.",
+      "Icon": "UI_Talent_S_Beidou_04",
+      "ParamList": [0.15]
+    }
+  ],
+  "Materials": {
+    "Ascensions": [
+      {
+        "Mats": [
+          {
+            "Name": "Vajrada Amethyst Sliver",
+            "Id": 104141,
+            "Count": 1,
+            "Rank": 2
+          },
+          { "Name": "Noctilucous Jade", "Id": 100028, "Count": 3, "Rank": 1 },
+          {
+            "Name": "Treasure Hoarder Insignia",
+            "Id": 112035,
+            "Count": 3,
+            "Rank": 1
+          }
+        ],
+        "Cost": 20000
+      },
+      {
+        "Mats": [
+          {
+            "Name": "Vajrada Amethyst Fragment",
+            "Id": 104142,
+            "Count": 3,
+            "Rank": 3
+          },
+          { "Name": "Lightning Prism", "Id": 113002, "Count": 2, "Rank": 4 },
+          { "Name": "Noctilucous Jade", "Id": 100028, "Count": 10, "Rank": 1 },
+          {
+            "Name": "Treasure Hoarder Insignia",
+            "Id": 112035,
+            "Count": 15,
+            "Rank": 1
+          }
+        ],
+        "Cost": 40000
+      },
+      {
+        "Mats": [
+          {
+            "Name": "Vajrada Amethyst Fragment",
+            "Id": 104142,
+            "Count": 6,
+            "Rank": 3
+          },
+          { "Name": "Lightning Prism", "Id": 113002, "Count": 4, "Rank": 4 },
+          { "Name": "Noctilucous Jade", "Id": 100028, "Count": 20, "Rank": 1 },
+          {
+            "Name": "Silver Raven Insignia",
+            "Id": 112036,
+            "Count": 12,
+            "Rank": 2
+          }
+        ],
+        "Cost": 60000
+      },
+      {
+        "Mats": [
+          {
+            "Name": "Vajrada Amethyst Chunk",
+            "Id": 104143,
+            "Count": 3,
+            "Rank": 4
+          },
+          { "Name": "Lightning Prism", "Id": 113002, "Count": 8, "Rank": 4 },
+          { "Name": "Noctilucous Jade", "Id": 100028, "Count": 30, "Rank": 1 },
+          {
+            "Name": "Silver Raven Insignia",
+            "Id": 112036,
+            "Count": 18,
+            "Rank": 2
+          }
+        ],
+        "Cost": 80000
+      },
+      {
+        "Mats": [
+          {
+            "Name": "Vajrada Amethyst Chunk",
+            "Id": 104143,
+            "Count": 6,
+            "Rank": 4
+          },
+          { "Name": "Lightning Prism", "Id": 113002, "Count": 12, "Rank": 4 },
+          { "Name": "Noctilucous Jade", "Id": 100028, "Count": 45, "Rank": 1 },
+          {
+            "Name": "Golden Raven Insignia",
+            "Id": 112037,
+            "Count": 12,
+            "Rank": 3
+          }
+        ],
+        "Cost": 100000
+      },
+      {
+        "Mats": [
+          {
+            "Name": "Vajrada Amethyst Gemstone",
+            "Id": 104144,
+            "Count": 6,
+            "Rank": 5
+          },
+          { "Name": "Lightning Prism", "Id": 113002, "Count": 20, "Rank": 4 },
+          { "Name": "Noctilucous Jade", "Id": 100028, "Count": 60, "Rank": 1 },
+          {
+            "Name": "Golden Raven Insignia",
+            "Id": 112037,
+            "Count": 24,
+            "Rank": 3
+          }
+        ],
+        "Cost": 120000
+      }
+    ],
+    "Talents": [
+      [
+        {
+          "Mats": [
+            {
+              "Name": "Teachings of Gold",
+              "Id": 104316,
+              "Count": 3,
+              "Rank": 2
+            },
+            {
+              "Name": "Treasure Hoarder Insignia",
+              "Id": 112035,
+              "Count": 6,
+              "Rank": 1
+            }
+          ],
+          "Cost": 12500
+        },
+        {
+          "Mats": [
+            { "Name": "Guide to Gold", "Id": 104317, "Count": 2, "Rank": 3 },
+            {
+              "Name": "Silver Raven Insignia",
+              "Id": 112036,
+              "Count": 3,
+              "Rank": 2
+            }
+          ],
+          "Cost": 17500
+        },
+        {
+          "Mats": [
+            { "Name": "Guide to Gold", "Id": 104317, "Count": 4, "Rank": 3 },
+            {
+              "Name": "Silver Raven Insignia",
+              "Id": 112036,
+              "Count": 4,
+              "Rank": 2
+            }
+          ],
+          "Cost": 25000
+        },
+        {
+          "Mats": [
+            { "Name": "Guide to Gold", "Id": 104317, "Count": 6, "Rank": 3 },
+            {
+              "Name": "Silver Raven Insignia",
+              "Id": 112036,
+              "Count": 6,
+              "Rank": 2
+            }
+          ],
+          "Cost": 30000
+        },
+        {
+          "Mats": [
+            { "Name": "Guide to Gold", "Id": 104317, "Count": 9, "Rank": 3 },
+            {
+              "Name": "Silver Raven Insignia",
+              "Id": 112036,
+              "Count": 9,
+              "Rank": 2
+            }
+          ],
+          "Cost": 37500
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Gold",
+              "Id": 104318,
+              "Count": 4,
+              "Rank": 4
+            },
+            {
+              "Name": "Golden Raven Insignia",
+              "Id": 112037,
+              "Count": 4,
+              "Rank": 3
+            },
+            { "Name": "Dvalin's Sigh", "Id": 113005, "Count": 1, "Rank": 5 }
+          ],
+          "Cost": 120000
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Gold",
+              "Id": 104318,
+              "Count": 6,
+              "Rank": 4
+            },
+            {
+              "Name": "Golden Raven Insignia",
+              "Id": 112037,
+              "Count": 6,
+              "Rank": 3
+            },
+            { "Name": "Dvalin's Sigh", "Id": 113005, "Count": 1, "Rank": 5 }
+          ],
+          "Cost": 260000
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Gold",
+              "Id": 104318,
+              "Count": 12,
+              "Rank": 4
+            },
+            {
+              "Name": "Golden Raven Insignia",
+              "Id": 112037,
+              "Count": 9,
+              "Rank": 3
+            },
+            { "Name": "Dvalin's Sigh", "Id": 113005, "Count": 2, "Rank": 5 }
+          ],
+          "Cost": 450000
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Gold",
+              "Id": 104318,
+              "Count": 16,
+              "Rank": 4
+            },
+            {
+              "Name": "Golden Raven Insignia",
+              "Id": 112037,
+              "Count": 12,
+              "Rank": 3
+            },
+            { "Name": "Dvalin's Sigh", "Id": 113005, "Count": 2, "Rank": 5 },
+            { "Name": "Crown of Insight", "Id": 104319, "Count": 1, "Rank": 5 }
+          ],
+          "Cost": 700000
+        }
+      ],
+      [
+        {
+          "Mats": [
+            {
+              "Name": "Teachings of Gold",
+              "Id": 104316,
+              "Count": 3,
+              "Rank": 2
+            },
+            {
+              "Name": "Treasure Hoarder Insignia",
+              "Id": 112035,
+              "Count": 6,
+              "Rank": 1
+            }
+          ],
+          "Cost": 12500
+        },
+        {
+          "Mats": [
+            { "Name": "Guide to Gold", "Id": 104317, "Count": 2, "Rank": 3 },
+            {
+              "Name": "Silver Raven Insignia",
+              "Id": 112036,
+              "Count": 3,
+              "Rank": 2
+            }
+          ],
+          "Cost": 17500
+        },
+        {
+          "Mats": [
+            { "Name": "Guide to Gold", "Id": 104317, "Count": 4, "Rank": 3 },
+            {
+              "Name": "Silver Raven Insignia",
+              "Id": 112036,
+              "Count": 4,
+              "Rank": 2
+            }
+          ],
+          "Cost": 25000
+        },
+        {
+          "Mats": [
+            { "Name": "Guide to Gold", "Id": 104317, "Count": 6, "Rank": 3 },
+            {
+              "Name": "Silver Raven Insignia",
+              "Id": 112036,
+              "Count": 6,
+              "Rank": 2
+            }
+          ],
+          "Cost": 30000
+        },
+        {
+          "Mats": [
+            { "Name": "Guide to Gold", "Id": 104317, "Count": 9, "Rank": 3 },
+            {
+              "Name": "Silver Raven Insignia",
+              "Id": 112036,
+              "Count": 9,
+              "Rank": 2
+            }
+          ],
+          "Cost": 37500
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Gold",
+              "Id": 104318,
+              "Count": 4,
+              "Rank": 4
+            },
+            {
+              "Name": "Golden Raven Insignia",
+              "Id": 112037,
+              "Count": 4,
+              "Rank": 3
+            },
+            { "Name": "Dvalin's Sigh", "Id": 113005, "Count": 1, "Rank": 5 }
+          ],
+          "Cost": 120000
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Gold",
+              "Id": 104318,
+              "Count": 6,
+              "Rank": 4
+            },
+            {
+              "Name": "Golden Raven Insignia",
+              "Id": 112037,
+              "Count": 6,
+              "Rank": 3
+            },
+            { "Name": "Dvalin's Sigh", "Id": 113005, "Count": 1, "Rank": 5 }
+          ],
+          "Cost": 260000
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Gold",
+              "Id": 104318,
+              "Count": 12,
+              "Rank": 4
+            },
+            {
+              "Name": "Golden Raven Insignia",
+              "Id": 112037,
+              "Count": 9,
+              "Rank": 3
+            },
+            { "Name": "Dvalin's Sigh", "Id": 113005, "Count": 2, "Rank": 5 }
+          ],
+          "Cost": 450000
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Gold",
+              "Id": 104318,
+              "Count": 16,
+              "Rank": 4
+            },
+            {
+              "Name": "Golden Raven Insignia",
+              "Id": 112037,
+              "Count": 12,
+              "Rank": 3
+            },
+            { "Name": "Dvalin's Sigh", "Id": 113005, "Count": 2, "Rank": 5 },
+            { "Name": "Crown of Insight", "Id": 104319, "Count": 1, "Rank": 5 }
+          ],
+          "Cost": 700000
+        }
+      ],
+      [
+        {
+          "Mats": [
+            {
+              "Name": "Teachings of Gold",
+              "Id": 104316,
+              "Count": 3,
+              "Rank": 2
+            },
+            {
+              "Name": "Treasure Hoarder Insignia",
+              "Id": 112035,
+              "Count": 6,
+              "Rank": 1
+            }
+          ],
+          "Cost": 12500
+        },
+        {
+          "Mats": [
+            { "Name": "Guide to Gold", "Id": 104317, "Count": 2, "Rank": 3 },
+            {
+              "Name": "Silver Raven Insignia",
+              "Id": 112036,
+              "Count": 3,
+              "Rank": 2
+            }
+          ],
+          "Cost": 17500
+        },
+        {
+          "Mats": [
+            { "Name": "Guide to Gold", "Id": 104317, "Count": 4, "Rank": 3 },
+            {
+              "Name": "Silver Raven Insignia",
+              "Id": 112036,
+              "Count": 4,
+              "Rank": 2
+            }
+          ],
+          "Cost": 25000
+        },
+        {
+          "Mats": [
+            { "Name": "Guide to Gold", "Id": 104317, "Count": 6, "Rank": 3 },
+            {
+              "Name": "Silver Raven Insignia",
+              "Id": 112036,
+              "Count": 6,
+              "Rank": 2
+            }
+          ],
+          "Cost": 30000
+        },
+        {
+          "Mats": [
+            { "Name": "Guide to Gold", "Id": 104317, "Count": 9, "Rank": 3 },
+            {
+              "Name": "Silver Raven Insignia",
+              "Id": 112036,
+              "Count": 9,
+              "Rank": 2
+            }
+          ],
+          "Cost": 37500
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Gold",
+              "Id": 104318,
+              "Count": 4,
+              "Rank": 4
+            },
+            {
+              "Name": "Golden Raven Insignia",
+              "Id": 112037,
+              "Count": 4,
+              "Rank": 3
+            },
+            { "Name": "Dvalin's Sigh", "Id": 113005, "Count": 1, "Rank": 5 }
+          ],
+          "Cost": 120000
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Gold",
+              "Id": 104318,
+              "Count": 6,
+              "Rank": 4
+            },
+            {
+              "Name": "Golden Raven Insignia",
+              "Id": 112037,
+              "Count": 6,
+              "Rank": 3
+            },
+            { "Name": "Dvalin's Sigh", "Id": 113005, "Count": 1, "Rank": 5 }
+          ],
+          "Cost": 260000
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Gold",
+              "Id": 104318,
+              "Count": 12,
+              "Rank": 4
+            },
+            {
+              "Name": "Golden Raven Insignia",
+              "Id": 112037,
+              "Count": 9,
+              "Rank": 3
+            },
+            { "Name": "Dvalin's Sigh", "Id": 113005, "Count": 2, "Rank": 5 }
+          ],
+          "Cost": 450000
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Gold",
+              "Id": 104318,
+              "Count": 16,
+              "Rank": 4
+            },
+            {
+              "Name": "Golden Raven Insignia",
+              "Id": 112037,
+              "Count": 12,
+              "Rank": 3
+            },
+            { "Name": "Dvalin's Sigh", "Id": 113005, "Count": 2, "Rank": 5 },
+            { "Name": "Crown of Insight", "Id": 104319, "Count": 1, "Rank": 5 }
+          ],
+          "Cost": 700000
+        }
+      ]
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "Id": 15039,
+  "Icon": "UI_RelicIcon_15039_4",
+  "Need": [2, 4],
+  "Rank": [4, 5],
+  "Affix": [
+    {
+      "paramList": [0.25],
+      "id": 215039,
+      "openConfig": "Relic_FallingAttack_2",
+      "affixId": 2150390,
+      "addProps": [
+        { "propType": "FIGHT_PROP_NONE" },
+        { "propType": "FIGHT_PROP_NONE" },
+        { "propType": "FIGHT_PROP_NONE" }
+      ],
+      "Name": "Long Night's Oath",
+      "Desc": "Plunging Attack DMG increased by 25%."
+    },
+    {
+      "level": 1,
+      "paramList": [1, 2, 2, 0.15, 6, 1, 5],
+      "id": 215039,
+      "openConfig": "Relic_FallingAttack_4",
+      "affixId": 2150391,
+      "addProps": [
+        { "propType": "FIGHT_PROP_NONE" },
+        { "propType": "FIGHT_PROP_NONE" },
+        { "propType": "FIGHT_PROP_NONE" }
+      ],
+      "Name": "Long Night's Oath",
+      "Desc": "After the equipping character's Plunging Attack/Charged Attack/Elemental Skill hits an opponent, they will gain 1/2/2 stack(s) of \"Radiance Everlasting.\" Plunging Attacks, Charged Attacks, or Elemental Skills can each trigger this effect once every 1s. Radiance Everlasting: Plunging Attacks deal 15% increased DMG for 6s. Max 5 stacks. Each stack's duration is counted independently."
+    }
+  ],
+  "Parts": {
+    "EQUIP_RING": {
+      "Icon": "UI_RelicIcon_15039_1",
+      "Name": "A Horn Unwinded",
+      "Desc": "A horn that was once used to summon those who had sworn oaths. It has long since lost its purpose.",
+      "Story": 185391
+    },
+    "EQUIP_NECKLACE": {
+      "Icon": "UI_RelicIcon_15039_2",
+      "Name": "Nightingale's Tail Feather",
+      "Desc": "A hat ornament intricately crafted from the feathers of a nightingale. They say that its form was first conceived by the original Torchforger.",
+      "Story": 185392
+    },
+    "EQUIP_DRESS": {
+      "Icon": "UI_RelicIcon_15039_3",
+      "Name": "Dyed Tassel",
+      "Desc": "An ancient heavy helmet. It is an heirloom that bears the mark of a venerable lineage of northern warriors.",
+      "Story": 185393
+    },
+    "EQUIP_BRACER": {
+      "Icon": "UI_RelicIcon_15039_4",
+      "Name": "Lightkeeper's Pledge",
+      "Desc": "A metal flower that was worn by the Ratniki. It symbolizes the oath of eternal vigilance taken by its original owner.",
+      "Story": 185394
+    },
+    "EQUIP_SHOES": {
+      "Icon": "UI_RelicIcon_15039_5",
+      "Name": "Undying One's Mourning Bell",
+      "Desc": "A bronze bell that was carried by a warrior who walked through the dark abyss. Its peal can be heard on pitch-black nights.",
+      "Story": 185395
+    }
+  }
+}

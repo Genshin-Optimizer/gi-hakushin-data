@@ -1,0 +1,65 @@
+{
+  "Id": 15002,
+  "Icon": "UI_RelicIcon_15002_4",
+  "Need": [2, 4],
+  "Rank": [3, 4, 5],
+  "Affix": [
+    {
+      "id": 215002,
+      "affixId": 2150020,
+      "addProps": [
+        { "value": 0.15, "propType": "FIGHT_PROP_WIND_ADD_HURT" },
+        { "propType": "FIGHT_PROP_NONE" },
+        { "propType": "FIGHT_PROP_NONE" }
+      ],
+      "Name": "Viridescent Venerer",
+      "Desc": "Anemo DMG Bonus +15%"
+    },
+    {
+      "level": 1,
+      "paramList": [0.6, 0.4, 10],
+      "id": 215002,
+      "openConfig": "Relic_ReactionWindEnhance",
+      "affixId": 2150021,
+      "addProps": [
+        { "propType": "FIGHT_PROP_NONE" },
+        { "propType": "FIGHT_PROP_NONE" },
+        { "propType": "FIGHT_PROP_NONE" }
+      ],
+      "Name": "Viridescent Venerer",
+      "Desc": "Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s."
+    }
+  ],
+  "Parts": {
+    "EQUIP_RING": {
+      "Icon": "UI_RelicIcon_15002_1",
+      "Name": "Viridescent Venerer's Vessel",
+      "Desc": "",
+      "Story": 185021
+    },
+    "EQUIP_NECKLACE": {
+      "Icon": "UI_RelicIcon_15002_2",
+      "Name": "Viridescent Arrow Feather",
+      "Desc": "",
+      "Story": 185022
+    },
+    "EQUIP_DRESS": {
+      "Icon": "UI_RelicIcon_15002_3",
+      "Name": "Viridescent Venerer's Diadem",
+      "Desc": "",
+      "Story": 185023
+    },
+    "EQUIP_BRACER": {
+      "Icon": "UI_RelicIcon_15002_4",
+      "Name": "In Remembrance of Viridescent Fields",
+      "Desc": "",
+      "Story": 185024
+    },
+    "EQUIP_SHOES": {
+      "Icon": "UI_RelicIcon_15002_5",
+      "Name": "Viridescent Venerer's Determination",
+      "Desc": "",
+      "Story": 185025
+    }
+  }
+}

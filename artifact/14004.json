@@ -1,0 +1,65 @@
+{
+  "Id": 14004,
+  "Icon": "UI_RelicIcon_14004_4",
+  "Need": [2, 4],
+  "Rank": [3, 4, 5],
+  "Affix": [
+    {
+      "id": 214004,
+      "affixId": 2140040,
+      "addProps": [
+        { "value": 0.15, "propType": "FIGHT_PROP_HEAL_ADD" },
+        { "propType": "FIGHT_PROP_NONE" },
+        { "propType": "FIGHT_PROP_NONE" }
+      ],
+      "Name": "Maiden Beloved",
+      "Desc": "Character Healing Effectiveness +15%"
+    },
+    {
+      "level": 1,
+      "paramList": [0.2, 10],
+      "id": 214004,
+      "openConfig": "Relic_SkillEnhanceCured",
+      "affixId": 2140041,
+      "addProps": [
+        { "propType": "FIGHT_PROP_NONE" },
+        { "propType": "FIGHT_PROP_NONE" },
+        { "propType": "FIGHT_PROP_NONE" }
+      ],
+      "Name": "Maiden Beloved",
+      "Desc": "Using an Elemental Skill or Burst increases healing received by all party members by 20% for 10s."
+    }
+  ],
+  "Parts": {
+    "EQUIP_RING": {
+      "Icon": "UI_RelicIcon_14004_1",
+      "Name": "Maiden's Fleeting Leisure",
+      "Desc": "",
+      "Story": 184041
+    },
+    "EQUIP_NECKLACE": {
+      "Icon": "UI_RelicIcon_14004_2",
+      "Name": "Maiden's Heart-Stricken Infatuation",
+      "Desc": "",
+      "Story": 184042
+    },
+    "EQUIP_DRESS": {
+      "Icon": "UI_RelicIcon_14004_3",
+      "Name": "Maiden's Fading Beauty",
+      "Desc": "",
+      "Story": 184043
+    },
+    "EQUIP_BRACER": {
+      "Icon": "UI_RelicIcon_14004_4",
+      "Name": "Maiden's Distant Love",
+      "Desc": "",
+      "Story": 184044
+    },
+    "EQUIP_SHOES": {
+      "Icon": "UI_RelicIcon_14004_5",
+      "Name": "Maiden's Passing Youth",
+      "Desc": "",
+      "Story": 184045
+    }
+  }
+}

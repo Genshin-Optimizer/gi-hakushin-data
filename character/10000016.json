@@ -1,0 +1,2543 @@
+{
+  "Name": "Diluc",
+  "Desc": "The tycoon of a winery empire in Mondstadt, unmatched in every possible way.",
+  "CharaInfo": {
+    "ReleaseDate": "2020-09-15 04:00:00",
+    "Birth": [4, 30],
+    "Vision": "Pyro",
+    "Constellation": "Noctua",
+    "Region": "ASSOC_TYPE_MONDSTADT",
+    "Title": "Dark Side of Dawn",
+    "Native": "Dawn Winery",
+    "Detail": "The tycoon of a winery empire in Mondstadt, unmatched in every possible way.",
+    "VA": {
+      "Chinese": "马洋",
+      "Japanese": "小野賢章",
+      "English": "Sean Chiplock",
+      "Korean": "Choi Seung-hoon"
+    },
+    "Stories": [
+      {
+        "Title": "Character Details",
+        "Text": "As the city of ballads and wines, Mondstadt's alcohol industry is renowned all over Teyvat.\\nAs owner of the Dawn Winery, Diluc is essentially in charge of half the industry. This means he has a huge stream of revenue and an entire network of information, in the form of tavern patrons' gossip, right at his fingertips.\\nIn a way, he is the uncrowned king of Mondstadt.",
+        "Unlock": []
+      },
+      {
+        "Title": "Character Story 1",
+        "Text": "The scent of wine always lingers in the air in Mondstadt.\\nIf one were to follow the scent to its source, one would invariably arrive at Diluc's Dawn Winery.\\nA wooden plaque proudly announces the winery's name, and beneath it is written the winery's motto:\\n\"Shine True.\"\\nMost interpret this to mean that the wines are brewed for consistency of taste, with time-honored techniques and that same healthy dose of sunny optimism that the dawn brings.\\nMeanwhile, the more pragmatic Knights of Favonius are reminded of the long history of mutual support between the winery and the city.\\nThe winery holds festivities from time to time. These events are routinely attended by enthusiastic fathers, eager to introduce their wonderful daughters to the young and single winery master.\\nThis is all highly entertaining to the other guests, who watch on and comment, mockingly:\\n\"We'd much rather Master Diluc stays married to the winery, given how good this wine is!\"\\nDiluc deals impeccably with all situations, no matter who or what comes his way.\\nDiluc is a fine young gentleman in every conceivable respect.\\n",
+        "Unlock": ["Unlocks at Friendship Lv. 2"]
+      },
+      {
+        "Title": "Character Story 2",
+        "Text": "Diluc avoids talking about the past.\\n\"If only Diluc were still a member of the Knights...\"\\nAfter a few drinks, senior knights will say words to this effect with a sigh.\\nThey refer to events from a long time ago, back when Diluc's father, Master Crepus, was still the owner of the winery. Master Crepus' wish was for his son to become the most esteemed knight of all and safeguard Mondstadt, the City of Freedom.\\nAs per his father's wishes, Diluc trained rigorously to make himself worthy of the Ragnvindr name. Sure enough, he passed the Knights of Favonius' trials, swore the oath of protection to Mondstadt, and entered their ranks. Before long, he received an early promotion which saw him become the youngest-ever Cavalry Captain.\\nOver the course of his missions and patrols, the denizens of Mondstadt gradually came to know this young and passionate Cavalry Captain.\\nNo matter what the missions demanded from him, he always maintained his composure and his passion. No matter how big the challenge before him, his boundless courage always led him to the front line. The praise he received from his comrades and citizens spurred him on.\\nBut the words of praise he valued most of all were:\\n\"Good job. Now, that's my son.\"\\nHis father's words fueled the fire inside his heart and served as his greatest motivation.\\nHis faith was an unquenchable fire that burned strong and bright inside him.\\nDiluc was so young back then.",
+        "Unlock": ["Unlocks at Friendship Lv. 3"]
+      },
+      {
+        "Title": "Character Story 3",
+        "Text": "\"Sometimes, life can change in an instant.\"\\nThe day that Crepus spoke these words to Diluc would turn out to be the latter's last as a Knight of Favonius.\\nFor on that day, a horrific monster attacked the transport fleet he and his father were traveling with.\\nThere was no time for Diluc to send for help. The monster was stronger than any foe the young Cavalry Captain had ever encountered, and overpowered him.\\nDiluc could never have anticipated the way this battle would end: His father, who had been denied admittance into the Knights and who was shunned by the gods, defeated the monster with an unknown evil power — before that same power backfired, mortally wounding Crepus himself. Crepus died shortly after in his son's arms.\\nWith a heavy heart, Diluc returned to the Knights' headquarters, only to receive an unthinkable order from Inspector Eroch: \"Conceal the truth.\"\\nEroch insisted that the incident must be portrayed as an unfortunate accident in order to maintain the reputation of the Knights of Favonius in the eyes of the public.\\nSuch was the sheer outrageousness of this request that Diluc did not think it was even worth trying to argue.\\nDiluc's father had once said to him that the world would never turn its back on the faithful.\\nBut now, the Knights of Favonius trampled on his faith like it was nothing. He couldn't help but wonder: What was his father's view on faith in his final moments?\\nDiluc resigned from the Knights that day and left everything behind, including his Vision.\\nHe swore to avenge his father's death, and to find the source of that occult power which had caused his father's demise.",
+        "Unlock": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "Character Story 4",
+        "Text": "After Diluc resigned and discarded his Vision, he handed the running of the Dawn Winery over to the head housemaid and left Mondstadt altogether.\\nDiluc traveled all across the seven nations of Teyvat in search of the truth.\\nAll clues pointed toward a behemoth of an organization: The Fatui. He learned that they made counterfeit Visions in secret, calling them \"Delusions.\" A Delusion could amplify the power of its bearer to its extreme, but also carried the risk of backfiring. That was what had caused his father's death.\\nWas it possible that his father could have obtained such a sacrilegious item in order to do good?\\nDiluc knew he may never know the full truth, but that could never stop him from pursuing it.\\nLike an eagle scouring the wilderness, he set off on his hunt for the truth. Determination burned like fire in his heart, unfathomable enigmas and unending battles could not sway him from his course. He pressed on relentlessly, scarred but undeterred, like a fiery tornado burning through the dense fog of mystery.\\nThe Fatui's rulers, the Harbingers, monitored Diluc's progress from the shadows. The prowess with which he laid waste to numerous Fatui strongholds caught their attention and forced them to take action.\\nDiluc narrowly escaped death at the hands of the Harbingers thanks to a third-party observer from the north, who was part of a vast underground intelligence network. The observer claimed to have been watching Diluc for some time, and approved of his methods.\\nAfter his close encounter with death, Diluc took a long hard look at his past and the anger he had harbored for so long. Acknowledging his shortcomings, he decided to join the underground intelligence network.\\nJust like when he first joined the Knights of Favonius, Diluc committed himself fully to his work. His talents and skills saw him rise steadily through the ranks into the upper echelons of the network.\\nThe network was made up of volunteers, and many of its members had willingly given up their prior positions and reputations to join. Some had even abandoned their names.\\nCould working with these new comrades finally restore the faith he once clung to? The faith that had been all but destroyed in the events surrounding his father's death?",
+        "Unlock": ["Unlocks at Friendship Lv. 5"]
+      },
+      {
+        "Title": "Character Story 5",
+        "Text": "\"Shine True.\" The background to this motto is hotly contested, but to Diluc it has one simple, clear meaning.\\n\"Evil cannot go unpunished.\\nNever settle for mediocrity. Never forget that the dawn will one day come.\"\\nDiluc's solitary sojourn lasted for three years.\\nFour years on, Diluc had returned to Mondstadt and taken over as head of the family winery, now a young man.\\nIn the space of these four years, Eroch had been purged from the Knights of Favonius after being shown to be a traitor, while Grand Master Varka had left on an expedition, leaving Master Jean to assume the role of Acting Grand Master.\\nThe return of the Dawn Winery's master should have been a momentous occasion for Mondstadt, but strangely it went completely unnoticed.\\nThe reason? Mondstadt's citizens were far too busy pondering the mysterious case of an unknown \"Guardian of Mondstadt.\"\\nAll that was known about the anonymous guardian was that the smell of burning would follow in his wake, and that a flash of red flames would reveal his silhouette for but a moment in the darkness of the night, before he disappeared in an instant.\\nThe bodies of monsters that had plagued Mondstadt for an age now lay dead in the wilderness... Mondstadt's most wanted thieves suddenly appeared bound and gagged, hanging from their feet in the statue plaza... All the Knights of Favonius were dispatched to reckon, once and for all, with the Abyss Mage behind countless crimes in the city, but they arrived only to discover that he had long since been killed...\\nAided by wine-fueled conversations, word of the mysterious guardian spread swiftly, and he came to be known as the \"Darknight Hero.\"\\nIn public, Diluc appeared to hold this hero in contempt, his face curling up in disgust every time the name was uttered.\\nElzer of the Mondstadt Wine Guild was one of the select few who was in the know, and once queried Diluc about this: Was his disapproval of the Darknight Hero just an act, intended to throw the knights off his trail and protect his anonymity?\\nBut Diluc simply frowned once more, and curtly replied: \"It's just a stupid name.\"",
+        "Unlock": ["Unlocks at Friendship Lv. 6"]
+      },
+      {
+        "Title": "Dawn Winery's Apple Cider",
+        "Text": "Diluc may hold the whole wine industry in the palm of his hand, but he himself is not fond of wine.\\nAt Diluc's request, the Dawn Winery developed several alcohol-free beverages, a decision which was met with resounding approval from those in Mondstadt who could not drink alcohol but still wanted to partake in the drinking culture.\\nOne of those alcohol-free beverages is Mondstadt's Apple Cider, the success of which is on a par with Dandelion Wine in terms of monthly sales volumes.\\nSome think that Diluc must have such high standards when it comes to wine that he is never seen drinking the mediocre-quality beverages that are available to the public.\\nOthers think that drinking wine must surely remind him of his father, and that that is why he does not touch it.\\nWhen pressed about his drinking habits, he responds by saying that alcohol clouds his thoughts, and consuming it would impact his day-to-day work.\\nBut the thing that people don't understand is: What kind of day-to-day work does a winery master do, if it requires him to never touch a drop of alcohol?",
+        "Unlock": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "Vision",
+        "Text": "Crepus had two regrets in life. One was never becoming a knight, and the other was never obtaining a Vision.\\nFor this reason, in the moment that Diluc received his Vision, he took it as a recognition by the gods of his and his father's shared ambition — finally, he could make his father proud.\\nJust a few years later, his father died on a dark and gloomy day. The hopes and dreams that burned bright in Diluc's Vision were extinguished in the torrential rain that fell on that night.\\nNo matter how upright and good-hearted a person may be, death will still come to them without warning.\\nIs this where the tale of justice ends? Just like that?\\nIt seemed to him that his Vision and his status as a knight were both equally ineffectual at enabling him to protect the things that he treasured most. It was time to discard them both, he decided.\\nWhen he recognized his own powerlessness, his Vision became but a burden, of no greater service than a Delusion.\\nEmpty titles were of no interest to him. He sought after ardent flames that would burn brighter than any other, and an unshakable resolve. Only a firm resolve can drive the truth-seeker forward, and only ardent flames can vanquish the ice that freezes the hand of justice.\\nOn the day that Diluc returned to Mondstadt, he took up his Vision once more. The events of his years away had purged him of his childish immaturity, and turned him into a hero ready to shoulder his father's will once more. Each night, from the shadows, he fought for Mondstadt.\\nHe did not discuss the past. But he did not deny the past, either.\\nTo the lost, perhaps a Vision is a beacon of light given by the gods to help them find the path forward.\\nBut to those with conviction, a Vision is simply an extension of their strength, a medium for channeling their willpower, a tribute to the experiences that have shaped them, and a testament to the story of their life so far.",
+        "Unlock": [
+          "Unlocks at Friendship Lv. 6",
+          "Complete \"Darknight Hero's Alibi\""
+        ]
+      }
+    ],
+    "Quotes": [
+      {
+        "Title": "Hello",
+        "Text": "Diluc, of Mondstadt. Not interested in idle chit-chat. If you have things you want to get done, let me know.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Chat: Relax",
+        "Text": "Guess we can rest a bit.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Chat: Knights of Favonius",
+        "Text": "You should really bring the Knights of Favonius with you next time.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Chat: Wine Guild",
+        "Text": "I still have a lot to do at the Guild. How about you take a rest while I go back?",
+        "Unlocked": []
+      },
+      {
+        "Title": "When It Rains: Umbrella",
+        "Text": "I don't need an umbrella, but you can use one if you need.",
+        "Unlocked": []
+      },
+      {
+        "Title": "When It Rains: Cleansing",
+        "Text": "Rain... If only it could cleanse the corrupt souls of this world.",
+        "Unlocked": []
+      },
+      {
+        "Title": "When the Sun Is Out",
+        "Text": "Listen, as long as you stick to your own path, it doesn't matter what Mother Nature throws at you.",
+        "Unlocked": []
+      },
+      {
+        "Title": "When the Wind Is Blowing",
+        "Text": "Some use the wind's whistling to drown out the sound of their crimes.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Good Morning",
+        "Text": "No need for small talk. All that matters is that you were safe last night.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Good Afternoon",
+        "Text": "Would you like to try the secret menu?",
+        "Unlocked": []
+      },
+      { "Title": "Good Evening", "Text": "Night has fallen.", "Unlocked": [] },
+      {
+        "Title": "Good Night",
+        "Text": "Alright, see you next time. I'll make sure you leave safely.",
+        "Unlocked": []
+      },
+      {
+        "Title": "About Diluc",
+        "Text": "The legend of the \"Darknight Hero\"? An interesting rumor.",
+        "Unlocked": []
+      },
+      {
+        "Title": "About Us: Needs",
+        "Text": "Just say the word if you need anything. For reimbursements, ask Elzer.",
+        "Unlocked": []
+      },
+      {
+        "Title": "About Us: Proof",
+        "Text": "You have already proven your determination. Well then, it is now time for you to witness my resolve.",
+        "Unlocked": ["Unlocks at Friendship Lv. 6"]
+      },
+      {
+        "Title": "About the Vision",
+        "Text": "Visions are a light in the sea of darkness that surrounds those who have lost their way. But for those who have faith, they are little more than badges of conviction.",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "Something to Share",
+        "Text": "Occasionally I'll work the bar at Angel's Share. The tavern is known for being the center of information in Mondstadt.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Interesting Things",
+        "Text": "What? Why do you ask? ...It's an owl, quietly watching its prey from the darkness, waiting for the perfect moment to strike... Flawless.",
+        "Unlocked": []
+      },
+      {
+        "Title": "About Kaeya",
+        "Text": "Kaeya? You can only trust half of what he says... at best.",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "About Lisa",
+        "Text": "I believe Lisa has the potential to become the most reliable of the knights. If she's willing.",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "About Jean: Enemies",
+        "Text": "Trifling matters can become Jean's greatest enemy.",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "About Jean: Responsibilities",
+        "Text": "Her unparalleled sense of responsibility is the sole reason why she still hasn't found her true calling.",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "About Mona",
+        "Text": "The land of Mondstadt, by the Anemo Archon's grace, is bountiful. I see no need for the harvest forecasts of astrologers.",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "About Diona",
+        "Text": "Diona's attitude towards me is... how should I put it? Rather rigid. I've yet to find the opportunity to speak with her properly. I'm not sure if it's an issue with my family line or— Oh? It's not? She simply despises alcohol? Huh... I never thought I'd come across another bartender like myself in Mondstadt.",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "About Varka",
+        "Text": "Grand Master Varka... While I understand his disposition, I can make no sense of his actions. ...I—I've said too much already. I've long since left the Knights of Favonius. Forget I said anything.",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "About Eula",
+        "Text": "Ah, yes... I've heard about her. She has her own convictions. Her determination to liberate herself from the shackles of her clan is praiseworthy. But, she's... joined the Knights of Favonius.",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "More About Diluc: I",
+        "Text": "You have business to attend to?",
+        "Unlocked": []
+      },
+      {
+        "Title": "More About Diluc: II",
+        "Text": "Huh? Knights of Favonius? ...I have nothing to say about them. We have different views is all.",
+        "Unlocked": ["Unlocks at Friendship Lv. 3"]
+      },
+      {
+        "Title": "More About Diluc: III",
+        "Text": "It's been a long while since I played chess with anyone but my butler. I just so happen to have a moment. Care to play a round?",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "More About Diluc: IV",
+        "Text": "Checkmate! ...Still, it's been a while since someone tested me this much.",
+        "Unlocked": ["Unlocks at Friendship Lv. 5"]
+      },
+      {
+        "Title": "More About Diluc: V",
+        "Text": "Not bad. Be it chess or combat, you always seem to surprise me. Hm, working with you is quite the novelty. So... I look forward to continuing to work with you, partner.",
+        "Unlocked": ["Unlocks at Friendship Lv. 6"]
+      },
+      {
+        "Title": "Diluc's Hobbies",
+        "Text": "The artwork in the manor? It's not mine. It's a collection that belonged to my late father.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Diluc's Troubles",
+        "Text": "The darkness that seethes with evil, full of demons that must be vanquished, will take more than a blade to be torn asunder.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Favorite Food",
+        "Text": "You want to know what's in my glass? It's... grape juice. My drink of choice.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Least Favorite Food",
+        "Text": "I don't like alcohol. It's just... I don't like how it feels in my mouth...",
+        "Unlocked": []
+      },
+      {
+        "Title": "Birthday",
+        "Text": "Happy birthday. This is an important day for you. So tell me, what is it you wish for? If it is within my power to bestow it upon you, I will give it my consideration.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Feelings About Ascension: Intro",
+        "Text": "Power is necessary if we are to meet our objectives.",
+        "Unlocked": ["Unlocks at Ascension Phase 1"]
+      },
+      {
+        "Title": "Feelings About Ascension: Building Up",
+        "Text": "What lies in wait for us? I rarely stop to think about it.\\nNo matter what dares to stand in my way, I must press forward.",
+        "Unlocked": ["Unlocks at Ascension Phase 2"]
+      },
+      {
+        "Title": "Feelings About Ascension: Climax",
+        "Text": "I've become stronger... Though it is still not enough, I will always face the darkness.\\nFor dawn to come, there must be those who dare to pierce the darkness with their light.",
+        "Unlocked": ["Unlocks at Ascension Phase 4"]
+      },
+      {
+        "Title": "Feelings About Ascension: Conclusion",
+        "Text": "I used to believe... if I was to stamp out evil, I would have to walk alone in darkness. However, seeing your perseverance, I know I was wrong. Friend... I owe you my thanks.",
+        "Unlocked": ["Unlocks at Ascension Phase 6"]
+      },
+      { "Title": "Elemental Skill: I", "Text": "Hmph.", "Unlocked": [] },
+      { "Title": "Elemental Skill: II", "Text": "Hah!", "Unlocked": [] },
+      { "Title": "Elemental Skill: III", "Text": "Haah!——", "Unlocked": [] },
+      {
+        "Title": "Elemental Burst: I",
+        "Text": "Your verdict is...!",
+        "Unlocked": []
+      },
+      { "Title": "Elemental Burst: II", "Text": "Burn!", "Unlocked": [] },
+      {
+        "Title": "Elemental Burst: III",
+        "Text": "Time for — retribution!",
+        "Unlocked": []
+      },
+      {
+        "Title": "Opening Treasure Chest: I",
+        "Text": "Hmph, better than nothing.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Opening Treasure Chest: II",
+        "Text": "I suppose this will do.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Opening Treasure Chest: III",
+        "Text": "We'll need more where that came from.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Low HP: I",
+        "Text": "Is that all you've got?",
+        "Unlocked": []
+      },
+      { "Title": "Low HP: II", "Text": "Darn you!", "Unlocked": [] },
+      {
+        "Title": "Low HP: III",
+        "Text": "You will pay for that!",
+        "Unlocked": []
+      },
+      { "Title": "Ally at Low HP: I", "Text": "Careful!", "Unlocked": [] },
+      {
+        "Title": "Ally at Low HP: II",
+        "Text": "Don't burn yourself out! Retreat!",
+        "Unlocked": []
+      },
+      {
+        "Title": "Fallen: I",
+        "Text": "Where did I go wrong...",
+        "Unlocked": []
+      },
+      {
+        "Title": "Fallen: II",
+        "Text": "There can be no excuse... for defeat...",
+        "Unlocked": []
+      },
+      {
+        "Title": "Fallen: III",
+        "Text": "My flame... has been... extinguished...",
+        "Unlocked": []
+      },
+      { "Title": "Heavy Hit Taken: I", "Text": "Urgh!", "Unlocked": [] },
+      { "Title": "Joining Party: I", "Text": "Let's go.", "Unlocked": [] },
+      {
+        "Title": "Joining Party: II",
+        "Text": "What's our objective?",
+        "Unlocked": []
+      },
+      {
+        "Title": "Joining Party: III",
+        "Text": "Let's finish this, swiftly.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Chat: Preparation",
+        "Text": "We should prepare while we can, then make a preemptive strike against the enemy.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Chat: Planning",
+        "Text": "Let's take a moment to rest and plan our next move.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Chat: Warning",
+        "Text": "Every course of action has its risks. Be careful.",
+        "Unlocked": []
+      },
+      { "Title": "Elemental Skill: I", "Text": "Huh!", "Unlocked": [] },
+      { "Title": "Elemental Skill: II", "Text": "Hyah!", "Unlocked": [] },
+      { "Title": "Elemental Skill: III", "Text": "Haah!—", "Unlocked": [] },
+      {
+        "Title": "Elemental Burst: I",
+        "Text": "Flames, purge!",
+        "Unlocked": []
+      },
+      {
+        "Title": "Elemental Burst: II",
+        "Text": "Lay waste to the wicked!",
+        "Unlocked": []
+      },
+      {
+        "Title": "Elemental Burst: III",
+        "Text": "Dawn, break forth!",
+        "Unlocked": []
+      },
+      {
+        "Title": "Receiving a Gift: I",
+        "Text": "Exquisite. Unforgettable flavors.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Receiving a Gift: II",
+        "Text": "I can see the chef put their heart into this one. A fine dish.",
+        "Unlocked": []
+      },
+      {
+        "Title": "Receiving a Gift: III",
+        "Text": "...Umm, thanks.",
+        "Unlocked": []
+      }
+    ],
+    "SpecialFood": {
+      "Id": 108058,
+      "Recipe": 3008,
+      "Name": "\"Once Upon a Time in Mondstadt\"",
+      "Icon": "UI_ItemIcon_108058",
+      "Rank": 3
+    },
+    "Namecard": {
+      "Id": 210005,
+      "Name": "Diluc: Flames",
+      "Desc": "Namecard style.\\nMaster Crepus painted many eagles during his lifetime, but he never could've foreseen creating an eagle with such fire.",
+      "Icon": "UI_NameCardPic_Diluc_P"
+    },
+    "Costume": [
+      {
+        "Id": 201601,
+        "Name": "Red Dead of Night",
+        "Desc": "One of the outfits Diluc wears during covert actions, it resembles a flame dancing in the shadows. The crimson red traces it leaves behind at the edges of the enemy's vision will scar their nightmares forever.",
+        "Icon": "UI_AvatarIcon_DilucCostumeFlamme",
+        "Quality": 5
+      },
+      {
+        "Id": 201600,
+        "Name": "Darknight Blaze",
+        "Desc": "Diluc's outfit. A smart and tasteful suit fit for a nobleman.",
+        "Icon": "",
+        "Quality": null
+      }
+    ],
+    "TraceEffect": [
+      {
+        "Id": 215005,
+        "Name": "Echo: Dark Side of Dawn",
+        "Desc": "Diluc's Envisaged Echo. The night owl's pinions ignite, that a corner of the darkness may have light.",
+        "Icon": "UI_TraceEffectIcon_Diluc"
+      }
+    ]
+  },
+  "Weapon": "WEAPON_CLAYMORE",
+  "Rarity": "QUALITY_ORANGE",
+  "Icon": "UI_AvatarIcon_Diluc",
+  "StaminaRecovery": 25,
+  "BaseHP": 1010.5192,
+  "BaseATK": 26.068,
+  "BaseDEF": 61.0266,
+  "CritRate": 0.05,
+  "CritDMG": 0.5,
+  "LevelEXP": [
+    1000, 1325, 1700, 2150, 2625, 3150, 3725, 4350, 5000, 5700, 6450, 7225,
+    8050, 8925, 9825, 10750, 11725, 12725, 13775, 14875, 16800, 18000, 19250,
+    20550, 21875, 23250, 24650, 26100, 27575, 29100, 30650, 32250, 33875, 35550,
+    37250, 38975, 40750, 42575, 44425, 46300, 50625, 52700, 54775, 56900, 59075,
+    61275, 63525, 65800, 68125, 70475, 76500, 79050, 81650, 84275, 86950, 89650,
+    92400, 95175, 98000, 100875, 108950, 112050, 115175, 118325, 121525, 124775,
+    128075, 131400, 134775, 138175, 148700, 152375, 156075, 159825, 163600,
+    167425, 171300, 175225, 179175, 183175, 216225, 243025, 273100, 306800,
+    344600, 386950, 434425, 487625, 547200, 613950
+  ],
+  "StatsModifier": {
+    "HP": {
+      "1": 1,
+      "2": 1.083,
+      "3": 1.166,
+      "4": 1.25,
+      "5": 1.333,
+      "6": 1.417,
+      "7": 1.5,
+      "8": 1.584,
+      "9": 1.668,
+      "10": 1.751,
+      "11": 1.835,
+      "12": 1.919,
+      "13": 2.003,
+      "14": 2.088,
+      "15": 2.172,
+      "16": 2.256,
+      "17": 2.341,
+      "18": 2.425,
+      "19": 2.51,
+      "20": 2.594,
+      "21": 2.679,
+      "22": 2.764,
+      "23": 2.849,
+      "24": 2.934,
+      "25": 3.019,
+      "26": 3.105,
+      "27": 3.19,
+      "28": 3.275,
+      "29": 3.361,
+      "30": 3.446,
+      "31": 3.532,
+      "32": 3.618,
+      "33": 3.704,
+      "34": 3.789,
+      "35": 3.875,
+      "36": 3.962,
+      "37": 4.048,
+      "38": 4.134,
+      "39": 4.22,
+      "40": 4.307,
+      "41": 4.393,
+      "42": 4.48,
+      "43": 4.567,
+      "44": 4.653,
+      "45": 4.74,
+      "46": 4.827,
+      "47": 4.914,
+      "48": 5.001,
+      "49": 5.089,
+      "50": 5.176,
+      "51": 5.263,
+      "52": 5.351,
+      "53": 5.438,
+      "54": 5.526,
+      "55": 5.614,
+      "56": 5.702,
+      "57": 5.79,
+      "58": 5.878,
+      "59": 5.966,
+      "60": 6.054,
+      "61": 6.142,
+      "62": 6.23,
+      "63": 6.319,
+      "64": 6.407,
+      "65": 6.496,
+      "66": 6.585,
+      "67": 6.673,
+      "68": 6.762,
+      "69": 6.851,
+      "70": 6.94,
+      "71": 7.029,
+      "72": 7.119,
+      "73": 7.208,
+      "74": 7.297,
+      "75": 7.387,
+      "76": 7.476,
+      "77": 7.566,
+      "78": 7.656,
+      "79": 7.746,
+      "80": 7.836,
+      "81": 7.926,
+      "82": 8.016,
+      "83": 8.106,
+      "84": 8.196,
+      "85": 8.286,
+      "86": 8.377,
+      "87": 8.467,
+      "88": 8.558,
+      "89": 8.649,
+      "90": 8.739,
+      "91": 8.83,
+      "92": 8.921,
+      "93": 9.012,
+      "94": 9.103,
+      "95": 9.195,
+      "96": 9.286,
+      "97": 9.377,
+      "98": 9.469,
+      "99": 9.56,
+      "100": 9.652
+    },
+    "ATK": {
+      "1": 1,
+      "2": 1.083,
+      "3": 1.166,
+      "4": 1.25,
+      "5": 1.333,
+      "6": 1.417,
+      "7": 1.5,
+      "8": 1.584,
+      "9": 1.668,
+      "10": 1.751,
+      "11": 1.835,
+      "12": 1.919,
+      "13": 2.003,
+      "14": 2.088,
+      "15": 2.172,
+      "16": 2.256,
+      "17": 2.341,
+      "18": 2.425,
+      "19": 2.51,
+      "20": 2.594,
+      "21": 2.679,
+      "22": 2.764,
+      "23": 2.849,
+      "24": 2.934,
+      "25": 3.019,
+      "26": 3.105,
+      "27": 3.19,
+      "28": 3.275,
+      "29": 3.361,
+      "30": 3.446,
+      "31": 3.532,
+      "32": 3.618,
+      "33": 3.704,
+      "34": 3.789,
+      "35": 3.875,
+      "36": 3.962,
+      "37": 4.048,
+      "38": 4.134,
+      "39": 4.22,
+      "40": 4.307,
+      "41": 4.393,
+      "42": 4.48,
+      "43": 4.567,
+      "44": 4.653,
+      "45": 4.74,
+      "46": 4.827,
+      "47": 4.914,
+      "48": 5.001,
+      "49": 5.089,
+      "50": 5.176,
+      "51": 5.263,
+      "52": 5.351,
+      "53": 5.438,
+      "54": 5.526,
+      "55": 5.614,
+      "56": 5.702,
+      "57": 5.79,
+      "58": 5.878,
+      "59": 5.966,
+      "60": 6.054,
+      "61": 6.142,
+      "62": 6.23,
+      "63": 6.319,
+      "64": 6.407,
+      "65": 6.496,
+      "66": 6.585,
+      "67": 6.673,
+      "68": 6.762,
+      "69": 6.851,
+      "70": 6.94,
+      "71": 7.029,
+      "72": 7.119,
+      "73": 7.208,
+      "74": 7.297,
+      "75": 7.387,
+      "76": 7.476,
+      "77": 7.566,
+      "78": 7.656,
+      "79": 7.746,
+      "80": 7.836,
+      "81": 7.926,
+      "82": 8.016,
+      "83": 8.106,
+      "84": 8.196,
+      "85": 8.286,
+      "86": 8.377,
+      "87": 8.467,
+      "88": 8.558,
+      "89": 8.649,
+      "90": 8.739,
+      "91": 8.83,
+      "92": 8.921,
+      "93": 9.012,
+      "94": 9.103,
+      "95": 9.195,
+      "96": 9.286,
+      "97": 9.377,
+      "98": 9.469,
+      "99": 9.56,
+      "100": 9.652
+    },
+    "DEF": {
+      "1": 1,
+      "2": 1.083,
+      "3": 1.166,
+      "4": 1.25,
+      "5": 1.333,
+      "6": 1.417,
+      "7": 1.5,
+      "8": 1.584,
+      "9": 1.668,
+      "10": 1.751,
+      "11": 1.835,
+      "12": 1.919,
+      "13": 2.003,
+      "14": 2.088,
+      "15": 2.172,
+      "16": 2.256,
+      "17": 2.341,
+      "18": 2.425,
+      "19": 2.51,
+      "20": 2.594,
+      "21": 2.679,
+      "22": 2.764,
+      "23": 2.849,
+      "24": 2.934,
+      "25": 3.019,
+      "26": 3.105,
+      "27": 3.19,
+      "28": 3.275,
+      "29": 3.361,
+      "30": 3.446,
+      "31": 3.532,
+      "32": 3.618,
+      "33": 3.704,
+      "34": 3.789,
+      "35": 3.875,
+      "36": 3.962,
+      "37": 4.048,
+      "38": 4.134,
+      "39": 4.22,
+      "40": 4.307,
+      "41": 4.393,
+      "42": 4.48,
+      "43": 4.567,
+      "44": 4.653,
+      "45": 4.74,
+      "46": 4.827,
+      "47": 4.914,
+      "48": 5.001,
+      "49": 5.089,
+      "50": 5.176,
+      "51": 5.263,
+      "52": 5.351,
+      "53": 5.438,
+      "54": 5.526,
+      "55": 5.614,
+      "56": 5.702,
+      "57": 5.79,
+      "58": 5.878,
+      "59": 5.966,
+      "60": 6.054,
+      "61": 6.142,
+      "62": 6.23,
+      "63": 6.319,
+      "64": 6.407,
+      "65": 6.496,
+      "66": 6.585,
+      "67": 6.673,
+      "68": 6.762,
+      "69": 6.851,
+      "70": 6.94,
+      "71": 7.029,
+      "72": 7.119,
+      "73": 7.208,
+      "74": 7.297,
+      "75": 7.387,
+      "76": 7.476,
+      "77": 7.566,
+      "78": 7.656,
+      "79": 7.746,
+      "80": 7.836,
+      "81": 7.926,
+      "82": 8.016,
+      "83": 8.106,
+      "84": 8.196,
+      "85": 8.286,
+      "86": 8.377,
+      "87": 8.467,
+      "88": 8.558,
+      "89": 8.649,
+      "90": 8.739,
+      "91": 8.83,
+      "92": 8.921,
+      "93": 9.012,
+      "94": 9.103,
+      "95": 9.195,
+      "96": 9.286,
+      "97": 9.377,
+      "98": 9.469,
+      "99": 9.56,
+      "100": 9.652
+    },
+    "Ascension": [
+      {
+        "FIGHT_PROP_BASE_HP": 866.42883,
+        "FIGHT_PROP_BASE_DEFENSE": 52.326,
+        "FIGHT_PROP_BASE_ATTACK": 22.34932,
+        "FIGHT_PROP_CRITICAL": 0
+      },
+      {
+        "FIGHT_PROP_BASE_HP": 1482.0493,
+        "FIGHT_PROP_BASE_DEFENSE": 89.505,
+        "FIGHT_PROP_BASE_ATTACK": 38.2291,
+        "FIGHT_PROP_CRITICAL": 0.048
+      },
+      {
+        "FIGHT_PROP_BASE_HP": 2302.8767,
+        "FIGHT_PROP_BASE_DEFENSE": 139.077,
+        "FIGHT_PROP_BASE_ATTACK": 59.40214,
+        "FIGHT_PROP_CRITICAL": 0.096
+      },
+      {
+        "FIGHT_PROP_BASE_HP": 2918.497,
+        "FIGHT_PROP_BASE_DEFENSE": 176.256,
+        "FIGHT_PROP_BASE_ATTACK": 75.28192,
+        "FIGHT_PROP_CRITICAL": 0.096
+      },
+      {
+        "FIGHT_PROP_BASE_HP": 3534.1177,
+        "FIGHT_PROP_BASE_DEFENSE": 213.435,
+        "FIGHT_PROP_BASE_ATTACK": 91.1617,
+        "FIGHT_PROP_CRITICAL": 0.144
+      },
+      {
+        "FIGHT_PROP_BASE_HP": 4149.7383,
+        "FIGHT_PROP_BASE_DEFENSE": 250.614,
+        "FIGHT_PROP_BASE_ATTACK": 107.04148,
+        "FIGHT_PROP_CRITICAL": 0.192
+      }
+    ],
+    "PropGrowCurves": [
+      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S5" },
+      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S5" },
+      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S5" }
+    ],
+    "RecommendedProps": []
+  },
+  "Skills": [
+    {
+      "Name": "Normal Attack: Tempered Sword",
+      "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 consecutive strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nDrains Stamina over time to perform continuous slashes.\\nAt the end of the sequence, performs a more powerful slash.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.",
+      "Promote": {
+        "0": {
+          "Level": 1,
+          "Icon": "Skill_A_04",
+          "Desc": [
+            "1-Hit DMG|{param1:F1P}",
+            "2-Hit DMG|{param2:F1P}",
+            "3-Hit DMG|{param3:F1P}",
+            "4-Hit DMG|{param4:P}",
+            "Charged Attack Cyclic DMG|{param5:F1P}",
+            "Charged Attack Final DMG|{param6:P}",
+            "Charged Attack Stamina Cost|{param7:F1}/s",
+            "Max Duration|{param8:F1}s",
+            "Plunge DMG|{param9:F1P}",
+            "Low/High Plunge DMG|{param10:P}/{param11:P}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            0.89698, 0.87634, 0.98814, 1.33988, 0.688, 1.247, 40, 5, 0.895054,
+            1.789728, 2.235467
+          ]
+        },
+        "1": {
+          "Level": 2,
+          "Icon": "Skill_A_04",
+          "Desc": [
+            "1-Hit DMG|{param1:F1P}",
+            "2-Hit DMG|{param2:F1P}",
+            "3-Hit DMG|{param3:P}",
+            "4-Hit DMG|{param4:P}",
+            "Charged Attack Cyclic DMG|{param5:F1P}",
+            "Charged Attack Final DMG|{param6:P}",
+            "Charged Attack Stamina Cost|{param7:F1}/s",
+            "Max Duration|{param8:F1}s",
+            "Plunge DMG|{param9:F1P}",
+            "Low/High Plunge DMG|{param10:P}/{param11:P}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            0.96999, 0.94767, 1.06857, 1.44894, 0.744, 1.3485, 40, 5, 0.967907,
+            1.935403, 2.417423
+          ]
+        },
+        "2": {
+          "Level": 3,
+          "Icon": "Skill_A_04",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "4-Hit DMG|{param4:P}",
+            "Charged Attack Cyclic DMG|{param5:F1P}",
+            "Charged Attack Final DMG|{param6:P}",
+            "Charged Attack Stamina Cost|{param7:F1}/s",
+            "Max Duration|{param8:F1}s",
+            "Plunge DMG|{param9:F1P}",
+            "Low/High Plunge DMG|{param10:P}/{param11:P}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            1.043, 1.019, 1.149, 1.558, 0.8, 1.45, 40, 5, 1.04076, 2.081079,
+            2.59938
+          ]
+        },
+        "3": {
+          "Level": 4,
+          "Icon": "Skill_A_04",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "4-Hit DMG|{param4:P}",
+            "Charged Attack Cyclic DMG|{param5:F1P}",
+            "Charged Attack Final DMG|{param6:P}",
+            "Charged Attack Stamina Cost|{param7:F1}/s",
+            "Max Duration|{param8:F1}s",
+            "Plunge DMG|{param9:F1P}",
+            "Low/High Plunge DMG|{param10:P}/{param11:P}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            1.1473, 1.1209, 1.2639, 1.7138, 0.88, 1.595, 40, 5, 1.144836,
+            2.289187, 2.859318
+          ]
+        },
+        "4": {
+          "Level": 5,
+          "Icon": "Skill_A_04",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "4-Hit DMG|{param4:P}",
+            "Charged Attack Cyclic DMG|{param5:F1P}",
+            "Charged Attack Final DMG|{param6:P}",
+            "Charged Attack Stamina Cost|{param7:F1}/s",
+            "Max Duration|{param8:F1}s",
+            "Plunge DMG|{param9:F1P}",
+            "Low/High Plunge DMG|{param10:P}/{param11:P}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            1.22031, 1.19223, 1.34433, 1.82286, 0.936, 1.6965, 40, 5, 1.217689,
+            2.434862, 3.041275
+          ]
+        },
+        "5": {
+          "Level": 6,
+          "Icon": "Skill_A_04",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "4-Hit DMG|{param4:P}",
+            "Charged Attack Cyclic DMG|{param5:P}",
+            "Charged Attack Final DMG|{param6:P}",
+            "Charged Attack Stamina Cost|{param7:F1}/s",
+            "Max Duration|{param8:F1}s",
+            "Plunge DMG|{param9:F1P}",
+            "Low/High Plunge DMG|{param10:P}/{param11:P}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            1.30375, 1.27375, 1.43625, 1.9475, 1, 1.8125, 40, 5, 1.30095,
+            2.601349, 3.249225
+          ]
+        },
+        "6": {
+          "Level": 7,
+          "Icon": "Skill_A_04",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "4-Hit DMG|{param4:P}",
+            "Charged Attack Cyclic DMG|{param5:P}",
+            "Charged Attack Final DMG|{param6:P}",
+            "Charged Attack Stamina Cost|{param7:F1}/s",
+            "Max Duration|{param8:F1}s",
+            "Plunge DMG|{param9:F1P}",
+            "Low/High Plunge DMG|{param10:P}/{param11:P}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            1.41848, 1.38584, 1.56264, 2.11888, 1.088, 1.972, 40, 5, 1.415434,
+            2.830267, 3.535157
+          ]
+        },
+        "7": {
+          "Level": 8,
+          "Icon": "Skill_A_04",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "4-Hit DMG|{param4:P}",
+            "Charged Attack Cyclic DMG|{param5:P}",
+            "Charged Attack Final DMG|{param6:P}",
+            "Charged Attack Stamina Cost|{param7:F1}/s",
+            "Max Duration|{param8:F1}s",
+            "Plunge DMG|{param9:F1P}",
+            "Low/High Plunge DMG|{param10:P}/{param11:P}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            1.53321, 1.49793, 1.68903, 2.29026, 1.176, 2.1315, 40, 5, 1.529917,
+            3.059186, 3.821089
+          ]
+        },
+        "8": {
+          "Level": 9,
+          "Icon": "Skill_A_04",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "4-Hit DMG|{param4:P}",
+            "Charged Attack Cyclic DMG|{param5:P}",
+            "Charged Attack Final DMG|{param6:P}",
+            "Charged Attack Stamina Cost|{param7:F1}/s",
+            "Max Duration|{param8:F1}s",
+            "Plunge DMG|{param9:F1P}",
+            "Low/High Plunge DMG|{param10:P}/{param11:P}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            1.64794, 1.61002, 1.81542, 2.46164, 1.264, 2.291, 40, 5, 1.644401,
+            3.288105, 4.10702
+          ]
+        },
+        "9": {
+          "Level": 10,
+          "Icon": "Skill_A_04",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "4-Hit DMG|{param4:P}",
+            "Charged Attack Cyclic DMG|{param5:P}",
+            "Charged Attack Final DMG|{param6:P}",
+            "Charged Attack Stamina Cost|{param7:F1}/s",
+            "Max Duration|{param8:F1}s",
+            "Plunge DMG|{param9:F1P}",
+            "Low/High Plunge DMG|{param10:P}/{param11:P}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            1.7731, 1.7323, 1.9533, 2.6486, 1.36, 2.465, 40, 5, 1.769292,
+            3.537834, 4.418946
+          ]
+        },
+        "10": {
+          "Level": 11,
+          "Icon": "Skill_A_04",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "4-Hit DMG|{param4:P}",
+            "Charged Attack Cyclic DMG|{param5:P}",
+            "Charged Attack Final DMG|{param6:P}",
+            "Charged Attack Stamina Cost|{param7:F1}/s",
+            "Max Duration|{param8:F1}s",
+            "Plunge DMG|{param9:F1P}",
+            "Low/High Plunge DMG|{param10:P}/{param11:P}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            1.916513, 1.872412, 2.111287, 2.862825, 1.47, 2.664375, 40, 5,
+            1.894183, 3.787564, 4.730872
+          ]
+        },
+        "11": {
+          "Level": 12,
+          "Icon": "Skill_A_04",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "4-Hit DMG|{param4:P}",
+            "Charged Attack Cyclic DMG|{param5:P}",
+            "Charged Attack Final DMG|{param6:P}",
+            "Charged Attack Stamina Cost|{param7:F1}/s",
+            "Max Duration|{param8:F1}s",
+            "Plunge DMG|{param9:F1P}",
+            "Low/High Plunge DMG|{param10:P}/{param11:P}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            2.085166, 2.037185, 2.297081, 3.114754, 1.59936, 2.89884, 40, 5,
+            2.019074, 4.037293, 5.042797
+          ]
+        },
+        "12": {
+          "Level": 13,
+          "Icon": "Skill_A_04",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "4-Hit DMG|{param4:P}",
+            "Charged Attack Cyclic DMG|{param5:P}",
+            "Charged Attack Final DMG|{param6:P}",
+            "Charged Attack Stamina Cost|{param7:F1}/s",
+            "Max Duration|{param8:F1}s",
+            "Plunge DMG|{param9:F1P}",
+            "Low/High Plunge DMG|{param10:P}/{param11:P}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            2.253819, 2.201957, 2.482874, 3.366682, 1.72872, 3.133305, 40, 5,
+            2.143966, 4.287023, 5.354723
+          ]
+        },
+        "13": {
+          "Level": 14,
+          "Icon": "Skill_A_04",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "4-Hit DMG|{param4:P}",
+            "Charged Attack Cyclic DMG|{param5:P}",
+            "Charged Attack Final DMG|{param6:P}",
+            "Charged Attack Stamina Cost|{param7:F1}/s",
+            "Max Duration|{param8:F1}s",
+            "Plunge DMG|{param9:F1P}",
+            "Low/High Plunge DMG|{param10:P}/{param11:P}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            2.422472, 2.366729, 2.668667, 3.618611, 1.85808, 3.36777, 40, 5,
+            2.268857, 4.536752, 5.666648
+          ]
+        },
+        "14": {
+          "Level": 15,
+          "Icon": "Skill_A_04",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "4-Hit DMG|{param4:P}",
+            "Charged Attack Cyclic DMG|{param5:P}",
+            "Charged Attack Final DMG|{param6:P}",
+            "Charged Attack Stamina Cost|{param7:F1}/s",
+            "Max Duration|{param8:F1}s",
+            "Plunge DMG|{param9:F1P}",
+            "Low/High Plunge DMG|{param10:P}/{param11:P}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [
+            2.606457, 2.546481, 2.871351, 3.893442, 1.9992, 3.62355, 40, 5,
+            2.393748, 4.786482, 5.978574
+          ]
+        }
+      }
+    },
+    {
+      "Name": "Searing Onslaught",
+      "Desc": "Performs a forward slash that deals <color=#FF9999FF>Pyro DMG</color>.\\n\\nThis skill can be consecutively used 3 times.\\nEnters CD if not cast again within a short period.\\n\\n<i>The slashes represent the values that Diluc holds dear: one for justice, one for courage, and one for duty.</i>",
+      "Promote": {
+        "0": {
+          "Level": 1,
+          "Icon": "Skill_S_Diluc_01_01",
+          "Desc": [
+            "1-Hit DMG|{param1:F1P}",
+            "2-Hit DMG|{param2:F1P}",
+            "3-Hit DMG|{param3:P}",
+            "CD|{param4:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [0.944, 0.976, 1.288, 10]
+        },
+        "1": {
+          "Level": 2,
+          "Icon": "Skill_S_Diluc_01_01",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "CD|{param4:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.0148, 1.0492, 1.3846, 10]
+        },
+        "2": {
+          "Level": 3,
+          "Icon": "Skill_S_Diluc_01_01",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "CD|{param4:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.0856, 1.1224, 1.4812, 10]
+        },
+        "3": {
+          "Level": 4,
+          "Icon": "Skill_S_Diluc_01_01",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "CD|{param4:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.18, 1.22, 1.61, 10]
+        },
+        "4": {
+          "Level": 5,
+          "Icon": "Skill_S_Diluc_01_01",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "CD|{param4:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.2508, 1.2932, 1.7066, 10]
+        },
+        "5": {
+          "Level": 6,
+          "Icon": "Skill_S_Diluc_01_01",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "CD|{param4:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.3216, 1.3664, 1.8032, 10]
+        },
+        "6": {
+          "Level": 7,
+          "Icon": "Skill_S_Diluc_01_01",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "CD|{param4:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.416, 1.464, 1.932, 10]
+        },
+        "7": {
+          "Level": 8,
+          "Icon": "Skill_S_Diluc_01_01",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "CD|{param4:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.5104, 1.5616, 2.0608, 10]
+        },
+        "8": {
+          "Level": 9,
+          "Icon": "Skill_S_Diluc_01_01",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "CD|{param4:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.6048, 1.6592, 2.1896, 10]
+        },
+        "9": {
+          "Level": 10,
+          "Icon": "Skill_S_Diluc_01_01",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "CD|{param4:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.6992, 1.7568, 2.3184, 10]
+        },
+        "10": {
+          "Level": 11,
+          "Icon": "Skill_S_Diluc_01_01",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "CD|{param4:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.7936, 1.8544, 2.4472, 10]
+        },
+        "11": {
+          "Level": 12,
+          "Icon": "Skill_S_Diluc_01_01",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "CD|{param4:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [1.888, 1.952, 2.576, 10]
+        },
+        "12": {
+          "Level": 13,
+          "Icon": "Skill_S_Diluc_01_01",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "CD|{param4:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [2.006, 2.074, 2.737, 10]
+        },
+        "13": {
+          "Level": 14,
+          "Icon": "Skill_S_Diluc_01_01",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "CD|{param4:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [2.124, 2.196, 2.898, 10]
+        },
+        "14": {
+          "Level": 15,
+          "Icon": "Skill_S_Diluc_01_01",
+          "Desc": [
+            "1-Hit DMG|{param1:P}",
+            "2-Hit DMG|{param2:P}",
+            "3-Hit DMG|{param3:P}",
+            "CD|{param4:F1}s",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [2.242, 2.318, 3.059, 10]
+        }
+      }
+    },
+    {
+      "Name": "Dawn",
+      "Desc": "Releases intense flames to knock back nearby opponents, dealing <color=#FF9999FF>Pyro DMG</color>. The flames then converge into the weapon, summoning a Phoenix that flies forward and deals massive <color=#FF9999FF>Pyro DMG</color> to all opponents in its path. The Phoenix explodes upon reaching its destination, causing a large amount of <color=#FF9999FF>AoE Pyro DMG</color>.\\nThe searing flames that run down his blade cause it to be infused with <color=#FF9999FF>Pyro</color>.\\n\\n<i>The only reason to walk in the darkness is to light it up. Behold, that fleeing light in the dead of night is the herald of the coming dawn.</i>",
+      "Promote": {
+        "0": {
+          "Level": 1,
+          "Icon": "Skill_E_Diluc_01",
+          "Desc": [
+            "Slashing DMG|{param1:P}",
+            "DoT|{param2:F1P}",
+            "Explosion DMG|{param3:P}",
+            "CD|{param4:F1}s",
+            "Infusion Duration|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [2.04, 0.6, 2.04, 12, 8, 40]
+        },
+        "1": {
+          "Level": 2,
+          "Icon": "Skill_E_Diluc_01",
+          "Desc": [
+            "Slashing DMG|{param1:P}",
+            "DoT|{param2:F1P}",
+            "Explosion DMG|{param3:P}",
+            "CD|{param4:F1}s",
+            "Infusion Duration|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [2.193, 0.645, 2.193, 12, 8, 40]
+        },
+        "2": {
+          "Level": 3,
+          "Icon": "Skill_E_Diluc_01",
+          "Desc": [
+            "Slashing DMG|{param1:P}",
+            "DoT|{param2:F1P}",
+            "Explosion DMG|{param3:P}",
+            "CD|{param4:F1}s",
+            "Infusion Duration|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [2.346, 0.69, 2.346, 12, 8, 40]
+        },
+        "3": {
+          "Level": 4,
+          "Icon": "Skill_E_Diluc_01",
+          "Desc": [
+            "Slashing DMG|{param1:P}",
+            "DoT|{param2:F1P}",
+            "Explosion DMG|{param3:P}",
+            "CD|{param4:F1}s",
+            "Infusion Duration|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [2.55, 0.75, 2.55, 12, 8, 40]
+        },
+        "4": {
+          "Level": 5,
+          "Icon": "Skill_E_Diluc_01",
+          "Desc": [
+            "Slashing DMG|{param1:P}",
+            "DoT|{param2:F1P}",
+            "Explosion DMG|{param3:P}",
+            "CD|{param4:F1}s",
+            "Infusion Duration|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [2.703, 0.795, 2.703, 12, 8, 40]
+        },
+        "5": {
+          "Level": 6,
+          "Icon": "Skill_E_Diluc_01",
+          "Desc": [
+            "Slashing DMG|{param1:P}",
+            "DoT|{param2:F1P}",
+            "Explosion DMG|{param3:P}",
+            "CD|{param4:F1}s",
+            "Infusion Duration|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [2.856, 0.84, 2.856, 12, 8, 40]
+        },
+        "6": {
+          "Level": 7,
+          "Icon": "Skill_E_Diluc_01",
+          "Desc": [
+            "Slashing DMG|{param1:P}",
+            "DoT|{param2:F1P}",
+            "Explosion DMG|{param3:P}",
+            "CD|{param4:F1}s",
+            "Infusion Duration|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [3.06, 0.9, 3.06, 12, 8, 40]
+        },
+        "7": {
+          "Level": 8,
+          "Icon": "Skill_E_Diluc_01",
+          "Desc": [
+            "Slashing DMG|{param1:P}",
+            "DoT|{param2:F1P}",
+            "Explosion DMG|{param3:P}",
+            "CD|{param4:F1}s",
+            "Infusion Duration|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [3.264, 0.96, 3.264, 12, 8, 40]
+        },
+        "8": {
+          "Level": 9,
+          "Icon": "Skill_E_Diluc_01",
+          "Desc": [
+            "Slashing DMG|{param1:P}",
+            "DoT|{param2:P}",
+            "Explosion DMG|{param3:P}",
+            "CD|{param4:F1}s",
+            "Infusion Duration|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [3.468, 1.02, 3.468, 12, 8, 40]
+        },
+        "9": {
+          "Level": 10,
+          "Icon": "Skill_E_Diluc_01",
+          "Desc": [
+            "Slashing DMG|{param1:P}",
+            "DoT|{param2:P}",
+            "Explosion DMG|{param3:P}",
+            "CD|{param4:F1}s",
+            "Infusion Duration|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [3.672, 1.08, 3.672, 12, 8, 40]
+        },
+        "10": {
+          "Level": 11,
+          "Icon": "Skill_E_Diluc_01",
+          "Desc": [
+            "Slashing DMG|{param1:P}",
+            "DoT|{param2:P}",
+            "Explosion DMG|{param3:P}",
+            "CD|{param4:F1}s",
+            "Infusion Duration|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [3.876, 1.14, 3.876, 12, 8, 40]
+        },
+        "11": {
+          "Level": 12,
+          "Icon": "Skill_E_Diluc_01",
+          "Desc": [
+            "Slashing DMG|{param1:P}",
+            "DoT|{param2:P}",
+            "Explosion DMG|{param3:P}",
+            "CD|{param4:F1}s",
+            "Infusion Duration|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [4.08, 1.2, 4.08, 12, 8, 40]
+        },
+        "12": {
+          "Level": 13,
+          "Icon": "Skill_E_Diluc_01",
+          "Desc": [
+            "Slashing DMG|{param1:P}",
+            "DoT|{param2:P}",
+            "Explosion DMG|{param3:P}",
+            "CD|{param4:F1}s",
+            "Infusion Duration|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [4.335, 1.275, 4.335, 12, 8, 40]
+        },
+        "13": {
+          "Level": 14,
+          "Icon": "Skill_E_Diluc_01",
+          "Desc": [
+            "Slashing DMG|{param1:P}",
+            "DoT|{param2:P}",
+            "Explosion DMG|{param3:P}",
+            "CD|{param4:F1}s",
+            "Infusion Duration|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [4.59, 1.35, 4.59, 12, 8, 40]
+        },
+        "14": {
+          "Level": 15,
+          "Icon": "Skill_E_Diluc_01",
+          "Desc": [
+            "Slashing DMG|{param1:P}",
+            "DoT|{param2:P}",
+            "Explosion DMG|{param3:P}",
+            "CD|{param4:F1}s",
+            "Infusion Duration|{param5:F1}s",
+            "Energy Cost|{param6:I}",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "Param": [4.845, 1.425, 4.845, 12, 8, 40]
+        }
+      }
+    }
+  ],
+  "Passives": [
+    {
+      "Name": "Relentless",
+      "Desc": "Diluc's Charged Attack Stamina Cost is decreased by 50%, and its duration is increased by 3s.",
+      "Icon": "UI_Talent_S_Diluc_05",
+      "Unlock": 1,
+      "ParamList": [0.5, 3]
+    },
+    {
+      "Name": "Blessing of Phoenix",
+      "Desc": "The <color=#FF9999FF>Pyro Infusion</color> provided by <color=#FFD780FF>Dawn</color> lasts for 4s longer. Additionally, Diluc gains 20% <color=#FF9999FF>Pyro DMG Bonus</color> during the duration of this effect.",
+      "Icon": "UI_Talent_S_Diluc_06",
+      "Unlock": 4,
+      "ParamList": [4, 0.2]
+    },
+    {
+      "Name": "Tradition of the Dawn Knight",
+      "Desc": "Refunds 15% of the ore used when crafting Claymore-type weapons.",
+      "Icon": "UI_Talent_Forge_Claymore",
+      "Unlock": 0,
+      "ParamList": []
+    }
+  ],
+  "Constellations": [
+    {
+      "Name": "Conviction",
+      "Desc": "Diluc deals 15% more DMG to opponents whose HP is above 50%.",
+      "Icon": "UI_Talent_S_Diluc_01",
+      "ParamList": [0.15]
+    },
+    {
+      "Name": "Searing Ember",
+      "Desc": "When Diluc takes DMG, his ATK increases by 10% and his ATK SPD increases by 5%. Lasts for 10s.\\nThis effect can stack up to 3 times and can only occur once every 1.5s.",
+      "Icon": "UI_Talent_S_Diluc_02",
+      "ParamList": [0.1, 0.05, 10, 3, 1.5]
+    },
+    {
+      "Name": "Fire and Steel",
+      "Desc": "Increases the Level of <color=#FFD780FF>Searing Onslaught</color> by 3.\\nMaximum upgrade level is 15.",
+      "Icon": "UI_Talent_U_Diluc_01",
+      "ParamList": []
+    },
+    {
+      "Name": "Flowing Flame",
+      "Desc": "Casting <color=#FFD780FF>Searing Onslaught</color> in rhythm greatly increases damage dealt.\\n2s after casting <color=#FFD780FF>Searing Onslaught</color>, casting the next Searing Onslaught in the combo deals 40% additional DMG. This effect lasts for 2s.",
+      "Icon": "UI_Talent_S_Diluc_03",
+      "ParamList": [0.4]
+    },
+    {
+      "Name": "Phoenix, Harbinger of Dawn",
+      "Desc": "Increases the Level of <color=#FFD780FF>Dawn</color> by 3.\\nMaximum upgrade level is 15.",
+      "Icon": "UI_Talent_U_Diluc_02",
+      "ParamList": []
+    },
+    {
+      "Name": "Flaming Sword, Nemesis of the Dark",
+      "Desc": "After casting <color=#FFD780FF>Searing Onslaught</color>, the next 2 Normal Attacks within the next 6s will have their DMG and ATK SPD increased by 30%.\\nAdditionally, Searing Onslaught will not interrupt the Normal Attack combo.",
+      "Icon": "UI_Talent_S_Diluc_04",
+      "ParamList": [6, 0.3, 0.3]
+    }
+  ],
+  "Materials": {
+    "Ascensions": [
+      {
+        "Mats": [
+          {
+            "Name": "Agnidus Agate Sliver",
+            "Id": 104111,
+            "Count": 1,
+            "Rank": 2
+          },
+          { "Name": "Small Lamp Grass", "Id": 100055, "Count": 3, "Rank": 1 },
+          { "Name": "Recruit's Insignia", "Id": 112032, "Count": 3, "Rank": 1 }
+        ],
+        "Cost": 20000
+      },
+      {
+        "Mats": [
+          {
+            "Name": "Agnidus Agate Fragment",
+            "Id": 104112,
+            "Count": 3,
+            "Rank": 3
+          },
+          { "Name": "Everflame Seed", "Id": 113011, "Count": 2, "Rank": 4 },
+          { "Name": "Small Lamp Grass", "Id": 100055, "Count": 10, "Rank": 1 },
+          { "Name": "Recruit's Insignia", "Id": 112032, "Count": 15, "Rank": 1 }
+        ],
+        "Cost": 40000
+      },
+      {
+        "Mats": [
+          {
+            "Name": "Agnidus Agate Fragment",
+            "Id": 104112,
+            "Count": 6,
+            "Rank": 3
+          },
+          { "Name": "Everflame Seed", "Id": 113011, "Count": 4, "Rank": 4 },
+          { "Name": "Small Lamp Grass", "Id": 100055, "Count": 20, "Rank": 1 },
+          {
+            "Name": "Sergeant's Insignia",
+            "Id": 112033,
+            "Count": 12,
+            "Rank": 2
+          }
+        ],
+        "Cost": 60000
+      },
+      {
+        "Mats": [
+          {
+            "Name": "Agnidus Agate Chunk",
+            "Id": 104113,
+            "Count": 3,
+            "Rank": 4
+          },
+          { "Name": "Everflame Seed", "Id": 113011, "Count": 8, "Rank": 4 },
+          { "Name": "Small Lamp Grass", "Id": 100055, "Count": 30, "Rank": 1 },
+          {
+            "Name": "Sergeant's Insignia",
+            "Id": 112033,
+            "Count": 18,
+            "Rank": 2
+          }
+        ],
+        "Cost": 80000
+      },
+      {
+        "Mats": [
+          {
+            "Name": "Agnidus Agate Chunk",
+            "Id": 104113,
+            "Count": 6,
+            "Rank": 4
+          },
+          { "Name": "Everflame Seed", "Id": 113011, "Count": 12, "Rank": 4 },
+          { "Name": "Small Lamp Grass", "Id": 100055, "Count": 45, "Rank": 1 },
+          {
+            "Name": "Lieutenant's Insignia",
+            "Id": 112034,
+            "Count": 12,
+            "Rank": 3
+          }
+        ],
+        "Cost": 100000
+      },
+      {
+        "Mats": [
+          {
+            "Name": "Agnidus Agate Gemstone",
+            "Id": 104114,
+            "Count": 6,
+            "Rank": 5
+          },
+          { "Name": "Everflame Seed", "Id": 113011, "Count": 20, "Rank": 4 },
+          { "Name": "Small Lamp Grass", "Id": 100055, "Count": 60, "Rank": 1 },
+          {
+            "Name": "Lieutenant's Insignia",
+            "Id": 112034,
+            "Count": 24,
+            "Rank": 3
+          }
+        ],
+        "Cost": 120000
+      }
+    ],
+    "Talents": [
+      [
+        {
+          "Mats": [
+            {
+              "Name": "Teachings of Resistance",
+              "Id": 104304,
+              "Count": 3,
+              "Rank": 2
+            },
+            {
+              "Name": "Recruit's Insignia",
+              "Id": 112032,
+              "Count": 6,
+              "Rank": 1
+            }
+          ],
+          "Cost": 12500
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Guide to Resistance",
+              "Id": 104305,
+              "Count": 2,
+              "Rank": 3
+            },
+            {
+              "Name": "Sergeant's Insignia",
+              "Id": 112033,
+              "Count": 3,
+              "Rank": 2
+            }
+          ],
+          "Cost": 17500
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Guide to Resistance",
+              "Id": 104305,
+              "Count": 4,
+              "Rank": 3
+            },
+            {
+              "Name": "Sergeant's Insignia",
+              "Id": 112033,
+              "Count": 4,
+              "Rank": 2
+            }
+          ],
+          "Cost": 25000
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Guide to Resistance",
+              "Id": 104305,
+              "Count": 6,
+              "Rank": 3
+            },
+            {
+              "Name": "Sergeant's Insignia",
+              "Id": 112033,
+              "Count": 6,
+              "Rank": 2
+            }
+          ],
+          "Cost": 30000
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Guide to Resistance",
+              "Id": 104305,
+              "Count": 9,
+              "Rank": 3
+            },
+            {
+              "Name": "Sergeant's Insignia",
+              "Id": 112033,
+              "Count": 9,
+              "Rank": 2
+            }
+          ],
+          "Cost": 37500
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Resistance",
+              "Id": 104306,
+              "Count": 4,
+              "Rank": 4
+            },
+            {
+              "Name": "Lieutenant's Insignia",
+              "Id": 112034,
+              "Count": 4,
+              "Rank": 3
+            },
+            { "Name": "Dvalin's Plume", "Id": 113003, "Count": 1, "Rank": 5 }
+          ],
+          "Cost": 120000
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Resistance",
+              "Id": 104306,
+              "Count": 6,
+              "Rank": 4
+            },
+            {
+              "Name": "Lieutenant's Insignia",
+              "Id": 112034,
+              "Count": 6,
+              "Rank": 3
+            },
+            { "Name": "Dvalin's Plume", "Id": 113003, "Count": 1, "Rank": 5 }
+          ],
+          "Cost": 260000
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Resistance",
+              "Id": 104306,
+              "Count": 12,
+              "Rank": 4
+            },
+            {
+              "Name": "Lieutenant's Insignia",
+              "Id": 112034,
+              "Count": 9,
+              "Rank": 3
+            },
+            { "Name": "Dvalin's Plume", "Id": 113003, "Count": 2, "Rank": 5 }
+          ],
+          "Cost": 450000
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Resistance",
+              "Id": 104306,
+              "Count": 16,
+              "Rank": 4
+            },
+            {
+              "Name": "Lieutenant's Insignia",
+              "Id": 112034,
+              "Count": 12,
+              "Rank": 3
+            },
+            { "Name": "Dvalin's Plume", "Id": 113003, "Count": 2, "Rank": 5 },
+            { "Name": "Crown of Insight", "Id": 104319, "Count": 1, "Rank": 5 }
+          ],
+          "Cost": 700000
+        }
+      ],
+      [
+        {
+          "Mats": [
+            {
+              "Name": "Teachings of Resistance",
+              "Id": 104304,
+              "Count": 3,
+              "Rank": 2
+            },
+            {
+              "Name": "Recruit's Insignia",
+              "Id": 112032,
+              "Count": 6,
+              "Rank": 1
+            }
+          ],
+          "Cost": 12500
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Guide to Resistance",
+              "Id": 104305,
+              "Count": 2,
+              "Rank": 3
+            },
+            {
+              "Name": "Sergeant's Insignia",
+              "Id": 112033,
+              "Count": 3,
+              "Rank": 2
+            }
+          ],
+          "Cost": 17500
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Guide to Resistance",
+              "Id": 104305,
+              "Count": 4,
+              "Rank": 3
+            },
+            {
+              "Name": "Sergeant's Insignia",
+              "Id": 112033,
+              "Count": 4,
+              "Rank": 2
+            }
+          ],
+          "Cost": 25000
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Guide to Resistance",
+              "Id": 104305,
+              "Count": 6,
+              "Rank": 3
+            },
+            {
+              "Name": "Sergeant's Insignia",
+              "Id": 112033,
+              "Count": 6,
+              "Rank": 2
+            }
+          ],
+          "Cost": 30000
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Guide to Resistance",
+              "Id": 104305,
+              "Count": 9,
+              "Rank": 3
+            },
+            {
+              "Name": "Sergeant's Insignia",
+              "Id": 112033,
+              "Count": 9,
+              "Rank": 2
+            }
+          ],
+          "Cost": 37500
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Resistance",
+              "Id": 104306,
+              "Count": 4,
+              "Rank": 4
+            },
+            {
+              "Name": "Lieutenant's Insignia",
+              "Id": 112034,
+              "Count": 4,
+              "Rank": 3
+            },
+            { "Name": "Dvalin's Plume", "Id": 113003, "Count": 1, "Rank": 5 }
+          ],
+          "Cost": 120000
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Resistance",
+              "Id": 104306,
+              "Count": 6,
+              "Rank": 4
+            },
+            {
+              "Name": "Lieutenant's Insignia",
+              "Id": 112034,
+              "Count": 6,
+              "Rank": 3
+            },
+            { "Name": "Dvalin's Plume", "Id": 113003, "Count": 1, "Rank": 5 }
+          ],
+          "Cost": 260000
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Resistance",
+              "Id": 104306,
+              "Count": 12,
+              "Rank": 4
+            },
+            {
+              "Name": "Lieutenant's Insignia",
+              "Id": 112034,
+              "Count": 9,
+              "Rank": 3
+            },
+            { "Name": "Dvalin's Plume", "Id": 113003, "Count": 2, "Rank": 5 }
+          ],
+          "Cost": 450000
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Resistance",
+              "Id": 104306,
+              "Count": 16,
+              "Rank": 4
+            },
+            {
+              "Name": "Lieutenant's Insignia",
+              "Id": 112034,
+              "Count": 12,
+              "Rank": 3
+            },
+            { "Name": "Dvalin's Plume", "Id": 113003, "Count": 2, "Rank": 5 },
+            { "Name": "Crown of Insight", "Id": 104319, "Count": 1, "Rank": 5 }
+          ],
+          "Cost": 700000
+        }
+      ],
+      [
+        {
+          "Mats": [
+            {
+              "Name": "Teachings of Resistance",
+              "Id": 104304,
+              "Count": 3,
+              "Rank": 2
+            },
+            {
+              "Name": "Recruit's Insignia",
+              "Id": 112032,
+              "Count": 6,
+              "Rank": 1
+            }
+          ],
+          "Cost": 12500
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Guide to Resistance",
+              "Id": 104305,
+              "Count": 2,
+              "Rank": 3
+            },
+            {
+              "Name": "Sergeant's Insignia",
+              "Id": 112033,
+              "Count": 3,
+              "Rank": 2
+            }
+          ],
+          "Cost": 17500
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Guide to Resistance",
+              "Id": 104305,
+              "Count": 4,
+              "Rank": 3
+            },
+            {
+              "Name": "Sergeant's Insignia",
+              "Id": 112033,
+              "Count": 4,
+              "Rank": 2
+            }
+          ],
+          "Cost": 25000
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Guide to Resistance",
+              "Id": 104305,
+              "Count": 6,
+              "Rank": 3
+            },
+            {
+              "Name": "Sergeant's Insignia",
+              "Id": 112033,
+              "Count": 6,
+              "Rank": 2
+            }
+          ],
+          "Cost": 30000
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Guide to Resistance",
+              "Id": 104305,
+              "Count": 9,
+              "Rank": 3
+            },
+            {
+              "Name": "Sergeant's Insignia",
+              "Id": 112033,
+              "Count": 9,
+              "Rank": 2
+            }
+          ],
+          "Cost": 37500
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Resistance",
+              "Id": 104306,
+              "Count": 4,
+              "Rank": 4
+            },
+            {
+              "Name": "Lieutenant's Insignia",
+              "Id": 112034,
+              "Count": 4,
+              "Rank": 3
+            },
+            { "Name": "Dvalin's Plume", "Id": 113003, "Count": 1, "Rank": 5 }
+          ],
+          "Cost": 120000
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Resistance",
+              "Id": 104306,
+              "Count": 6,
+              "Rank": 4
+            },
+            {
+              "Name": "Lieutenant's Insignia",
+              "Id": 112034,
+              "Count": 6,
+              "Rank": 3
+            },
+            { "Name": "Dvalin's Plume", "Id": 113003, "Count": 1, "Rank": 5 }
+          ],
+          "Cost": 260000
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Resistance",
+              "Id": 104306,
+              "Count": 12,
+              "Rank": 4
+            },
+            {
+              "Name": "Lieutenant's Insignia",
+              "Id": 112034,
+              "Count": 9,
+              "Rank": 3
+            },
+            { "Name": "Dvalin's Plume", "Id": 113003, "Count": 2, "Rank": 5 }
+          ],
+          "Cost": 450000
+        },
+        {
+          "Mats": [
+            {
+              "Name": "Philosophies of Resistance",
+              "Id": 104306,
+              "Count": 16,
+              "Rank": 4
+            },
+            {
+              "Name": "Lieutenant's Insignia",
+              "Id": 112034,
+              "Count": 12,
+              "Rank": 3
+            },
+            { "Name": "Dvalin's Plume", "Id": 113003, "Count": 2, "Rank": 5 },
+            { "Name": "Crown of Insight", "Id": 104319, "Count": 1, "Rank": 5 }
+          ],
+          "Cost": 700000
+        }
+      ]
+    ]
+  }
+}

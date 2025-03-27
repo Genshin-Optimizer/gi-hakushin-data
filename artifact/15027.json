@@ -1,0 +1,66 @@
+{
+  "Id": 15027,
+  "Icon": "UI_RelicIcon_15027_4",
+  "Need": [2, 4],
+  "Rank": [4, 5],
+  "Affix": [
+    {
+      "paramList": [0.15],
+      "id": 215027,
+      "affixId": 2150270,
+      "addProps": [
+        { "value": 0.15, "propType": "FIGHT_PROP_WIND_ADD_HURT" },
+        { "propType": "FIGHT_PROP_NONE" },
+        { "propType": "FIGHT_PROP_NONE" }
+      ],
+      "Name": "Desert Pavilion Chronicle",
+      "Desc": "Anemo DMG Bonus +15%"
+    },
+    {
+      "level": 1,
+      "paramList": [0.1, 0.4, 15],
+      "id": 215027,
+      "openConfig": "Relic_ExtraAttackCauseSpeedAndDamage",
+      "affixId": 2150271,
+      "addProps": [
+        { "propType": "FIGHT_PROP_NONE" },
+        { "propType": "FIGHT_PROP_NONE" },
+        { "propType": "FIGHT_PROP_NONE" }
+      ],
+      "Name": "Desert Pavilion Chronicle",
+      "Desc": "When Charged Attacks hit opponents, the equipping character's Normal Attack SPD will increase by 10% while Normal, Charged, and Plunging Attack DMG will increase by 40% for 15s."
+    }
+  ],
+  "Parts": {
+    "EQUIP_RING": {
+      "Icon": "UI_RelicIcon_15027_1",
+      "Name": "Defender of the Enchanting Dream",
+      "Desc": "An ancient golden cup that is both marvelously and luxuriously wrought. Murmurings can be heard within its empty innards.",
+      "Story": 185271
+    },
+    "EQUIP_NECKLACE": {
+      "Icon": "UI_RelicIcon_15027_2",
+      "Name": "End of the Golden Realm",
+      "Desc": "A crystal-clear artificial feather that is one of the legacies of an ancient human realm. The cries of soaring eagles are also sealed within.",
+      "Story": 185272
+    },
+    "EQUIP_DRESS": {
+      "Icon": "UI_RelicIcon_15027_3",
+      "Name": "Legacy of the Desert High-Born",
+      "Desc": "Earrings made from amber gold that shines with a strange light.",
+      "Story": 185273
+    },
+    "EQUIP_BRACER": {
+      "Icon": "UI_RelicIcon_15027_4",
+      "Name": "The First Days of the City of Kings",
+      "Desc": "An artificial flower that shimmers with a strange light. If you incline your ear to it, you can vaguely hear charming laughter issuing from within.",
+      "Story": 185274
+    },
+    "EQUIP_SHOES": {
+      "Icon": "UI_RelicIcon_15027_5",
+      "Name": "Timepiece of the Lost Path",
+      "Desc": "An ancient mechanical clock. The Jinni fragments continue to emit light at its center and vibrate ever so slightly, as if to say something...",
+      "Story": 185275
+    }
+  }
+}

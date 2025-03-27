@@ -1,0 +1,65 @@
+{
+  "Id": 14001,
+  "Icon": "UI_RelicIcon_14001_4",
+  "Need": [2, 4],
+  "Rank": [3, 4, 5],
+  "Affix": [
+    {
+      "id": 214001,
+      "affixId": 2140010,
+      "addProps": [
+        { "value": 0.15, "propType": "FIGHT_PROP_ICE_ADD_HURT" },
+        { "propType": "FIGHT_PROP_NONE" },
+        { "propType": "FIGHT_PROP_NONE" }
+      ],
+      "Name": "Blizzard Strayer",
+      "Desc": "Cryo DMG Bonus +15%"
+    },
+    {
+      "level": 1,
+      "paramList": [0.2, 0.2],
+      "id": 214001,
+      "openConfig": "Relic_CriticUpAgainstIceAndFrozen",
+      "affixId": 2140011,
+      "addProps": [
+        { "propType": "FIGHT_PROP_NONE" },
+        { "propType": "FIGHT_PROP_NONE" },
+        { "propType": "FIGHT_PROP_NONE" }
+      ],
+      "Name": "Blizzard Strayer",
+      "Desc": "When a character attacks an opponent affected by Cryo, their CRIT Rate is increased by 20%. If the opponent is Frozen, CRIT Rate is increased by an additional 20%."
+    }
+  ],
+  "Parts": {
+    "EQUIP_RING": {
+      "Icon": "UI_RelicIcon_14001_1",
+      "Name": "Frost-Weaved Dignity",
+      "Desc": "",
+      "Story": 184011
+    },
+    "EQUIP_NECKLACE": {
+      "Icon": "UI_RelicIcon_14001_2",
+      "Name": "Icebreaker's Resolve",
+      "Desc": "",
+      "Story": 184012
+    },
+    "EQUIP_DRESS": {
+      "Icon": "UI_RelicIcon_14001_3",
+      "Name": "Broken Rime's Echo",
+      "Desc": "",
+      "Story": 184013
+    },
+    "EQUIP_BRACER": {
+      "Icon": "UI_RelicIcon_14001_4",
+      "Name": "Snowswept Memory",
+      "Desc": "",
+      "Story": 184014
+    },
+    "EQUIP_SHOES": {
+      "Icon": "UI_RelicIcon_14001_5",
+      "Name": "Frozen Homeland's Demise",
+      "Desc": "",
+      "Story": 184015
+    }
+  }
+}

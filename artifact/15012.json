@@ -1,0 +1,29 @@
+{
+  "Id": 15012,
+  "Icon": "UI_RelicIcon_15012_3",
+  "Need": [1],
+  "Rank": [3, 4, 5],
+  "Affix": [
+    {
+      "paramList": [0.4],
+      "id": 215012,
+      "openConfig": "Relic_WindResistance",
+      "affixId": 2150120,
+      "addProps": [
+        { "propType": "FIGHT_PROP_NONE" },
+        { "propType": "FIGHT_PROP_NONE" },
+        { "propType": "FIGHT_PROP_NONE" }
+      ],
+      "Name": "Prayers to the Firmament",
+      "Desc": "Affected by Anemo for 40% less time."
+    }
+  ],
+  "Parts": {
+    "EQUIP_DRESS": {
+      "Icon": "UI_RelicIcon_15012_3",
+      "Name": "Tiara of Gales",
+      "Desc": "A tiara worn by those tasked with offering sacrifices in ancient times. Wind once freely flowed through the various openings in the headdress.",
+      "Story": 185123
+    }
+  }
+}
