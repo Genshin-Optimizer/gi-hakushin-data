@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_102",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 39.8751
+      "initValue": 39.8751,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_101",
-      "propType": "FIGHT_PROP_CRITICAL_HURT",
-      "initValue": 0.068
+      "initValue": 0.068,
+      "propType": "FIGHT_PROP_CRITICAL_HURT"
     }
   ],
   "Rarity": 3,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Archer's Message",
       "Desc": "Charged Attack hits on weak points deal an additional <color=#99FFFFFF>100%</color> ATK DMG as CRIT DMG. Can only occur once every 10s.",
-      "ParamList": [1]
+      "ParamList": [1, 0, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Archer's Message",
       "Desc": "Charged Attack hits on weak points deal an additional <color=#99FFFFFF>125%</color> ATK DMG as CRIT DMG. Can only occur once every 10s.",
-      "ParamList": [1.25]
+      "ParamList": [1.25, 0, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Archer's Message",
       "Desc": "Charged Attack hits on weak points deal an additional <color=#99FFFFFF>150%</color> ATK DMG as CRIT DMG. Can only occur once every 10s.",
-      "ParamList": [1.5]
+      "ParamList": [1.5, 0, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Archer's Message",
       "Desc": "Charged Attack hits on weak points deal an additional <color=#99FFFFFF>175%</color> ATK DMG as CRIT DMG. Can only occur once every 10s.",
-      "ParamList": [1.75]
+      "ParamList": [1.75, 0, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Archer's Message",
       "Desc": "Charged Attack hits on weak points deal an additional <color=#99FFFFFF>200%</color> ATK DMG as CRIT DMG. Can only occur once every 10s.",
-      "ParamList": [2]
+      "ParamList": [2, 0, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

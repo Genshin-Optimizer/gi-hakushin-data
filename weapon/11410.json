@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_203",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 45.0687
+      "initValue": 45.0687,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_ELEMENT_MASTERY",
-      "initValue": 11.999988
+      "initValue": 11.999988,
+      "propType": "FIGHT_PROP_ELEMENT_MASTERY"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Itinerant Hero",
       "Desc": "Increases DMG dealt by the character equipping this weapon by <color=#99FFFFFF>12%</color>. Taking DMG disables this effect for 5s.",
-      "ParamList": [0.12, 5]
+      "ParamList": [0.12, 5, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Itinerant Hero",
       "Desc": "Increases DMG dealt by the character equipping this weapon by <color=#99FFFFFF>15%</color>. Taking DMG disables this effect for 5s.",
-      "ParamList": [0.15, 5]
+      "ParamList": [0.15, 5, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Itinerant Hero",
       "Desc": "Increases DMG dealt by the character equipping this weapon by <color=#99FFFFFF>18%</color>. Taking DMG disables this effect for 5s.",
-      "ParamList": [0.18, 5]
+      "ParamList": [0.18, 5, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Itinerant Hero",
       "Desc": "Increases DMG dealt by the character equipping this weapon by <color=#99FFFFFF>21%</color>. Taking DMG disables this effect for 5s.",
-      "ParamList": [0.21, 5]
+      "ParamList": [0.21, 5, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Itinerant Hero",
       "Desc": "Increases DMG dealt by the character equipping this weapon by <color=#99FFFFFF>24%</color>. Taking DMG disables this effect for 5s.",
-      "ParamList": [0.24, 5]
+      "ParamList": [0.24, 5, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

@@ -5,27 +5,29 @@
   "Rank": [4, 5],
   "Affix": [
     {
-      "paramList": [0.18],
       "id": 215024,
+      "level": 0,
       "affixId": 2150240,
+      "paramList": [0.18, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "",
       "addProps": [
-        { "value": 0.18, "propType": "FIGHT_PROP_ATTACK_PERCENT" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_ATTACK_PERCENT", "value": 0.18 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Echoes of an Offering",
       "Desc": "ATK +18%."
     },
     {
-      "level": 1,
-      "paramList": [0.36, 0.7, 0.05, 0.2, 0.2, 0.2],
       "id": 215024,
-      "openConfig": "Relic_AttackWithExtraDamage",
+      "level": 1,
       "affixId": 2150241,
+      "paramList": [0.36, 0.7, 0.05, 0.2, 0.2, 0.2, 0, 0],
+      "openConfig": "Relic_AttackWithExtraDamage",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Echoes of an Offering",
       "Desc": "When Normal Attacks hit opponents, there is a 36% chance that it will trigger Valley Rite, which will increase Normal Attack DMG by 70% of ATK. This effect will be dispelled 0.05s after a Normal Attack deals DMG. If a Normal Attack fails to trigger Valley Rite, the odds of it triggering the next time will increase by 20%. This trigger can occur once every 0.2s."

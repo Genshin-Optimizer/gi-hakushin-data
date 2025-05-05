@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_201",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 42.401
+      "initValue": 42.401,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
-      "initValue": 0.1
+      "initValue": 0.1,
+      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Net Snapper",
       "Desc": "Triggers the Flowrider effect after using an Elemental Skill, dealing <color=#99FFFFFF>80%</color> ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s.",
-      "ParamList": [0.8, 15, 3, 2, 12]
+      "ParamList": [0.8, 15, 3, 2, 12, 0, 0, 0]
     },
     "2": {
       "Name": "Net Snapper",
       "Desc": "Triggers the Flowrider effect after using an Elemental Skill, dealing <color=#99FFFFFF>100%</color> ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s.",
-      "ParamList": [1, 15, 3, 2, 12]
+      "ParamList": [1, 15, 3, 2, 12, 0, 0, 0]
     },
     "3": {
       "Name": "Net Snapper",
       "Desc": "Triggers the Flowrider effect after using an Elemental Skill, dealing <color=#99FFFFFF>120%</color> ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s.",
-      "ParamList": [1.2, 15, 3, 2, 12]
+      "ParamList": [1.2, 15, 3, 2, 12, 0, 0, 0]
     },
     "4": {
       "Name": "Net Snapper",
       "Desc": "Triggers the Flowrider effect after using an Elemental Skill, dealing <color=#99FFFFFF>140%</color> ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s.",
-      "ParamList": [1.4, 15, 3, 2, 12]
+      "ParamList": [1.4, 15, 3, 2, 12, 0, 0, 0]
     },
     "5": {
       "Name": "Net Snapper",
       "Desc": "Triggers the Flowrider effect after using an Elemental Skill, dealing <color=#99FFFFFF>160%</color> ATK as AoE DMG upon hitting an opponent with an attack. Flowrider will be removed after 15s or after causing 3 instances of AoE DMG. Only 1 instance of AoE DMG can be caused every 2s in this way. Flowrider can be triggered once every 12s.",
-      "ParamList": [1.6, 15, 3, 2, 12]
+      "ParamList": [1.6, 15, 3, 2, 12, 0, 0, 0]
     }
   },
   "Materials": {

@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_304",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 44.3358
+      "initValue": 44.3358,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_301",
-      "propType": "FIGHT_PROP_CRITICAL",
-      "initValue": 0.096
+      "initValue": 0.096,
+      "propType": "FIGHT_PROP_CRITICAL"
     }
   ],
   "Rarity": 5,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Heat Haze at Horizon's End",
       "Desc": "The equipping character gains <color=#99FFFFFF>52%</color> of their Elemental Mastery as bonus ATK. When an Elemental Skill hits opponents, the Dream of the Scarlet Sands effect will be gained for 10s: The equipping character will gain <color=#99FFFFFF>28%</color> of their Elemental Mastery as bonus ATK. Max 3 stacks.",
-      "ParamList": [0.52, 0.28, 10, 0.3, 3]
+      "ParamList": [0.52, 0.28, 10, 0.3, 3, 0, 0, 0]
     },
     "2": {
       "Name": "Heat Haze at Horizon's End",
       "Desc": "The equipping character gains <color=#99FFFFFF>65%</color> of their Elemental Mastery as bonus ATK. When an Elemental Skill hits opponents, the Dream of the Scarlet Sands effect will be gained for 10s: The equipping character will gain <color=#99FFFFFF>35%</color> of their Elemental Mastery as bonus ATK. Max 3 stacks.",
-      "ParamList": [0.65, 0.35, 10, 0.3, 3]
+      "ParamList": [0.65, 0.35, 10, 0.3, 3, 0, 0, 0]
     },
     "3": {
       "Name": "Heat Haze at Horizon's End",
       "Desc": "The equipping character gains <color=#99FFFFFF>78%</color> of their Elemental Mastery as bonus ATK. When an Elemental Skill hits opponents, the Dream of the Scarlet Sands effect will be gained for 10s: The equipping character will gain <color=#99FFFFFF>42%</color> of their Elemental Mastery as bonus ATK. Max 3 stacks.",
-      "ParamList": [0.78, 0.42, 10, 0.3, 3]
+      "ParamList": [0.78, 0.42, 10, 0.3, 3, 0, 0, 0]
     },
     "4": {
       "Name": "Heat Haze at Horizon's End",
       "Desc": "The equipping character gains <color=#99FFFFFF>91%</color> of their Elemental Mastery as bonus ATK. When an Elemental Skill hits opponents, the Dream of the Scarlet Sands effect will be gained for 10s: The equipping character will gain <color=#99FFFFFF>49%</color> of their Elemental Mastery as bonus ATK. Max 3 stacks.",
-      "ParamList": [0.91, 0.49, 10, 0.3, 3]
+      "ParamList": [0.91, 0.49, 10, 0.3, 3, 0, 0, 0]
     },
     "5": {
       "Name": "Heat Haze at Horizon's End",
       "Desc": "The equipping character gains <color=#99FFFFFF>104%</color> of their Elemental Mastery as bonus ATK. When an Elemental Skill hits opponents, the Dream of the Scarlet Sands effect will be gained for 10s: The equipping character will gain <color=#99FFFFFF>56%</color> of their Elemental Mastery as bonus ATK. Max 3 stacks.",
-      "ParamList": [1.04, 0.56, 10, 0.3, 3]
+      "ParamList": [1.04, 0.56, 10, 0.3, 3, 0, 0, 0]
     }
   },
   "Materials": {

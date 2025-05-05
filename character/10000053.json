@@ -236,7 +236,7 @@
       },
       {
         "Title": "About Sayu: Skiving",
-        "Text": "So I don't do any important work at the Shuumatsuban, and anything that gets put off for long enough ends up getting done by someone who's more suited to it anyway. Sleep, on the other hand �� that is of the utmost importance. Because I need to get enough sleep to make sure I get my growth spurt.",
+        "Text": "So I don't do any important work at the Shuumatsuban, and anything that gets put off for long enough ends up getting done by someone who's more suited to it anyway. Sleep, on the other hand — that is of the utmost importance. Because I need to get enough sleep to make sure I get my growth spurt.",
         "Unlocked": ["Unlocks at Friendship Lv. 4"]
       },
       {
@@ -420,7 +420,7 @@
         "Name": "Mini Mujina",
         "Desc": "Sayu's outfit. Marvelous attire designed after the mysterious animal known as the Mujina.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -799,7 +799,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Shuumatsuban Ninja Blade",
+      "Name": "Shuumatsuban Ninja Blade",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 consecutive strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nDrains Stamina over time to perform continuous spinning attacks against all nearby opponents.\\nAt the end of the sequence, performs a more powerful slash. \\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
       "Promote": {
         "0": {
@@ -825,7 +825,7 @@
           ],
           "Param": [
             0.7224, 0.7138, 0.4343, 0.4343, 0.98126, 0.625455, 1.1309, 40, 5,
-            0.745878, 1.49144, 1.862889
+            0.745878, 1.49144, 1.862889, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -851,7 +851,7 @@
           ],
           "Param": [
             0.7812, 0.7719, 0.46965, 0.46965, 1.06113, 0.676364, 1.22295, 40, 5,
-            0.806589, 1.612836, 2.01452
+            0.806589, 1.612836, 2.01452, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -877,7 +877,7 @@
           ],
           "Param": [
             0.84, 0.83, 0.505, 0.505, 1.141, 0.727273, 1.315, 40, 5, 0.8673,
-            1.734233, 2.16615
+            1.734233, 2.16615, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -903,7 +903,7 @@
           ],
           "Param": [
             0.924, 0.913, 0.5555, 0.5555, 1.2551, 0.8, 1.4465, 40, 5, 0.95403,
-            1.907656, 2.382765
+            1.907656, 2.382765, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -929,7 +929,7 @@
           ],
           "Param": [
             0.9828, 0.9711, 0.59085, 0.59085, 1.33497, 0.850909, 1.53855, 40, 5,
-            1.014741, 2.029052, 2.534396
+            1.014741, 2.029052, 2.534396, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -955,7 +955,7 @@
           ],
           "Param": [
             1.05, 1.0375, 0.63125, 0.63125, 1.42625, 0.909091, 1.64375, 40, 5,
-            1.084125, 2.167791, 2.707688
+            1.084125, 2.167791, 2.707688, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -981,7 +981,7 @@
           ],
           "Param": [
             1.1424, 1.1288, 0.6868, 0.6868, 1.55176, 0.989091, 1.7884, 40, 5,
-            1.179528, 2.358556, 2.945964
+            1.179528, 2.358556, 2.945964, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1007,7 +1007,7 @@
           ],
           "Param": [
             1.2348, 1.2201, 0.74235, 0.74235, 1.67727, 1.069091, 1.93305, 40, 5,
-            1.274931, 2.549322, 3.184241
+            1.274931, 2.549322, 3.184241, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1033,7 +1033,7 @@
           ],
           "Param": [
             1.3272, 1.3114, 0.7979, 0.7979, 1.80278, 1.149091, 2.0777, 40, 5,
-            1.370334, 2.740087, 3.422517
+            1.370334, 2.740087, 3.422517, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1059,7 +1059,7 @@
           ],
           "Param": [
             1.428, 1.411, 0.8585, 0.8585, 1.9397, 1.236364, 2.2355, 40, 5,
-            1.47441, 2.948195, 3.682455
+            1.47441, 2.948195, 3.682455, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1085,7 +1085,7 @@
           ],
           "Param": [
             1.5435, 1.525125, 0.927937, 0.927937, 2.096588, 1.336364, 2.416313,
-            40, 5, 1.578486, 3.156303, 3.942393
+            40, 5, 1.578486, 3.156303, 3.942393, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1111,7 +1111,8 @@
           ],
           "Param": [
             1.679328, 1.659336, 1.009596, 1.009596, 2.281087, 1.453964,
-            2.628948, 40, 5, 1.682562, 3.364411, 4.202331
+            2.628948, 40, 5, 1.682562, 3.364411, 4.202331, 0, 0, 0, 0, 0, 0, 0,
+            0
           ]
         },
         "12": {
@@ -1137,7 +1138,8 @@
           ],
           "Param": [
             1.815156, 1.793547, 1.091255, 1.091255, 2.465587, 1.571564,
-            2.841584, 40, 5, 1.786638, 3.572519, 4.462269
+            2.841584, 40, 5, 1.786638, 3.572519, 4.462269, 0, 0, 0, 0, 0, 0, 0,
+            0
           ]
         },
         "13": {
@@ -1163,7 +1165,8 @@
           ],
           "Param": [
             1.950984, 1.927758, 1.172913, 1.172913, 2.650087, 1.689164,
-            3.054219, 40, 5, 1.890714, 3.780627, 4.722207
+            3.054219, 40, 5, 1.890714, 3.780627, 4.722207, 0, 0, 0, 0, 0, 0, 0,
+            0
           ]
         },
         "14": {
@@ -1189,7 +1192,7 @@
           ],
           "Param": [
             2.09916, 2.07417, 1.261995, 1.261995, 2.851359, 1.817455, 3.286185,
-            40, 5, 1.99479, 3.988735, 4.982145
+            40, 5, 1.99479, 3.988735, 4.982145, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1219,7 +1222,10 @@
             "",
             ""
           ],
-          "Param": [0.36, 0.168, 1.584, 2.176, 0.7616, 10, 6, 11]
+          "Param": [
+            0.36, 0.168, 1.584, 2.176, 0.7616, 10, 6, 11, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1242,7 +1248,10 @@
             "",
             ""
           ],
-          "Param": [0.387, 0.1806, 1.7028, 2.3392, 0.81872, 10, 6, 11]
+          "Param": [
+            0.387, 0.1806, 1.7028, 2.3392, 0.81872, 10, 6, 11, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1265,7 +1274,10 @@
             "",
             ""
           ],
-          "Param": [0.414, 0.1932, 1.8216, 2.5024, 0.87584, 10, 6, 11]
+          "Param": [
+            0.414, 0.1932, 1.8216, 2.5024, 0.87584, 10, 6, 11, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1288,7 +1300,10 @@
             "",
             ""
           ],
-          "Param": [0.45, 0.21, 1.98, 2.72, 0.952, 10, 6, 11]
+          "Param": [
+            0.45, 0.21, 1.98, 2.72, 0.952, 10, 6, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1311,7 +1326,10 @@
             "",
             ""
           ],
-          "Param": [0.477, 0.2226, 2.0988, 2.8832, 1.00912, 10, 6, 11]
+          "Param": [
+            0.477, 0.2226, 2.0988, 2.8832, 1.00912, 10, 6, 11, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1334,7 +1352,10 @@
             "",
             ""
           ],
-          "Param": [0.504, 0.2352, 2.2176, 3.0464, 1.06624, 10, 6, 11]
+          "Param": [
+            0.504, 0.2352, 2.2176, 3.0464, 1.06624, 10, 6, 11, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1357,7 +1378,10 @@
             "",
             ""
           ],
-          "Param": [0.54, 0.252, 2.376, 3.264, 1.1424, 10, 6, 11]
+          "Param": [
+            0.54, 0.252, 2.376, 3.264, 1.1424, 10, 6, 11, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1380,7 +1404,10 @@
             "",
             ""
           ],
-          "Param": [0.576, 0.2688, 2.5344, 3.4816, 1.21856, 10, 6, 11]
+          "Param": [
+            0.576, 0.2688, 2.5344, 3.4816, 1.21856, 10, 6, 11, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1403,7 +1430,10 @@
             "",
             ""
           ],
-          "Param": [0.612, 0.2856, 2.6928, 3.6992, 1.29472, 10, 6, 11]
+          "Param": [
+            0.612, 0.2856, 2.6928, 3.6992, 1.29472, 10, 6, 11, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1426,7 +1456,10 @@
             "",
             ""
           ],
-          "Param": [0.648, 0.3024, 2.8512, 3.9168, 1.37088, 10, 6, 11]
+          "Param": [
+            0.648, 0.3024, 2.8512, 3.9168, 1.37088, 10, 6, 11, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1449,7 +1482,10 @@
             "",
             ""
           ],
-          "Param": [0.684, 0.3192, 3.0096, 4.1344, 1.44704, 10, 6, 11]
+          "Param": [
+            0.684, 0.3192, 3.0096, 4.1344, 1.44704, 10, 6, 11, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1472,7 +1508,10 @@
             "",
             ""
           ],
-          "Param": [0.72, 0.336, 3.168, 4.352, 1.5232, 10, 6, 11]
+          "Param": [
+            0.72, 0.336, 3.168, 4.352, 1.5232, 10, 6, 11, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1495,7 +1534,10 @@
             "",
             ""
           ],
-          "Param": [0.765, 0.357, 3.366, 4.624, 1.6184, 10, 6, 11]
+          "Param": [
+            0.765, 0.357, 3.366, 4.624, 1.6184, 10, 6, 11, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1518,7 +1560,10 @@
             "",
             ""
           ],
-          "Param": [0.81, 0.378, 3.564, 4.896, 1.7136, 10, 6, 11]
+          "Param": [
+            0.81, 0.378, 3.564, 4.896, 1.7136, 10, 6, 11, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1541,7 +1586,10 @@
             "",
             ""
           ],
-          "Param": [0.855, 0.399, 3.762, 5.168, 1.8088, 10, 6, 11]
+          "Param": [
+            0.855, 0.399, 3.762, 5.168, 1.8088, 10, 6, 11, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         }
       }
     },
@@ -1571,7 +1619,8 @@
             ""
           ],
           "Param": [
-            1.168, 577.3388, 0.9216, 0.52, 500.3603, 0.79872, 12, 20, 80
+            1.168, 577.3388, 0.9216, 0.52, 500.3603, 0.79872, 12, 20, 80, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -1596,7 +1645,8 @@
             ""
           ],
           "Param": [
-            1.2556, 635.0807, 0.99072, 0.559, 550.40326, 0.858624, 12, 20, 80
+            1.2556, 635.0807, 0.99072, 0.559, 550.40326, 0.858624, 12, 20, 80,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -1621,7 +1671,8 @@
             ""
           ],
           "Param": [
-            1.3432, 697.63446, 1.05984, 0.598, 604.6165, 0.918528, 12, 20, 80
+            1.3432, 697.63446, 1.05984, 0.598, 604.6165, 0.918528, 12, 20, 80,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -1645,7 +1696,10 @@
             "",
             ""
           ],
-          "Param": [1.46, 765, 1.152, 0.65, 663, 0.9984, 12, 20, 80]
+          "Param": [
+            1.46, 765, 1.152, 0.65, 663, 0.9984, 12, 20, 80, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1669,7 +1723,8 @@
             ""
           ],
           "Param": [
-            1.5476, 837.17737, 1.22112, 0.689, 725.5537, 1.058304, 12, 20, 80
+            1.5476, 837.17737, 1.22112, 0.689, 725.5537, 1.058304, 12, 20, 80,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -1694,7 +1749,8 @@
             ""
           ],
           "Param": [
-            1.6352, 914.16656, 1.29024, 0.728, 792.2777, 1.118208, 12, 20, 80
+            1.6352, 914.16656, 1.29024, 0.728, 792.2777, 1.118208, 12, 20, 80,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -1719,7 +1775,8 @@
             ""
           ],
           "Param": [
-            1.752, 995.96765, 1.3824, 0.78, 863.17194, 1.19808, 12, 20, 80
+            1.752, 995.96765, 1.3824, 0.78, 863.17194, 1.19808, 12, 20, 80, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1744,7 +1801,8 @@
             ""
           ],
           "Param": [
-            1.8688, 1082.5804, 1.47456, 0.832, 938.2364, 1.277952, 12, 20, 80
+            1.8688, 1082.5804, 1.47456, 0.832, 938.2364, 1.277952, 12, 20, 80,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1769,7 +1827,8 @@
             ""
           ],
           "Param": [
-            1.9856, 1174.0051, 1.56672, 0.884, 1017.4711, 1.357824, 12, 20, 80
+            1.9856, 1174.0051, 1.56672, 0.884, 1017.4711, 1.357824, 12, 20, 80,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1794,7 +1853,8 @@
             ""
           ],
           "Param": [
-            2.1024, 1270.2417, 1.65888, 0.936, 1100.8761, 1.437696, 12, 20, 80
+            2.1024, 1270.2417, 1.65888, 0.936, 1100.8761, 1.437696, 12, 20, 80,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1819,7 +1879,8 @@
             ""
           ],
           "Param": [
-            2.2192, 1371.29, 1.75104, 0.988, 1188.4513, 1.517568, 12, 20, 80
+            2.2192, 1371.29, 1.75104, 0.988, 1188.4513, 1.517568, 12, 20, 80, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1844,7 +1905,8 @@
             ""
           ],
           "Param": [
-            2.336, 1477.1501, 1.8432, 1.04, 1280.1968, 1.59744, 12, 20, 80
+            2.336, 1477.1501, 1.8432, 1.04, 1280.1968, 1.59744, 12, 20, 80, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1869,7 +1931,8 @@
             ""
           ],
           "Param": [
-            2.482, 1587.8221, 1.9584, 1.105, 1376.1125, 1.69728, 12, 20, 80
+            2.482, 1587.8221, 1.9584, 1.105, 1376.1125, 1.69728, 12, 20, 80, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1894,7 +1957,8 @@
             ""
           ],
           "Param": [
-            2.628, 1703.3059, 2.0736, 1.17, 1476.1985, 1.79712, 12, 20, 80
+            2.628, 1703.3059, 2.0736, 1.17, 1476.1985, 1.79712, 12, 20, 80, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1919,7 +1983,8 @@
             ""
           ],
           "Param": [
-            2.774, 1823.6016, 2.1888, 1.235, 1580.4547, 1.89696, 12, 20, 80
+            2.774, 1823.6016, 2.1888, 1.235, 1580.4547, 1.89696, 12, 20, 80, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1931,21 +1996,25 @@
       "Desc": "When Sayu triggers a Swirl reaction while active, she heals all your characters and nearby allies for 300 HP. She will also heal an additional 1.2 HP for every point of Elemental Mastery she has.\\nThis effect can be triggered once every 2s.",
       "Icon": "UI_Talent_S_Sayu_05",
       "Unlock": 1,
-      "ParamList": [300, 1.2, 2]
+      "ParamList": [
+        300, 1.2, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "No Work Today!",
       "Desc": "The Muji-Muji Daruma created by <color=#FFD780FF>Yoohoo Art: Mujina Flurry</color> gains the following effects:\\n·When healing a character, it will also heal characters near that healed character for 20% the amount of HP.\\n·Increases the AoE of its attack against opponents.",
       "Icon": "UI_Talent_S_Sayu_06",
       "Unlock": 4,
-      "ParamList": [0.2]
+      "ParamList": [
+        0.2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Yoohoo Art: Silencer's Secret",
       "Desc": "When Sayu is in the party, your characters will not startle Crystalflies and certain other animals when getting near them.\\nCheck the \"Other\" sub-category of the \"Living Beings / Wildlife\" section in the Archive for creatures this skill works on.",
       "Icon": "UI_Talent_S_Sayu_07",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Constellations": [
@@ -1953,37 +2022,37 @@
       "Name": "Multi-Task no Jutsu",
       "Desc": "The Muji-Muji Daruma created by <color=#FFD780FF>Yoohoo Art: Mujina Flurry</color> will ignore HP limits and can simultaneously attack nearby opponents and heal characters.",
       "Icon": "UI_Talent_S_Sayu_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Egress Prep",
       "Desc": "#<color=#FFD780FF>Yoohoo Art: Fuuin Dash</color> gains the following effects:\\n·DMG of Fuufuu Whirlwind Kick in {LAYOUT_MOBILE#Tapping}{LAYOUT_PC#Press}{LAYOUT_PS#Press} Mode increased by 3.3%.\\n·Every 0.5s in the Fuufuu Windwheel state will increase the DMG of this Fuufuu Whirlwind Kick by 3.3%. The maximum DMG increase possible through this method is 66%.",
       "Icon": "UI_Talent_S_Sayu_02",
-      "ParamList": [0.033, 20]
+      "ParamList": [0.033, 20, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Eh, the Bunshin Can Handle It",
       "Desc": "Increases the Level of <color=#FFD780FF>Yoohoo Art: Mujina Flurry</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Sayu_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Skiving: New and Improved",
       "Desc": "Sayu recovers 1.2 Energy when she triggers a Swirl reaction.\\nThis effect occurs once every 2s.",
       "Icon": "UI_Talent_S_Sayu_03",
-      "ParamList": [1.2, 2]
+      "ParamList": [1.2, 2, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Speed Comes First",
       "Desc": "Increases the Level of <color=#FFD780FF>Yoohoo Art: Fuuin Dash</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Sayu_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Sleep O'Clock",
       "Desc": "The Muji-Muji Daruma created by Sayu's <color=#FFD780FF>Yoohoo Art: Mujina Flurry</color> will now also benefit from her Elemental Mastery. Each point of Sayu's Elemental Mastery will produce the following effects:\\n·Increases the damage dealt by the Muji-Muji Daruma's attacks by 0.2% ATK. A maximum DMG increase of 400% ATK can be gained via this method.\\n·Increases the HP restored by the Muji-Muji Daruma by 3. A maximum of 6,000 additional HP can be restored in this manner.",
       "Icon": "UI_Talent_S_Sayu_04",
-      "ParamList": [0.002, 4, 3, 6000]
+      "ParamList": [0.002, 4, 3, 6000, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -1996,7 +2065,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Crystal Marrow", "Id": 101203, "Count": 3, "Rank": 1 },
+          { "Name": "Crystal Marrow", "Id": 101203, "Count": 3, "Rank": 0 },
           {
             "Name": "Whopperflower Nectar",
             "Id": 112038,
@@ -2015,7 +2084,7 @@
             "Rank": 3
           },
           { "Name": "Marionette Core", "Id": 113022, "Count": 2, "Rank": 4 },
-          { "Name": "Crystal Marrow", "Id": 101203, "Count": 10, "Rank": 1 },
+          { "Name": "Crystal Marrow", "Id": 101203, "Count": 10, "Rank": 0 },
           {
             "Name": "Whopperflower Nectar",
             "Id": 112038,
@@ -2034,7 +2103,7 @@
             "Rank": 3
           },
           { "Name": "Marionette Core", "Id": 113022, "Count": 4, "Rank": 4 },
-          { "Name": "Crystal Marrow", "Id": 101203, "Count": 20, "Rank": 1 },
+          { "Name": "Crystal Marrow", "Id": 101203, "Count": 20, "Rank": 0 },
           { "Name": "Shimmering Nectar", "Id": 112039, "Count": 12, "Rank": 2 }
         ],
         "Cost": 60000
@@ -2048,7 +2117,7 @@
             "Rank": 4
           },
           { "Name": "Marionette Core", "Id": 113022, "Count": 8, "Rank": 4 },
-          { "Name": "Crystal Marrow", "Id": 101203, "Count": 30, "Rank": 1 },
+          { "Name": "Crystal Marrow", "Id": 101203, "Count": 30, "Rank": 0 },
           { "Name": "Shimmering Nectar", "Id": 112039, "Count": 18, "Rank": 2 }
         ],
         "Cost": 80000
@@ -2062,7 +2131,7 @@
             "Rank": 4
           },
           { "Name": "Marionette Core", "Id": 113022, "Count": 12, "Rank": 4 },
-          { "Name": "Crystal Marrow", "Id": 101203, "Count": 45, "Rank": 1 },
+          { "Name": "Crystal Marrow", "Id": 101203, "Count": 45, "Rank": 0 },
           { "Name": "Energy Nectar", "Id": 112040, "Count": 12, "Rank": 3 }
         ],
         "Cost": 100000
@@ -2076,7 +2145,7 @@
             "Rank": 5
           },
           { "Name": "Marionette Core", "Id": 113022, "Count": 20, "Rank": 4 },
-          { "Name": "Crystal Marrow", "Id": 101203, "Count": 60, "Rank": 1 },
+          { "Name": "Crystal Marrow", "Id": 101203, "Count": 60, "Rank": 0 },
           { "Name": "Energy Nectar", "Id": 112040, "Count": 24, "Rank": 3 }
         ],
         "Cost": 120000

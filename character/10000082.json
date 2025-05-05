@@ -54,7 +54,7 @@
       },
       {
         "Title": "Vision",
-        "Text": "When Baizhu was young, his hometown was struck by a horrific plague.\\nFortunately, his master was practicing medicine there, and was able to contain the spread.\\nBut no miracle could bring back the lives that had already been lost. Having lost both his parents, Baizhu began to follow in the footsteps of his master, learning the physician's art.\\nThe world is full of strange and complicated diseases, but Baizhu's master was always able to provide treatment. Studying with his master, Baizhu learned a simple truth: Disease is dangerous, but it can ultimately be overcome with human intellect.\\n...Until the day finally came that Baizhu's master was completely exhausted by the maladies brought on by a contract, and could hold on no longer.\\nThough Baizhu had learned much in those years, he was still unable to do anything in the face of such a complicated and serious affliction.\\nThat most intractable disease in the world, the one with no cure or answer — death �� had finally come for his master.\\nWas there really no escape from sickness and death for mortals?\\nThe memories of his parents coughing blood from his youth had grown hazier over the years, but the scene of the cold tombstone of his master was crystal clear before his eyes.\\nStanding before his master's grave, Changsheng's normally playful words were tinged with an imperceptible sense of melancholy.\\n\"Who knows how many more people will take on this contract...\"\\nBaizhu did not want to see yet another precious life slip away before his eyes.\\n\"No. This contract will end with me.\"\\nWhen he next opened his eyes, they shone with a golden light, as though they were unquenchable candles.\\nThe first thing reflected in his now vertical pupils was a Vision, appearing briefly like a firefly on his master's tombstone.\\nThe Vision was like the gaze of a god who had witness to everything, but it was also like those of his master, gentle and full of expectation.",
+        "Text": "When Baizhu was young, his hometown was struck by a horrific plague.\\nFortunately, his master was practicing medicine there, and was able to contain the spread.\\nBut no miracle could bring back the lives that had already been lost. Having lost both his parents, Baizhu began to follow in the footsteps of his master, learning the physician's art.\\nThe world is full of strange and complicated diseases, but Baizhu's master was always able to provide treatment. Studying with his master, Baizhu learned a simple truth: Disease is dangerous, but it can ultimately be overcome with human intellect.\\n...Until the day finally came that Baizhu's master was completely exhausted by the maladies brought on by a contract, and could hold on no longer.\\nThough Baizhu had learned much in those years, he was still unable to do anything in the face of such a complicated and serious affliction.\\nThat most intractable disease in the world, the one with no cure or answer — death — had finally come for his master.\\nWas there really no escape from sickness and death for mortals?\\nThe memories of his parents coughing blood from his youth had grown hazier over the years, but the scene of the cold tombstone of his master was crystal clear before his eyes.\\nStanding before his master's grave, Changsheng's normally playful words were tinged with an imperceptible sense of melancholy.\\n\"Who knows how many more people will take on this contract...\"\\nBaizhu did not want to see yet another precious life slip away before his eyes.\\n\"No. This contract will end with me.\"\\nWhen he next opened his eyes, they shone with a golden light, as though they were unquenchable candles.\\nThe first thing reflected in his now vertical pupils was a Vision, appearing briefly like a firefly on his master's tombstone.\\nThe Vision was like the gaze of a god who had witness to everything, but it was also like those of his master, gentle and full of expectation.",
         "Unlock": ["Unlocks at Friendship Lv. 6"]
       }
     ],
@@ -445,7 +445,7 @@
         "Name": "The Applications of Medicine",
         "Desc": "Baizhu's outfit. The cloak on his shoulder is dyed using Changsheng's favorite plants. Its fragrance lingers and soothes the senses.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -824,7 +824,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: The Classics of Acupuncture",
+      "Name": "The Classics of Acupuncture",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 attacks that deal <color=#99FF88FF>Dendro DMG</color> to opponents in front of him.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to deal <color=#99FF88FF>AoE Dendro DMG</color> to opponents in front of him after a short casting time.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nCalling upon the might of Dendro, Baizhu plunges towards the ground from mid-air, damaging all opponents in his path. Deals <color=#99FF88FF>AoE Dendro DMG</color> upon impact with the ground.",
       "Promote": {
         "0": {
@@ -850,7 +850,7 @@
           ],
           "Param": [
             0.373704, 0.364248, 0.225416, 0.541376, 1.2104, 50, 0.568288,
-            1.136335, 1.419344
+            1.136335, 1.419344, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -876,7 +876,7 @@
           ],
           "Param": [
             0.401732, 0.391567, 0.242322, 0.581979, 1.30118, 50, 0.614544,
-            1.228828, 1.534872
+            1.228828, 1.534872, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -902,7 +902,7 @@
           ],
           "Param": [
             0.42976, 0.418885, 0.259228, 0.622582, 1.39196, 50, 0.6608, 1.32132,
-            1.6504
+            1.6504, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -928,7 +928,7 @@
           ],
           "Param": [
             0.46713, 0.45531, 0.28177, 0.67672, 1.513, 50, 0.72688, 1.453452,
-            1.81544
+            1.81544, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -954,7 +954,7 @@
           ],
           "Param": [
             0.495158, 0.482629, 0.298676, 0.717323, 1.60378, 50, 0.773136,
-            1.545944, 1.930968
+            1.545944, 1.930968, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -980,7 +980,7 @@
           ],
           "Param": [
             0.523186, 0.509947, 0.315582, 0.757926, 1.69456, 50, 0.826, 1.65165,
-            2.063
+            2.063, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -1006,7 +1006,7 @@
           ],
           "Param": [
             0.560556, 0.546372, 0.338124, 0.812064, 1.8156, 50, 0.898688,
-            1.796995, 2.244544
+            1.796995, 2.244544, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1032,7 +1032,7 @@
           ],
           "Param": [
             0.597926, 0.582797, 0.360666, 0.866202, 1.93664, 50, 0.971376,
-            1.94234, 2.426088
+            1.94234, 2.426088, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1058,7 +1058,7 @@
           ],
           "Param": [
             0.635297, 0.619222, 0.383207, 0.920339, 2.05768, 50, 1.044064,
-            2.087686, 2.607632
+            2.087686, 2.607632, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1084,7 +1084,7 @@
           ],
           "Param": [
             0.672667, 0.655646, 0.405749, 0.974477, 2.17872, 50, 1.12336,
-            2.246244, 2.80568
+            2.246244, 2.80568, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1110,7 +1110,7 @@
           ],
           "Param": [
             0.710038, 0.692071, 0.42829, 1.028614, 2.29976, 50, 1.202656,
-            2.404802, 3.003728
+            2.404802, 3.003728, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1136,7 +1136,7 @@
           ],
           "Param": [
             0.747408, 0.728496, 0.450832, 1.082752, 2.4208, 50, 1.281952,
-            2.563361, 3.201776
+            2.563361, 3.201776, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1162,7 +1162,7 @@
           ],
           "Param": [
             0.794121, 0.774027, 0.479009, 1.150424, 2.5721, 50, 1.361248,
-            2.721919, 3.399824
+            2.721919, 3.399824, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1188,7 +1188,7 @@
           ],
           "Param": [
             0.840834, 0.819558, 0.507186, 1.218096, 2.7234, 50, 1.440544,
-            2.880478, 3.597872
+            2.880478, 3.597872, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1214,7 +1214,7 @@
           ],
           "Param": [
             0.887547, 0.865089, 0.535363, 1.285768, 2.8747, 50, 1.51984,
-            3.039036, 3.79592
+            3.039036, 3.79592, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1244,7 +1244,10 @@
             "",
             ""
           ],
-          "Param": [0.792, 0.08, 770.3755, 10]
+          "Param": [
+            0.792, 0.08, 770.3755, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1267,7 +1270,10 @@
             "",
             ""
           ],
-          "Param": [0.8514, 0.086, 847.42377, 10]
+          "Param": [
+            0.8514, 0.086, 847.42377, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1290,7 +1296,10 @@
             "",
             ""
           ],
-          "Param": [0.9108, 0.092, 930.8927, 10]
+          "Param": [
+            0.9108, 0.092, 930.8927, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1313,7 +1322,10 @@
             "",
             ""
           ],
-          "Param": [0.99, 0.1, 1020.78235, 10]
+          "Param": [
+            0.99, 0.1, 1020.78235, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1336,7 +1348,10 @@
             "",
             ""
           ],
-          "Param": [1.0494, 0.106, 1117.0927, 10]
+          "Param": [
+            1.0494, 0.106, 1117.0927, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1359,7 +1374,10 @@
             "",
             ""
           ],
-          "Param": [1.1088, 0.112, 1219.8236, 10]
+          "Param": [
+            1.1088, 0.112, 1219.8236, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1382,7 +1400,10 @@
             "",
             ""
           ],
-          "Param": [1.188, 0.12, 1328.9753, 10]
+          "Param": [
+            1.188, 0.12, 1328.9753, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1405,7 +1426,10 @@
             "",
             ""
           ],
-          "Param": [1.2672, 0.128, 1444.5477, 10]
+          "Param": [
+            1.2672, 0.128, 1444.5477, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1428,7 +1452,10 @@
             "",
             ""
           ],
-          "Param": [1.3464, 0.136, 1566.5408, 10]
+          "Param": [
+            1.3464, 0.136, 1566.5408, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1451,7 +1478,10 @@
             "",
             ""
           ],
-          "Param": [1.4256, 0.144, 1694.9546, 10]
+          "Param": [
+            1.4256, 0.144, 1694.9546, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1474,7 +1504,10 @@
             "",
             ""
           ],
-          "Param": [1.5048, 0.152, 1829.7891, 10]
+          "Param": [
+            1.5048, 0.152, 1829.7891, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1497,7 +1530,10 @@
             "",
             ""
           ],
-          "Param": [1.584, 0.16, 1971.0442, 10]
+          "Param": [
+            1.584, 0.16, 1971.0442, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1520,7 +1556,10 @@
             "",
             ""
           ],
-          "Param": [1.683, 0.17, 2118.72, 10]
+          "Param": [
+            1.683, 0.17, 2118.72, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1543,7 +1582,10 @@
             "",
             ""
           ],
-          "Param": [1.782, 0.18, 2272.8164, 10]
+          "Param": [
+            1.782, 0.18, 2272.8164, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1566,7 +1608,10 @@
             "",
             ""
           ],
-          "Param": [1.881, 0.19, 2433.3337, 10]
+          "Param": [
+            1.881, 0.19, 2433.3337, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         }
       }
     },
@@ -1596,7 +1641,8 @@
             ""
           ],
           "Param": [
-            0.008, 77.03752, 2.5, 2.5, 0.052, 500.74408, 0.97064, 14, 20, 80
+            0.008, 77.03752, 2.5, 2.5, 0.052, 500.74408, 0.97064, 14, 20, 80, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -1621,7 +1667,8 @@
             ""
           ],
           "Param": [
-            0.0086, 84.74235, 2.5, 2.5, 0.0559, 550.82544, 1.043438, 14, 20, 80
+            0.0086, 84.74235, 2.5, 2.5, 0.0559, 550.82544, 1.043438, 14, 20, 80,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -1646,7 +1693,8 @@
             ""
           ],
           "Param": [
-            0.0092, 93.08924, 2.5, 2.5, 0.0598, 605.08026, 1.116236, 14, 20, 80
+            0.0092, 93.08924, 2.5, 2.5, 0.0598, 605.08026, 1.116236, 14, 20, 80,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -1671,7 +1719,8 @@
             ""
           ],
           "Param": [
-            0.01, 102.0782, 2.5, 2.5, 0.065, 663.50854, 1.2133, 14, 20, 80
+            0.01, 102.0782, 2.5, 2.5, 0.065, 663.50854, 1.2133, 14, 20, 80, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -1696,7 +1745,8 @@
             ""
           ],
           "Param": [
-            0.0106, 111.70923, 2.5, 2.5, 0.0689, 726.1102, 1.286098, 14, 20, 80
+            0.0106, 111.70923, 2.5, 2.5, 0.0689, 726.1102, 1.286098, 14, 20, 80,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -1721,7 +1771,8 @@
             ""
           ],
           "Param": [
-            0.0112, 121.98233, 2.5, 2.5, 0.0728, 792.8854, 1.358896, 14, 20, 80
+            0.0112, 121.98233, 2.5, 2.5, 0.0728, 792.8854, 1.358896, 14, 20, 80,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -1746,7 +1797,8 @@
             ""
           ],
           "Param": [
-            0.012, 132.89749, 2.5, 2.5, 0.078, 863.834, 1.45596, 14, 20, 80
+            0.012, 132.89749, 2.5, 2.5, 0.078, 863.834, 1.45596, 14, 20, 80, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1771,7 +1823,8 @@
             ""
           ],
           "Param": [
-            0.0128, 144.45473, 2.5, 2.5, 0.0832, 938.95605, 1.553024, 14, 20, 80
+            0.0128, 144.45473, 2.5, 2.5, 0.0832, 938.95605, 1.553024, 14, 20,
+            80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1796,7 +1849,8 @@
             ""
           ],
           "Param": [
-            0.0136, 156.65404, 2.5, 2.5, 0.0884, 1018.2515, 1.650088, 14, 20, 80
+            0.0136, 156.65404, 2.5, 2.5, 0.0884, 1018.2515, 1.650088, 14, 20,
+            80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1821,7 +1875,8 @@
             ""
           ],
           "Param": [
-            0.0144, 169.4954, 2.5, 2.5, 0.0936, 1101.7205, 1.747152, 14, 20, 80
+            0.0144, 169.4954, 2.5, 2.5, 0.0936, 1101.7205, 1.747152, 14, 20, 80,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1846,7 +1901,8 @@
             ""
           ],
           "Param": [
-            0.0152, 182.97885, 2.5, 2.5, 0.0988, 1189.3629, 1.844216, 14, 20, 80
+            0.0152, 182.97885, 2.5, 2.5, 0.0988, 1189.3629, 1.844216, 14, 20,
+            80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1871,7 +1927,8 @@
             ""
           ],
           "Param": [
-            0.016, 197.10435, 2.5, 2.5, 0.104, 1281.1787, 1.94128, 14, 20, 80
+            0.016, 197.10435, 2.5, 2.5, 0.104, 1281.1787, 1.94128, 14, 20, 80,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1896,7 +1953,8 @@
             ""
           ],
           "Param": [
-            0.017, 211.87193, 2.5, 2.5, 0.1105, 1377.168, 2.06261, 14, 20, 80
+            0.017, 211.87193, 2.5, 2.5, 0.1105, 1377.168, 2.06261, 14, 20, 80,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1921,7 +1979,8 @@
             ""
           ],
           "Param": [
-            0.018, 227.28157, 2.5, 2.5, 0.117, 1477.3307, 2.18394, 14, 20, 80
+            0.018, 227.28157, 2.5, 2.5, 0.117, 1477.3307, 2.18394, 14, 20, 80,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1946,7 +2005,8 @@
             ""
           ],
           "Param": [
-            0.019, 243.3333, 2.5, 2.5, 0.1235, 1581.6669, 2.30527, 14, 20, 80
+            0.019, 243.3333, 2.5, 2.5, 0.1235, 1581.6669, 2.30527, 14, 20, 80,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1958,21 +2018,27 @@
       "Desc": "Baizhu gains different effects according to the current HP of your current active character:\\n·When their HP is less than 50%, Baizhu gains 20% Healing Bonus.\\n·When their HP is equal to or more than 50%, Baizhu gains 25% <color=#99FF88FF>Dendro DMG Bonus</color>.",
       "Icon": "UI_Talent_S_Baizhuer_05",
       "Unlock": 1,
-      "ParamList": [0.5, 0.2, 0.25]
+      "ParamList": [
+        0.5, 0.2, 0.25, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "All Things Are of the Earth",
       "Desc": "Characters who are healed by <color=#FFD780FF>Seamless Shields</color> will gain the Year of Verdant Favor effect: Each 1,000 Max HP that Baizhu possesses that does not exceed 50,000 will increase the Burning, Bloom, Hyperbloom, and Burgeon reaction DMG dealt by these characters by 2%, and will increase the DMG Bonus provided by Aggravate and Spread by 0.8%. This effect lasts 6s.",
       "Icon": "UI_Talent_S_Baizhuer_06",
       "Unlock": 4,
-      "ParamList": [6, 0.02, 0.008, 50000]
+      "ParamList": [
+        6, 0.02, 0.008, 50000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Herbal Nourishment",
       "Desc": "When Baizhu is in the party, interacting with certain harvestable items will heal your current active character for 2.5% of Baizhu's Max HP.",
       "Icon": "UI_Talent_S_Baizhuer_07",
       "Unlock": 0,
-      "ParamList": [0.025]
+      "ParamList": [
+        0.025, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     }
   ],
   "Constellations": [
@@ -1980,37 +2046,37 @@
       "Name": "Attentive Observation",
       "Desc": "<color=#FFD780FF>Universal Diagnosis</color> gains 1 additional charge.",
       "Icon": "UI_Talent_S_Baizhuer_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Incisive Discernment",
       "Desc": "When your own active character hits a nearby opponent with their attacks, Baizhu will unleash a Gossamer Sprite: Splice.\\nGossamer Sprite: Splice will initiate 1 attack before returning, dealing 250% of Baizhu's ATK as <color=#99FF88FF>Dendro DMG</color> and healing for 20% of <color=#FFD780FF>Universal Diagnosis</color>'s Gossamer Sprite's normal healing.\\nDMG dealt this way is considered Elemental Skill DMG.\\nThis effect can be triggered once every 5s.",
       "Icon": "UI_Talent_S_Baizhuer_02",
-      "ParamList": [1, 2.5, 0.2, 5]
+      "ParamList": [1, 2.5, 0.2, 5, 0, 0, 0, 0]
     },
     {
       "Name": "All Aspects Stabilized",
       "Desc": "Increases the Level of <color=#FFD780FF>Holistic Revivification</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Baizhuer_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Ancient Art of Perception",
       "Desc": "For 15s after <color=#FFD780FF>Holistic Revivification</color> is used, Baizhu will increase all nearby party members' Elemental Mastery by 80.",
       "Icon": "UI_Talent_S_Baizhuer_03",
-      "ParamList": [80, 15]
+      "ParamList": [80, 15, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "The Hidden Ebb and Flow",
       "Desc": "Increases the Level of <color=#FFD780FF>Universal Diagnosis</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Baizhuer_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Elimination of Malicious Qi",
       "Desc": "Increases the DMG dealt by <color=#FFD780FF>Holistic Revivification</color>'s Spiritveins by 8% of Baizhu's Max HP.\\nAdditionally, when a <color=#FFD780FF>Gossamer Sprite</color> or Gossamer Sprite: Splice hits opponents, there is a 100% chance of generating one of <color=#FFD780FF>Holistic Revivification</color>'s Seamless Shields. This effect can only be triggered once by each Gossamer Sprite or Gossamer Sprite: Splice.",
       "Icon": "UI_Talent_S_Baizhuer_04",
-      "ParamList": [1, 0.08]
+      "ParamList": [1, 0.08, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -2023,7 +2089,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Violetgrass", "Id": 100034, "Count": 3, "Rank": 1 },
+          { "Name": "Violetgrass", "Id": 100034, "Count": 3, "Rank": 0 },
           { "Name": "Fungal Spores", "Id": 112059, "Count": 3, "Rank": 1 }
         ],
         "Cost": 20000
@@ -2037,7 +2103,7 @@
             "Rank": 3
           },
           { "Name": "Evergloom Ring", "Id": 113045, "Count": 2, "Rank": 4 },
-          { "Name": "Violetgrass", "Id": 100034, "Count": 10, "Rank": 1 },
+          { "Name": "Violetgrass", "Id": 100034, "Count": 10, "Rank": 0 },
           { "Name": "Fungal Spores", "Id": 112059, "Count": 15, "Rank": 1 }
         ],
         "Cost": 40000
@@ -2051,7 +2117,7 @@
             "Rank": 3
           },
           { "Name": "Evergloom Ring", "Id": 113045, "Count": 4, "Rank": 4 },
-          { "Name": "Violetgrass", "Id": 100034, "Count": 20, "Rank": 1 },
+          { "Name": "Violetgrass", "Id": 100034, "Count": 20, "Rank": 0 },
           { "Name": "Luminescent Pollen", "Id": 112060, "Count": 12, "Rank": 2 }
         ],
         "Cost": 60000
@@ -2065,7 +2131,7 @@
             "Rank": 4
           },
           { "Name": "Evergloom Ring", "Id": 113045, "Count": 8, "Rank": 4 },
-          { "Name": "Violetgrass", "Id": 100034, "Count": 30, "Rank": 1 },
+          { "Name": "Violetgrass", "Id": 100034, "Count": 30, "Rank": 0 },
           { "Name": "Luminescent Pollen", "Id": 112060, "Count": 18, "Rank": 2 }
         ],
         "Cost": 80000
@@ -2079,7 +2145,7 @@
             "Rank": 4
           },
           { "Name": "Evergloom Ring", "Id": 113045, "Count": 12, "Rank": 4 },
-          { "Name": "Violetgrass", "Id": 100034, "Count": 45, "Rank": 1 },
+          { "Name": "Violetgrass", "Id": 100034, "Count": 45, "Rank": 0 },
           {
             "Name": "Crystalline Cyst Dust",
             "Id": 112061,
@@ -2098,7 +2164,7 @@
             "Rank": 5
           },
           { "Name": "Evergloom Ring", "Id": 113045, "Count": 20, "Rank": 4 },
-          { "Name": "Violetgrass", "Id": 100034, "Count": 60, "Rank": 1 },
+          { "Name": "Violetgrass", "Id": 100034, "Count": 60, "Rank": 0 },
           {
             "Name": "Crystalline Cyst Dust",
             "Id": 112061,

@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_301",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 45.9364
+      "initValue": 45.9364,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_301",
-      "propType": "FIGHT_PROP_CRITICAL",
-      "initValue": 0.072
+      "initValue": 0.072,
+      "propType": "FIGHT_PROP_CRITICAL"
     }
   ],
   "Rarity": 5,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Boundless Blessing",
       "Desc": "Increases Movement SPD by 10%. When in battle, gain an <color=#99FFFFFF>8%</color> Elemental DMG Bonus every 4s. Max 4 stacks. Lasts until the character falls or leaves combat.",
-      "ParamList": [0.1, 0.08]
+      "ParamList": [0.1, 0.08, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Boundless Blessing",
       "Desc": "Increases Movement SPD by 10%. When in battle, earn a <color=#99FFFFFF>10%</color> Elemental DMG Bonus every 4s. Max 4 stacks. Lasts until the character falls or leaves combat.",
-      "ParamList": [0.1, 0.1]
+      "ParamList": [0.1, 0.1, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Boundless Blessing",
       "Desc": "Increases Movement SPD by 10%. When in battle, gain a <color=#99FFFFFF>12%</color> Elemental DMG Bonus every 4s. Max 4 stacks. Lasts until the character falls or leaves combat.",
-      "ParamList": [0.1, 0.12]
+      "ParamList": [0.1, 0.12, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Boundless Blessing",
       "Desc": "Increases Movement SPD by 10%. When in battle, gain a <color=#99FFFFFF>14%</color> Elemental DMG Bonus every 4s. Max 4 stacks. Lasts until the character falls or leaves combat.",
-      "ParamList": [0.1, 0.14]
+      "ParamList": [0.1, 0.14, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Boundless Blessing",
       "Desc": "Increases Movement SPD by 10%. When in battle, gain a <color=#99FFFFFF>16%</color> Elemental DMG Bonus every 4s. Max 4 stacks. Lasts until the character falls or leaves combat.",
-      "ParamList": [0.1, 0.16]
+      "ParamList": [0.1, 0.16, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

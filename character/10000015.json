@@ -432,7 +432,7 @@
         "Name": "Icy Featherflight",
         "Desc": "Kaeya's outfit. Fashionable clothes festooned with a fur collar.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -811,7 +811,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Ceremonial Bladework",
+      "Name": "Ceremonial Bladework",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 5 rapid strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
       "Promote": {
         "0": {
@@ -837,7 +837,7 @@
           ],
           "Param": [
             0.5375, 0.51686, 0.65274, 0.70864, 0.88236, 0.5504, 0.731, 20,
-            0.639324, 1.278377, 1.596762
+            0.639324, 1.278377, 1.596762, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -863,7 +863,7 @@
           ],
           "Param": [
             0.58125, 0.55893, 0.70587, 0.76632, 0.95418, 0.5952, 0.7905, 20,
-            0.691362, 1.382431, 1.726731
+            0.691362, 1.382431, 1.726731, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -889,7 +889,7 @@
           ],
           "Param": [
             0.625, 0.601, 0.759, 0.824, 1.026, 0.64, 0.85, 20, 0.7434, 1.486485,
-            1.8567
+            1.8567, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -915,7 +915,7 @@
           ],
           "Param": [
             0.6875, 0.6611, 0.8349, 0.9064, 1.1286, 0.704, 0.935, 20, 0.81774,
-            1.635134, 2.04237
+            1.635134, 2.04237, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -941,7 +941,7 @@
           ],
           "Param": [
             0.73125, 0.70317, 0.88803, 0.96408, 1.20042, 0.7488, 0.9945, 20,
-            0.869778, 1.739187, 2.172339
+            0.869778, 1.739187, 2.172339, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -967,7 +967,7 @@
           ],
           "Param": [
             0.78125, 0.75125, 0.94875, 1.03, 1.2825, 0.8, 1.0625, 20, 0.92925,
-            1.858106, 2.320875
+            1.858106, 2.320875, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -993,7 +993,7 @@
           ],
           "Param": [
             0.85, 0.81736, 1.03224, 1.12064, 1.39536, 0.8704, 1.156, 20,
-            1.011024, 2.02162, 2.525112
+            1.011024, 2.02162, 2.525112, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1019,7 +1019,7 @@
           ],
           "Param": [
             0.91875, 0.88347, 1.11573, 1.21128, 1.50822, 0.9408, 1.2495, 20,
-            1.092798, 2.185133, 2.729349
+            1.092798, 2.185133, 2.729349, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1045,7 +1045,7 @@
           ],
           "Param": [
             0.9875, 0.94958, 1.19922, 1.30192, 1.62108, 1.0112, 1.343, 20,
-            1.174572, 2.348646, 2.933586
+            1.174572, 2.348646, 2.933586, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1071,7 +1071,7 @@
           ],
           "Param": [
             1.0625, 1.0217, 1.2903, 1.4008, 1.7442, 1.088, 1.445, 20, 1.26378,
-            2.527025, 3.15639
+            2.527025, 3.15639, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1097,7 +1097,7 @@
           ],
           "Param": [
             1.148438, 1.104337, 1.394662, 1.5141, 1.885275, 1.176, 1.561875, 20,
-            1.352988, 2.705403, 3.379194
+            1.352988, 2.705403, 3.379194, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1123,7 +1123,7 @@
           ],
           "Param": [
             1.2495, 1.201519, 1.517393, 1.647341, 2.051179, 1.279488, 1.69932,
-            20, 1.442196, 2.883781, 3.601998
+            20, 1.442196, 2.883781, 3.601998, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1149,7 +1149,8 @@
           ],
           "Param": [
             1.350562, 1.298701, 1.640123, 1.780582, 2.217083, 1.382976,
-            1.836765, 20, 1.531404, 3.062159, 3.824802
+            1.836765, 20, 1.531404, 3.062159, 3.824802, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
           ]
         },
         "13": {
@@ -1175,7 +1176,7 @@
           ],
           "Param": [
             1.451625, 1.395883, 1.762853, 1.913822, 2.382988, 1.486464, 1.97421,
-            20, 1.620612, 3.240537, 4.047606
+            20, 1.620612, 3.240537, 4.047606, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1201,7 +1202,7 @@
           ],
           "Param": [
             1.561875, 1.501899, 1.896741, 2.059176, 2.563974, 1.59936, 2.12415,
-            20, 1.70982, 3.418915, 4.27041
+            20, 1.70982, 3.418915, 4.27041, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1231,7 +1232,9 @@
             "",
             ""
           ],
-          "Param": [1.912, 6]
+          "Param": [
+            1.912, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1254,7 +1257,9 @@
             "",
             ""
           ],
-          "Param": [2.0554, 6]
+          "Param": [
+            2.0554, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1277,7 +1282,9 @@
             "",
             ""
           ],
-          "Param": [2.1988, 6]
+          "Param": [
+            2.1988, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1300,7 +1307,9 @@
             "",
             ""
           ],
-          "Param": [2.39, 6]
+          "Param": [
+            2.39, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1323,7 +1332,9 @@
             "",
             ""
           ],
-          "Param": [2.5334, 6]
+          "Param": [
+            2.5334, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1346,7 +1357,9 @@
             "",
             ""
           ],
-          "Param": [2.6768, 6]
+          "Param": [
+            2.6768, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1369,7 +1382,9 @@
             "",
             ""
           ],
-          "Param": [2.868, 6]
+          "Param": [
+            2.868, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1392,7 +1407,9 @@
             "",
             ""
           ],
-          "Param": [3.0592, 6]
+          "Param": [
+            3.0592, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1415,7 +1432,9 @@
             "",
             ""
           ],
-          "Param": [3.2504, 6]
+          "Param": [
+            3.2504, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1438,7 +1457,9 @@
             "",
             ""
           ],
-          "Param": [3.4416, 6]
+          "Param": [
+            3.4416, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1461,7 +1482,9 @@
             "",
             ""
           ],
-          "Param": [3.6328, 6]
+          "Param": [
+            3.6328, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1484,7 +1507,9 @@
             "",
             ""
           ],
-          "Param": [3.824, 6]
+          "Param": [
+            3.824, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1507,7 +1532,9 @@
             "",
             ""
           ],
-          "Param": [4.063, 6]
+          "Param": [
+            4.063, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1530,7 +1557,9 @@
             "",
             ""
           ],
-          "Param": [4.302, 6]
+          "Param": [
+            4.302, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1553,7 +1582,9 @@
             "",
             ""
           ],
-          "Param": [4.541, 6]
+          "Param": [
+            4.541, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         }
       }
     },
@@ -1582,7 +1613,9 @@
             "",
             ""
           ],
-          "Param": [0.776, 15, 8, 60]
+          "Param": [
+            0.776, 15, 8, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1605,7 +1638,9 @@
             "",
             ""
           ],
-          "Param": [0.8342, 15, 8, 60]
+          "Param": [
+            0.8342, 15, 8, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1628,7 +1663,9 @@
             "",
             ""
           ],
-          "Param": [0.8924, 15, 8, 60]
+          "Param": [
+            0.8924, 15, 8, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1651,7 +1688,9 @@
             "",
             ""
           ],
-          "Param": [0.97, 15, 8, 60]
+          "Param": [
+            0.97, 15, 8, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1674,7 +1713,9 @@
             "",
             ""
           ],
-          "Param": [1.0282, 15, 8, 60]
+          "Param": [
+            1.0282, 15, 8, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1697,7 +1738,9 @@
             "",
             ""
           ],
-          "Param": [1.0864, 15, 8, 60]
+          "Param": [
+            1.0864, 15, 8, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1720,7 +1763,9 @@
             "",
             ""
           ],
-          "Param": [1.164, 15, 8, 60]
+          "Param": [
+            1.164, 15, 8, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1743,7 +1788,9 @@
             "",
             ""
           ],
-          "Param": [1.2416, 15, 8, 60]
+          "Param": [
+            1.2416, 15, 8, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1766,7 +1813,9 @@
             "",
             ""
           ],
-          "Param": [1.3192, 15, 8, 60]
+          "Param": [
+            1.3192, 15, 8, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1789,7 +1838,9 @@
             "",
             ""
           ],
-          "Param": [1.3968, 15, 8, 60]
+          "Param": [
+            1.3968, 15, 8, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1812,7 +1863,9 @@
             "",
             ""
           ],
-          "Param": [1.4744, 15, 8, 60]
+          "Param": [
+            1.4744, 15, 8, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1835,7 +1888,9 @@
             "",
             ""
           ],
-          "Param": [1.552, 15, 8, 60]
+          "Param": [
+            1.552, 15, 8, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1858,7 +1913,9 @@
             "",
             ""
           ],
-          "Param": [1.649, 15, 8, 60]
+          "Param": [
+            1.649, 15, 8, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1881,7 +1938,9 @@
             "",
             ""
           ],
-          "Param": [1.746, 15, 8, 60]
+          "Param": [
+            1.746, 15, 8, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1904,7 +1963,9 @@
             "",
             ""
           ],
-          "Param": [1.843, 15, 8, 60]
+          "Param": [
+            1.843, 15, 8, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         }
       }
     }
@@ -1915,21 +1976,21 @@
       "Desc": "Every hit with <color=#FFD780FF>Frostgnaw</color> regenerates HP for Kaeya equal to 15% of his ATK.",
       "Icon": "UI_Talent_S_Kaeya_05",
       "Unlock": 1,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Glacial Heart",
       "Desc": "Opponents <color=#99FFFFFF>Frozen</color> by <color=#FFD780FF>Frostgnaw</color> will drop additional Elemental Particles.\\nFrostgnaw may only produce a maximum of 2 additional Elemental Particles per use.",
       "Icon": "UI_Talent_S_Kaeya_06",
       "Unlock": 4,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Hidden Strength",
       "Desc": "Decreases sprinting Stamina consumption for your own party members by 20%.\\nNot stackable with Passive Talents that provide the exact same effects.",
       "Icon": "UI_Talent_Explosion_Sprint",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Constellations": [
@@ -1937,37 +1998,37 @@
       "Name": "Excellent Blood",
       "Desc": "The CRIT Rate of Kaeya's Normal and Charge Attacks against opponents affected by <color=#99FFFFFF>Cryo</color> is increased by 15%.",
       "Icon": "UI_Talent_S_Kaeya_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Never-Ending Performance",
       "Desc": "While <color=#FFD780FF>Glacial Waltz</color> is in effect, for each opponent defeated, its duration is increased by 2.5s, up to a maximum of 15s.",
       "Icon": "UI_Talent_S_Kaeya_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Dance of Frost",
       "Desc": "Increases the Level of <color=#FFD780FF>Frostgnaw</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Kaeya_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Frozen Kiss",
       "Desc": "Triggers automatically when Kaeya's HP falls below 20%:\\nCreates a shield that absorbs damage equal to 30% of Kaeya's Max HP. Lasts for 20s.\\nThis shield absorbs <color=#99FFFFFF>Cryo DMG</color> with 250% efficiency.\\nCan only occur once every 60s.",
       "Icon": "UI_Talent_S_Kaeya_03",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Frostbiting Embrace",
       "Desc": "Increases the Level of <color=#FFD780FF>Glacial Waltz</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Kaeya_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Glacial Whirlwind",
       "Desc": "<color=#FFD780FF>Glacial Waltz</color> will generate 1 additional icicle, and will regenerate 15 Energy when cast.",
       "Icon": "UI_Talent_S_Kaeya_04",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -1980,7 +2041,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Calla Lily", "Id": 100056, "Count": 3, "Rank": 1 },
+          { "Name": "Calla Lily", "Id": 100056, "Count": 3, "Rank": 0 },
           {
             "Name": "Treasure Hoarder Insignia",
             "Id": 112035,
@@ -1999,7 +2060,7 @@
             "Rank": 3
           },
           { "Name": "Hoarfrost Core", "Id": 113010, "Count": 2, "Rank": 4 },
-          { "Name": "Calla Lily", "Id": 100056, "Count": 10, "Rank": 1 },
+          { "Name": "Calla Lily", "Id": 100056, "Count": 10, "Rank": 0 },
           {
             "Name": "Treasure Hoarder Insignia",
             "Id": 112035,
@@ -2018,7 +2079,7 @@
             "Rank": 3
           },
           { "Name": "Hoarfrost Core", "Id": 113010, "Count": 4, "Rank": 4 },
-          { "Name": "Calla Lily", "Id": 100056, "Count": 20, "Rank": 1 },
+          { "Name": "Calla Lily", "Id": 100056, "Count": 20, "Rank": 0 },
           {
             "Name": "Silver Raven Insignia",
             "Id": 112036,
@@ -2032,7 +2093,7 @@
         "Mats": [
           { "Name": "Shivada Jade Chunk", "Id": 104163, "Count": 3, "Rank": 4 },
           { "Name": "Hoarfrost Core", "Id": 113010, "Count": 8, "Rank": 4 },
-          { "Name": "Calla Lily", "Id": 100056, "Count": 30, "Rank": 1 },
+          { "Name": "Calla Lily", "Id": 100056, "Count": 30, "Rank": 0 },
           {
             "Name": "Silver Raven Insignia",
             "Id": 112036,
@@ -2046,7 +2107,7 @@
         "Mats": [
           { "Name": "Shivada Jade Chunk", "Id": 104163, "Count": 6, "Rank": 4 },
           { "Name": "Hoarfrost Core", "Id": 113010, "Count": 12, "Rank": 4 },
-          { "Name": "Calla Lily", "Id": 100056, "Count": 45, "Rank": 1 },
+          { "Name": "Calla Lily", "Id": 100056, "Count": 45, "Rank": 0 },
           {
             "Name": "Golden Raven Insignia",
             "Id": 112037,
@@ -2065,7 +2126,7 @@
             "Rank": 5
           },
           { "Name": "Hoarfrost Core", "Id": 113010, "Count": 20, "Rank": 4 },
-          { "Name": "Calla Lily", "Id": 100056, "Count": 60, "Rank": 1 },
+          { "Name": "Calla Lily", "Id": 100056, "Count": 60, "Rank": 0 },
           {
             "Name": "Golden Raven Insignia",
             "Id": 112037,

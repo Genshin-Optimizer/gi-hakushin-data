@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_301",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 45.9364
+      "initValue": 45.9364,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_301",
-      "propType": "FIGHT_PROP_CRITICAL",
-      "initValue": 0.072
+      "initValue": 0.072,
+      "propType": "FIGHT_PROP_CRITICAL"
     }
   ],
   "Rarity": 5,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Honed Flow",
       "Desc": "Obtain <color=#99FFFFFF>12%</color> All Elemental DMG Bonus. When other nearby party members use Elemental Skills, the character equipping this weapon will gain 1 Wavespike stack. Max 2 stacks. This effect can be triggered once every 0.3s. When the character equipping this weapon uses an Elemental Skill, all stacks of Wavespike will be consumed to gain Rippling Upheaval: each stack of Wavespike consumed will increase Normal Attack DMG by <color=#99FFFFFF>20%</color> for 8s.",
-      "ParamList": [0.12, 2, 0.3, 0.2, 8]
+      "ParamList": [0.12, 2, 0.3, 0.2, 8, 0, 0, 0]
     },
     "2": {
       "Name": "Honed Flow",
       "Desc": "Obtain <color=#99FFFFFF>15%</color> All Elemental DMG Bonus. When other nearby party members use Elemental Skills, the character equipping this weapon will gain 1 Wavespike stack. Max 2 stacks. This effect can be triggered once every 0.3s. When the character equipping this weapon uses an Elemental Skill, all stacks of Wavespike will be consumed to gain Rippling Upheaval: each stack of Wavespike consumed will increase Normal Attack DMG by <color=#99FFFFFF>25%</color> for 8s.",
-      "ParamList": [0.15, 2, 0.3, 0.25, 8]
+      "ParamList": [0.15, 2, 0.3, 0.25, 8, 0, 0, 0]
     },
     "3": {
       "Name": "Honed Flow",
       "Desc": "Obtain <color=#99FFFFFF>18%</color> All Elemental DMG Bonus. When other nearby party members use Elemental Skills, the character equipping this weapon will gain 1 Wavespike stack. Max 2 stacks. This effect can be triggered once every 0.3s. When the character equipping this weapon uses an Elemental Skill, all stacks of Wavespike will be consumed to gain Rippling Upheaval: each stack of Wavespike consumed will increase Normal Attack DMG by <color=#99FFFFFF>30%</color> for 8s.",
-      "ParamList": [0.18, 2, 0.3, 0.3, 8]
+      "ParamList": [0.18, 2, 0.3, 0.3, 8, 0, 0, 0]
     },
     "4": {
       "Name": "Honed Flow",
       "Desc": "Obtain <color=#99FFFFFF>21%</color> All Elemental DMG Bonus. When other nearby party members use Elemental Skills, the character equipping this weapon will gain 1 Wavespike stack. Max 2 stacks. This effect can be triggered once every 0.3s. When the character equipping this weapon uses an Elemental Skill, all stacks of Wavespike will be consumed to gain Rippling Upheaval: each stack of Wavespike consumed will increase Normal Attack DMG by <color=#99FFFFFF>35%</color> for 8s.",
-      "ParamList": [0.21, 2, 0.3, 0.35, 8]
+      "ParamList": [0.21, 2, 0.3, 0.35, 8, 0, 0, 0]
     },
     "5": {
       "Name": "Honed Flow",
       "Desc": "Obtain <color=#99FFFFFF>24%</color> All Elemental DMG Bonus. When other nearby party members use Elemental Skills, the character equipping this weapon will gain 1 Wavespike stack. Max 2 stacks. This effect can be triggered once every 0.3s. When the character equipping this weapon uses an Elemental Skill, all stacks of Wavespike will be consumed to gain Rippling Upheaval: each stack of Wavespike consumed will increase Normal Attack DMG by <color=#99FFFFFF>40%</color> for 8s.",
-      "ParamList": [0.24, 2, 0.3, 0.4, 8]
+      "ParamList": [0.24, 2, 0.3, 0.4, 8, 0, 0, 0]
     }
   },
   "Materials": {

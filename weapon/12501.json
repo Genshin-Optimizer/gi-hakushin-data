@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_302",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 47.537
+      "initValue": 47.537,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_301",
-      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
-      "initValue": 0.08
+      "initValue": 0.08,
+      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
     }
   ],
   "Rarity": 5,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Sky-ripping Dragon Spine",
       "Desc": "Increases all DMG by <color=#99FFFFFF>8%</color>. After using an Elemental Burst, a vacuum blade that does <color=#99FFFFFF>80%</color> of ATK as DMG to opponents along its path will be created when Normal or Charged Attacks hit. Lasts for 20s or 8 vacuum blades.",
-      "ParamList": [0.08, 0.8, 20, 8]
+      "ParamList": [0.08, 0.8, 20, 8, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Sky-ripping Dragon Spine",
       "Desc": "Increases all DMG by <color=#99FFFFFF>10%</color>. After using an Elemental Burst, a vacuum blade that does <color=#99FFFFFF>100%</color> of ATK as DMG to opponents along its path will be created when Normal or Charged Attacks hit. Lasts for 20s or 8 vacuum blades.",
-      "ParamList": [0.1, 1, 20, 8]
+      "ParamList": [0.1, 1, 20, 8, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Sky-ripping Dragon Spine",
       "Desc": "Increases all DMG by <color=#99FFFFFF>12%</color>. After using an Elemental Burst, a vacuum blade that does <color=#99FFFFFF>120%</color> of ATK as DMG to opponents along its path will be created when Normal or Charged Attacks hit. Lasts for 20s or 8 vacuum blades.",
-      "ParamList": [0.12, 1.2, 20, 8]
+      "ParamList": [0.12, 1.2, 20, 8, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Sky-ripping Dragon Spine",
       "Desc": "Increases all DMG by <color=#99FFFFFF>14%</color>. After using an Elemental Burst, a vacuum blade that does <color=#99FFFFFF>140%</color> of ATK as DMG to opponents along its path will be created when Normal or Charged Attacks hit. Lasts for 20s or 8 vacuum blades.",
-      "ParamList": [0.14, 1.4, 20, 8]
+      "ParamList": [0.14, 1.4, 20, 8, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Sky-ripping Dragon Spine",
       "Desc": "Increases all DMG by <color=#99FFFFFF>16%</color>. After using an Elemental Burst, a vacuum blade that does <color=#99FFFFFF>160%</color> of ATK as DMG to opponents along its path will be created when Normal or Charged Attacks hit. Lasts for 20s or 8 vacuum blades.",
-      "ParamList": [0.16, 1.6, 20, 8]
+      "ParamList": [0.16, 1.6, 20, 8, 0, 0, 0, 0]
     }
   },
   "Materials": {

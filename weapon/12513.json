@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_303",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 49.1377
+      "initValue": 49.1377,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_301",
-      "propType": "FIGHT_PROP_CRITICAL",
-      "initValue": 0.024
+      "initValue": 0.024,
+      "propType": "FIGHT_PROP_CRITICAL"
     }
   ],
   "Rarity": 5,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Turquoise Hunt",
       "Desc": "Gain 1 stack of Canopy's Favor after hitting an opponent with an Elemental Skill. This can be triggered once every 0.5s. After a nearby party member triggers a Burning or Burgeon reaction, the equipping character will gain 3 stacks. This effect can be triggered once every 2s and can be triggered even when the triggering party member is off-field. Canopy's Favor: Elemental Skill and Burst DMG is increased by <color=#99FFFFFF>10%</color> for 6s. Max 6 stacks. Each stack is counted independently.",
-      "ParamList": [0.5, 2, 0.1, 6, 6]
+      "ParamList": [0.5, 2, 0.1, 6, 6, 0, 0, 0]
     },
     "2": {
       "Name": "Turquoise Hunt",
       "Desc": "Gain 1 stack of Canopy's Favor after hitting an opponent with an Elemental Skill. This can be triggered once every 0.5s. After a nearby party member triggers a Burning or Burgeon reaction, the equipping character will gain 3 stacks. This effect can be triggered once every 2s and can be triggered even when the triggering party member is off-field. Canopy's Favor: Elemental Skill and Burst DMG is increased by <color=#99FFFFFF>12.5%</color> for 6s. Max 6 stacks. Each stack is counted independently.",
-      "ParamList": [0.5, 2, 0.125, 6, 6]
+      "ParamList": [0.5, 2, 0.125, 6, 6, 0, 0, 0]
     },
     "3": {
       "Name": "Turquoise Hunt",
       "Desc": "Gain 1 stack of Canopy's Favor after hitting an opponent with an Elemental Skill. This can be triggered once every 0.5s. After a nearby party member triggers a Burning or Burgeon reaction, the equipping character will gain 3 stacks. This effect can be triggered once every 2s and can be triggered even when the triggering party member is off-field. Canopy's Favor: Elemental Skill and Burst DMG is increased by <color=#99FFFFFF>15%</color> for 6s. Max 6 stacks. Each stack is counted independently.",
-      "ParamList": [0.5, 2, 0.15, 6, 6]
+      "ParamList": [0.5, 2, 0.15, 6, 6, 0, 0, 0]
     },
     "4": {
       "Name": "Turquoise Hunt",
       "Desc": "Gain 1 stack of Canopy's Favor after hitting an opponent with an Elemental Skill. This can be triggered once every 0.5s. After a nearby party member triggers a Burning or Burgeon reaction, the equipping character will gain 3 stacks. This effect can be triggered once every 2s and can be triggered even when the triggering party member is off-field. Canopy's Favor: Elemental Skill and Burst DMG is increased by <color=#99FFFFFF>17.5%</color> for 6s. Max 6 stacks. Each stack is counted independently.",
-      "ParamList": [0.5, 2, 0.175, 6, 6]
+      "ParamList": [0.5, 2, 0.175, 6, 6, 0, 0, 0]
     },
     "5": {
       "Name": "Turquoise Hunt",
       "Desc": "Gain 1 stack of Canopy's Favor after hitting an opponent with an Elemental Skill. This can be triggered once every 0.5s. After a nearby party member triggers a Burning or Burgeon reaction, the equipping character will gain 3 stacks. This effect can be triggered once every 2s and can be triggered even when the triggering party member is off-field. Canopy's Favor: Elemental Skill and Burst DMG is increased by <color=#99FFFFFF>20%</color> for 6s. Max 6 stacks. Each stack is counted independently.",
-      "ParamList": [0.5, 2, 0.2, 6, 6]
+      "ParamList": [0.5, 2, 0.2, 6, 6, 0, 0, 0]
     }
   },
   "Materials": {

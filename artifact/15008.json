@@ -6,25 +6,28 @@
   "Affix": [
     {
       "id": 215008,
+      "level": 0,
       "affixId": 2150080,
+      "paramList": [0, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "",
       "addProps": [
-        { "value": 0.25, "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT", "value": 0.25 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Bloodstained Chivalry",
       "Desc": "Physical DMG +25%"
     },
     {
-      "level": 1,
-      "paramList": [10, 0.5, -5, 0.1],
       "id": 215008,
-      "openConfig": "Relic_KillEnhanceExtraAtk",
+      "level": 1,
       "affixId": 2150081,
+      "paramList": [10, 0.5, -5, 0.1, 0, 0, 0, 0],
+      "openConfig": "Relic_KillEnhanceExtraAtk",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Bloodstained Chivalry",
       "Desc": "After defeating an opponent, increases Charged Attack DMG by 50%, and reduces its Stamina cost to 0 for 10s."

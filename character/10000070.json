@@ -411,7 +411,7 @@
         "Name": "Neither Flower Nor Mist",
         "Desc": "Nilou's outfit. It is neither flower nor mist, but when she begins to dance, both seem to bloom into being.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -790,7 +790,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Dance of Samser",
+      "Name": "Dance of Samser",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 3 consecutive sword strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to perform a twirling slash.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
       "Promote": {
         "0": {
@@ -816,7 +816,7 @@
           ],
           "Param": [
             0.503074, 0.45439, 0.70354, 0.50224, 0.54438, 20, 0.639324,
-            1.278377, 1.596762
+            1.278377, 1.596762, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -842,7 +842,7 @@
           ],
           "Param": [
             0.544022, 0.491375, 0.760805, 0.54312, 0.58869, 20, 0.691362,
-            1.382431, 1.726731
+            1.382431, 1.726731, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -868,7 +868,7 @@
           ],
           "Param": [
             0.58497, 0.52836, 0.81807, 0.584, 0.633, 20, 0.7434, 1.486485,
-            1.8567
+            1.8567, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -894,7 +894,7 @@
           ],
           "Param": [
             0.643467, 0.581196, 0.899877, 0.6424, 0.6963, 20, 0.81774, 1.635134,
-            2.04237
+            2.04237, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -920,7 +920,7 @@
           ],
           "Param": [
             0.684415, 0.618181, 0.957142, 0.68328, 0.74061, 20, 0.869778,
-            1.739187, 2.172339
+            1.739187, 2.172339, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -946,7 +946,7 @@
           ],
           "Param": [
             0.731213, 0.66045, 1.022588, 0.73, 0.79125, 20, 0.92925, 1.858106,
-            2.320875
+            2.320875, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -972,7 +972,7 @@
           ],
           "Param": [
             0.795559, 0.71857, 1.112575, 0.79424, 0.86088, 20, 1.011024,
-            2.02162, 2.525112
+            2.02162, 2.525112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -998,7 +998,7 @@
           ],
           "Param": [
             0.859906, 0.776689, 1.202563, 0.85848, 0.93051, 20, 1.092798,
-            2.185133, 2.729349
+            2.185133, 2.729349, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1024,7 +1024,7 @@
           ],
           "Param": [
             0.924253, 0.834809, 1.292551, 0.92272, 1.00014, 20, 1.174572,
-            2.348646, 2.933586
+            2.348646, 2.933586, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1050,7 +1050,7 @@
           ],
           "Param": [
             0.994449, 0.898212, 1.390719, 0.9928, 1.0761, 20, 1.26378, 2.527025,
-            3.15639
+            3.15639, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1076,7 +1076,7 @@
           ],
           "Param": [
             1.064645, 0.961615, 1.488887, 1.06288, 1.15206, 20, 1.352988,
-            2.705403, 3.379194
+            2.705403, 3.379194, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1102,7 +1102,7 @@
           ],
           "Param": [
             1.134842, 1.025018, 1.587056, 1.13296, 1.22802, 20, 1.442196,
-            2.883781, 3.601998
+            2.883781, 3.601998, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1128,7 +1128,7 @@
           ],
           "Param": [
             1.205038, 1.088422, 1.685224, 1.20304, 1.30398, 20, 1.531404,
-            3.062159, 3.824802
+            3.062159, 3.824802, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1154,7 +1154,7 @@
           ],
           "Param": [
             1.275235, 1.151825, 1.783393, 1.27312, 1.37994, 20, 1.620612,
-            3.240537, 4.047606
+            3.240537, 4.047606, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1180,7 +1180,7 @@
           ],
           "Param": [
             1.345431, 1.215228, 1.881561, 1.3432, 1.4559, 20, 1.70982, 3.418915,
-            4.27041
+            4.27041, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1212,7 +1212,7 @@
           ],
           "Param": [
             0.033389, 0.032619, 0.039605, 0.071688, 0.050616, 0.045525,
-            0.051445, 12, 18, 8, 10
+            0.051445, 12, 18, 8, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -1238,7 +1238,7 @@
           ],
           "Param": [
             0.035893, 0.035066, 0.042575, 0.077065, 0.054412, 0.048939,
-            0.055303, 12, 18, 8, 10
+            0.055303, 12, 18, 8, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -1264,7 +1264,7 @@
           ],
           "Param": [
             0.038397, 0.037512, 0.045546, 0.082441, 0.058208, 0.052354,
-            0.059162, 12, 18, 8, 10
+            0.059162, 12, 18, 8, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -1290,7 +1290,7 @@
           ],
           "Param": [
             0.041736, 0.040774, 0.049506, 0.08961, 0.06327, 0.056906, 0.064306,
-            12, 18, 8, 10
+            12, 18, 8, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -1316,7 +1316,7 @@
           ],
           "Param": [
             0.04424, 0.04322, 0.052476, 0.094987, 0.067066, 0.06032, 0.068164,
-            12, 18, 8, 10
+            12, 18, 8, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -1342,7 +1342,7 @@
           ],
           "Param": [
             0.046744, 0.045667, 0.055447, 0.100363, 0.070862, 0.063735,
-            0.072023, 12, 18, 8, 10
+            0.072023, 12, 18, 8, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -1368,7 +1368,7 @@
           ],
           "Param": [
             0.050083, 0.048929, 0.059407, 0.107532, 0.075924, 0.068287,
-            0.077167, 12, 18, 8, 10
+            0.077167, 12, 18, 8, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1394,7 +1394,7 @@
           ],
           "Param": [
             0.053422, 0.052191, 0.063368, 0.114701, 0.080986, 0.07284, 0.082312,
-            12, 18, 8, 10
+            12, 18, 8, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1420,7 +1420,7 @@
           ],
           "Param": [
             0.056761, 0.055453, 0.067328, 0.12187, 0.086047, 0.077392, 0.087456,
-            12, 18, 8, 10
+            12, 18, 8, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1446,7 +1446,7 @@
           ],
           "Param": [
             0.0601, 0.058715, 0.071289, 0.129038, 0.091109, 0.081945, 0.092601,
-            12, 18, 8, 10
+            12, 18, 8, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1472,7 +1472,7 @@
           ],
           "Param": [
             0.063439, 0.061976, 0.075249, 0.136207, 0.09617, 0.086497, 0.097745,
-            12, 18, 8, 10
+            12, 18, 8, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1498,7 +1498,7 @@
           ],
           "Param": [
             0.066778, 0.065238, 0.07921, 0.143376, 0.101232, 0.09105, 0.10289,
-            12, 18, 8, 10
+            12, 18, 8, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1524,7 +1524,7 @@
           ],
           "Param": [
             0.070951, 0.069316, 0.08416, 0.152337, 0.107559, 0.09674, 0.10932,
-            12, 18, 8, 10
+            12, 18, 8, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1550,7 +1550,7 @@
           ],
           "Param": [
             0.075125, 0.073393, 0.089111, 0.161298, 0.113886, 0.102431,
-            0.115751, 12, 18, 8, 10
+            0.115751, 12, 18, 8, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1576,7 +1576,7 @@
           ],
           "Param": [
             0.079298, 0.077471, 0.094061, 0.170259, 0.120213, 0.108121,
-            0.122181, 12, 18, 8, 10
+            0.122181, 12, 18, 8, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1606,7 +1606,10 @@
             "",
             ""
           ],
-          "Param": [0.18432, 0.22528, 18, 70]
+          "Param": [
+            0.18432, 0.22528, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1629,7 +1632,10 @@
             "",
             ""
           ],
-          "Param": [0.198144, 0.242176, 18, 70]
+          "Param": [
+            0.198144, 0.242176, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1652,7 +1658,10 @@
             "",
             ""
           ],
-          "Param": [0.211968, 0.259072, 18, 70]
+          "Param": [
+            0.211968, 0.259072, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1675,7 +1684,10 @@
             "",
             ""
           ],
-          "Param": [0.2304, 0.2816, 18, 70]
+          "Param": [
+            0.2304, 0.2816, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1698,7 +1710,10 @@
             "",
             ""
           ],
-          "Param": [0.244224, 0.298496, 18, 70]
+          "Param": [
+            0.244224, 0.298496, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1721,7 +1736,10 @@
             "",
             ""
           ],
-          "Param": [0.258048, 0.315392, 18, 70]
+          "Param": [
+            0.258048, 0.315392, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1744,7 +1762,10 @@
             "",
             ""
           ],
-          "Param": [0.27648, 0.33792, 18, 70]
+          "Param": [
+            0.27648, 0.33792, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1767,7 +1788,10 @@
             "",
             ""
           ],
-          "Param": [0.294912, 0.360448, 18, 70]
+          "Param": [
+            0.294912, 0.360448, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1790,7 +1814,10 @@
             "",
             ""
           ],
-          "Param": [0.313344, 0.382976, 18, 70]
+          "Param": [
+            0.313344, 0.382976, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1813,7 +1840,10 @@
             "",
             ""
           ],
-          "Param": [0.331776, 0.405504, 18, 70]
+          "Param": [
+            0.331776, 0.405504, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1836,7 +1866,10 @@
             "",
             ""
           ],
-          "Param": [0.350208, 0.428032, 18, 70]
+          "Param": [
+            0.350208, 0.428032, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1859,7 +1892,10 @@
             "",
             ""
           ],
-          "Param": [0.36864, 0.45056, 18, 70]
+          "Param": [
+            0.36864, 0.45056, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1882,7 +1918,10 @@
             "",
             ""
           ],
-          "Param": [0.39168, 0.47872, 18, 70]
+          "Param": [
+            0.39168, 0.47872, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1905,7 +1944,10 @@
             "",
             ""
           ],
-          "Param": [0.41472, 0.50688, 18, 70]
+          "Param": [
+            0.41472, 0.50688, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1928,7 +1970,10 @@
             "",
             ""
           ],
-          "Param": [0.43776, 0.53504, 18, 70]
+          "Param": [
+            0.43776, 0.53504, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         }
       }
     }
@@ -1939,21 +1984,25 @@
       "Desc": "When all characters in the party are all <color=#99FF88FF>Dendro</color> or <color=#80C0FFFF>Hydro</color>, and there are at least one Dendro character and one Hydro character:\\nThe completion of the third dance step of Nilou's <color=#FFD780FF>Dance of Haftkarsvar</color> will grant all nearby characters the Golden Chalice's Bounty for 30s.\\nCharacters under the effect of Golden Chalice's Bounty will increase the Elemental Mastery of all nearby characters by 100 for 10s whenever they are hit by <color=#99FF88FF>Dendro attacks</color>. Also, triggering the Bloom reaction will create Bountiful Cores instead of Dendro Cores.\\nSuch Cores will burst very quickly after being created, and they have larger AoEs.\\nBountiful Cores cannot trigger Hyperbloom or Burgeon, and they share an upper numerical limit with Dendro Cores. Bountiful Core DMG is considered DMG dealt by Dendro Cores produced by Bloom.\\nShould the party not meet the conditions for this Passive Talent, any existing Golden Chalice's Bounty effects will be canceled.",
       "Icon": "UI_Talent_S_Nilou_05",
       "Unlock": 1,
-      "ParamList": [30, 100, 10]
+      "ParamList": [
+        30, 100, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Dreamy Dance of Aeons",
       "Desc": "Every 1,000 points of Nilou's Max HP above 30,000 will cause the DMG dealt by Bountiful Cores created by characters affected by Golden Chalice's Bounty to increase by 9%.\\nThe maximum increase in Bountiful Core DMG that can be achieved this way is 400%.",
       "Icon": "UI_Talent_S_Nilou_06",
       "Unlock": 4,
-      "ParamList": [0.09, 30000, 4]
+      "ParamList": [
+        0.09, 30000, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "White Jade Lotus",
       "Desc": "When Perfect Cooking is achieved on Food with Adventure-related effects, there is a 12% chance to obtain double the product.",
       "Icon": "UI_Talent_S_Yunjin_07",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Constellations": [
@@ -1961,37 +2010,37 @@
       "Name": "Dance of the Waning Moon",
       "Desc": "<color=#FFD780FF>Dance of Haftkarsvar</color> will be enhanced as follows:\\n·Luminous Illusion DMG is increased by 65%.\\n·The Tranquility Aura's duration is extended by 6s.",
       "Icon": "UI_Talent_S_Nilou_01",
-      "ParamList": [0.65, 6]
+      "ParamList": [0.65, 6, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "The Starry Skies Their Flowers Rain",
       "Desc": "After characters affected by the Golden Chalice's Bounty deal <color=#80C0FFFF>Hydro DMG</color> to an opponent, that opponent's <color=#80C0FFFF>Hydro RES</color> will be decreased by 35% for 10s. After a triggered Bloom reaction deals DMG to opponents, their <color=#99FF88FF>Dendro RES</color> will be decreased by 35% for 10s.\\nYou need to have unlocked the \"Court of Dancing Petals\" Talent.",
       "Icon": "UI_Talent_S_Nilou_02",
-      "ParamList": [0.35, 0.35, 10]
+      "ParamList": [0.35, 0.35, 10, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Beguiling Shadowstep",
       "Desc": "Increases the Level of <color=#FFD780FF>Dance of Abzendegi: Distant Dreams, Listening Spring</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Nilou_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Fricative Pulse",
       "Desc": "After the third dance step of <color=#FFD780FF>Dance of Haftkarsvar</color>'s Pirouette hits opponents, Nilou will gain 15 Elemental Energy, and DMG from her <color=#FFD780FF>Dance of Abzendegi: Distant Dreams, Listening Spring</color> will be increased by 50% for 8s.",
       "Icon": "UI_Talent_S_Nilou_03",
-      "ParamList": [15, 0.5, 8]
+      "ParamList": [15, 0.5, 8, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Twirling Light",
       "Desc": "Increases the Level of <color=#FFD780FF>Dance of Haftkarsvar</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Nilou_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Frostbreaker's Melody",
       "Desc": "For every 1,000 points of Max HP, Nilou's CRIT Rate and CRIT DMG will increase by 0.6% and 1.2% respectively.\\nThe maximum increase in CRIT Rate and CRIT DMG via this method is 30% and 60% respectively.",
       "Icon": "UI_Talent_S_Nilou_04",
-      "ParamList": [0.006, 0.012, 0.3, 0.6]
+      "ParamList": [0.006, 0.012, 0.3, 0.6, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -2004,7 +2053,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Padisarah", "Id": 101214, "Count": 3, "Rank": 1 },
+          { "Name": "Padisarah", "Id": 101214, "Count": 3, "Rank": 0 },
           { "Name": "Fungal Spores", "Id": 112059, "Count": 3, "Rank": 1 }
         ],
         "Cost": 20000
@@ -2018,7 +2067,7 @@
             "Rank": 3
           },
           { "Name": "Perpetual Caliber", "Id": 113038, "Count": 2, "Rank": 4 },
-          { "Name": "Padisarah", "Id": 101214, "Count": 10, "Rank": 1 },
+          { "Name": "Padisarah", "Id": 101214, "Count": 10, "Rank": 0 },
           { "Name": "Fungal Spores", "Id": 112059, "Count": 15, "Rank": 1 }
         ],
         "Cost": 40000
@@ -2032,7 +2081,7 @@
             "Rank": 3
           },
           { "Name": "Perpetual Caliber", "Id": 113038, "Count": 4, "Rank": 4 },
-          { "Name": "Padisarah", "Id": 101214, "Count": 20, "Rank": 1 },
+          { "Name": "Padisarah", "Id": 101214, "Count": 20, "Rank": 0 },
           { "Name": "Luminescent Pollen", "Id": 112060, "Count": 12, "Rank": 2 }
         ],
         "Cost": 60000
@@ -2046,7 +2095,7 @@
             "Rank": 4
           },
           { "Name": "Perpetual Caliber", "Id": 113038, "Count": 8, "Rank": 4 },
-          { "Name": "Padisarah", "Id": 101214, "Count": 30, "Rank": 1 },
+          { "Name": "Padisarah", "Id": 101214, "Count": 30, "Rank": 0 },
           { "Name": "Luminescent Pollen", "Id": 112060, "Count": 18, "Rank": 2 }
         ],
         "Cost": 80000
@@ -2060,7 +2109,7 @@
             "Rank": 4
           },
           { "Name": "Perpetual Caliber", "Id": 113038, "Count": 12, "Rank": 4 },
-          { "Name": "Padisarah", "Id": 101214, "Count": 45, "Rank": 1 },
+          { "Name": "Padisarah", "Id": 101214, "Count": 45, "Rank": 0 },
           {
             "Name": "Crystalline Cyst Dust",
             "Id": 112061,
@@ -2079,7 +2128,7 @@
             "Rank": 5
           },
           { "Name": "Perpetual Caliber", "Id": 113038, "Count": 20, "Rank": 4 },
-          { "Name": "Padisarah", "Id": 101214, "Count": 60, "Rank": 1 },
+          { "Name": "Padisarah", "Id": 101214, "Count": 60, "Rank": 0 },
           {
             "Name": "Crystalline Cyst Dust",
             "Id": 112061,

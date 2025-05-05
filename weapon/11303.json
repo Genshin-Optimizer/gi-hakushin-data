@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_102",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 39.8751
+      "initValue": 39.8751,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_101",
-      "propType": "FIGHT_PROP_DEFENSE_PERCENT",
-      "initValue": 0.063733
+      "initValue": 0.063733,
+      "propType": "FIGHT_PROP_DEFENSE_PERCENT"
     }
   ],
   "Rarity": 3,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Journey",
       "Desc": "Each Elemental Orb or Particle collected restores <color=#99FFFFFF>1%</color> HP.",
-      "ParamList": [0.01, 1]
+      "ParamList": [0.01, 1, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Journey",
       "Desc": "Each Elemental Orb or Particle collected restores <color=#99FFFFFF>1.25%</color> HP.",
-      "ParamList": [0.0125, 1]
+      "ParamList": [0.0125, 1, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Journey",
       "Desc": "Each Elemental Orb or Particle collected restores <color=#99FFFFFF>1.5%</color> HP.",
-      "ParamList": [0.015, 1]
+      "ParamList": [0.015, 1, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Journey",
       "Desc": "Each Elemental Orb or Particle collected restores <color=#99FFFFFF>1.75%</color> HP.",
-      "ParamList": [0.0175, 1]
+      "ParamList": [0.0175, 1, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Journey",
       "Desc": "Each Elemental Orb or Particle collected restores <color=#99FFFFFF>2%</color> HP.",
-      "ParamList": [0.02, 1]
+      "ParamList": [0.02, 1, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

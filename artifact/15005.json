@@ -6,25 +6,28 @@
   "Affix": [
     {
       "id": 215005,
+      "level": 0,
       "affixId": 2150050,
+      "paramList": [0, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "",
       "addProps": [
-        { "value": 0.15, "propType": "FIGHT_PROP_ELEC_ADD_HURT" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_ELEC_ADD_HURT", "value": 0.15 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Thundering Fury",
       "Desc": "Electro DMG Bonus +15%"
     },
     {
-      "level": 1,
-      "paramList": [0.4, 0.8, 0.2],
       "id": 215005,
-      "openConfig": "Relic_ReactionElectricEnhance",
+      "level": 1,
       "affixId": 2150051,
+      "paramList": [0.4, 0.8, 0.2, 0, 0, 0, 0, 0],
+      "openConfig": "Relic_ReactionElectricEnhance",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Thundering Fury",
       "Desc": "Increases DMG caused by Overloaded, Electro-Charged, Superconduct, and Hyperbloom by 40%, and the DMG Bonus conferred by Aggravate is increased by 20%. When Quicken or the aforementioned Elemental Reactions are triggered, Elemental Skill CD is decreased by 1s. Can only occur once every 0.8s."

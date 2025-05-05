@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_201",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 42.401
+      "initValue": 42.401,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_CRITICAL",
-      "initValue": 0.06
+      "initValue": 0.06,
+      "propType": "FIGHT_PROP_CRITICAL"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Solar Shine",
       "Desc": "Normal Attack hits increase Elemental Skill and Elemental Burst DMG by <color=#99FFFFFF>20%</color> for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by <color=#99FFFFFF>20%</color> for 6s.",
-      "ParamList": [0.2]
+      "ParamList": [0.2, 0, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Solar Shine",
       "Desc": "Normal Attack hits increase Elemental Skill and Elemental Burst DMG by <color=#99FFFFFF>25%</color> for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by <color=#99FFFFFF>25%</color> for 6s.",
-      "ParamList": [0.25]
+      "ParamList": [0.25, 0, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Solar Shine",
       "Desc": "Normal Attack hits increase Elemental Skill and Elemental Burst DMG by <color=#99FFFFFF>30%</color> for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by <color=#99FFFFFF>30%</color> for 6s.",
-      "ParamList": [0.3]
+      "ParamList": [0.3, 0, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Solar Shine",
       "Desc": "Normal Attack hits increase Elemental Skill and Elemental Burst DMG by <color=#99FFFFFF>35%</color> for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by <color=#99FFFFFF>35%</color> for 6s.",
-      "ParamList": [0.35]
+      "ParamList": [0.35, 0, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Solar Shine",
       "Desc": "Normal Attack hits increase Elemental Skill and Elemental Burst DMG by <color=#99FFFFFF>40%</color> for 6s. Likewise, Elemental Skill or Elemental Burst hits increase Normal Attack DMG by <color=#99FFFFFF>40%</color> for 6s.",
-      "ParamList": [0.4]
+      "ParamList": [0.4, 0, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

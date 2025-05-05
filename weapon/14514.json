@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_304",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 44.3358
+      "initValue": 44.3358,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_301",
-      "propType": "FIGHT_PROP_CRITICAL_HURT",
-      "initValue": 0.192
+      "initValue": 0.192,
+      "propType": "FIGHT_PROP_CRITICAL_HURT"
     }
   ],
   "Rarity": 5,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Aeon Wave",
       "Desc": "HP is increased by <color=#99FFFFFF>16%</color>. When current HP increases or decreases, Charged Attack DMG will be increased by <color=#99FFFFFF>14%</color> for 4s. Max 3 stacks. This effect can be triggered once every 0.3s. When the character has 3 stacks or a third stack's duration refreshes, <color=#99FFFFFF>8</color> Energy will be restored. This Energy restoration effect can be triggered once every 12s.",
-      "ParamList": [4, 0.3, 0.14, 8, 12]
+      "ParamList": [4, 0.3, 0.14, 8, 12, 0, 0, 0]
     },
     "2": {
       "Name": "Aeon Wave",
       "Desc": "HP is increased by <color=#99FFFFFF>20%</color>. When current HP increases or decreases, Charged Attack DMG will be increased by <color=#99FFFFFF>18%</color> for 4s. Max 3 stacks. This effect can be triggered once every 0.3s. When the character has 3 stacks or a third stack's duration refreshes, <color=#99FFFFFF>9</color> Energy will be restored. This Energy restoration effect can be triggered once every 12s.",
-      "ParamList": [4, 0.3, 0.18, 9, 12]
+      "ParamList": [4, 0.3, 0.18, 9, 12, 0, 0, 0]
     },
     "3": {
       "Name": "Aeon Wave",
       "Desc": "HP is increased by <color=#99FFFFFF>24%</color>. When current HP increases or decreases, Charged Attack DMG will be increased by <color=#99FFFFFF>22%</color> for 4s. Max 3 stacks. This effect can be triggered once every 0.3s. When the character has 3 stacks or a third stack's duration refreshes, <color=#99FFFFFF>10</color> Energy will be restored. This Energy restoration effect can be triggered once every 12s.",
-      "ParamList": [4, 0.3, 0.22, 10, 12]
+      "ParamList": [4, 0.3, 0.22, 10, 12, 0, 0, 0]
     },
     "4": {
       "Name": "Aeon Wave",
       "Desc": "HP is increased by <color=#99FFFFFF>28%</color>. When current HP increases or decreases, Charged Attack DMG will be increased by <color=#99FFFFFF>26%</color> for 4s. Max 3 stacks. This effect can be triggered once every 0.3s. When the character has 3 stacks or a third stack's duration refreshes, <color=#99FFFFFF>11</color> Energy will be restored. This Energy restoration effect can be triggered once every 12s.",
-      "ParamList": [4, 0.3, 0.26, 11, 12]
+      "ParamList": [4, 0.3, 0.26, 11, 12, 0, 0, 0]
     },
     "5": {
       "Name": "Aeon Wave",
       "Desc": "HP is increased by <color=#99FFFFFF>32%</color>. When current HP increases or decreases, Charged Attack DMG will be increased by <color=#99FFFFFF>30%</color> for 4s. Max 3 stacks. This effect can be triggered once every 0.3s. When the character has 3 stacks or a third stack's duration refreshes, <color=#99FFFFFF>12</color> Energy will be restored. This Energy restoration effect can be triggered once every 12s.",
-      "ParamList": [4, 0.3, 0.3, 12, 12]
+      "ParamList": [4, 0.3, 0.3, 12, 12, 0, 0, 0]
     }
   },
   "Materials": {

@@ -6,25 +6,28 @@
   "Affix": [
     {
       "id": 215035,
+      "level": 0,
       "affixId": 2150350,
+      "paramList": [0, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "",
       "addProps": [
-        { "value": 0.18, "propType": "FIGHT_PROP_ATTACK_PERCENT" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_ATTACK_PERCENT", "value": 0.18 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Fragment of Harmonic Whimsy",
       "Desc": "ATK +18%."
     },
     {
-      "level": 1,
-      "paramList": [0.18, 6, 3],
       "id": 215035,
-      "openConfig": "Relic_BuffWhenHPdebtsUpAndDown",
+      "level": 1,
       "affixId": 2150351,
+      "paramList": [0.18, 6, 3, 0, 0, 0, 0, 0],
+      "openConfig": "Relic_BuffWhenHPdebtsUpAndDown",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Fragment of Harmonic Whimsy",
       "Desc": "When the value of a Bond of Life increases or decreases, this character deals 18% increased DMG for 6s. Max 3 stacks."

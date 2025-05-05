@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_204",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 41.0671
+      "initValue": 41.0671,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_CRITICAL",
-      "initValue": 0.08
+      "initValue": 0.08,
+      "propType": "FIGHT_PROP_CRITICAL"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Jade Circulation",
       "Desc": "When not on the field for more than 5s, Max HP will be increased by <color=#99FFFFFF>32%</color> and Elemental Mastery will be increased by <color=#99FFFFFF>40</color>. These effects will be canceled after the wielder has been on the field for 10s.",
-      "ParamList": [10, 5, 0.32, 40]
+      "ParamList": [10, 5, 0.32, 40, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Jade Circulation",
       "Desc": "When not on the field for more than 5s, Max HP will be increased by <color=#99FFFFFF>40%</color> and Elemental Mastery will be increased by <color=#99FFFFFF>50</color>. These effects will be canceled after the wielder has been on the field for 10s.",
-      "ParamList": [10, 5, 0.4, 50]
+      "ParamList": [10, 5, 0.4, 50, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Jade Circulation",
       "Desc": "When not on the field for more than 5s, Max HP will be increased by <color=#99FFFFFF>48%</color> and Elemental Mastery will be increased by <color=#99FFFFFF>60</color>. These effects will be canceled after the wielder has been on the field for 10s.",
-      "ParamList": [10, 5, 0.48, 60]
+      "ParamList": [10, 5, 0.48, 60, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Jade Circulation",
       "Desc": "When not on the field for more than 5s, Max HP will be increased by <color=#99FFFFFF>56%</color> and Elemental Mastery will be increased by <color=#99FFFFFF>70</color>. These effects will be canceled after the wielder has been on the field for 10s.",
-      "ParamList": [10, 5, 0.56, 70]
+      "ParamList": [10, 5, 0.56, 70, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Jade Circulation",
       "Desc": "When not on the field for more than 5s, Max HP will be increased by <color=#99FFFFFF>64%</color> and Elemental Mastery will be increased by <color=#99FFFFFF>80</color>. These effects will be canceled after the wielder has been on the field for 10s.",
-      "ParamList": [10, 5, 0.64, 80]
+      "ParamList": [10, 5, 0.64, 80, 0, 0, 0, 0]
     }
   },
   "Materials": {

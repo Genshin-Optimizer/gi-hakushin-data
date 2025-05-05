@@ -81,7 +81,7 @@
       },
       {
         "Title": "About Effort and Reward",
-        "Text": "#<color=#37FFFF>Paimon:</color> Paimon finds that hard work hardly works here in Mondstadt.\\n<color=#37FFFF>{NICKNAME}:</color> Why do you say that?\\n<color=#37FFFF>Paimon:</color> Just look at Huffman from the Knights of Favonius. He does his best at his duties every day...\\n<color=#37FFFF>Paimon:</color> But the ever-relaxed Captain Kaeya is his boss.\\n<color=#37FFFF>{NICKNAME}:</color> Hmm... But isn't Jean, who works the hardest, the Acting Grand Master?\\n<color=#37FFFF>Paimon:</color> W��Well, how about this, then...\\n<color=#37FFFF>Paimon:</color> Venti's the god of Mondstadt, and he's the laziest of them all!",
+        "Text": "#<color=#37FFFF>Paimon:</color> Paimon finds that hard work hardly works here in Mondstadt.\\n<color=#37FFFF>{NICKNAME}:</color> Why do you say that?\\n<color=#37FFFF>Paimon:</color> Just look at Huffman from the Knights of Favonius. He does his best at his duties every day...\\n<color=#37FFFF>Paimon:</color> But the ever-relaxed Captain Kaeya is his boss.\\n<color=#37FFFF>{NICKNAME}:</color> Hmm... But isn't Jean, who works the hardest, the Acting Grand Master?\\n<color=#37FFFF>Paimon:</color> W—Well, how about this, then...\\n<color=#37FFFF>Paimon:</color> Venti's the god of Mondstadt, and he's the laziest of them all!",
         "Unlocked": ["Complete \"For a Tomorrow Without Tears\""]
       },
       {
@@ -1160,7 +1160,7 @@
         "Name": "Rising Star",
         "Desc": "The Traveler's outfit. A practical set of clothing to wear during a long journey.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -1539,7 +1539,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Foreign Rockblade",
+      "Name": "Foreign Rockblade",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 5 rapid strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
       "Promote": {
         "0": {
@@ -1565,7 +1565,7 @@
           ],
           "Param": [
             0.44462, 0.4343, 0.52976, 0.58308, 0.70778, 0.559, 0.7224, 20,
-            0.639324, 1.278377, 1.596762
+            0.639324, 1.278377, 1.596762, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -1591,7 +1591,7 @@
           ],
           "Param": [
             0.48081, 0.46965, 0.57288, 0.63054, 0.76539, 0.6045, 0.7812, 20,
-            0.691362, 1.382431, 1.726731
+            0.691362, 1.382431, 1.726731, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -1617,7 +1617,7 @@
           ],
           "Param": [
             0.517, 0.505, 0.616, 0.678, 0.823, 0.65, 0.84, 20, 0.7434, 1.486485,
-            1.8567
+            1.8567, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -1643,7 +1643,7 @@
           ],
           "Param": [
             0.5687, 0.5555, 0.6776, 0.7458, 0.9053, 0.715, 0.924, 20, 0.81774,
-            1.635134, 2.04237
+            1.635134, 2.04237, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -1669,7 +1669,7 @@
           ],
           "Param": [
             0.60489, 0.59085, 0.72072, 0.79326, 0.96291, 0.7605, 0.9828, 20,
-            0.869778, 1.739187, 2.172339
+            0.869778, 1.739187, 2.172339, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -1695,7 +1695,7 @@
           ],
           "Param": [
             0.64625, 0.63125, 0.77, 0.8475, 1.02875, 0.8125, 1.05, 20, 0.92925,
-            1.858106, 2.320875
+            1.858106, 2.320875, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -1721,7 +1721,7 @@
           ],
           "Param": [
             0.70312, 0.6868, 0.83776, 0.92208, 1.11928, 0.884, 1.1424, 20,
-            1.011024, 2.02162, 2.525112
+            1.011024, 2.02162, 2.525112, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1747,7 +1747,7 @@
           ],
           "Param": [
             0.75999, 0.74235, 0.90552, 0.99666, 1.20981, 0.9555, 1.2348, 20,
-            1.092798, 2.185133, 2.729349
+            1.092798, 2.185133, 2.729349, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1773,7 +1773,7 @@
           ],
           "Param": [
             0.81686, 0.7979, 0.97328, 1.07124, 1.30034, 1.027, 1.3272, 20,
-            1.174572, 2.348646, 2.933586
+            1.174572, 2.348646, 2.933586, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1799,7 +1799,7 @@
           ],
           "Param": [
             0.8789, 0.8585, 1.0472, 1.1526, 1.3991, 1.105, 1.428, 20, 1.26378,
-            2.527025, 3.15639
+            2.527025, 3.15639, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1825,7 +1825,7 @@
           ],
           "Param": [
             0.94094, 0.9191, 1.12112, 1.23396, 1.49786, 1.183, 1.5288, 20,
-            1.352988, 2.705403, 3.379194
+            1.352988, 2.705403, 3.379194, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1851,7 +1851,7 @@
           ],
           "Param": [
             1.00298, 0.9797, 1.19504, 1.31532, 1.59662, 1.261, 1.6296, 20,
-            1.442196, 2.883781, 3.601998
+            1.442196, 2.883781, 3.601998, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1877,7 +1877,7 @@
           ],
           "Param": [
             1.06502, 1.0403, 1.26896, 1.39668, 1.69538, 1.339, 1.7304, 20,
-            1.531404, 3.062159, 3.824802
+            1.531404, 3.062159, 3.824802, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1903,7 +1903,7 @@
           ],
           "Param": [
             1.12706, 1.1009, 1.34288, 1.47804, 1.79414, 1.417, 1.8312, 20,
-            1.620612, 3.240537, 4.047606
+            1.620612, 3.240537, 4.047606, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1929,7 +1929,7 @@
           ],
           "Param": [
             1.1891, 1.1615, 1.4168, 1.5594, 1.8929, 1.495, 1.932, 20, 1.70982,
-            3.418915, 4.27041
+            3.418915, 4.27041, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1959,7 +1959,9 @@
             "",
             ""
           ],
-          "Param": [2.48, 30, 8]
+          "Param": [
+            2.48, 30, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1982,7 +1984,9 @@
             "",
             ""
           ],
-          "Param": [2.666, 30, 8]
+          "Param": [
+            2.666, 30, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -2005,7 +2009,9 @@
             "",
             ""
           ],
-          "Param": [2.852, 30, 8]
+          "Param": [
+            2.852, 30, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -2028,7 +2034,9 @@
             "",
             ""
           ],
-          "Param": [3.1, 30, 8]
+          "Param": [
+            3.1, 30, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -2051,7 +2059,9 @@
             "",
             ""
           ],
-          "Param": [3.286, 30, 8]
+          "Param": [
+            3.286, 30, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -2074,7 +2084,9 @@
             "",
             ""
           ],
-          "Param": [3.472, 30, 8]
+          "Param": [
+            3.472, 30, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -2097,7 +2109,9 @@
             "",
             ""
           ],
-          "Param": [3.72, 30, 8]
+          "Param": [
+            3.72, 30, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -2120,7 +2134,9 @@
             "",
             ""
           ],
-          "Param": [3.968, 30, 8]
+          "Param": [
+            3.968, 30, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -2143,7 +2159,9 @@
             "",
             ""
           ],
-          "Param": [4.216, 30, 8]
+          "Param": [
+            4.216, 30, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -2166,7 +2184,9 @@
             "",
             ""
           ],
-          "Param": [4.464, 30, 8]
+          "Param": [
+            4.464, 30, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -2189,7 +2209,9 @@
             "",
             ""
           ],
-          "Param": [4.712, 30, 8]
+          "Param": [
+            4.712, 30, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -2212,7 +2234,9 @@
             "",
             ""
           ],
-          "Param": [4.96, 30, 8]
+          "Param": [
+            4.96, 30, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -2235,7 +2259,9 @@
             "",
             ""
           ],
-          "Param": [5.27, 30, 8]
+          "Param": [
+            5.27, 30, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -2258,7 +2284,9 @@
             "",
             ""
           ],
-          "Param": [5.58, 30, 8]
+          "Param": [
+            5.58, 30, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -2281,7 +2309,9 @@
             "",
             ""
           ],
-          "Param": [5.89, 30, 8]
+          "Param": [
+            5.89, 30, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         }
       }
     },
@@ -2310,7 +2340,9 @@
             "",
             ""
           ],
-          "Param": [1.48, 15, 15, 60]
+          "Param": [
+            1.48, 15, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -2333,7 +2365,9 @@
             "",
             ""
           ],
-          "Param": [1.591, 15, 15, 60]
+          "Param": [
+            1.591, 15, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -2356,7 +2390,9 @@
             "",
             ""
           ],
-          "Param": [1.702, 15, 15, 60]
+          "Param": [
+            1.702, 15, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -2379,7 +2415,9 @@
             "",
             ""
           ],
-          "Param": [1.85, 15, 15, 60]
+          "Param": [
+            1.85, 15, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -2402,7 +2440,9 @@
             "",
             ""
           ],
-          "Param": [1.961, 15, 15, 60]
+          "Param": [
+            1.961, 15, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -2425,7 +2465,9 @@
             "",
             ""
           ],
-          "Param": [2.072, 15, 15, 60]
+          "Param": [
+            2.072, 15, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -2448,7 +2490,9 @@
             "",
             ""
           ],
-          "Param": [2.22, 15, 15, 60]
+          "Param": [
+            2.22, 15, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -2471,7 +2515,9 @@
             "",
             ""
           ],
-          "Param": [2.368, 15, 15, 60]
+          "Param": [
+            2.368, 15, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -2494,7 +2540,9 @@
             "",
             ""
           ],
-          "Param": [2.516, 15, 15, 60]
+          "Param": [
+            2.516, 15, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -2517,7 +2565,9 @@
             "",
             ""
           ],
-          "Param": [2.664, 15, 15, 60]
+          "Param": [
+            2.664, 15, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -2540,7 +2590,9 @@
             "",
             ""
           ],
-          "Param": [2.812, 15, 15, 60]
+          "Param": [
+            2.812, 15, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -2563,7 +2615,9 @@
             "",
             ""
           ],
-          "Param": [2.96, 15, 15, 60]
+          "Param": [
+            2.96, 15, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -2586,7 +2640,9 @@
             "",
             ""
           ],
-          "Param": [3.145, 15, 15, 60]
+          "Param": [
+            3.145, 15, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -2609,7 +2665,9 @@
             "",
             ""
           ],
-          "Param": [3.33, 15, 15, 60]
+          "Param": [
+            3.33, 15, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -2632,7 +2690,9 @@
             "",
             ""
           ],
-          "Param": [3.515, 15, 15, 60]
+          "Param": [
+            3.515, 15, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         }
       }
     }
@@ -2643,14 +2703,14 @@
       "Desc": "Reduces <color=#FFD780FF>Starfell Sword</color>'s CD by 2s.",
       "Icon": "UI_Talent_S_PlayerRock_05",
       "Unlock": 1,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Frenzied Rockslide",
       "Desc": "The final hit of a Normal Attack combo triggers a collapse, dealing 60% of ATK as <color=#FFE699FF>AoE Geo DMG</color>.",
       "Icon": "UI_Talent_S_PlayerRock_06",
       "Unlock": 4,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Constellations": [
@@ -2658,37 +2718,37 @@
       "Name": "Invincible Stonewall",
       "Desc": "Party members within the radius of <color=#FFD780FF>Wake of Earth</color> have their CRIT Rate increased by 10% and have increased resistance against interruption.",
       "Icon": "UI_Talent_S_PlayerRock_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Rockcore Meltdown",
       "Desc": "When the meteorite created by <color=#FFD780FF>Starfell Sword</color> is destroyed, it will also explode, dealing additional <color=#FFE699FF>AoE Geo DMG</color> equal to the amount of damage dealt by Starfell Sword.",
       "Icon": "UI_Talent_S_PlayerRock_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Will of the Rock",
       "Desc": "Increases the Level of <color=#FFD780FF>Wake of Earth</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_PlayerRock_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Reaction Force",
       "Desc": "The shockwave triggered by <color=#FFD780FF>Wake of Earth</color> regenerates 5 Energy for every opponent hit.\\nA maximum of 25 Energy can be regenerated in this manner at any one time.",
       "Icon": "UI_Talent_S_PlayerRock_03",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Meteorite Impact",
       "Desc": "Increases the Level of <color=#FFD780FF>Starfell Sword</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_PlayerRock_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Everlasting Boulder",
       "Desc": "The barrier created by <color=#FFD780FF>Wake of Earth</color> lasts 5s longer.\\nThe meteorite created by <color=#FFD780FF>Starfell Sword</color> lasts 10s longer.",
       "Icon": "UI_Talent_S_PlayerRock_04",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -2701,7 +2761,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Windwheel Aster", "Id": 100024, "Count": 3, "Rank": 1 },
+          { "Name": "Windwheel Aster", "Id": 100024, "Count": 3, "Rank": 0 },
           { "Name": "Damaged Mask", "Id": 112005, "Count": 3, "Rank": 1 }
         ],
         "Cost": 20000
@@ -2714,7 +2774,7 @@
             "Count": 3,
             "Rank": 3
           },
-          { "Name": "Windwheel Aster", "Id": 100024, "Count": 10, "Rank": 1 },
+          { "Name": "Windwheel Aster", "Id": 100024, "Count": 10, "Rank": 0 },
           { "Name": "Damaged Mask", "Id": 112005, "Count": 15, "Rank": 1 }
         ],
         "Cost": 40000
@@ -2727,7 +2787,7 @@
             "Count": 6,
             "Rank": 3
           },
-          { "Name": "Windwheel Aster", "Id": 100024, "Count": 20, "Rank": 1 },
+          { "Name": "Windwheel Aster", "Id": 100024, "Count": 20, "Rank": 0 },
           { "Name": "Stained Mask", "Id": 112006, "Count": 12, "Rank": 2 }
         ],
         "Cost": 60000
@@ -2740,7 +2800,7 @@
             "Count": 3,
             "Rank": 4
           },
-          { "Name": "Windwheel Aster", "Id": 100024, "Count": 30, "Rank": 1 },
+          { "Name": "Windwheel Aster", "Id": 100024, "Count": 30, "Rank": 0 },
           { "Name": "Stained Mask", "Id": 112006, "Count": 18, "Rank": 2 }
         ],
         "Cost": 80000
@@ -2753,7 +2813,7 @@
             "Count": 6,
             "Rank": 4
           },
-          { "Name": "Windwheel Aster", "Id": 100024, "Count": 45, "Rank": 1 },
+          { "Name": "Windwheel Aster", "Id": 100024, "Count": 45, "Rank": 0 },
           { "Name": "Ominous Mask", "Id": 112007, "Count": 12, "Rank": 3 }
         ],
         "Cost": 100000
@@ -2766,7 +2826,7 @@
             "Count": 6,
             "Rank": 5
           },
-          { "Name": "Windwheel Aster", "Id": 100024, "Count": 60, "Rank": 1 },
+          { "Name": "Windwheel Aster", "Id": 100024, "Count": 60, "Rank": 0 },
           { "Name": "Ominous Mask", "Id": 112007, "Count": 24, "Rank": 3 }
         ],
         "Cost": 120000

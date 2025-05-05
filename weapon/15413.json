@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_201",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 42.401
+      "initValue": 42.401,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_ELEMENT_MASTERY",
-      "initValue": 36
+      "initValue": 36,
+      "propType": "FIGHT_PROP_ELEMENT_MASTERY"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Windblume Wish",
       "Desc": "After using an Elemental Skill, receive a boon from the ancient wish of the Windblume, increasing ATK by <color=#99FFFFFF>16%</color> for 6s.",
-      "ParamList": [0.16, 6]
+      "ParamList": [0.16, 6, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Windblume Wish",
       "Desc": "After using an Elemental Skill, receive a boon from the ancient wish of the Windblume, increasing ATK by <color=#99FFFFFF>20%</color> for 6s.",
-      "ParamList": [0.2, 6]
+      "ParamList": [0.2, 6, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Windblume Wish",
       "Desc": "After using an Elemental Skill, receive a boon from the ancient wish of the Windblume, increasing ATK by <color=#99FFFFFF>24%</color> for 6s.",
-      "ParamList": [0.24, 6]
+      "ParamList": [0.24, 6, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Windblume Wish",
       "Desc": "After using an Elemental Skill, receive a boon from the ancient wish of the Windblume, increasing ATK by <color=#99FFFFFF>28%</color> for 6s.",
-      "ParamList": [0.28, 6]
+      "ParamList": [0.28, 6, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Windblume Wish",
       "Desc": "After using an Elemental Skill, receive a boon from the ancient wish of the Windblume, increasing ATK by <color=#99FFFFFF>32%</color> for 6s.",
-      "ParamList": [0.32, 6]
+      "ParamList": [0.32, 6, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

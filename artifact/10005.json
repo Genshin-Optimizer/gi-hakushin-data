@@ -6,25 +6,28 @@
   "Affix": [
     {
       "id": 210005,
+      "level": 0,
       "affixId": 2100050,
+      "paramList": [0, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "",
       "addProps": [
-        { "value": 0.12, "propType": "FIGHT_PROP_CRITICAL" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_CRITICAL", "value": 0.12 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Berserker",
       "Desc": "CRIT Rate +12%"
     },
     {
-      "level": 1,
-      "paramList": [0.24, 0.7],
       "id": 210005,
-      "openConfig": "Relic_LowHPGainExtraCritRate",
+      "level": 1,
       "affixId": 2100051,
+      "paramList": [0.24, 0.7, 0, 0, 0, 0, 0, 0],
+      "openConfig": "Relic_LowHPGainExtraCritRate",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Berserker",
       "Desc": "When HP is below 70%, CRIT Rate increases by an additional 24%."

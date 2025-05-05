@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_302",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 47.537
+      "initValue": 47.537,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_301",
-      "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
-      "initValue": 0.09
+      "initValue": 0.09,
+      "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT"
     }
   ],
   "Rarity": 5,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Falcon's Defiance",
       "Desc": "ATK is increased by <color=#99FFFFFF>20%</color>. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of resistance aloft, regenerating HP equal to <color=#99FFFFFF>100%</color> of ATK and dealing <color=#99FFFFFF>200%</color> of ATK as DMG to surrounding opponents. This effect can only occur once every 15s.",
-      "ParamList": [0.2, 1, 2, 15]
+      "ParamList": [0.2, 1, 2, 15, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Falcon's Defiance",
       "Desc": "ATK is increased by <color=#99FFFFFF>25%</color>. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of resistance aloft, regenerating HP equal to <color=#99FFFFFF>115%</color> of ATK and dealing <color=#99FFFFFF>230%</color> of ATK as DMG to surrounding opponents. This effect can only occur once every 15s.",
-      "ParamList": [0.25, 1.15, 2.3, 15]
+      "ParamList": [0.25, 1.15, 2.3, 15, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Falcon's Defiance",
       "Desc": "ATK is increased by <color=#99FFFFFF>30%</color>. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of resistance aloft, regenerating HP equal to <color=#99FFFFFF>130%</color> of ATK and dealing <color=#99FFFFFF>260%</color> of ATK as DMG to surrounding opponents. This effect can only occur once every 15s.",
-      "ParamList": [0.3, 1.3, 2.6, 15]
+      "ParamList": [0.3, 1.3, 2.6, 15, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Falcon's Defiance",
       "Desc": "ATK is increased by <color=#99FFFFFF>35%</color>. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of resistance aloft, regenerating HP equal to <color=#99FFFFFF>145%</color> of ATK and dealing <color=#99FFFFFF>290%</color> of ATK as DMG to surrounding opponents. This effect can only occur once every 15s.",
-      "ParamList": [0.35, 1.45, 2.9, 15]
+      "ParamList": [0.35, 1.45, 2.9, 15, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Falcon's Defiance",
       "Desc": "ATK is increased by <color=#99FFFFFF>40%</color>. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of resistance aloft, regenerating HP equal to <color=#99FFFFFF>160%</color> of ATK and dealing <color=#99FFFFFF>320%</color> of ATK as DMG to surrounding opponents. This effect can only occur once every 15s.",
-      "ParamList": [0.4, 1.6, 3.2, 15]
+      "ParamList": [0.4, 1.6, 3.2, 15, 0, 0, 0, 0]
     }
   },
   "Materials": {

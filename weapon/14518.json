@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_304",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 44.3358
+      "initValue": 44.3358,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_301",
-      "propType": "FIGHT_PROP_ELEMENT_MASTERY",
-      "initValue": 57.6
+      "initValue": 57.6,
+      "propType": "FIGHT_PROP_ELEMENT_MASTERY"
     }
   ],
   "Rarity": 5,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Bathhouses, Hawks, and Narukami",
       "Desc": "Elemental Mastery increases by <color=#99FFFFFF>120</color> for 6s after triggering Swirl. Elemental Mastery increases by <color=#99FFFFFF>96</color> for 9s after the wielder's Elemental Skill hits an opponent. Elemental Mastery increases by <color=#99FFFFFF>32</color> for 30s after the wielder's Elemental Burst hits an opponent.",
-      "ParamList": [120, 96, 32, 6, 9, 30]
+      "ParamList": [120, 96, 32, 6, 9, 30, 0, 0]
     },
     "2": {
       "Name": "Bathhouses, Hawks, and Narukami",
       "Desc": "Elemental Mastery increases by <color=#99FFFFFF>150</color> for 6s after triggering Swirl. Elemental Mastery increases by <color=#99FFFFFF>120</color> for 9s after the wielder's Elemental Skill hits an opponent. Elemental Mastery increases by <color=#99FFFFFF>40</color> for 30s after the wielder's Elemental Burst hits an opponent.",
-      "ParamList": [150, 120, 40, 6, 9, 30]
+      "ParamList": [150, 120, 40, 6, 9, 30, 0, 0]
     },
     "3": {
       "Name": "Bathhouses, Hawks, and Narukami",
       "Desc": "Elemental Mastery increases by <color=#99FFFFFF>180</color> for 6s after triggering Swirl. Elemental Mastery increases by <color=#99FFFFFF>144</color> for 9s after the wielder's Elemental Skill hits an opponent. Elemental Mastery increases by <color=#99FFFFFF>48</color> for 30s after the wielder's Elemental Burst hits an opponent.",
-      "ParamList": [180, 144, 48, 6, 9, 30]
+      "ParamList": [180, 144, 48, 6, 9, 30, 0, 0]
     },
     "4": {
       "Name": "Bathhouses, Hawks, and Narukami",
       "Desc": "Elemental Mastery increases by <color=#99FFFFFF>210</color> for 6s after triggering Swirl. Elemental Mastery increases by <color=#99FFFFFF>168</color> for 9s after the wielder's Elemental Skill hits an opponent. Elemental Mastery increases by <color=#99FFFFFF>56</color> for 30s after the wielder's Elemental Burst hits an opponent.",
-      "ParamList": [210, 168, 56, 6, 9, 30]
+      "ParamList": [210, 168, 56, 6, 9, 30, 0, 0]
     },
     "5": {
       "Name": "Bathhouses, Hawks, and Narukami",
       "Desc": "Elemental Mastery increases by <color=#99FFFFFF>240</color> for 6s after triggering Swirl. Elemental Mastery increases by <color=#99FFFFFF>192</color> for 9s after the wielder's Elemental Skill hits an opponent. Elemental Mastery increases by <color=#99FFFFFF>64</color> for 30s after the wielder's Elemental Burst hits an opponent.",
-      "ParamList": [240, 192, 64, 6, 9, 30]
+      "ParamList": [240, 192, 64, 6, 9, 30, 0, 0]
     }
   },
   "Materials": {

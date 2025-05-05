@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_202",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 43.7349
+      "initValue": 43.7349,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
-      "initValue": 0.066667
+      "initValue": 0.066667,
+      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Azure Skies",
       "Desc": "Within 6s after Normal or Charged Attacks hit an opponent, Normal Attack DMG will be increased by <color=#99FFFFFF>8%</color> and Charged Attack DMG will be increased by <color=#99FFFFFF>6%</color>. Max 3 stacks. This effect can be triggered once every 0.3s.",
-      "ParamList": [6, 0.3, 0.08, 0.06]
+      "ParamList": [6, 0.3, 0.08, 0.06, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Azure Skies",
       "Desc": "Within 6s after Normal or Charged Attacks hit an opponent, Normal Attack DMG will be increased by <color=#99FFFFFF>10%</color> and Charged Attack DMG will be increased by <color=#99FFFFFF>7.5%</color>. Max 3 stacks. This effect can be triggered once every 0.3s.",
-      "ParamList": [6, 0.3, 0.1, 0.075]
+      "ParamList": [6, 0.3, 0.1, 0.075, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Azure Skies",
       "Desc": "Within 6s after Normal or Charged Attacks hit an opponent, Normal Attack DMG will be increased by <color=#99FFFFFF>12%</color> and Charged Attack DMG will be increased by <color=#99FFFFFF>9%</color>. Max 3 stacks. This effect can be triggered once every 0.3s.",
-      "ParamList": [6, 0.3, 0.12, 0.09]
+      "ParamList": [6, 0.3, 0.12, 0.09, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Azure Skies",
       "Desc": "Within 6s after Normal or Charged Attacks hit an opponent, Normal Attack DMG will be increased by <color=#99FFFFFF>14%</color> and Charged Attack DMG will be increased by <color=#99FFFFFF>10.5%</color>. Max 3 stacks. This effect can be triggered once every 0.3s.",
-      "ParamList": [6, 0.3, 0.14, 0.105]
+      "ParamList": [6, 0.3, 0.14, 0.105, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Azure Skies",
       "Desc": "Within 6s after Normal or Charged Attacks hit an opponent, Normal Attack DMG will be increased by <color=#99FFFFFF>16%</color> and Charged Attack DMG will be increased by <color=#99FFFFFF>12%</color>. Max 3 stacks. This effect can be triggered once every 0.3s.",
-      "ParamList": [6, 0.3, 0.16, 0.12]
+      "ParamList": [6, 0.3, 0.16, 0.12, 0, 0, 0, 0]
     }
   },
   "Materials": {

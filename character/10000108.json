@@ -391,7 +391,7 @@
         "Name": "Argent Chimes",
         "Desc": "Lan Yan's outfit. The Lans of Chenyu Vale traditionally wear silver, and every piece that Lan Yan carries is a gift from her family. As she rambles through the mountains adorned from head to toe, they jingle merrily away like the joyful songs of spring swallows.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -770,7 +770,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Black Pheasant Strides on Water",
+      "Name": "Black Pheasant Strides on Water",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nWields her Feathermoon Rings to perform up to 4 attacks, dealing <color=#80FFD7FF>Anemo DMG</color>.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to throw out a Feathermoon Ring, dealing <color=#80FFD7FF>Anemo DMG</color>.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nGathers the power of Anemo and plunges towards the ground from mid-air, damaging all opponents in her path. Deals <color=#80FFD7FF>AoE Anemo DMG</color> upon impact with the ground.",
       "Promote": {
         "0": {
@@ -796,7 +796,7 @@
           ],
           "Param": [
             0.4144, 0.20412, 0.24948, 0.2692, 0.2692, 0.6456, 0.3784, 50,
-            0.568288, 1.136335, 1.419344
+            0.568288, 1.136335, 1.419344, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -822,7 +822,7 @@
           ],
           "Param": [
             0.44548, 0.219429, 0.268191, 0.28939, 0.28939, 0.69402, 0.40678, 50,
-            0.614544, 1.228828, 1.534872
+            0.614544, 1.228828, 1.534872, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -848,7 +848,7 @@
           ],
           "Param": [
             0.47656, 0.234738, 0.286902, 0.30958, 0.30958, 0.74244, 0.43516, 50,
-            0.6608, 1.32132, 1.6504
+            0.6608, 1.32132, 1.6504, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -874,7 +874,7 @@
           ],
           "Param": [
             0.518, 0.25515, 0.31185, 0.3365, 0.3365, 0.807, 0.473, 50, 0.72688,
-            1.453452, 1.81544
+            1.453452, 1.81544, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -900,7 +900,7 @@
           ],
           "Param": [
             0.54908, 0.270459, 0.330561, 0.35669, 0.35669, 0.85542, 0.50138, 50,
-            0.773136, 1.545944, 1.930968
+            0.773136, 1.545944, 1.930968, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -926,7 +926,7 @@
           ],
           "Param": [
             0.58016, 0.285768, 0.349272, 0.37688, 0.37688, 0.90384, 0.52976, 50,
-            0.826, 1.65165, 2.063
+            0.826, 1.65165, 2.063, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -952,7 +952,7 @@
           ],
           "Param": [
             0.6216, 0.30618, 0.37422, 0.4038, 0.4038, 0.9684, 0.5676, 50,
-            0.898688, 1.796995, 2.244544
+            0.898688, 1.796995, 2.244544, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -978,7 +978,7 @@
           ],
           "Param": [
             0.66304, 0.326592, 0.399168, 0.43072, 0.43072, 1.03296, 0.60544, 50,
-            0.971376, 1.94234, 2.426088
+            0.971376, 1.94234, 2.426088, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1004,7 +1004,7 @@
           ],
           "Param": [
             0.70448, 0.347004, 0.424116, 0.45764, 0.45764, 1.09752, 0.64328, 50,
-            1.044064, 2.087686, 2.607632
+            1.044064, 2.087686, 2.607632, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1030,7 +1030,7 @@
           ],
           "Param": [
             0.74592, 0.367416, 0.449064, 0.48456, 0.48456, 1.16208, 0.68112, 50,
-            1.12336, 2.246244, 2.80568
+            1.12336, 2.246244, 2.80568, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1056,7 +1056,7 @@
           ],
           "Param": [
             0.78736, 0.387828, 0.474012, 0.51148, 0.51148, 1.22664, 0.71896, 50,
-            1.202656, 2.404802, 3.003728
+            1.202656, 2.404802, 3.003728, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1082,7 +1082,7 @@
           ],
           "Param": [
             0.8288, 0.40824, 0.49896, 0.5384, 0.5384, 1.2912, 0.7568, 50,
-            1.281952, 2.563361, 3.201776
+            1.281952, 2.563361, 3.201776, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1108,7 +1108,7 @@
           ],
           "Param": [
             0.8806, 0.433755, 0.530145, 0.57205, 0.57205, 1.3719, 0.8041, 50,
-            1.361248, 2.721919, 3.399824
+            1.361248, 2.721919, 3.399824, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1134,7 +1134,7 @@
           ],
           "Param": [
             0.9324, 0.45927, 0.56133, 0.6057, 0.6057, 1.4526, 0.8514, 50,
-            1.440544, 2.880478, 3.597872
+            1.440544, 2.880478, 3.597872, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1160,7 +1160,7 @@
           ],
           "Param": [
             0.9842, 0.484785, 0.592515, 0.63935, 0.63935, 1.5333, 0.8987, 50,
-            1.51984, 3.039036, 3.79592
+            1.51984, 3.039036, 3.79592, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1190,7 +1190,10 @@
             "",
             ""
           ],
-          "Param": [0.96256, 2.7648, 1155.5629, 12.5, 16]
+          "Param": [
+            0.96256, 2.7648, 1155.5629, 12.5, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1213,7 +1216,10 @@
             "",
             ""
           ],
-          "Param": [1.034752, 2.97216, 1271.1353, 12.5, 16]
+          "Param": [
+            1.034752, 2.97216, 1271.1353, 12.5, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1236,7 +1242,10 @@
             "",
             ""
           ],
-          "Param": [1.106944, 3.17952, 1396.3386, 12.5, 16]
+          "Param": [
+            1.106944, 3.17952, 1396.3386, 12.5, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1259,7 +1268,10 @@
             "",
             ""
           ],
-          "Param": [1.2032, 3.456, 1531.173, 12.5, 16]
+          "Param": [
+            1.2032, 3.456, 1531.173, 12.5, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1282,7 +1294,10 @@
             "",
             ""
           ],
-          "Param": [1.275392, 3.66336, 1675.6384, 12.5, 16]
+          "Param": [
+            1.275392, 3.66336, 1675.6384, 12.5, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1305,7 +1320,10 @@
             "",
             ""
           ],
-          "Param": [1.347584, 3.87072, 1829.7349, 12.5, 16]
+          "Param": [
+            1.347584, 3.87072, 1829.7349, 12.5, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1328,7 +1346,10 @@
             "",
             ""
           ],
-          "Param": [1.44384, 4.1472, 1993.4624, 12.5, 16]
+          "Param": [
+            1.44384, 4.1472, 1993.4624, 12.5, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1351,7 +1372,10 @@
             "",
             ""
           ],
-          "Param": [1.540096, 4.42368, 2166.8208, 12.5, 16]
+          "Param": [
+            1.540096, 4.42368, 2166.8208, 12.5, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1374,7 +1398,10 @@
             "",
             ""
           ],
-          "Param": [1.636352, 4.70016, 2349.8105, 12.5, 16]
+          "Param": [
+            1.636352, 4.70016, 2349.8105, 12.5, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1397,7 +1424,10 @@
             "",
             ""
           ],
-          "Param": [1.732608, 4.97664, 2542.4312, 12.5, 16]
+          "Param": [
+            1.732608, 4.97664, 2542.4312, 12.5, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1420,7 +1450,10 @@
             "",
             ""
           ],
-          "Param": [1.828864, 5.25312, 2744.6826, 12.5, 16]
+          "Param": [
+            1.828864, 5.25312, 2744.6826, 12.5, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1443,7 +1476,10 @@
             "",
             ""
           ],
-          "Param": [1.92512, 5.5296, 2956.5652, 12.5, 16]
+          "Param": [
+            1.92512, 5.5296, 2956.5652, 12.5, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1466,7 +1502,10 @@
             "",
             ""
           ],
-          "Param": [2.04544, 5.8752, 3178.0789, 12.5, 16]
+          "Param": [
+            2.04544, 5.8752, 3178.0789, 12.5, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1489,7 +1528,10 @@
             "",
             ""
           ],
-          "Param": [2.16576, 6.2208, 3409.2236, 12.5, 16]
+          "Param": [
+            2.16576, 6.2208, 3409.2236, 12.5, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1512,7 +1554,10 @@
             "",
             ""
           ],
-          "Param": [2.28608, 6.5664, 3649.9995, 12.5, 16]
+          "Param": [
+            2.28608, 6.5664, 3649.9995, 12.5, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         }
       }
     },
@@ -1541,7 +1586,9 @@
             "",
             ""
           ],
-          "Param": [2.41064, 15, 60]
+          "Param": [
+            2.41064, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1564,7 +1611,9 @@
             "",
             ""
           ],
-          "Param": [2.591438, 15, 60]
+          "Param": [
+            2.591438, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1587,7 +1636,9 @@
             "",
             ""
           ],
-          "Param": [2.772236, 15, 60]
+          "Param": [
+            2.772236, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1610,7 +1661,9 @@
             "",
             ""
           ],
-          "Param": [3.0133, 15, 60]
+          "Param": [
+            3.0133, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1633,7 +1686,9 @@
             "",
             ""
           ],
-          "Param": [3.194098, 15, 60]
+          "Param": [
+            3.194098, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1656,7 +1711,9 @@
             "",
             ""
           ],
-          "Param": [3.374896, 15, 60]
+          "Param": [
+            3.374896, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1679,7 +1736,9 @@
             "",
             ""
           ],
-          "Param": [3.61596, 15, 60]
+          "Param": [
+            3.61596, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1702,7 +1761,9 @@
             "",
             ""
           ],
-          "Param": [3.857024, 15, 60]
+          "Param": [
+            3.857024, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1725,7 +1786,9 @@
             "",
             ""
           ],
-          "Param": [4.098088, 15, 60]
+          "Param": [
+            4.098088, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1748,7 +1811,9 @@
             "",
             ""
           ],
-          "Param": [4.339152, 15, 60]
+          "Param": [
+            4.339152, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1771,7 +1836,9 @@
             "",
             ""
           ],
-          "Param": [4.580216, 15, 60]
+          "Param": [
+            4.580216, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1794,7 +1861,9 @@
             "",
             ""
           ],
-          "Param": [4.82128, 15, 60]
+          "Param": [
+            4.82128, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1817,7 +1886,9 @@
             "",
             ""
           ],
-          "Param": [5.12261, 15, 60]
+          "Param": [
+            5.12261, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1840,7 +1911,9 @@
             "",
             ""
           ],
-          "Param": [5.42394, 15, 60]
+          "Param": [
+            5.42394, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1863,7 +1936,9 @@
             "",
             ""
           ],
-          "Param": [5.72527, 15, 60]
+          "Param": [
+            5.72527, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         }
       }
     }
@@ -1874,21 +1949,25 @@
       "Desc": "When the dash from the Elemental Skill <color=#FFD780FF>Swallow-Wisp Pinion Dance</color> hits a target, if it interacts with <color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro</color>/<color=#99FFFFFF>Cryo</color>/<color=#FFACFFFF>Electro</color>, the Swallow-Wisp Shield will undergo Elemental Absorption, with the converted shield absorbing DMG from the corresponding element with 250% efficiency.\\nAdditionally, if this use of <color=#FFD780FF>Swallow-Wisp Pinion Dance</color> causes the Swallow-Wisp Shield to undergo Elemental Absorption, the Feathermoon Rings that Lan Yan throws at her foes additionally deal Elemental DMG equal to 50% of the original in the corresponding Elemental Type. This DMG is considered Elemental Skill DMG.",
       "Icon": "UI_Talent_S_Lanyan_05",
       "Unlock": 1,
-      "ParamList": [0.5]
+      "ParamList": [
+        0.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Skyfeather Evil-Subduing Charm",
       "Desc": "The Elemental Skill <color=#FFD780FF>Swallow-Wisp Pinion Dance</color> and the Elemental Burst <color=#FFD780FF>Lustrous Moonrise</color> deal increased DMG equal to 309% and 774% of Lan Yan's Elemental Mastery respectively.",
       "Icon": "UI_Talent_S_Lanyan_06",
       "Unlock": 4,
-      "ParamList": [3.09, 7.74]
+      "ParamList": [
+        3.09, 7.74, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Thought and Intent, Like Silken Scent",
       "Desc": "When Lan Yan is in the party, your characters will not startle Crystalflies and certain other animals when getting near them.\\nCheck the \"Other\" sub-category of the \"Living Beings / Wildlife\" section in the Archive for creatures this skill works on.",
       "Icon": "UI_Talent_S_Sayu_07",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Constellations": [
@@ -1896,37 +1975,37 @@
       "Name": "\"As One Might Stride Betwixt the Clouds\"",
       "Desc": "After triggering the Elemental Absorption from the Passive Talent \"Four Sealing Divination Charms,\" this instance of Lan Yan's Elemental Skill <color=#FFD780FF>Swallow-Wisp Pinion Dance</color> will produce another Feathermoon Ring when they are thrown at opponents.\\nYou must first unlock the Passive Talent \"Four Sealing Divination Charms.\"",
       "Icon": "UI_Talent_S_Lanyan_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "\"Dance Vestments Billow Like Rainbow Jade\"",
       "Desc": "While the <color=#FFD780FF>Swallow-Wisp Shield</color> is active, when your active party member's Normal Attacks deal DMG, 40% of the Shield's DMG absorption will be restored, up to its original maximum absorption. This effect can occur once every 2s.",
       "Icon": "UI_Talent_S_Lanyan_02",
-      "ParamList": [0.4, 2]
+      "ParamList": [0.4, 2, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "\"On White Wings Pierce Through Cloud and Fog\"",
       "Desc": "Increases the Level of <color=#FFD780FF>Swallow-Wisp Pinion Dance</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Lanyan_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "\"With Drakefalcon's Blood-Pearls Adorned\"",
       "Desc": "After Lan Yan uses her Elemental Burst <color=#FFD780FF>Lustrous Moonrise</color>, the Elemental Mastery of all nearby party members increases by 60 for 12s.",
       "Icon": "UI_Talent_S_Lanyan_03",
-      "ParamList": [60, 12]
+      "ParamList": [60, 12, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "\"Having Met You, My Heart is Gladdened\"",
       "Desc": "Increases the Level of <color=#FFD780FF>Lustrous Moonrise</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Lanyan_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "\"Let Us Away on Sylphic Wing, the Silvered Ornaments to Ring\"",
       "Desc": "<color=#FFD780FF>Swallow-Wisp Pinion Dance</color> gains 1 additional charge.",
       "Icon": "UI_Talent_S_Lanyan_04",
-      "ParamList": [0.001, 0.5, 2]
+      "ParamList": [0.001, 0.5, 2, 0, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -1939,7 +2018,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Clearwater Jade", "Id": 101241, "Count": 3, "Rank": 1 },
+          { "Name": "Clearwater Jade", "Id": 101241, "Count": 3, "Rank": 0 },
           {
             "Name": "Whopperflower Nectar",
             "Id": 112038,
@@ -1963,7 +2042,7 @@
             "Count": 2,
             "Rank": 4
           },
-          { "Name": "Clearwater Jade", "Id": 101241, "Count": 10, "Rank": 1 },
+          { "Name": "Clearwater Jade", "Id": 101241, "Count": 10, "Rank": 0 },
           {
             "Name": "Whopperflower Nectar",
             "Id": 112038,
@@ -1987,7 +2066,7 @@
             "Count": 4,
             "Rank": 4
           },
-          { "Name": "Clearwater Jade", "Id": 101241, "Count": 20, "Rank": 1 },
+          { "Name": "Clearwater Jade", "Id": 101241, "Count": 20, "Rank": 0 },
           { "Name": "Shimmering Nectar", "Id": 112039, "Count": 12, "Rank": 2 }
         ],
         "Cost": 60000
@@ -2006,7 +2085,7 @@
             "Count": 8,
             "Rank": 4
           },
-          { "Name": "Clearwater Jade", "Id": 101241, "Count": 30, "Rank": 1 },
+          { "Name": "Clearwater Jade", "Id": 101241, "Count": 30, "Rank": 0 },
           { "Name": "Shimmering Nectar", "Id": 112039, "Count": 18, "Rank": 2 }
         ],
         "Cost": 80000
@@ -2025,7 +2104,7 @@
             "Count": 12,
             "Rank": 4
           },
-          { "Name": "Clearwater Jade", "Id": 101241, "Count": 45, "Rank": 1 },
+          { "Name": "Clearwater Jade", "Id": 101241, "Count": 45, "Rank": 0 },
           { "Name": "Energy Nectar", "Id": 112040, "Count": 12, "Rank": 3 }
         ],
         "Cost": 100000
@@ -2044,7 +2123,7 @@
             "Count": 20,
             "Rank": 4
           },
-          { "Name": "Clearwater Jade", "Id": 101241, "Count": 60, "Rank": 1 },
+          { "Name": "Clearwater Jade", "Id": 101241, "Count": 60, "Rank": 0 },
           { "Name": "Energy Nectar", "Id": 112040, "Count": 24, "Rank": 3 }
         ],
         "Cost": 120000

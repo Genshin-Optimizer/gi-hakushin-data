@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_104",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 37.6075
+      "initValue": 37.6075,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_101",
-      "propType": "FIGHT_PROP_HP_PERCENT",
-      "initValue": 0.102133
+      "initValue": 0.102133,
+      "propType": "FIGHT_PROP_HP_PERCENT"
     }
   ],
   "Rarity": 3,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Bane of the Soft",
       "Desc": "Increases DMG against slimes by <color=#99FFFFFF>40%</color>.",
-      "ParamList": [0.4]
+      "ParamList": [0.4, 0, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Bane of the Soft",
       "Desc": "Increases DMG against slimes by <color=#99FFFFFF>50%</color>.",
-      "ParamList": [0.5]
+      "ParamList": [0.5, 0, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Bane of the Soft",
       "Desc": "Increases DMG against slimes by <color=#99FFFFFF>60%</color>.",
-      "ParamList": [0.6]
+      "ParamList": [0.6, 0, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Bane of the Soft",
       "Desc": "Increases DMG against slimes by <color=#99FFFFFF>70%</color>.",
-      "ParamList": [0.7]
+      "ParamList": [0.7, 0, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Bane of the Soft",
       "Desc": "Increases DMG against slimes by <color=#99FFFFFF>80%</color>.",
-      "ParamList": [0.8]
+      "ParamList": [0.8, 0, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

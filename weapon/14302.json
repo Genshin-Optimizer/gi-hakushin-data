@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_101",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 38.7413
+      "initValue": 38.7413,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_101",
-      "propType": "FIGHT_PROP_HP_PERCENT",
-      "initValue": 0.0766
+      "initValue": 0.0766,
+      "propType": "FIGHT_PROP_HP_PERCENT"
     }
   ],
   "Rarity": 3,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Heritage",
       "Desc": "When switching characters, the new character taking the field has their ATK increased by <color=#99FFFFFF>24%</color> for 10s. This effect can only occur once every 20s.",
-      "ParamList": [0.24, 10, 20]
+      "ParamList": [0.24, 10, 20, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Heritage",
       "Desc": "When switching characters, the new character taking the field has their ATK increased by <color=#99FFFFFF>30%</color> for 10s. This effect can only occur once every 20s.",
-      "ParamList": [0.3, 10, 20]
+      "ParamList": [0.3, 10, 20, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Heritage",
       "Desc": "When switching characters, the new character taking the field has their ATK increased by <color=#99FFFFFF>36%</color> for 10s. This effect can only occur once every 20s.",
-      "ParamList": [0.36, 10, 20]
+      "ParamList": [0.36, 10, 20, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Heritage",
       "Desc": "When switching characters, the new character taking the field has their ATK increased by <color=#99FFFFFF>42%</color> for 10s. This effect can only occur once every 20s.",
-      "ParamList": [0.42, 10, 20]
+      "ParamList": [0.42, 10, 20, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Heritage",
       "Desc": "When switching characters, the new character taking the field has their ATK increased by <color=#99FFFFFF>48%</color> for 10s. This effect can only occur once every 20s.",
-      "ParamList": [0.48, 10, 20]
+      "ParamList": [0.48, 10, 20, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

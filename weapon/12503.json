@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_303",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 49.1377
+      "initValue": 49.1377,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_301",
-      "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
-      "initValue": 0.045
+      "initValue": 0.045,
+      "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT"
     }
   ],
   "Rarity": 5,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Rebel's Banner-Hymn",
       "Desc": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases ATK by <color=#99FFFFFF>16%</color>, and when Normal or Charged Attacks hit opponents, the character gains a Sigil of Whispers. This effect can be triggered once every 0.3s. When you possess 4 Sigils of Whispers, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Banner-Hymn\" effect for 12s. \"Millennial Movement: Banner-Hymn\" increases Normal ATK SPD by <color=#99FFFFFF>12%</color> and increases ATK by <color=#99FFFFFF>20%</color>. Once this effect is triggered, you will not gain Sigils of Whispers for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack.",
-      "ParamList": [0.16, 0.3, 12, 0.12, 0.2, 20]
+      "ParamList": [0.16, 0.3, 12, 0.12, 0.2, 20, 0, 0]
     },
     "2": {
       "Name": "Rebel's Banner-Hymn",
       "Desc": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases ATK by <color=#99FFFFFF>20%</color>, and when Normal or Charged Attacks hit opponents, the character gains a Sigil of Whispers. This effect can be triggered once every 0.3s. When you possess 4 Sigils of Whispers, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Banner-Hymn\" effect for 12s. \"Millennial Movement: Banner-Hymn\" increases Normal ATK SPD by <color=#99FFFFFF>15%</color> and increases ATK by <color=#99FFFFFF>25%</color>. Once this effect is triggered, you will not gain Sigils of Whispers for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack.",
-      "ParamList": [0.2, 0.3, 12, 0.15, 0.25, 20]
+      "ParamList": [0.2, 0.3, 12, 0.15, 0.25, 20, 0, 0]
     },
     "3": {
       "Name": "Rebel's Banner-Hymn",
       "Desc": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases ATK by <color=#99FFFFFF>24%</color>, and when Normal or Charged Attacks hit opponents, the character gains a Sigil of Whispers. This effect can be triggered once every 0.3s. When you possess 4 Sigils of Whispers, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Banner-Hymn\" effect for 12s. \"Millennial Movement: Banner-Hymn\" increases Normal ATK SPD by <color=#99FFFFFF>18%</color> and increases ATK by <color=#99FFFFFF>30%</color>. Once this effect is triggered, you will not gain Sigils of Whispers for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack.",
-      "ParamList": [0.24, 0.3, 12, 0.18, 0.3, 20]
+      "ParamList": [0.24, 0.3, 12, 0.18, 0.3, 20, 0, 0]
     },
     "4": {
       "Name": "Rebel's Banner-Hymn",
       "Desc": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases ATK by <color=#99FFFFFF>28%</color>, and when Normal or Charged Attacks hit opponents, the character gains a Sigil of Whispers. This effect can be triggered once every 0.3s. When you possess 4 Sigils of Whispers, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Banner-Hymn\" effect for 12s. \"Millennial Movement: Banner-Hymn\" increases Normal ATK SPD by <color=#99FFFFFF>21%</color> and increases ATK by <color=#99FFFFFF>35%</color>. Once this effect is triggered, you will not gain Sigils of Whispers for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack.",
-      "ParamList": [0.28, 0.3, 12, 0.21, 0.35, 20]
+      "ParamList": [0.28, 0.3, 12, 0.21, 0.35, 20, 0, 0]
     },
     "5": {
       "Name": "Rebel's Banner-Hymn",
       "Desc": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases ATK by <color=#99FFFFFF>32%</color>, and when Normal or Charged Attacks hit opponents, the character gains a Sigil of Whispers. This effect can be triggered once every 0.3s. When you possess 4 Sigils of Whispers, all of them will be consumed and all nearby party members will obtain the \"Millennial Movement: Banner-Hymn\" effect for 12s. \"Millennial Movement: Banner-Hymn\" increases Normal ATK SPD by <color=#99FFFFFF>24%</color> and increases ATK by <color=#99FFFFFF>40%</color>. Once this effect is triggered, you will not gain Sigils of Whispers for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack.",
-      "ParamList": [0.32, 0.3, 12, 0.24, 0.4, 20]
+      "ParamList": [0.32, 0.3, 12, 0.24, 0.4, 20, 0, 0]
     }
   },
   "Materials": {

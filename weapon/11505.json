@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_304",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 44.3358
+      "initValue": 44.3358,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_301",
-      "propType": "FIGHT_PROP_CRITICAL",
-      "initValue": 0.096
+      "initValue": 0.096,
+      "propType": "FIGHT_PROP_CRITICAL"
     }
   ],
   "Rarity": 5,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Protector's Virtue",
       "Desc": "HP increased by <color=#99FFFFFF>20%</color>. Additionally, provides an ATK Bonus based on <color=#99FFFFFF>1.2%</color> of the wielder's Max HP.",
-      "ParamList": [0.2, 0.012]
+      "ParamList": [0.2, 0.012, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Protector's Virtue",
       "Desc": "HP increased by <color=#99FFFFFF>25%</color>. Additionally, provides an ATK Bonus based on <color=#99FFFFFF>1.5%</color> of the wielder's Max HP.",
-      "ParamList": [0.25, 0.015]
+      "ParamList": [0.25, 0.015, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Protector's Virtue",
       "Desc": "HP increased by <color=#99FFFFFF>30%</color>. Additionally, provides an ATK Bonus based on <color=#99FFFFFF>1.8%</color> of the wielder's Max HP.",
-      "ParamList": [0.3, 0.018]
+      "ParamList": [0.3, 0.018, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Protector's Virtue",
       "Desc": "HP increased by <color=#99FFFFFF>35%</color>. Additionally, provides an ATK Bonus based on <color=#99FFFFFF>2.1%</color> of the wielder's Max HP.",
-      "ParamList": [0.35, 0.021]
+      "ParamList": [0.35, 0.021, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Protector's Virtue",
       "Desc": "HP increased by <color=#99FFFFFF>40%</color>. Additionally, provides an ATK Bonus based on <color=#99FFFFFF>2.4%</color> of the wielder's Max HP.",
-      "ParamList": [0.4, 0.024]
+      "ParamList": [0.4, 0.024, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

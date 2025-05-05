@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_203",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 45.0687
+      "initValue": 45.0687,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_ATTACK_PERCENT",
-      "initValue": 0.03
+      "initValue": 0.03,
+      "propType": "FIGHT_PROP_ATTACK_PERCENT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Watatsumi Wavewalker",
       "Desc": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by <color=#99FFFFFF>0.12%</color>. A maximum of <color=#99FFFFFF>40%</color> increased Elemental Burst DMG can be achieved this way.",
-      "ParamList": [0.12, 0.4]
+      "ParamList": [0.12, 0.4, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Watatsumi Wavewalker",
       "Desc": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by <color=#99FFFFFF>0.15%</color>. A maximum of <color=#99FFFFFF>50%</color> increased Elemental Burst DMG can be achieved this way.",
-      "ParamList": [0.15, 0.5]
+      "ParamList": [0.15, 0.5, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Watatsumi Wavewalker",
       "Desc": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by <color=#99FFFFFF>0.18%</color>. A maximum of <color=#99FFFFFF>60%</color> increased Elemental Burst DMG can be achieved this way.",
-      "ParamList": [0.18, 0.6]
+      "ParamList": [0.18, 0.6, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Watatsumi Wavewalker",
       "Desc": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by <color=#99FFFFFF>0.21%</color>. A maximum of <color=#99FFFFFF>70%</color> increased Elemental Burst DMG can be achieved this way.",
-      "ParamList": [0.21, 0.7]
+      "ParamList": [0.21, 0.7, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Watatsumi Wavewalker",
       "Desc": "For every point of the entire party's combined maximum Energy capacity, the Elemental Burst DMG of the character equipping this weapon is increased by <color=#99FFFFFF>0.24%</color>. A maximum of <color=#99FFFFFF>80%</color> increased Elemental Burst DMG can be achieved this way.",
-      "ParamList": [0.24, 0.8]
+      "ParamList": [0.24, 0.8, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

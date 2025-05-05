@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_202",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 43.7349
+      "initValue": 43.7349,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_HP_PERCENT",
-      "initValue": 0.06
+      "initValue": 0.06,
+      "propType": "FIGHT_PROP_HP_PERCENT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Tip of the Spear",
       "Desc": "When the wielder is healed, restore <color=#99FFFFFF>8</color> Energy. This effect can be triggered once every 10s, and can occur even when the character is not on the field.",
-      "ParamList": [8, 10]
+      "ParamList": [8, 10, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Tip of the Spear",
       "Desc": "When the wielder is healed, restore <color=#99FFFFFF>10</color> Energy. This effect can be triggered once every 10s, and can occur even when the character is not on the field.",
-      "ParamList": [10, 10]
+      "ParamList": [10, 10, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Tip of the Spear",
       "Desc": "When the wielder is healed, restore <color=#99FFFFFF>12</color> Energy. This effect can be triggered once every 10s, and can occur even when the character is not on the field.",
-      "ParamList": [12, 10]
+      "ParamList": [12, 10, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Tip of the Spear",
       "Desc": "When the wielder is healed, restore <color=#99FFFFFF>14</color> Energy. This effect can be triggered once every 10s, and can occur even when the character is not on the field.",
-      "ParamList": [14, 10]
+      "ParamList": [14, 10, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Tip of the Spear",
       "Desc": "When the wielder is healed, restore <color=#99FFFFFF>16</color> Energy. This effect can be triggered once every 10s, and can occur even when the character is not on the field.",
-      "ParamList": [16, 10]
+      "ParamList": [16, 10, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

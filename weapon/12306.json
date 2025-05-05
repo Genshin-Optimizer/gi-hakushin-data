@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_101",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 38.7413
+      "initValue": 38.7413,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_101",
-      "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
-      "initValue": 0.0956
+      "initValue": 0.0956,
+      "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT"
     }
   ],
   "Rarity": 3,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Courage",
       "Desc": "On hit, Normal or Charged Attacks increase ATK by <color=#99FFFFFF>6%</color> for 6s. Max 4 stacks. Can occur once every 0.5s.",
-      "ParamList": [0.06]
+      "ParamList": [0.06, 0, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Courage",
       "Desc": "On hit, Normal or Charged Attacks increase ATK by <color=#99FFFFFF>7%</color> for 6s. Max 4 stacks. Can occur once every 0.5s.",
-      "ParamList": [0.07]
+      "ParamList": [0.07, 0, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Courage",
       "Desc": "On hit, Normal or Charged Attacks increase ATK by <color=#99FFFFFF>8%</color> for 6s. Max 4 stacks. Can occur once every 0.5s.",
-      "ParamList": [0.08]
+      "ParamList": [0.08, 0, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Courage",
       "Desc": "On hit, Normal or Charged Attacks increase ATK by <color=#99FFFFFF>9%</color> for 6s. Max 4 stacks. Can occur once every 0.5s.",
-      "ParamList": [0.09]
+      "ParamList": [0.09, 0, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Courage",
       "Desc": "On hit, Normal or Charged Attacks increase ATK by <color=#99FFFFFF>10%</color> for 6s. Max 4 stacks. Can occur once every 0.5s.",
-      "ParamList": [0.1]
+      "ParamList": [0.1, 0, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

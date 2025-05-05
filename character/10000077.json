@@ -411,7 +411,7 @@
         "Name": "Cherubic Osmanthus",
         "Desc": "Yaoyao's outfit. A lovely, short jacket Yaoyao's parents made for her. As the little girl travels safely between Qingce Village and Liyue Harbor, this jacket, along with the adeptal bells her master gave her, always keeps her company.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -790,7 +790,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Toss 'N' Turn Spear",
+      "Name": "Toss 'N' Turn Spear",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 consecutive spear strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
       "Promote": {
         "0": {
@@ -816,7 +816,7 @@
           ],
           "Param": [
             0.510014, 0.474428, 0.313771, 0.329457, 0.779315, 1.1266, 25,
-            0.639324, 1.278377, 1.596762
+            0.639324, 1.278377, 1.596762, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -842,7 +842,7 @@
           ],
           "Param": [
             0.551527, 0.513044, 0.339311, 0.356274, 0.842747, 1.2183, 25,
-            0.691362, 1.382431, 1.726731
+            0.691362, 1.382431, 1.726731, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -868,7 +868,7 @@
           ],
           "Param": [
             0.59304, 0.55166, 0.36485, 0.38309, 0.90618, 1.31, 25, 0.7434,
-            1.486485, 1.8567
+            1.486485, 1.8567, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -894,7 +894,7 @@
           ],
           "Param": [
             0.652344, 0.606826, 0.401335, 0.421399, 0.996798, 1.441, 25,
-            0.81774, 1.635134, 2.04237
+            0.81774, 1.635134, 2.04237, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -920,7 +920,7 @@
           ],
           "Param": [
             0.693857, 0.645442, 0.426874, 0.448215, 1.060231, 1.5327, 25,
-            0.869778, 1.739187, 2.172339
+            0.869778, 1.739187, 2.172339, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -946,7 +946,7 @@
           ],
           "Param": [
             0.7413, 0.689575, 0.456063, 0.478862, 1.132725, 1.6375, 25, 0.92925,
-            1.858106, 2.320875
+            1.858106, 2.320875, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -972,7 +972,7 @@
           ],
           "Param": [
             0.806534, 0.750258, 0.496196, 0.521002, 1.232405, 1.7816, 25,
-            1.011024, 2.02162, 2.525112
+            1.011024, 2.02162, 2.525112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -998,7 +998,7 @@
           ],
           "Param": [
             0.871769, 0.81094, 0.53633, 0.563142, 1.332085, 1.9257, 25,
-            1.092798, 2.185133, 2.729349
+            1.092798, 2.185133, 2.729349, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1024,7 +1024,7 @@
           ],
           "Param": [
             0.937003, 0.871623, 0.576463, 0.605282, 1.431764, 2.0698, 25,
-            1.174572, 2.348646, 2.933586
+            1.174572, 2.348646, 2.933586, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1050,7 +1050,7 @@
           ],
           "Param": [
             1.008168, 0.937822, 0.620245, 0.651253, 1.540506, 2.227, 25,
-            1.26378, 2.527025, 3.15639
+            1.26378, 2.527025, 3.15639, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1076,7 +1076,7 @@
           ],
           "Param": [
             1.079333, 1.004021, 0.664027, 0.697224, 1.649248, 2.3842, 25,
-            1.352988, 2.705403, 3.379194
+            1.352988, 2.705403, 3.379194, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1102,7 +1102,7 @@
           ],
           "Param": [
             1.150498, 1.07022, 0.707809, 0.743195, 1.757989, 2.5414, 25,
-            1.442196, 2.883781, 3.601998
+            1.442196, 2.883781, 3.601998, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1128,7 +1128,7 @@
           ],
           "Param": [
             1.221662, 1.13642, 0.751591, 0.789165, 1.866731, 2.6986, 25,
-            1.531404, 3.062159, 3.824802
+            1.531404, 3.062159, 3.824802, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1154,7 +1154,7 @@
           ],
           "Param": [
             1.292827, 1.202619, 0.795373, 0.835136, 1.975472, 2.8558, 25,
-            1.620612, 3.240537, 4.047606
+            1.620612, 3.240537, 4.047606, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1180,7 +1180,7 @@
           ],
           "Param": [
             1.363992, 1.268818, 0.839155, 0.881107, 2.084214, 3.013, 25,
-            1.70982, 3.418915, 4.27041
+            1.70982, 3.418915, 4.27041, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1210,7 +1210,10 @@
             "",
             ""
           ],
-          "Param": [0.2992, 0.017143, 165.07991, 10, 5, 15]
+          "Param": [
+            0.2992, 0.017143, 165.07991, 10, 5, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1233,7 +1236,10 @@
             "",
             ""
           ],
-          "Param": [0.32164, 0.018429, 181.5902, 10, 5, 15]
+          "Param": [
+            0.32164, 0.018429, 181.5902, 10, 5, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1256,7 +1262,10 @@
             "",
             ""
           ],
-          "Param": [0.34408, 0.019714, 199.47635, 10, 5, 15]
+          "Param": [
+            0.34408, 0.019714, 199.47635, 10, 5, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1279,7 +1288,10 @@
             "",
             ""
           ],
-          "Param": [0.374, 0.021428, 218.73834, 10, 5, 15]
+          "Param": [
+            0.374, 0.021428, 218.73834, 10, 5, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1302,7 +1314,10 @@
             "",
             ""
           ],
-          "Param": [0.39644, 0.022714, 239.3762, 10, 5, 15]
+          "Param": [
+            0.39644, 0.022714, 239.3762, 10, 5, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1325,7 +1340,10 @@
             "",
             ""
           ],
-          "Param": [0.41888, 0.024, 261.38992, 10, 5, 15]
+          "Param": [
+            0.41888, 0.024, 261.38992, 10, 5, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1348,7 +1366,10 @@
             "",
             ""
           ],
-          "Param": [0.4488, 0.025714, 284.77948, 10, 5, 15]
+          "Param": [
+            0.4488, 0.025714, 284.77948, 10, 5, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1371,7 +1392,10 @@
             "",
             ""
           ],
-          "Param": [0.47872, 0.027428, 309.54492, 10, 5, 15]
+          "Param": [
+            0.47872, 0.027428, 309.54492, 10, 5, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1394,7 +1418,10 @@
             "",
             ""
           ],
-          "Param": [0.50864, 0.029143, 335.6862, 10, 5, 15]
+          "Param": [
+            0.50864, 0.029143, 335.6862, 10, 5, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1417,7 +1444,10 @@
             "",
             ""
           ],
-          "Param": [0.53856, 0.030857, 363.20334, 10, 5, 15]
+          "Param": [
+            0.53856, 0.030857, 363.20334, 10, 5, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1440,7 +1470,10 @@
             "",
             ""
           ],
-          "Param": [0.56848, 0.032571, 392.09634, 10, 5, 15]
+          "Param": [
+            0.56848, 0.032571, 392.09634, 10, 5, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1463,7 +1496,10 @@
             "",
             ""
           ],
-          "Param": [0.5984, 0.034286, 422.3652, 10, 5, 15]
+          "Param": [
+            0.5984, 0.034286, 422.3652, 10, 5, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1486,7 +1522,10 @@
             "",
             ""
           ],
-          "Param": [0.6358, 0.036428, 454.00992, 10, 5, 15]
+          "Param": [
+            0.6358, 0.036428, 454.00992, 10, 5, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1509,7 +1548,10 @@
             "",
             ""
           ],
-          "Param": [0.6732, 0.038571, 487.0305, 10, 5, 15]
+          "Param": [
+            0.6732, 0.038571, 487.0305, 10, 5, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1532,7 +1574,10 @@
             "",
             ""
           ],
-          "Param": [0.7106, 0.040714, 521.42694, 10, 5, 15]
+          "Param": [
+            0.7106, 0.040714, 521.42694, 10, 5, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         }
       }
     },
@@ -1561,7 +1606,10 @@
             "",
             ""
           ],
-          "Param": [0.7216, 0.020168, 194.21231, 1.1456, 0.5, 5, 20, 80]
+          "Param": [
+            0.7216, 0.020168, 194.21231, 1.1456, 0.5, 5, 20, 80, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1584,7 +1632,10 @@
             "",
             ""
           ],
-          "Param": [0.77572, 0.021681, 213.63625, 1.23152, 0.5, 5, 20, 80]
+          "Param": [
+            0.77572, 0.021681, 213.63625, 1.23152, 0.5, 5, 20, 80, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1607,7 +1658,10 @@
             "",
             ""
           ],
-          "Param": [0.82984, 0.023193, 234.67883, 1.31744, 0.5, 5, 20, 80]
+          "Param": [
+            0.82984, 0.023193, 234.67883, 1.31744, 0.5, 5, 20, 80, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1630,7 +1684,10 @@
             "",
             ""
           ],
-          "Param": [0.902, 0.02521, 257.3401, 1.432, 0.5, 5, 20, 80]
+          "Param": [
+            0.902, 0.02521, 257.3401, 1.432, 0.5, 5, 20, 80, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1653,7 +1710,10 @@
             "",
             ""
           ],
-          "Param": [0.95612, 0.026723, 281.62, 1.51792, 0.5, 5, 20, 80]
+          "Param": [
+            0.95612, 0.026723, 281.62, 1.51792, 0.5, 5, 20, 80, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1676,7 +1736,10 @@
             "",
             ""
           ],
-          "Param": [1.01024, 0.028235, 307.5186, 1.60384, 0.5, 5, 20, 80]
+          "Param": [
+            1.01024, 0.028235, 307.5186, 1.60384, 0.5, 5, 20, 80, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1699,7 +1762,10 @@
             "",
             ""
           ],
-          "Param": [1.0824, 0.030252, 335.0358, 1.7184, 0.5, 5, 20, 80]
+          "Param": [
+            1.0824, 0.030252, 335.0358, 1.7184, 0.5, 5, 20, 80, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1722,7 +1788,10 @@
             "",
             ""
           ],
-          "Param": [1.15456, 0.032269, 364.1717, 1.83296, 0.5, 5, 20, 80]
+          "Param": [
+            1.15456, 0.032269, 364.1717, 1.83296, 0.5, 5, 20, 80, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1745,7 +1814,10 @@
             "",
             ""
           ],
-          "Param": [1.22672, 0.034286, 394.92627, 1.94752, 0.5, 5, 20, 80]
+          "Param": [
+            1.22672, 0.034286, 394.92627, 1.94752, 0.5, 5, 20, 80, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1768,7 +1840,10 @@
             "",
             ""
           ],
-          "Param": [1.29888, 0.036303, 427.29947, 2.06208, 0.5, 5, 20, 80]
+          "Param": [
+            1.29888, 0.036303, 427.29947, 2.06208, 0.5, 5, 20, 80, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1791,7 +1866,10 @@
             "",
             ""
           ],
-          "Param": [1.37104, 0.038319, 461.29135, 2.17664, 0.5, 5, 20, 80]
+          "Param": [
+            1.37104, 0.038319, 461.29135, 2.17664, 0.5, 5, 20, 80, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1814,7 +1892,10 @@
             "",
             ""
           ],
-          "Param": [1.4432, 0.040336, 496.9019, 2.2912, 0.5, 5, 20, 80]
+          "Param": [
+            1.4432, 0.040336, 496.9019, 2.2912, 0.5, 5, 20, 80, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1837,7 +1918,10 @@
             "",
             ""
           ],
-          "Param": [1.5334, 0.042857, 534.1311, 2.4344, 0.5, 5, 20, 80]
+          "Param": [
+            1.5334, 0.042857, 534.1311, 2.4344, 0.5, 5, 20, 80, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1860,7 +1944,10 @@
             "",
             ""
           ],
-          "Param": [1.6236, 0.045378, 572.97894, 2.5776, 0.5, 5, 20, 80]
+          "Param": [
+            1.6236, 0.045378, 572.97894, 2.5776, 0.5, 5, 20, 80, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1883,7 +1970,10 @@
             "",
             ""
           ],
-          "Param": [1.7138, 0.047899, 613.4455, 2.7208, 0.5, 5, 20, 80]
+          "Param": [
+            1.7138, 0.047899, 613.4455, 2.7208, 0.5, 5, 20, 80, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         }
       }
     }
@@ -1894,21 +1984,25 @@
       "Desc": "While affected by the Adeptal Legacy state caused by <color=#FFD780FF>Moonjade Descent</color>, Yaoyao will constantly throw White Jade Radishes at nearby opponents when she is sprinting, jumping, or running. She can throw 1 White Jade Radish this way once every 0.6s.",
       "Icon": "UI_Talent_S_Yaoyao_05",
       "Unlock": 1,
-      "ParamList": [0.6]
+      "ParamList": [
+        0.6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "In Others' Shoes",
       "Desc": "When <color=#FFD780FF>White Jade Radishes</color> explode, active characters within their AoE will regain HP every 1s based on 0.8% of Yaoyao's Max HP. This effect lasts 5s.",
       "Icon": "UI_Talent_S_Yaoyao_06",
       "Unlock": 4,
-      "ParamList": [1, 0.008, 5]
+      "ParamList": [
+        1, 0.008, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Tailing on Tiptoes",
       "Desc": "When Yaoyao is in the party, your characters will not startle Crystalflies and certain other animals when getting near them.\\nCheck the \"Other\" sub-category of the \"Living Beings / Wildlife\" section in the Archive for creatures this skill works on.",
       "Icon": "UI_Talent_S_Yaoyao_07",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Constellations": [
@@ -1916,37 +2010,37 @@
       "Name": "Adeptus' Tutelage",
       "Desc": "When <color=#FFD780FF>White Jade Radishes</color> explode, active characters within their AoE will gain 15% <color=#99FF88FF>Dendro DMG Bonus</color> for 8s and have 15 Stamina restored to them. This form of Stamina Restoration can only be triggered every 5s.",
       "Icon": "UI_Talent_S_Yaoyao_01",
-      "ParamList": [8, 0.15, 15, 5]
+      "ParamList": [8, 0.15, 15, 5, 0, 0, 0, 0]
     },
     {
       "Name": "Innocent",
       "Desc": "While affected by the Adeptal Legacy state caused by <color=#FFD780FF>Moonjade Descent</color>, if White Jade Radish explosions hit opponents, 3 Energy will be restored to Yaoyao. This form of Energy regeneration can occur once every 0.8s.",
       "Icon": "UI_Talent_S_Yaoyao_02",
-      "ParamList": [3, 0.8]
+      "ParamList": [3, 0.8, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Loyal and Kind",
       "Desc": "Increases the Level of <color=#FFD780FF>Raphanus Sky Cluster</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Yaoyao_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Winsome",
       "Desc": "After using <color=#FFD780FF>Raphanus Sky Cluster</color> or <color=#FFD780FF>Moonjade Descent</color>, Yaoyao's Elemental Mastery will be increased based on 0.3% of her Max HP for 8s. The maximum Elemental Mastery she can gain this way is 120.",
       "Icon": "UI_Talent_S_Yaoyao_03",
-      "ParamList": [0.003, 8, 120]
+      "ParamList": [0.003, 8, 120, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Compassionate",
       "Desc": "Increases the Level of <color=#FFD780FF>Moonjade Descent</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Yaoyao_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Beneficent",
       "Desc": "For every 2 White Jade Radishes <color=#FFD780FF>Yuegui: Throwing Mode</color> throws out, the next throw will also release a Mega Radish that will have a larger AoE than the standard White Jade Radish and have the following effects upon exploding:\\n·Deals <color=#99FF88FF>AoE Dendro DMG</color> based on 75% of Yaoyao's ATK.\\n·Restores HP for the active character based on 7.5% of Yaoyao's Max HP.\\n\\nEvery Yuegui: Throwing Mode can throw out a maximum of 2 Mega Radishes.",
       "Icon": "UI_Talent_S_Yaoyao_04",
-      "ParamList": [0.75, 0.075]
+      "ParamList": [0, 0.75, 0.075, 0, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -1959,7 +2053,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Jueyun Chili", "Id": 100027, "Count": 3, "Rank": 1 },
+          { "Name": "Jueyun Chili", "Id": 100027, "Count": 3, "Rank": 0 },
           { "Name": "Slime Condensate", "Id": 112002, "Count": 3, "Rank": 1 }
         ],
         "Cost": 20000
@@ -1973,7 +2067,7 @@
             "Rank": 3
           },
           { "Name": "Quelled Creeper", "Id": 113040, "Count": 2, "Rank": 4 },
-          { "Name": "Jueyun Chili", "Id": 100027, "Count": 10, "Rank": 1 },
+          { "Name": "Jueyun Chili", "Id": 100027, "Count": 10, "Rank": 0 },
           { "Name": "Slime Condensate", "Id": 112002, "Count": 15, "Rank": 1 }
         ],
         "Cost": 40000
@@ -1987,7 +2081,7 @@
             "Rank": 3
           },
           { "Name": "Quelled Creeper", "Id": 113040, "Count": 4, "Rank": 4 },
-          { "Name": "Jueyun Chili", "Id": 100027, "Count": 20, "Rank": 1 },
+          { "Name": "Jueyun Chili", "Id": 100027, "Count": 20, "Rank": 0 },
           { "Name": "Slime Secretions", "Id": 112003, "Count": 12, "Rank": 2 }
         ],
         "Cost": 60000
@@ -2001,7 +2095,7 @@
             "Rank": 4
           },
           { "Name": "Quelled Creeper", "Id": 113040, "Count": 8, "Rank": 4 },
-          { "Name": "Jueyun Chili", "Id": 100027, "Count": 30, "Rank": 1 },
+          { "Name": "Jueyun Chili", "Id": 100027, "Count": 30, "Rank": 0 },
           { "Name": "Slime Secretions", "Id": 112003, "Count": 18, "Rank": 2 }
         ],
         "Cost": 80000
@@ -2015,7 +2109,7 @@
             "Rank": 4
           },
           { "Name": "Quelled Creeper", "Id": 113040, "Count": 12, "Rank": 4 },
-          { "Name": "Jueyun Chili", "Id": 100027, "Count": 45, "Rank": 1 },
+          { "Name": "Jueyun Chili", "Id": 100027, "Count": 45, "Rank": 0 },
           { "Name": "Slime Concentrate", "Id": 112004, "Count": 12, "Rank": 3 }
         ],
         "Cost": 100000
@@ -2029,7 +2123,7 @@
             "Rank": 5
           },
           { "Name": "Quelled Creeper", "Id": 113040, "Count": 20, "Rank": 4 },
-          { "Name": "Jueyun Chili", "Id": 100027, "Count": 60, "Rank": 1 },
+          { "Name": "Jueyun Chili", "Id": 100027, "Count": 60, "Rank": 0 },
           { "Name": "Slime Concentrate", "Id": 112004, "Count": 24, "Rank": 3 }
         ],
         "Cost": 120000

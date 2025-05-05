@@ -491,7 +491,7 @@
         "Name": "Clear Adjudication",
         "Desc": "Neuvillette's outfit. The solemn, elegant garb of the Iudex. The complexity in its design does, in fact, cause some inconveniences in movement, but to its wearer, that it matches his standing is a more important matter.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -870,7 +870,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: As Water Seeks Equilibrium",
+      "Name": "As Water Seeks Equilibrium",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nWith light flourishes, Neuvillette commands the tides to unleash a maximum of 3 attacks, dealing <color=#80C0FFFF>Hydro DMG</color>.\\n\\n<color=#FFD780FF>Charged Attack Empowerment: Legal Evaluation</color>\\nWhile charging up, Neuvillette will gather the power of water, forming it into a Seal of Arbitration. In this state, Neuvillette can move and change facing, and also absorb any Sourcewater Droplets in a certain AoE.\\nEvery Droplet he absorbs will increase the formation speed of the Seal, and will heal Neuvillette.\\nWhen the charging is stopped, if the Symbol has yet to be formed, then a Charged Attack will be unleashed. If it has been formed, then a Charged Attack: Equitable Judgment will be unleashed.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a fixed amount of Stamina to attack opponents with a rupturing blast of water, dealing <color=#80C0FFFF>AoE Hydro DMG</color>.\\n\\n<color=#FFD780FF>Charged Attack: Equitable Judgment</color>\\nUnleashes surging torrents, dealing continuous <color=#80C0FFFF>AoE Hydro DMG</color> to all opponents in a straight-line area in front of him.\\nEquitable Judgment will not consume any Stamina and lasts 3s.\\nIf Neuvillette's HP is above 50%, he will continuously lose HP while using this attack.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nGathering the might of Hydro, Neuvillette plunges towards the ground from mid-air, damaging all opponents in his path. Deals <color=#80C0FFFF>AoE Hydro DMG</color> upon impact with the ground.",
       "Promote": {
         "0": {
@@ -896,7 +896,7 @@
           ],
           "Param": [
             0.545768, 0.462456, 0.723376, 1.368, 0.073186, 50, 0.16, 0.08, 0.5,
-            0.5, 0.568288, 1.136335, 1.419344
+            0.5, 0.568288, 1.136335, 1.419344, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -922,7 +922,7 @@
           ],
           "Param": [
             0.586701, 0.49714, 0.777629, 1.4706, 0.079143, 50, 0.16, 0.08, 0.5,
-            0.5, 0.614544, 1.228828, 1.534872
+            0.5, 0.614544, 1.228828, 1.534872, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -948,7 +948,7 @@
           ],
           "Param": [
             0.627633, 0.531824, 0.831882, 1.5732, 0.0851, 50, 0.16, 0.08, 0.5,
-            0.5, 0.6608, 1.32132, 1.6504
+            0.5, 0.6608, 1.32132, 1.6504, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -974,7 +974,7 @@
           ],
           "Param": [
             0.68221, 0.57807, 0.90422, 1.71, 0.09361, 50, 0.16, 0.08, 0.5, 0.5,
-            0.72688, 1.453452, 1.81544
+            0.72688, 1.453452, 1.81544, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -1000,7 +1000,7 @@
           ],
           "Param": [
             0.723143, 0.612754, 0.958473, 1.8126, 0.099567, 50, 0.16, 0.08, 0.5,
-            0.5, 0.773136, 1.545944, 1.930968
+            0.5, 0.773136, 1.545944, 1.930968, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -1026,7 +1026,7 @@
           ],
           "Param": [
             0.764075, 0.647438, 1.012726, 1.9152, 0.106375, 50, 0.16, 0.08, 0.5,
-            0.5, 0.826, 1.65165, 2.063
+            0.5, 0.826, 1.65165, 2.063, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -1052,7 +1052,7 @@
           ],
           "Param": [
             0.818652, 0.693684, 1.085064, 2.052, 0.115736, 50, 0.16, 0.08, 0.5,
-            0.5, 0.898688, 1.796995, 2.244544
+            0.5, 0.898688, 1.796995, 2.244544, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1078,7 +1078,7 @@
           ],
           "Param": [
             0.873229, 0.73993, 1.157402, 2.1888, 0.125097, 50, 0.16, 0.08, 0.5,
-            0.5, 0.971376, 1.94234, 2.426088
+            0.5, 0.971376, 1.94234, 2.426088, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1104,7 +1104,7 @@
           ],
           "Param": [
             0.927806, 0.786175, 1.229739, 2.3256, 0.134458, 50, 0.16, 0.08, 0.5,
-            0.5, 1.044064, 2.087686, 2.607632
+            0.5, 1.044064, 2.087686, 2.607632, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1130,7 +1130,7 @@
           ],
           "Param": [
             0.982382, 0.832421, 1.302077, 2.4624, 0.14467, 50, 0.16, 0.08, 0.5,
-            0.5, 1.12336, 2.246244, 2.80568
+            0.5, 1.12336, 2.246244, 2.80568, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1156,7 +1156,7 @@
           ],
           "Param": [
             1.036959, 0.878666, 1.374414, 2.5992, 0.154882, 50, 0.16, 0.08, 0.5,
-            0.5, 1.202656, 2.404802, 3.003728
+            0.5, 1.202656, 2.404802, 3.003728, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1182,7 +1182,7 @@
           ],
           "Param": [
             1.091536, 0.924912, 1.446752, 2.736, 0.165094, 50, 0.16, 0.08, 0.5,
-            0.5, 1.281952, 2.563361, 3.201776
+            0.5, 1.281952, 2.563361, 3.201776, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1208,7 +1208,7 @@
           ],
           "Param": [
             1.159757, 0.982719, 1.537174, 2.907, 0.175306, 50, 0.16, 0.08, 0.5,
-            0.5, 1.361248, 2.721919, 3.399824
+            0.5, 1.361248, 2.721919, 3.399824, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1234,7 +1234,7 @@
           ],
           "Param": [
             1.227978, 1.040526, 1.627596, 3.078, 0.185518, 50, 0.16, 0.08, 0.5,
-            0.5, 1.440544, 2.880478, 3.597872
+            0.5, 1.440544, 2.880478, 3.597872, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1260,7 +1260,7 @@
           ],
           "Param": [
             1.296199, 1.098333, 1.718018, 3.249, 0.19573, 50, 0.16, 0.08, 0.5,
-            0.5, 1.51984, 3.039036, 3.79592
+            0.5, 1.51984, 3.039036, 3.79592, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1290,7 +1290,10 @@
             "",
             ""
           ],
-          "Param": [0.12864, 0.208, 15, 12, 10]
+          "Param": [
+            0.12864, 0.208, 15, 12, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1313,7 +1316,10 @@
             "",
             ""
           ],
-          "Param": [0.138288, 0.2236, 15, 12, 10]
+          "Param": [
+            0.138288, 0.2236, 15, 12, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1336,7 +1342,10 @@
             "",
             ""
           ],
-          "Param": [0.147936, 0.2392, 15, 12, 10]
+          "Param": [
+            0.147936, 0.2392, 15, 12, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1359,7 +1368,10 @@
             "",
             ""
           ],
-          "Param": [0.1608, 0.26, 15, 12, 10]
+          "Param": [
+            0.1608, 0.26, 15, 12, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1382,7 +1394,10 @@
             "",
             ""
           ],
-          "Param": [0.170448, 0.2756, 15, 12, 10]
+          "Param": [
+            0.170448, 0.2756, 15, 12, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1405,7 +1420,10 @@
             "",
             ""
           ],
-          "Param": [0.180096, 0.2912, 15, 12, 10]
+          "Param": [
+            0.180096, 0.2912, 15, 12, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1428,7 +1446,10 @@
             "",
             ""
           ],
-          "Param": [0.19296, 0.312, 15, 12, 10]
+          "Param": [
+            0.19296, 0.312, 15, 12, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1451,7 +1472,10 @@
             "",
             ""
           ],
-          "Param": [0.205824, 0.3328, 15, 12, 10]
+          "Param": [
+            0.205824, 0.3328, 15, 12, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1474,7 +1498,10 @@
             "",
             ""
           ],
-          "Param": [0.218688, 0.3536, 15, 12, 10]
+          "Param": [
+            0.218688, 0.3536, 15, 12, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1497,7 +1524,10 @@
             "",
             ""
           ],
-          "Param": [0.231552, 0.3744, 15, 12, 10]
+          "Param": [
+            0.231552, 0.3744, 15, 12, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1520,7 +1550,10 @@
             "",
             ""
           ],
-          "Param": [0.244416, 0.3952, 15, 12, 10]
+          "Param": [
+            0.244416, 0.3952, 15, 12, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1543,7 +1576,10 @@
             "",
             ""
           ],
-          "Param": [0.25728, 0.416, 15, 12, 10]
+          "Param": [
+            0.25728, 0.416, 15, 12, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1566,7 +1602,10 @@
             "",
             ""
           ],
-          "Param": [0.27336, 0.442, 15, 12, 10]
+          "Param": [
+            0.27336, 0.442, 15, 12, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1589,7 +1628,10 @@
             "",
             ""
           ],
-          "Param": [0.28944, 0.468, 15, 12, 10]
+          "Param": [
+            0.28944, 0.468, 15, 12, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1612,7 +1654,10 @@
             "",
             ""
           ],
-          "Param": [0.30552, 0.494, 15, 12, 10]
+          "Param": [
+            0.30552, 0.494, 15, 12, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         }
       }
     },
@@ -1641,7 +1686,10 @@
             "",
             ""
           ],
-          "Param": [0.222578, 0.091055, 18, 70]
+          "Param": [
+            0.222578, 0.091055, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1664,7 +1712,10 @@
             "",
             ""
           ],
-          "Param": [0.239272, 0.097884, 18, 70]
+          "Param": [
+            0.239272, 0.097884, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1687,7 +1738,10 @@
             "",
             ""
           ],
-          "Param": [0.255965, 0.104713, 18, 70]
+          "Param": [
+            0.255965, 0.104713, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1710,7 +1764,10 @@
             "",
             ""
           ],
-          "Param": [0.278223, 0.113818, 18, 70]
+          "Param": [
+            0.278223, 0.113818, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1733,7 +1790,10 @@
             "",
             ""
           ],
-          "Param": [0.294916, 0.120647, 18, 70]
+          "Param": [
+            0.294916, 0.120647, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1756,7 +1816,10 @@
             "",
             ""
           ],
-          "Param": [0.31161, 0.127477, 18, 70]
+          "Param": [
+            0.31161, 0.127477, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1779,7 +1842,10 @@
             "",
             ""
           ],
-          "Param": [0.333868, 0.136582, 18, 70]
+          "Param": [
+            0.333868, 0.136582, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1802,7 +1868,10 @@
             "",
             ""
           ],
-          "Param": [0.356125, 0.145688, 18, 70]
+          "Param": [
+            0.356125, 0.145688, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1825,7 +1894,10 @@
             "",
             ""
           ],
-          "Param": [0.378383, 0.154793, 18, 70]
+          "Param": [
+            0.378383, 0.154793, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1848,7 +1920,10 @@
             "",
             ""
           ],
-          "Param": [0.400641, 0.163898, 18, 70]
+          "Param": [
+            0.400641, 0.163898, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1871,7 +1946,10 @@
             "",
             ""
           ],
-          "Param": [0.422899, 0.173004, 18, 70]
+          "Param": [
+            0.422899, 0.173004, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1894,7 +1972,10 @@
             "",
             ""
           ],
-          "Param": [0.445157, 0.182109, 18, 70]
+          "Param": [
+            0.445157, 0.182109, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1917,7 +1998,10 @@
             "",
             ""
           ],
-          "Param": [0.472979, 0.193491, 18, 70]
+          "Param": [
+            0.472979, 0.193491, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1940,7 +2024,10 @@
             "",
             ""
           ],
-          "Param": [0.500801, 0.204873, 18, 70]
+          "Param": [
+            0.500801, 0.204873, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1963,7 +2050,10 @@
             "",
             ""
           ],
-          "Param": [0.528624, 0.216255, 18, 70]
+          "Param": [
+            0.528624, 0.216255, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         }
       }
     }
@@ -1974,21 +2064,25 @@
       "Desc": "When a party member triggers a Vaporize, Frozen, Electro-Charged, Bloom, Hydro Swirl, or a Hydro Crystallize reaction on opponents, 1 stack of Past Draconic Glories will be granted to Neuvillette for 30s. Max 3 stacks. Past Draconic Glories causes Charged Attack: Equitable Judgment to deal 110%/125%/160% of its original DMG.\\nThe stacks of Past Draconic Glories created by each kind of Elemental Reaction exist independently.",
       "Icon": "UI_Talent_S_Neuvillette_05",
       "Unlock": 1,
-      "ParamList": [0.1, 0.25, 0.6, 30]
+      "ParamList": [
+        0.1, 0.25, 0.6, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Discipline of the Supreme Arbitration",
       "Desc": "For each 1% of Neuvillette's current HP greater than 30% of Max HP, he will gain 0.6% <color=#80C0FFFF>Hydro DMG Bonus</color>. A maximum bonus of 30% can be obtained this way.",
       "Icon": "UI_Talent_S_Neuvillette_06",
       "Unlock": 4,
-      "ParamList": [0.3, 0.8, 0.6]
+      "ParamList": [
+        0.3, 0.8, 0.6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Gather Like the Tide",
       "Desc": "Increases underwater Sprint SPD for your own party members by 15%.\\nNot stackable with Passive Talents that provide the exact same effects.",
       "Icon": "UI_Talent_S_Neuvillette_07",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Constellations": [
@@ -1996,37 +2090,37 @@
       "Name": "Venerable Institution",
       "Desc": "When Neuvillette takes the field, he will obtain 1 stack of Past Draconic Glories from the Passive Talent \"Heir to the Ancient Sea's Authority.\" You must first unlock the Passive Talent \"Heir to the Ancient Sea's Authority.\"\\nAdditionally, his interruption resistance will be increased while using the Charged Attack Empowerment: Legal Evaluation and the Charged Attack: Equitable Judgment.",
       "Icon": "UI_Talent_S_Neuvillette_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Juridical Exhortation",
       "Desc": "The Passive Talent \"Heir to the Ancient Sea's Authority\" will be enhanced: Each stack of Past Draconic Glories will increase the CRIT DMG of Charged Attack: Equitable Judgment by 14%. The maximum increase that can be achieved this way is 42%.\\nYou must first unlock the Passive Talent \"Heir to the Ancient Sea's Authority.\"",
       "Icon": "UI_Talent_S_Neuvillette_02",
-      "ParamList": [0.14]
+      "ParamList": [0.14, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Ancient Postulation",
       "Desc": "Increases the Level of <color=#FFD780FF>Normal Attack: As Water Seeks Equilibrium</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Neuvillette_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Crown of Commiseration",
       "Desc": "When Neuvillette is on the field and is healed, 1 Sourcewater Droplet will be generated. This effect can occur once every 4s.",
       "Icon": "UI_Talent_S_Neuvillette_03",
-      "ParamList": [4]
+      "ParamList": [4, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Axiomatic Judgment",
       "Desc": "Increases the Level of <color=#FFD780FF>O Tides, I Have Returned</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Neuvillette_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Wrathful Recompense",
       "Desc": "When using Charged Attack: Equitable Judgment, Neuvillette can absorb nearby Sourcewater Droplets in an AoE. Each absorbed Droplet will increase the duration of Charged Attack: Equitable Judgment by 1s.\\nAdditionally, when Equitable Judgment hits opponents, it will fire off 2 additional currents every 2s, each of which will deal 10% of Neuvillette's Max HP as <color=#80C0FFFF>Hydro DMG</color>. DMG dealt this way will count as DMG dealt by Equitable Judgment.",
       "Icon": "UI_Talent_S_Neuvillette_04",
-      "ParamList": [0.1, 2]
+      "ParamList": [0.1, 2, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -2039,7 +2133,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Lumitoile", "Id": 101237, "Count": 3, "Rank": 1 },
+          { "Name": "Lumitoile", "Id": 101237, "Count": 3, "Rank": 0 },
           { "Name": "Transoceanic Pearl", "Id": 112080, "Count": 3, "Rank": 1 }
         ],
         "Cost": 20000
@@ -2053,7 +2147,7 @@
             "Rank": 3
           },
           { "Name": "Fontemer Unihorn", "Id": 113053, "Count": 2, "Rank": 4 },
-          { "Name": "Lumitoile", "Id": 101237, "Count": 10, "Rank": 1 },
+          { "Name": "Lumitoile", "Id": 101237, "Count": 10, "Rank": 0 },
           { "Name": "Transoceanic Pearl", "Id": 112080, "Count": 15, "Rank": 1 }
         ],
         "Cost": 40000
@@ -2067,7 +2161,7 @@
             "Rank": 3
           },
           { "Name": "Fontemer Unihorn", "Id": 113053, "Count": 4, "Rank": 4 },
-          { "Name": "Lumitoile", "Id": 101237, "Count": 20, "Rank": 1 },
+          { "Name": "Lumitoile", "Id": 101237, "Count": 20, "Rank": 0 },
           { "Name": "Transoceanic Chunk", "Id": 112081, "Count": 12, "Rank": 2 }
         ],
         "Cost": 60000
@@ -2081,7 +2175,7 @@
             "Rank": 4
           },
           { "Name": "Fontemer Unihorn", "Id": 113053, "Count": 8, "Rank": 4 },
-          { "Name": "Lumitoile", "Id": 101237, "Count": 30, "Rank": 1 },
+          { "Name": "Lumitoile", "Id": 101237, "Count": 30, "Rank": 0 },
           { "Name": "Transoceanic Chunk", "Id": 112081, "Count": 18, "Rank": 2 }
         ],
         "Cost": 80000
@@ -2095,7 +2189,7 @@
             "Rank": 4
           },
           { "Name": "Fontemer Unihorn", "Id": 113053, "Count": 12, "Rank": 4 },
-          { "Name": "Lumitoile", "Id": 101237, "Count": 45, "Rank": 1 },
+          { "Name": "Lumitoile", "Id": 101237, "Count": 45, "Rank": 0 },
           {
             "Name": "Xenochromatic Crystal",
             "Id": 112082,
@@ -2114,7 +2208,7 @@
             "Rank": 5
           },
           { "Name": "Fontemer Unihorn", "Id": 113053, "Count": 20, "Rank": 4 },
-          { "Name": "Lumitoile", "Id": 101237, "Count": 60, "Rank": 1 },
+          { "Name": "Lumitoile", "Id": 101237, "Count": 60, "Rank": 0 },
           {
             "Name": "Xenochromatic Crystal",
             "Id": 112082,

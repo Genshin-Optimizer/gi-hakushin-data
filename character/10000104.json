@@ -403,7 +403,7 @@
         "Name": "Tlalocan's Night Phantom",
         "Desc": "Chasca's outfit. The spirit of conflict is in her blood, and unyielding determination in her eyes. The pain that comes with transcending death is the unbending pride of Tlalocan.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -782,7 +782,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Phantom Feather Flurry",
+      "Name": "Phantom Feather Flurry",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 consecutive shots with a bow.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nPerforms a more precise <color=#FFD780FF>Aimed Shot</color> with increased DMG.\\nWhile aiming, mighty winds will accumulate on the arrowhead. A fully charged wind arrow will deal <color=#80FFD7FF>Anemo DMG</color>.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nFires off a shower of arrows in mid-air before falling and striking the ground, hitting opponents along the path and dealing AoE DMG upon impact.",
       "Promote": {
         "0": {
@@ -808,7 +808,7 @@
           ],
           "Param": [
             0.480078, 0.445884, 0.296975, 0.254672, 0.4386, 1.24, 0.568288,
-            1.136335, 1.419344
+            1.136335, 1.419344, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -834,7 +834,7 @@
           ],
           "Param": [
             0.519154, 0.482177, 0.321148, 0.275401, 0.4743, 1.333, 0.614544,
-            1.228828, 1.534872
+            1.228828, 1.534872, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -860,7 +860,7 @@
           ],
           "Param": [
             0.55823, 0.51847, 0.34532, 0.29613, 0.51, 1.426, 0.6608, 1.32132,
-            1.6504
+            1.6504, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -886,7 +886,7 @@
           ],
           "Param": [
             0.614053, 0.570317, 0.379852, 0.325743, 0.561, 1.55, 0.72688,
-            1.453452, 1.81544
+            1.453452, 1.81544, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -912,7 +912,7 @@
           ],
           "Param": [
             0.653129, 0.60661, 0.404024, 0.346472, 0.5967, 1.643, 0.773136,
-            1.545944, 1.930968
+            1.545944, 1.930968, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -938,7 +938,7 @@
           ],
           "Param": [
             0.697788, 0.648087, 0.43165, 0.370163, 0.6375, 1.736, 0.826,
-            1.65165, 2.063
+            1.65165, 2.063, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -964,7 +964,7 @@
           ],
           "Param": [
             0.759193, 0.705119, 0.469635, 0.402737, 0.6936, 1.86, 0.898688,
-            1.796995, 2.244544
+            1.796995, 2.244544, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -990,7 +990,7 @@
           ],
           "Param": [
             0.820598, 0.762151, 0.50762, 0.435311, 0.7497, 1.984, 0.971376,
-            1.94234, 2.426088
+            1.94234, 2.426088, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1016,7 +1016,7 @@
           ],
           "Param": [
             0.882003, 0.819183, 0.545606, 0.467885, 0.8058, 2.108, 1.044064,
-            2.087686, 2.607632
+            2.087686, 2.607632, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1042,7 +1042,7 @@
           ],
           "Param": [
             0.948991, 0.881399, 0.587044, 0.503421, 0.867, 2.232, 1.12336,
-            2.246244, 2.80568
+            2.246244, 2.80568, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1068,7 +1068,7 @@
           ],
           "Param": [
             1.015979, 0.943615, 0.628482, 0.538957, 0.9282, 2.356, 1.202656,
-            2.404802, 3.003728
+            2.404802, 3.003728, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1094,7 +1094,7 @@
           ],
           "Param": [
             1.082966, 1.005832, 0.669921, 0.574492, 0.9894, 2.48, 1.281952,
-            2.563361, 3.201776
+            2.563361, 3.201776, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1120,7 +1120,7 @@
           ],
           "Param": [
             1.149954, 1.068048, 0.711359, 0.610028, 1.0506, 2.635, 1.361248,
-            2.721919, 3.399824
+            2.721919, 3.399824, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1146,7 +1146,7 @@
           ],
           "Param": [
             1.216941, 1.130265, 0.752798, 0.645563, 1.1118, 2.79, 1.440544,
-            2.880478, 3.597872
+            2.880478, 3.597872, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1172,7 +1172,7 @@
           ],
           "Param": [
             1.283929, 1.192481, 0.794236, 0.681099, 1.173, 2.945, 1.51984,
-            3.039036, 3.79592
+            3.039036, 3.79592, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1202,7 +1202,10 @@
             "",
             ""
           ],
-          "Param": [0.6, 0.36, 0.488, 1.66572, 80, 6.5]
+          "Param": [
+            0.6, 0.36, 0.488, 1.66572, 80, 6.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1225,7 +1228,10 @@
             "",
             ""
           ],
-          "Param": [0.645, 0.387, 0.5246, 1.790649, 80, 6.5]
+          "Param": [
+            0.645, 0.387, 0.5246, 1.790649, 80, 6.5, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1248,7 +1254,10 @@
             "",
             ""
           ],
-          "Param": [0.69, 0.414, 0.5612, 1.915578, 80, 6.5]
+          "Param": [
+            0.69, 0.414, 0.5612, 1.915578, 80, 6.5, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1271,7 +1280,10 @@
             "",
             ""
           ],
-          "Param": [0.75, 0.45, 0.61, 2.08215, 80, 6.5]
+          "Param": [
+            0.75, 0.45, 0.61, 2.08215, 80, 6.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1294,7 +1306,10 @@
             "",
             ""
           ],
-          "Param": [0.795, 0.477, 0.6466, 2.207079, 80, 6.5]
+          "Param": [
+            0.795, 0.477, 0.6466, 2.207079, 80, 6.5, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1317,7 +1332,10 @@
             "",
             ""
           ],
-          "Param": [0.84, 0.504, 0.6832, 2.332008, 80, 6.5]
+          "Param": [
+            0.84, 0.504, 0.6832, 2.332008, 80, 6.5, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1340,7 +1358,10 @@
             "",
             ""
           ],
-          "Param": [0.9, 0.54, 0.732, 2.49858, 80, 6.5]
+          "Param": [
+            0.9, 0.54, 0.732, 2.49858, 80, 6.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1363,7 +1384,10 @@
             "",
             ""
           ],
-          "Param": [0.96, 0.576, 0.7808, 2.665152, 80, 6.5]
+          "Param": [
+            0.96, 0.576, 0.7808, 2.665152, 80, 6.5, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1386,7 +1410,10 @@
             "",
             ""
           ],
-          "Param": [1.02, 0.612, 0.8296, 2.831724, 80, 6.5]
+          "Param": [
+            1.02, 0.612, 0.8296, 2.831724, 80, 6.5, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1409,7 +1436,10 @@
             "",
             ""
           ],
-          "Param": [1.08, 0.648, 0.8784, 2.998296, 80, 6.5]
+          "Param": [
+            1.08, 0.648, 0.8784, 2.998296, 80, 6.5, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1432,7 +1462,10 @@
             "",
             ""
           ],
-          "Param": [1.14, 0.684, 0.9272, 3.164868, 80, 6.5]
+          "Param": [
+            1.14, 0.684, 0.9272, 3.164868, 80, 6.5, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1455,7 +1488,10 @@
             "",
             ""
           ],
-          "Param": [1.2, 0.72, 0.976, 3.33144, 80, 6.5]
+          "Param": [
+            1.2, 0.72, 0.976, 3.33144, 80, 6.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1478,7 +1514,10 @@
             "",
             ""
           ],
-          "Param": [1.275, 0.765, 1.037, 3.539655, 80, 6.5]
+          "Param": [
+            1.275, 0.765, 1.037, 3.539655, 80, 6.5, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1501,7 +1540,10 @@
             "",
             ""
           ],
-          "Param": [1.35, 0.81, 1.098, 3.74787, 80, 6.5]
+          "Param": [
+            1.35, 0.81, 1.098, 3.74787, 80, 6.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1524,7 +1566,10 @@
             "",
             ""
           ],
-          "Param": [1.425, 0.855, 1.159, 3.956085, 80, 6.5]
+          "Param": [
+            1.425, 0.855, 1.159, 3.956085, 80, 6.5, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         }
       }
     },
@@ -1553,7 +1598,10 @@
             "",
             ""
           ],
-          "Param": [0.88, 1.034, 2.068, 15, 60]
+          "Param": [
+            0.88, 1.034, 2.068, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1576,7 +1624,10 @@
             "",
             ""
           ],
-          "Param": [0.946, 1.11155, 2.2231, 15, 60]
+          "Param": [
+            0.946, 1.11155, 2.2231, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1599,7 +1650,10 @@
             "",
             ""
           ],
-          "Param": [1.012, 1.1891, 2.3782, 15, 60]
+          "Param": [
+            1.012, 1.1891, 2.3782, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1622,7 +1676,10 @@
             "",
             ""
           ],
-          "Param": [1.1, 1.2925, 2.585, 15, 60]
+          "Param": [
+            1.1, 1.2925, 2.585, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1645,7 +1702,10 @@
             "",
             ""
           ],
-          "Param": [1.166, 1.37005, 2.7401, 15, 60]
+          "Param": [
+            1.166, 1.37005, 2.7401, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1668,7 +1728,10 @@
             "",
             ""
           ],
-          "Param": [1.232, 1.4476, 2.8952, 15, 60]
+          "Param": [
+            1.232, 1.4476, 2.8952, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1691,7 +1754,10 @@
             "",
             ""
           ],
-          "Param": [1.32, 1.551, 3.102, 15, 60]
+          "Param": [
+            1.32, 1.551, 3.102, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1714,7 +1780,10 @@
             "",
             ""
           ],
-          "Param": [1.408, 1.6544, 3.3088, 15, 60]
+          "Param": [
+            1.408, 1.6544, 3.3088, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1737,7 +1806,10 @@
             "",
             ""
           ],
-          "Param": [1.496, 1.7578, 3.5156, 15, 60]
+          "Param": [
+            1.496, 1.7578, 3.5156, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1760,7 +1832,10 @@
             "",
             ""
           ],
-          "Param": [1.584, 1.8612, 3.7224, 15, 60]
+          "Param": [
+            1.584, 1.8612, 3.7224, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1783,7 +1858,10 @@
             "",
             ""
           ],
-          "Param": [1.672, 1.9646, 3.9292, 15, 60]
+          "Param": [
+            1.672, 1.9646, 3.9292, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1806,7 +1884,10 @@
             "",
             ""
           ],
-          "Param": [1.76, 2.068, 4.136, 15, 60]
+          "Param": [
+            1.76, 2.068, 4.136, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1829,7 +1910,10 @@
             "",
             ""
           ],
-          "Param": [1.87, 2.19725, 4.3945, 15, 60]
+          "Param": [
+            1.87, 2.19725, 4.3945, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1852,7 +1936,10 @@
             "",
             ""
           ],
-          "Param": [1.98, 2.3265, 4.653, 15, 60]
+          "Param": [
+            1.98, 2.3265, 4.653, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1875,7 +1962,10 @@
             "",
             ""
           ],
-          "Param": [2.09, 2.45575, 4.9115, 15, 60]
+          "Param": [
+            2.09, 2.45575, 4.9115, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         }
       }
     }
@@ -1886,28 +1976,35 @@
       "Desc": "When the Elemental Skill <color=#FFD780FF>Spirit Reins, Shadow Hunt</color>'s <color=#FFD780FF>Multitarget Fire</color> is being charged, if there are party members who meet the Elemental Conversion Type requirements, gain the following effects based on the number of different eligible Elemental Types present:\\n·There is a 33.3%/66.7%/100% chance for each Type to trigger \"Spiritbinding Conversion\" and cause the 3rd <color=#FFD780FF>Shadowhunt Shell</color> loaded into the cylinder to be randomly converted into a <color=#FFD780FF>Shining Shadowhunt Shell</color> from one of the corresponding Elemental Types.\\n·Each Elemental Type will grant Chasca 1 stack of Spirit of the Radiant Shadow, increasing the DMG of Shining Shadowhunt Shell by 15%/35%/65%. This effect lasts until the current Multitarget Fire ends. Max 3 stacks.",
       "Icon": "UI_Talent_S_Chasca_05",
       "Unlock": 1,
-      "ParamList": [0.333, 0.667, 1, 0.15, 0.35, 0.65]
+      "ParamList": [
+        0.333, 0.667, 1, 0.15, 0.35, 0.65, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+        0, 0
+      ]
     },
     {
       "Name": "Intent to Cover",
       "Desc": "When a nearby party member triggers a Nightsoul Burst, Chasca will fire a \"Burning Shadowhunt Shot\" at a nearby opponent, dealing Nightsoul-aligned <color=#80FFD7FF>Anemo DMG</color> equal to 150% of the <color=#FFD780FF>Shadowhunt Shell</color> DMG from her Elemental Skill <color=#FFD780FF>Spirit Reins, Shadow Hunt</color>. If the party has <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#99FFFFFF>Cryo</color>, or <color=#FFACFFFF>Electro</color> characters, the Burning Shadowhunt Shot will be converted to deal Nightsoul-aligned Elemental DMG of the corresponding Elemental Type equal to 150% of the DMG dealt by <color=#FFD780FF>Spirit Reins, Shadow Hunt</color>'s <color=#FFD780FF>Shining Shadowhunt Shells</color>.\\nThe DMG done in this way is considered Charged Attack DMG.",
       "Icon": "UI_Talent_S_Chasca_06",
       "Unlock": 4,
-      "ParamList": [1.5]
+      "ParamList": [
+        1.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Night Realm's Gift: Everburning Heart",
       "Desc": "After her Nightsoul points are exhausted, Chasca will switch to consuming Phlogiston to maintain her Nightsoul's Blessing.\\nWhile in an area with Phlogiston Mechanics within Natlan, she can use Nightsoul Transmission: Chasca. When the active character is in the air, the following will occur when switching to Chasca: Chasca will enter the Nightsoul's Blessing state and gain 32 Nightsoul points. Nightsoul Transmission can be triggered once every 10s by your own team.",
       "Icon": "UI_Talent_S_Chasca_07",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Mediation's True Meaning",
       "Desc": "25 Phlogiston will be restored when your own party members defeat an opponent. This effect can trigger once every 12s.\\nThis has no effect in Domains, Trounce Domains, or the Spiral Abyss.",
       "Icon": "UI_Talent_S_Chasca_08",
       "Unlock": 0,
-      "ParamList": [25, 12]
+      "ParamList": [
+        25, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     }
   ],
   "Constellations": [
@@ -1915,37 +2012,37 @@
       "Name": "Cylinder, the Restless Roulette",
       "Desc": "When triggering the Passive Talent \"Bullet Trick\"'s \"Spiritbinding Conversion,\" the 2nd <color=#FFD780FF>Shadowhunt Shell</color> loaded into the cylinder will be additionally converted into a <color=#FFD780FF>Shining Shadowhunt Shell</color>.\\nThe chance to trigger \"Spiritbinding Conversion\" is increased: If there are party members who meet the Elemental Conversion Type requirements, the chance to trigger \"Spiritbinding Conversion\" is increased by 33.3%, up to a maximum of 100%.\\n\\nYou must first unlock the Passive Talent \"Bullet Trick.\"\\nIn addition, Chasca's Nightsoul point and Phlogiston consumption in her Nightsoul's Blessing state is decreased by 30% while out of combat.",
       "Icon": "UI_Talent_S_Chasca_01",
-      "ParamList": [0.333, -0.3]
+      "ParamList": [0.333, -0.3, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Muzzle, the Searing Smoke",
       "Desc": "When Chasca takes the field, she will obtain 1 stack of \"Spirit of the Radiant Shadow\" from the Passive Talent \"Bullet Trick.\" You must first unlock the Passive Talent \"Bullet Trick\" for this effect.\\nIn addition, when the <color=#FFD780FF>Shining Shadowhunt Shells</color> from <color=#FFD780FF>Spirit Reins, Shadow Hunt</color>'s <color=#FFD780FF>Multitarget Fire</color> hit opponents, they will deal AoE Elemental DMG of the corresponding Elemental Type of the <color=#FFD780FF>Shining Shadowhunt Shells</color> equal to 400% of Chasca's ATK. This DMG is considered Charged Attack DMG. This effect can be triggered once each time Chasca uses <color=#FFD780FF>Multitarget Fire</color>.",
       "Icon": "UI_Talent_S_Chasca_02",
-      "ParamList": [4]
+      "ParamList": [4, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Reins, Her Careful Control",
       "Desc": "Increases the Level of <color=#FFD780FF>Spirit Reins, Shadow Hunt</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Chasca_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Sparks, the Sudden Shot",
       "Desc": "When the <color=#FFD780FF>Radiant Soulseeker Shells</color> from <color=#FFD780FF>Soul Reaper's Fatal Round</color> hit opponents, they will restore 1.5 Elemental Energy to Chasca, and deal AoE Elemental DMG of the corresponding Elemental Type of the <color=#FFD780FF>Radiant Soulseeker Shells</color> equal to 400% of Chasca's ATK. This DMG is considered Charged Attack DMG.\\nThe aforementioned corresponding elemental AoE DMG effect can be triggered once each time Chasca uses <color=#FFD780FF>Soul Reaper's Fatal Round</color>.",
       "Icon": "UI_Talent_S_Chasca_03",
-      "ParamList": [1.5, 1]
+      "ParamList": [1.5, 1, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Brim, the Sandshadow's Silhouette",
       "Desc": "Increases the Level of <color=#FFD780FF>Soul Reaper's Fatal Round</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Chasca_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Showdown, the Glory of Battle",
       "Desc": "Chasca's <color=#FFD780FF>Multitarget Fire</color> charge time is decreased, and after the Passive Talent \"Bullet Trick\"'s \"Spiritbinding Conversion\" is triggered, Chasca will gain the \"Fatal Rounds\" state: For the next 3s, the next time Chasca uses <color=#FFD780FF>Spirit Reins, Shadow Hunt</color>'s <color=#FFD780FF>Multitarget Fire</color>, the shots will finish charging instantly, and the CRIT DMG of that instance of <color=#FFD780FF>Multitarget Fire</color>'s <color=#FFD780FF>Shadowhunt Shells</color> and <color=#FFD780FF>Shining Shadowhunt Shells</color> increases by 120%. 1 \"Fatal Rounds\" effect can be gained once every 3s.\\n\\nYou must first unlock the Passive Talent \"Bullet Trick\" to gain access to the above effect.",
       "Icon": "UI_Talent_S_Chasca_04",
-      "ParamList": [3, 1.2]
+      "ParamList": [3, 1.2, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -1962,7 +2059,7 @@
             "Name": "Withering Purpurbloom",
             "Id": 101253,
             "Count": 3,
-            "Rank": 1
+            "Rank": 0
           },
           { "Name": "Juvenile Fang", "Id": 112101, "Count": 3, "Rank": 1 }
         ],
@@ -1981,7 +2078,7 @@
             "Name": "Withering Purpurbloom",
             "Id": 101253,
             "Count": 10,
-            "Rank": 1
+            "Rank": 0
           },
           { "Name": "Juvenile Fang", "Id": 112101, "Count": 15, "Rank": 1 }
         ],
@@ -2000,7 +2097,7 @@
             "Name": "Withering Purpurbloom",
             "Id": 101253,
             "Count": 20,
-            "Rank": 1
+            "Rank": 0
           },
           { "Name": "Seasoned Fang", "Id": 112102, "Count": 12, "Rank": 2 }
         ],
@@ -2019,7 +2116,7 @@
             "Name": "Withering Purpurbloom",
             "Id": 101253,
             "Count": 30,
-            "Rank": 1
+            "Rank": 0
           },
           { "Name": "Seasoned Fang", "Id": 112102, "Count": 18, "Rank": 2 }
         ],
@@ -2038,7 +2135,7 @@
             "Name": "Withering Purpurbloom",
             "Id": 101253,
             "Count": 45,
-            "Rank": 1
+            "Rank": 0
           },
           { "Name": "Tyrant's Fang", "Id": 112103, "Count": 12, "Rank": 3 }
         ],
@@ -2057,7 +2154,7 @@
             "Name": "Withering Purpurbloom",
             "Id": 101253,
             "Count": 60,
-            "Rank": 1
+            "Rank": 0
           },
           { "Name": "Tyrant's Fang", "Id": 112103, "Count": 24, "Rank": 3 }
         ],

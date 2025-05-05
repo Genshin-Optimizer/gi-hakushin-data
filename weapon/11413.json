@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_201",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 42.401
+      "initValue": 42.401,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
-      "initValue": 0.1
+      "initValue": 0.1,
+      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Undying Admiration",
       "Desc": "Increases Elemental Skill DMG by <color=#99FFFFFF>16%</color> and Elemental Skill CRIT Rate by <color=#99FFFFFF>6%</color>.",
-      "ParamList": [0.16, 0.06]
+      "ParamList": [0.16, 0.06, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Undying Admiration",
       "Desc": "Increases Elemental Skill DMG by <color=#99FFFFFF>20%</color> and Elemental Skill CRIT Rate by <color=#99FFFFFF>7.5%</color>.",
-      "ParamList": [0.2, 0.075]
+      "ParamList": [0.2, 0.075, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Undying Admiration",
       "Desc": "Increases Elemental Skill DMG by <color=#99FFFFFF>24%</color> and Elemental Skill CRIT Rate by <color=#99FFFFFF>9%</color>.",
-      "ParamList": [0.24, 0.09]
+      "ParamList": [0.24, 0.09, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Undying Admiration",
       "Desc": "Increases Elemental Skill DMG by <color=#99FFFFFF>28%</color> and Elemental Skill CRIT Rate by <color=#99FFFFFF>10.5%</color>.",
-      "ParamList": [0.28, 0.105]
+      "ParamList": [0.28, 0.105, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Undying Admiration",
       "Desc": "Increases Elemental Skill DMG by <color=#99FFFFFF>32%</color> and Elemental Skill CRIT Rate by <color=#99FFFFFF>12%</color>.",
-      "ParamList": [0.32, 0.12]
+      "ParamList": [0.32, 0.12, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_202",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 43.7349
+      "initValue": 43.7349,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
-      "initValue": 0.075067
+      "initValue": 0.075067,
+      "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Frost Burial",
       "Desc": "Hitting an opponent with Normal and Charged Attacks has a <color=#99FFFFFF>60%</color> chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to <color=#99FFFFFF>80%</color> of ATK. Opponents affected by Cryo are instead dealt DMG equal to <color=#99FFFFFF>200%</color> of ATK. Can only occur once every 10s.",
-      "ParamList": [0.6, 0.8, 2, 10]
+      "ParamList": [0.6, 0.8, 2, 10, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Frost Burial",
       "Desc": "Hitting an opponent with Normal and Charged Attacks has a <color=#99FFFFFF>70%</color> chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to <color=#99FFFFFF>95%</color> of ATK. Opponents affected by Cryo are instead dealt DMG equal to <color=#99FFFFFF>240%</color> of ATK. Can only occur once every 10s.",
-      "ParamList": [0.7, 0.95, 2.4, 10]
+      "ParamList": [0.7, 0.95, 2.4, 10, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Frost Burial",
       "Desc": "Hitting an opponent with Normal and Charged Attacks has an <color=#99FFFFFF>80%</color> chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to <color=#99FFFFFF>110%</color> of ATK. Opponents affected by Cryo are instead dealt DMG equal to <color=#99FFFFFF>280%</color> of ATK. Can only occur once every 10s.",
-      "ParamList": [0.8, 1.1, 2.8, 10]
+      "ParamList": [0.8, 1.1, 2.8, 10, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Frost Burial",
       "Desc": "Hitting an opponent with Normal and Charged Attacks has a <color=#99FFFFFF>90%</color> chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to <color=#99FFFFFF>125%</color> of ATK. Opponents affected by Cryo are instead dealt DMG equal to <color=#99FFFFFF>320%</color> of ATK. Can only occur once every 10s.",
-      "ParamList": [0.9, 1.25, 3.2, 10]
+      "ParamList": [0.9, 1.25, 3.2, 10, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Frost Burial",
       "Desc": "Hitting an opponent with Normal and Charged Attacks has a <color=#99FFFFFF>100%</color> chance of forming and dropping an Everfrost Icicle above them, dealing AoE DMG equal to <color=#99FFFFFF>140%</color> of ATK. Opponents affected by Cryo are instead dealt DMG equal to <color=#99FFFFFF>360%</color> of ATK. Can only occur once every 10s.",
-      "ParamList": [1, 1.4, 3.6, 10]
+      "ParamList": [1, 1.4, 3.6, 10, 0, 0, 0, 0]
     }
   },
   "Materials": {

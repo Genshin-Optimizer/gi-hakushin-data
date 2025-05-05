@@ -247,7 +247,7 @@
     "desc": "This ancient double-edged sword glimmers with moonlight. It is said that a now-silent Jinni dwells within it.",
     "KR": "크시포스의 달빛",
     "CHS": "西福斯的月光",
-    "JP": "サイフォスの月明かり"
+    "JP": "サイフォス��月明かり"
   },
   "11422": {
     "icon": "UI_EquipIcon_Sword_Kasabouzu",
@@ -366,7 +366,7 @@
     "EN": "Freedom-Sworn",
     "desc": "A straight sword, azure as antediluvian song, and as keen as the oaths of freedom taken in the Land of Wind.",
     "KR": "오래된 자유의 서약",
-    "CHS": "苍古自由之誓",
+    "CHS": "苍古���由之誓",
     "JP": "蒼古なる自由への誓い"
   },
   "11504": {
@@ -475,7 +475,7 @@
     "type": "WEAPON_CLAYMORE",
     "EN": "Waster Greatsword",
     "desc": "A sturdy sheet of iron that may be powerful enough to break apart mountains if wielded with enough willpower.",
-    "KR": "훈련용 대���",
+    "KR": "훈련용 대검",
     "CHS": "训练大剑",
     "JP": "訓練用大剣"
   },
@@ -1146,7 +1146,7 @@
     "EN": "Vortex Vanquisher",
     "desc": "This sharp polearm can seemingly pierce through anything. When swung, one can almost see the rift it tears in the air.",
     "KR": "관홍의 창",
-    "CHS": "贯虹之���",
+    "CHS": "贯虹之槊",
     "JP": "破天の槍"
   },
   "13505": {
@@ -1208,6 +1208,16 @@
     "KR": "등방울꽃의 애가",
     "CHS": "柔灯挽歌",
     "JP": "ルミドゥースの挽歌"
+  },
+  "13514": {
+    "icon": "UI_EquipIcon_Pole_Trident",
+    "rank": 5,
+    "type": "WEAPON_POLE",
+    "EN": "Symphonist of Scents",
+    "desc": "An elegantly built polearm, said to have been a conductor's baton wielded by a great musician to bridge tune and taste.",
+    "KR": "맛의 지휘자",
+    "CHS": "香韵奏者",
+    "JP": "香りのシンフォニスト"
   },
   "14101": {
     "icon": "UI_EquipIcon_Catalyst_Apprentice",
@@ -1536,7 +1546,7 @@
     "EN": "Jadefall's Splendor",
     "desc": "A ritual vessel carved from jade that reflects the luster of the skies and the clear waters.",
     "KR": "벽락의 옥",
-    "CHS": "碧落之��",
+    "CHS": "碧落之珑",
     "JP": "碧落の瓏"
   },
   "14506": {
@@ -1615,8 +1625,8 @@
     "type": "WEAPON_CATALYST",
     "EN": "Surf's Up",
     "desc": "A commemorative item originally reserved for the champion of the \"First All-Tribe Surfing Championship.\" Since said tournament is currently in the preparatory stage, the prize is in temporary storage at the Leisurely Puffer, with the shop owner as its custodian.",
-    "KR": "서핑 타���",
-    "CHS": "冲浪时光",
+    "KR": "서핑 타임",
+    "CHS": "冲浪时��",
     "JP": "サーフィンタイム"
   },
   "14517": {
@@ -1756,7 +1766,7 @@
     "EN": "Royal Bow",
     "desc": "An old longbow that belonged to the erstwhile aristocratic rulers of Mondstadt. Countless generations later, the bowstring is still tight and can still fire arrows with great force.",
     "KR": "왕실의 장궁",
-    "CHS": "���室长弓",
+    "CHS": "宗室长弓",
     "JP": "旧貴族長弓"
   },
   "15405": {
@@ -1968,6 +1978,16 @@
     "KR": "사슬 파괴자",
     "CHS": "碎链",
     "JP": "チェーンブレイカー"
+  },
+  "15432": {
+    "icon": "UI_EquipIcon_Bow_Stinger",
+    "rank": 4,
+    "type": "WEAPON_BOW",
+    "EN": "Sequence of Solitude",
+    "desc": "A mechanical longbow purpose-built for long shots and silent kills. Its twang is swallowed up amidst the night, the note lengthy and cold.",
+    "KR": "침묵의 사격",
+    "CHS": "冷寂迸音",
+    "JP": "冷寂の音"
   },
   "15501": {
     "icon": "UI_EquipIcon_Bow_Dvalin",

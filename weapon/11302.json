@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_101",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 38.7413
+      "initValue": 38.7413,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_101",
-      "propType": "FIGHT_PROP_CRITICAL_HURT",
-      "initValue": 0.102
+      "initValue": 0.102,
+      "propType": "FIGHT_PROP_CRITICAL_HURT"
     }
   ],
   "Rarity": 3,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Vigorous",
       "Desc": "When HP is above 90%, increases CRIT Rate by <color=#99FFFFFF>14%</color>.",
-      "ParamList": [0.14]
+      "ParamList": [0.14, 0, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Vigorous",
       "Desc": "When HP is above 90%, increases CRIT Rate by <color=#99FFFFFF>17.5%</color>.",
-      "ParamList": [0.175]
+      "ParamList": [0.175, 0, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Vigorous",
       "Desc": "When HP is above 90%, increases CRIT Rate by <color=#99FFFFFF>21%</color>.",
-      "ParamList": [0.21]
+      "ParamList": [0.21, 0, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Vigorous",
       "Desc": "When HP is above 90%, increases CRIT Rate by <color=#99FFFFFF>24.5%</color>.",
-      "ParamList": [0.245]
+      "ParamList": [0.245, 0, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Vigorous",
       "Desc": "When HP is above 90%, increases CRIT Rate by <color=#99FFFFFF>28%</color>.",
-      "ParamList": [0.28]
+      "ParamList": [0.28, 0, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

@@ -416,7 +416,7 @@
         "Name": "Batwing Iris",
         "Desc": "Ororon's outfit. Those with foresight should know how to conceal themselves. Thus, cape and cowl are his greatest weapons.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -795,7 +795,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Spiritvessel Snapshot",
+      "Name": "Spiritvessel Snapshot",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 3 consecutive shots with a bow.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nPerforms a more precise <color=#FFD780FF>Aimed Shot</color> with increased DMG.\\nWhile aiming, Electro energy will accumulate on the arrowhead. A fully charged arrow will deal <color=#FFACFFFF>Electro DMG</color>.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
       "Promote": {
         "0": {
@@ -821,7 +821,7 @@
           ],
           "Param": [
             0.50642, 0.443734, 0.698208, 0.4386, 1.24, 0.568288, 1.136335,
-            1.419344
+            1.419344, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -847,7 +847,7 @@
           ],
           "Param": [
             0.54764, 0.479852, 0.755039, 0.4743, 1.333, 0.614544, 1.228828,
-            1.534872
+            1.534872, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -872,7 +872,8 @@
             ""
           ],
           "Param": [
-            0.58886, 0.51597, 0.81187, 0.51, 1.426, 0.6608, 1.32132, 1.6504
+            0.58886, 0.51597, 0.81187, 0.51, 1.426, 0.6608, 1.32132, 1.6504, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -898,7 +899,7 @@
           ],
           "Param": [
             0.647746, 0.567567, 0.893057, 0.561, 1.55, 0.72688, 1.453452,
-            1.81544
+            1.81544, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -924,7 +925,7 @@
           ],
           "Param": [
             0.688966, 0.603685, 0.949888, 0.5967, 1.643, 0.773136, 1.545944,
-            1.930968
+            1.930968, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -949,7 +950,8 @@
             ""
           ],
           "Param": [
-            0.736075, 0.644963, 1.014838, 0.6375, 1.736, 0.826, 1.65165, 2.063
+            0.736075, 0.644963, 1.014838, 0.6375, 1.736, 0.826, 1.65165, 2.063,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -975,7 +977,7 @@
           ],
           "Param": [
             0.80085, 0.701719, 1.104143, 0.6936, 1.86, 0.898688, 1.796995,
-            2.244544
+            2.244544, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1001,7 +1003,7 @@
           ],
           "Param": [
             0.865624, 0.758476, 1.193449, 0.7497, 1.984, 0.971376, 1.94234,
-            2.426088
+            2.426088, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1027,7 +1029,7 @@
           ],
           "Param": [
             0.930399, 0.815233, 1.282755, 0.8058, 2.108, 1.044064, 2.087686,
-            2.607632
+            2.607632, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1053,7 +1055,7 @@
           ],
           "Param": [
             1.001062, 0.877149, 1.380179, 0.867, 2.232, 1.12336, 2.246244,
-            2.80568
+            2.80568, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1079,7 +1081,7 @@
           ],
           "Param": [
             1.071725, 0.939065, 1.477603, 0.9282, 2.356, 1.202656, 2.404802,
-            3.003728
+            3.003728, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1105,7 +1107,7 @@
           ],
           "Param": [
             1.142388, 1.000982, 1.575028, 0.9894, 2.48, 1.281952, 2.563361,
-            3.201776
+            3.201776, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1131,7 +1133,7 @@
           ],
           "Param": [
             1.213052, 1.062898, 1.672452, 1.0506, 2.635, 1.361248, 2.721919,
-            3.399824
+            3.399824, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1157,7 +1159,7 @@
           ],
           "Param": [
             1.283715, 1.124815, 1.769877, 1.1118, 2.79, 1.440544, 2.880478,
-            3.597872
+            3.597872, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1183,7 +1185,7 @@
           ],
           "Param": [
             1.354378, 1.186731, 1.867301, 1.173, 2.945, 1.51984, 3.039036,
-            3.79592
+            3.79592, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1213,7 +1215,9 @@
             "",
             ""
           ],
-          "Param": [1.976, 15]
+          "Param": [
+            1.976, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1236,7 +1240,9 @@
             "",
             ""
           ],
-          "Param": [2.1242, 15]
+          "Param": [
+            2.1242, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1259,7 +1265,9 @@
             "",
             ""
           ],
-          "Param": [2.2724, 15]
+          "Param": [
+            2.2724, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1282,7 +1290,9 @@
             "",
             ""
           ],
-          "Param": [2.47, 15]
+          "Param": [
+            2.47, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1305,7 +1315,9 @@
             "",
             ""
           ],
-          "Param": [2.6182, 15]
+          "Param": [
+            2.6182, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1328,7 +1340,9 @@
             "",
             ""
           ],
-          "Param": [2.7664, 15]
+          "Param": [
+            2.7664, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1351,7 +1365,9 @@
             "",
             ""
           ],
-          "Param": [2.964, 15]
+          "Param": [
+            2.964, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1374,7 +1390,9 @@
             "",
             ""
           ],
-          "Param": [3.1616, 15]
+          "Param": [
+            3.1616, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1397,7 +1415,9 @@
             "",
             ""
           ],
-          "Param": [3.3592, 15]
+          "Param": [
+            3.3592, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1420,7 +1440,9 @@
             "",
             ""
           ],
-          "Param": [3.5568, 15]
+          "Param": [
+            3.5568, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1443,7 +1465,9 @@
             "",
             ""
           ],
-          "Param": [3.7544, 15]
+          "Param": [
+            3.7544, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1466,7 +1490,9 @@
             "",
             ""
           ],
-          "Param": [3.952, 15]
+          "Param": [
+            3.952, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1489,7 +1515,9 @@
             "",
             ""
           ],
-          "Param": [4.199, 15]
+          "Param": [
+            4.199, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1512,7 +1540,9 @@
             "",
             ""
           ],
-          "Param": [4.446, 15]
+          "Param": [
+            4.446, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1535,7 +1565,9 @@
             "",
             ""
           ],
-          "Param": [4.693, 15]
+          "Param": [
+            4.693, 15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         }
       }
     },
@@ -1564,7 +1596,10 @@
             "",
             ""
           ],
-          "Param": [1.74384, 0.332, 9, 15, 60]
+          "Param": [
+            1.74384, 0.332, 9, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1587,7 +1622,10 @@
             "",
             ""
           ],
-          "Param": [1.874628, 0.3569, 9, 15, 60]
+          "Param": [
+            1.874628, 0.3569, 9, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1610,7 +1648,10 @@
             "",
             ""
           ],
-          "Param": [2.005416, 0.3818, 9, 15, 60]
+          "Param": [
+            2.005416, 0.3818, 9, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1633,7 +1674,10 @@
             "",
             ""
           ],
-          "Param": [2.1798, 0.415, 9, 15, 60]
+          "Param": [
+            2.1798, 0.415, 9, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1656,7 +1700,10 @@
             "",
             ""
           ],
-          "Param": [2.310588, 0.4399, 9, 15, 60]
+          "Param": [
+            2.310588, 0.4399, 9, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1679,7 +1726,10 @@
             "",
             ""
           ],
-          "Param": [2.441376, 0.4648, 9, 15, 60]
+          "Param": [
+            2.441376, 0.4648, 9, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1702,7 +1752,10 @@
             "",
             ""
           ],
-          "Param": [2.61576, 0.498, 9, 15, 60]
+          "Param": [
+            2.61576, 0.498, 9, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1725,7 +1778,10 @@
             "",
             ""
           ],
-          "Param": [2.790144, 0.5312, 9, 15, 60]
+          "Param": [
+            2.790144, 0.5312, 9, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1748,7 +1804,10 @@
             "",
             ""
           ],
-          "Param": [2.964528, 0.5644, 9, 15, 60]
+          "Param": [
+            2.964528, 0.5644, 9, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1771,7 +1830,10 @@
             "",
             ""
           ],
-          "Param": [3.138912, 0.5976, 9, 15, 60]
+          "Param": [
+            3.138912, 0.5976, 9, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1794,7 +1856,10 @@
             "",
             ""
           ],
-          "Param": [3.313296, 0.6308, 9, 15, 60]
+          "Param": [
+            3.313296, 0.6308, 9, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1817,7 +1882,10 @@
             "",
             ""
           ],
-          "Param": [3.48768, 0.664, 9, 15, 60]
+          "Param": [
+            3.48768, 0.664, 9, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1840,7 +1908,10 @@
             "",
             ""
           ],
-          "Param": [3.70566, 0.7055, 9, 15, 60]
+          "Param": [
+            3.70566, 0.7055, 9, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1863,7 +1934,10 @@
             "",
             ""
           ],
-          "Param": [3.92364, 0.747, 9, 15, 60]
+          "Param": [
+            3.92364, 0.747, 9, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1886,7 +1960,10 @@
             "",
             ""
           ],
-          "Param": [4.14162, 0.7885, 9, 15, 60]
+          "Param": [
+            4.14162, 0.7885, 9, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         }
       }
     }
@@ -1897,28 +1974,30 @@
       "Desc": "After a nearby party member triggers Nightsoul Burst, Ororon will gain 40 Nightsoul points. Within 15s after using his Elemental Skill, when other party members' <color=#80C0FFFF>Hydro</color> or <color=#FFACFFFF>Electro</color> attacks hit opponents, Ororon will gain 5 Nightsoul points, an effect that can occur every 0.3s for a maximum of 10 times during this 15s duration.\\nOroron can have a maximum of 80 Nightsoul points.\\n\\nAlso, when nearby opponents take <color=#FFACFFFF>Electro-Charged</color> reaction DMG or Nightsoul-aligned DMG dealt by other nearby characters, Ororon will consume 10 Nightsoul points (provided he has at least that amount), entering the Nightsoul's Blessing state and triggering the Hypersense effect: Deal Nightsoul-aligned <color=#FFACFFFF>Electro DMG</color> based on 160% of Ororon's ATK to at most 4 nearby opponents. The aforementioned effect can trigger once every 1.8s.\\n\\n<color=#FFD780FF>Nightsoul's Blessing: Ororon</color>\\nOroron's Nightsoul's Blessing state lasts 6s.",
       "Icon": "UI_Talent_S_Olorun_05",
       "Unlock": 1,
-      "ParamList": [40, 1.6, 10, 6]
+      "ParamList": [
+        40, 1.6, 10, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Aspect Catalyst",
       "Desc": "After the Elemental Skill <color=#FFD780FF>Night's Sling</color>'s <color=#FFD780FF>Spirit Orb</color> hits an opponent, Ororon will gain the Aspect Sigil effect for 15s.\\n\\n<color=#FFD780FF>Aspect Sigil</color>\\nWhen a nearby active party member hits an opponent with Normal, Charged, or Plunging Attacks, that character will restore 3 Energy. If Ororon is off-field, Ororon will also restore 3 Energy. This effect can trigger once every 1s, and can trigger 3 times per duration.",
       "Icon": "UI_Talent_S_Olorun_06",
       "Unlock": 4,
-      "ParamList": [15, 3, 3, 1, 3]
+      "ParamList": [15, 3, 3, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Night Realm's Gift: Flowing Fog, Spritely Shadows",
       "Desc": "While in an area with Phlogiston Mechanics within Natlan, he can use Nightsoul Transmission: Ororon. When the active character is currently in the air, the following will trigger when switching to Ororon: Ororon will leap up high. Nightsoul Transmission can be triggered once every 10s by your party.\\n\\nHolding Aiming Mode will cause Ororon to enter the \"Spiritspeaker\" state, which will allow him to interact with \"Nightspirit Graffiti\" and \"Nightspirit Sigils,\" extracting information and power from them. The rules for interacting with these objects follow the same rules as those governing Iktomisaurus interactions.\\n\\nAdditionally, holding the jump button will cause Ororon to consume 75 Stamina and leap. In areas within Natlan where Phlogiston mechanics are present, Ororon will prioritize consuming 5 Phlogiston to leap to a height higher still.\\nWhen in the air, Ororon can Hold his Normal Attack to consume Phlogiston or Stamina and enter Aiming Mode.",
       "Icon": "UI_Talent_S_Olorun_07",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "The Art of Skinchanging",
       "Desc": "Increases gliding SPD for your own party members by 15%.\\nNot stackable with Passive Talents that provide the exact same effects.",
       "Icon": "UI_Talent_S_Olorun_08",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Constellations": [
@@ -1926,37 +2005,37 @@
       "Name": "Trails Amidst the Forest Fog",
       "Desc": "The Elemental Skill <color=#FFD780FF>Night's Sling</color>'s <color=#FFD780FF>Spirit Orb</color> can bounce 2 additional times.\\nAdditionally, after the <color=#FFD780FF>Spirit Orb</color> hits an opponent, it will apply the Nighttide effect to them for 12s. Opponents affected by Nighttide take 50% increased DMG from Hypersense triggered by the Passive Talent, \"Nightshade Synesthesia.\" Unlock the aforementioned Passive Talent to trigger this effect.",
       "Icon": "UI_Talent_S_Olorun_01",
-      "ParamList": [0.5, 12]
+      "ParamList": [0.5, 12, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "King Bee of the Hidden Honeyed Wine",
       "Desc": "After using his Elemental Burst, <color=#FFD780FF>Dark Voices Echo</color>, Ororon will obtain the Spiritual Supersense effect for 9s.\\n\\n<color=#FFD780FF>Spiritual Supersense</color>\\nGain 8% <color=#FFACFFFF>Electro DMG Bonus</color>.\\nAdditionally, during this time, every additional opponent hit by the Elemental Burst <color=#FFD780FF>Dark Voices Echo</color> or <color=#FFD780FF>Supersonic Oculus</color> will grant Ororon a further 8% <color=#FFACFFFF>Electro DMG Bonus</color>. The maximum that can be gained this way is 32% <color=#FFACFFFF>Electro DMG Bonus</color>.",
       "Icon": "UI_Talent_S_Olorun_02",
-      "ParamList": [0.08, 0.16, 0.24, 0.32, 0.4, 9]
+      "ParamList": [0.08, 0.16, 0.24, 0.32, 0.4, 9, 0, 0]
     },
     {
       "Name": "Roosting Bat's Spiritcage",
       "Desc": "Increases the Level of <color=#FFD780FF>Dark Voices Echo</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Olorun_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "As the Mysteries of the Night Wind",
       "Desc": "The <color=#FFD780FF>Supersonic Oculus</color> summoned by the Elemental Burst <color=#FFD780FF>Dark Voices Echo</color> rotates 25% faster.\\nAdditionally, Ororon will restore 8 Energy to himself after using <color=#FFD780FF>Dark Voices Echo</color>.",
       "Icon": "UI_Talent_S_Olorun_03",
-      "ParamList": [8]
+      "ParamList": [8, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "A Gift For the Soul",
       "Desc": "Increases the Level of <color=#FFD780FF>Night's Sling</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Olorun_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Ode to Deep Springs",
       "Desc": "After triggering Hypersense through the Passive Talent, Nightshade Synesthesia, your current active character's ATK is increased by 10% for 9s. Max 3 stacks, each stack is counted independently.\\nAdditionally, when you use the Elemental Burst <color=#FFD780FF>Dark Voices Echo</color>, you will trigger one instance of an effect equivalent to Hypersense, dealing 200% of its original DMG.\\nYou must unlock the Passive Talent \"Nightshade Synesthesia\" first.",
       "Icon": "UI_Talent_S_Olorun_04",
-      "ParamList": [0.1, 9, 3, 2]
+      "ParamList": [0.1, 9, 3, 2, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -1969,7 +2048,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Glowing Hornshroom", "Id": 101252, "Count": 3, "Rank": 1 },
+          { "Name": "Glowing Hornshroom", "Id": 101252, "Count": 3, "Rank": 0 },
           { "Name": "Juvenile Fang", "Id": 112101, "Count": 3, "Rank": 1 }
         ],
         "Cost": 20000
@@ -1992,7 +2071,7 @@
             "Name": "Glowing Hornshroom",
             "Id": 101252,
             "Count": 10,
-            "Rank": 1
+            "Rank": 0
           },
           { "Name": "Juvenile Fang", "Id": 112101, "Count": 15, "Rank": 1 }
         ],
@@ -2016,7 +2095,7 @@
             "Name": "Glowing Hornshroom",
             "Id": 101252,
             "Count": 20,
-            "Rank": 1
+            "Rank": 0
           },
           { "Name": "Seasoned Fang", "Id": 112102, "Count": 12, "Rank": 2 }
         ],
@@ -2040,7 +2119,7 @@
             "Name": "Glowing Hornshroom",
             "Id": 101252,
             "Count": 30,
-            "Rank": 1
+            "Rank": 0
           },
           { "Name": "Seasoned Fang", "Id": 112102, "Count": 18, "Rank": 2 }
         ],
@@ -2064,7 +2143,7 @@
             "Name": "Glowing Hornshroom",
             "Id": 101252,
             "Count": 45,
-            "Rank": 1
+            "Rank": 0
           },
           { "Name": "Tyrant's Fang", "Id": 112103, "Count": 12, "Rank": 3 }
         ],
@@ -2088,7 +2167,7 @@
             "Name": "Glowing Hornshroom",
             "Id": 101252,
             "Count": 60,
-            "Rank": 1
+            "Rank": 0
           },
           { "Name": "Tyrant's Fang", "Id": 112103, "Count": 24, "Rank": 3 }
         ],

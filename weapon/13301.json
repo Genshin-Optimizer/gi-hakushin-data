@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_101",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 38.7413
+      "initValue": 38.7413,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_101",
-      "propType": "FIGHT_PROP_CRITICAL",
-      "initValue": 0.051
+      "initValue": 0.051,
+      "propType": "FIGHT_PROP_CRITICAL"
     }
   ],
   "Rarity": 3,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Sharp",
       "Desc": "Increases Normal Attack DMG by <color=#99FFFFFF>24%</color>.",
-      "ParamList": [0.24]
+      "ParamList": [0.24, 0, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Sharp",
       "Desc": "Increases Normal Attack DMG by <color=#99FFFFFF>30%</color>.",
-      "ParamList": [0.3]
+      "ParamList": [0.3, 0, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Sharp",
       "Desc": "Increases Normal Attack DMG by <color=#99FFFFFF>36%</color>.",
-      "ParamList": [0.36]
+      "ParamList": [0.36, 0, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Sharp",
       "Desc": "Increases Normal Attack DMG by <color=#99FFFFFF>42%</color>.",
-      "ParamList": [0.42]
+      "ParamList": [0.42, 0, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Sharp",
       "Desc": "Increases Normal Attack DMG by <color=#99FFFFFF>48%</color>.",
-      "ParamList": [0.48]
+      "ParamList": [0.48, 0, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

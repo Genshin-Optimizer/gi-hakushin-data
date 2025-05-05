@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_304",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 44.3358
+      "initValue": 44.3358,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_301",
-      "propType": "FIGHT_PROP_CRITICAL",
-      "initValue": 0.096
+      "initValue": 0.096,
+      "propType": "FIGHT_PROP_CRITICAL"
     }
   ],
   "Rarity": 5,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "At the End of the Beast-Paths",
       "Desc": "Gain <color=#99FFFFFF>12%</color> All Elemental DMG Bonus. Obtain the Tireless Hunt effect after hitting an opponent with a Charged Attack. This effect increases Charged Attack DMG by <color=#99FFFFFF>160%</color> of Elemental Mastery. This effect will be removed after 12 Charged Attacks or 10s. Only 1 instance of Tireless Hunt can be gained every 12s.",
-      "ParamList": [0.12, 1.6, 12, 10, 12]
+      "ParamList": [0.12, 1.6, 12, 10, 12, 0, 0, 0]
     },
     "2": {
       "Name": "At the End of the Beast-Paths",
       "Desc": "Gain <color=#99FFFFFF>15%</color> All Elemental DMG Bonus. Obtain the Tireless Hunt effect after hitting an opponent with a Charged Attack. This effect increases Charged Attack DMG by <color=#99FFFFFF>200%</color> of Elemental Mastery. This effect will be removed after 12 Charged Attacks or 10s. Only 1 instance of Tireless Hunt can be gained every 12s.",
-      "ParamList": [0.15, 2, 12, 10, 12]
+      "ParamList": [0.15, 2, 12, 10, 12, 0, 0, 0]
     },
     "3": {
       "Name": "At the End of the Beast-Paths",
       "Desc": "Gain <color=#99FFFFFF>18%</color> All Elemental DMG Bonus. Obtain the Tireless Hunt effect after hitting an opponent with a Charged Attack. This effect increases Charged Attack DMG by <color=#99FFFFFF>240%</color> of Elemental Mastery. This effect will be removed after 12 Charged Attacks or 10s. Only 1 instance of Tireless Hunt can be gained every 12s.",
-      "ParamList": [0.18, 2.4, 12, 10, 12]
+      "ParamList": [0.18, 2.4, 12, 10, 12, 0, 0, 0]
     },
     "4": {
       "Name": "At the End of the Beast-Paths",
       "Desc": "Gain <color=#99FFFFFF>21%</color> All Elemental DMG Bonus. Obtain the Tireless Hunt effect after hitting an opponent with a Charged Attack. This effect increases Charged Attack DMG by <color=#99FFFFFF>280%</color> of Elemental Mastery. This effect will be removed after 12 Charged Attacks or 10s. Only 1 instance of Tireless Hunt can be gained every 12s.",
-      "ParamList": [0.21, 2.8, 12, 10, 12]
+      "ParamList": [0.21, 2.8, 12, 10, 12, 0, 0, 0]
     },
     "5": {
       "Name": "At the End of the Beast-Paths",
       "Desc": "Gain <color=#99FFFFFF>24%</color> All Elemental DMG Bonus. Obtain the Tireless Hunt effect after hitting an opponent with a Charged Attack. This effect increases Charged Attack DMG by <color=#99FFFFFF>320%</color> of Elemental Mastery. This effect will be removed after 12 Charged Attacks or 10s. Only 1 instance of Tireless Hunt can be gained every 12s.",
-      "ParamList": [0.24, 3.2, 12, 10, 12]
+      "ParamList": [0.24, 3.2, 12, 10, 12, 0, 0, 0]
     }
   },
   "Materials": {

@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_202",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 43.7349
+      "initValue": 43.7349,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
-      "initValue": 0.066667
+      "initValue": 0.066667,
+      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Forest Sanctuary",
       "Desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character <color=#99FFFFFF>60</color> Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack.",
-      "ParamList": [60, 12, 20, 10]
+      "ParamList": [60, 12, 20, 10, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Forest Sanctuary",
       "Desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character <color=#99FFFFFF>75</color> Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack.",
-      "ParamList": [75, 12, 20, 10]
+      "ParamList": [75, 12, 20, 10, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Forest Sanctuary",
       "Desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character <color=#99FFFFFF>90</color> Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack.",
-      "ParamList": [90, 12, 20, 10]
+      "ParamList": [90, 12, 20, 10, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Forest Sanctuary",
       "Desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character <color=#99FFFFFF>105</color> Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack.",
-      "ParamList": [105, 12, 20, 10]
+      "ParamList": [105, 12, 20, 10, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Forest Sanctuary",
       "Desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Consciousness will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character <color=#99FFFFFF>120</color> Elemental Mastery for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field. The Leaf of Consciousness' effect cannot stack.",
-      "ParamList": [120, 12, 20, 10]
+      "ParamList": [120, 12, 20, 10, 0, 0, 0, 0]
     }
   },
   "Materials": {

@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_201",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 42.401
+      "initValue": 42.401,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_ELEMENT_MASTERY",
-      "initValue": 36
+      "initValue": 36,
+      "propType": "FIGHT_PROP_ELEMENT_MASTERY"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Kaidan: Rainfall Earthbinder",
       "Desc": "After an attack hits opponents, it will inflict an instance of Cursed Parasol upon one of them for 10s. This effect can be triggered once every 15s. If this opponent is defeated during Cursed Parasol's duration, Cursed Parasol's CD will be refreshed immediately. The character wielding this weapon will deal <color=#99FFFFFF>16%</color> more DMG to the opponent affected by Cursed Parasol.",
-      "ParamList": [10, 0.16, 15]
+      "ParamList": [10, 0.16, 15, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Kaidan: Rainfall Earthbinder",
       "Desc": "After an attack hits opponents, it will inflict an instance of Cursed Parasol upon one of them for 10s. This effect can be triggered once every 15s. If this opponent is defeated during Cursed Parasol's duration, Cursed Parasol's CD will be refreshed immediately. The character wielding this weapon will deal <color=#99FFFFFF>20%</color> more DMG to the opponent affected by Cursed Parasol.",
-      "ParamList": [10, 0.2, 15]
+      "ParamList": [10, 0.2, 15, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Kaidan: Rainfall Earthbinder",
       "Desc": "After an attack hits opponents, it will inflict an instance of Cursed Parasol upon one of them for 10s. This effect can be triggered once every 15s. If this opponent is defeated during Cursed Parasol's duration, Cursed Parasol's CD will be refreshed immediately. The character wielding this weapon will deal <color=#99FFFFFF>24%</color> more DMG to the opponent affected by Cursed Parasol.",
-      "ParamList": [10, 0.24, 15]
+      "ParamList": [10, 0.24, 15, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Kaidan: Rainfall Earthbinder",
       "Desc": "After an attack hits opponents, it will inflict an instance of Cursed Parasol upon one of them for 10s. This effect can be triggered once every 15s. If this opponent is defeated during Cursed Parasol's duration, Cursed Parasol's CD will be refreshed immediately. The character wielding this weapon will deal <color=#99FFFFFF>28%</color> more DMG to the opponent affected by Cursed Parasol.",
-      "ParamList": [10, 0.28, 15]
+      "ParamList": [10, 0.28, 15, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Kaidan: Rainfall Earthbinder",
       "Desc": "After an attack hits opponents, it will inflict an instance of Cursed Parasol upon one of them for 10s. This effect can be triggered once every 15s. If this opponent is defeated during Cursed Parasol's duration, Cursed Parasol's CD will be refreshed immediately. The character wielding this weapon will deal <color=#99FFFFFF>32%</color> more DMG to the opponent affected by Cursed Parasol.",
-      "ParamList": [10, 0.32, 15]
+      "ParamList": [10, 0.32, 15, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

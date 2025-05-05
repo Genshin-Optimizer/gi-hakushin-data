@@ -6,25 +6,28 @@
   "Affix": [
     {
       "id": 210007,
+      "level": 0,
       "affixId": 2100070,
+      "paramList": [0, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "",
       "addProps": [
-        { "value": 80, "propType": "FIGHT_PROP_ELEMENT_MASTERY" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_ELEMENT_MASTERY", "value": 80 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Instructor",
       "Desc": "Increases Elemental Mastery by 80."
     },
     {
-      "level": 1,
-      "paramList": [8, 120],
       "id": 210007,
-      "openConfig": "Relic_ReactionGainExtraElemMasteryForTeam",
+      "level": 1,
       "affixId": 2100071,
+      "paramList": [8, 120, 0, 0, 0, 0, 0, 0],
+      "openConfig": "Relic_ReactionGainExtraElemMasteryForTeam",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Instructor",
       "Desc": "Upon triggering an Elemental Reaction, increases all party members' Elemental Mastery by 120 for 8s."

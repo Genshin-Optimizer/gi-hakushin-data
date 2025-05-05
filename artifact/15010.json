@@ -5,14 +5,15 @@
   "Rank": [3, 4, 5],
   "Affix": [
     {
-      "paramList": [0.4],
       "id": 215010,
-      "openConfig": "Relic_WaterResistance",
+      "level": 0,
       "affixId": 2150100,
+      "paramList": [0.4, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "Relic_WaterResistance",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Prayers for Destiny",
       "Desc": "Affected by Hydro for 40% less time."

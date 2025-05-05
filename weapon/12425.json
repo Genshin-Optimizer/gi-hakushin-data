@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_201",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 42.401
+      "initValue": 42.401,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_ATTACK_PERCENT",
-      "initValue": 0.09
+      "initValue": 0.09,
+      "propType": "FIGHT_PROP_ATTACK_PERCENT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "White Cruising Wave",
       "Desc": "After the wielder is healed, ATK will be increased by <color=#99FFFFFF>24%</color> for 8s. This can be triggered even when the character is not on the field.",
-      "ParamList": [0.24, 8]
+      "ParamList": [0.24, 8, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "White Cruising Wave",
       "Desc": "After the wielder is healed, ATK will be increased by <color=#99FFFFFF>30%</color> for 8s. This can be triggered even when the character is not on the field.",
-      "ParamList": [0.3, 8]
+      "ParamList": [0.3, 8, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "White Cruising Wave",
       "Desc": "After the wielder is healed, ATK will be increased by <color=#99FFFFFF>36%</color> for 8s. This can be triggered even when the character is not on the field.",
-      "ParamList": [0.36, 8]
+      "ParamList": [0.36, 8, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "White Cruising Wave",
       "Desc": "After the wielder is healed, ATK will be increased by <color=#99FFFFFF>42%</color> for 8s. This can be triggered even when the character is not on the field.",
-      "ParamList": [0.42, 8]
+      "ParamList": [0.42, 8, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "White Cruising Wave",
       "Desc": "After the wielder is healed, ATK will be increased by <color=#99FFFFFF>48%</color> for 8s. This can be triggered even when the character is not on the field.",
-      "ParamList": [0.48, 8]
+      "ParamList": [0.48, 8, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

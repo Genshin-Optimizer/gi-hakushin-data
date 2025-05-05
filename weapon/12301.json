@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_101",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 38.7413
+      "initValue": 38.7413,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_101",
-      "propType": "FIGHT_PROP_HP_PERCENT",
-      "initValue": 0.0766
+      "initValue": 0.0766,
+      "propType": "FIGHT_PROP_HP_PERCENT"
     }
   ],
   "Rarity": 3,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Unbending",
       "Desc": "When HP falls below <color=#99FFFFFF>70%</color>, increases Charged Attack DMG by <color=#99FFFFFF>30%</color> and Charged Attacks become harder to interrupt.",
-      "ParamList": [0.7, 0.3]
+      "ParamList": [0.7, 0.3, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Unbending",
       "Desc": "When HP falls below <color=#99FFFFFF>75%</color>, increases Charged Attack DMG by <color=#99FFFFFF>35%</color> and Charged Attacks become harder to interrupt.",
-      "ParamList": [0.75, 0.35]
+      "ParamList": [0.75, 0.35, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Unbending",
       "Desc": "When HP falls below <color=#99FFFFFF>80%</color>, increases Charged Attack DMG by <color=#99FFFFFF>40%</color> and Charged Attacks become harder to interrupt.",
-      "ParamList": [0.8, 0.4]
+      "ParamList": [0.8, 0.4, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Unbending",
       "Desc": "When HP falls below <color=#99FFFFFF>85%</color>, increases Charged Attack DMG by <color=#99FFFFFF>45%</color> and Charged Attacks become harder to interrupt.",
-      "ParamList": [0.85, 0.45]
+      "ParamList": [0.85, 0.45, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Unbending",
       "Desc": "When HP falls below <color=#99FFFFFF>90%</color>, increases Charged Attack DMG by <color=#99FFFFFF>50%</color> and Charged Attacks become harder to interrupt.",
-      "ParamList": [0.9, 0.5]
+      "ParamList": [0.9, 0.5, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

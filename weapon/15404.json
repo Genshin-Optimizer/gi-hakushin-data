@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_201",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 42.401
+      "initValue": 42.401,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_ATTACK_PERCENT",
-      "initValue": 0.09
+      "initValue": 0.09,
+      "propType": "FIGHT_PROP_ATTACK_PERCENT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Focus",
       "Desc": "Upon damaging an opponent, increases CRIT Rate by <color=#99FFFFFF>8%</color>. Max 5 stacks. A CRIT Hit removes all stacks.",
-      "ParamList": [0.08]
+      "ParamList": [0.08, 0, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Focus",
       "Desc": "Upon damaging an opponent, increases CRIT Rate by <color=#99FFFFFF>10%</color>. Max 5 stacks. A CRIT Hit removes all stacks.",
-      "ParamList": [0.1]
+      "ParamList": [0.1, 0, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Focus",
       "Desc": "Upon damaging an opponent, increases CRIT Rate by <color=#99FFFFFF>12%</color>. Max 5 stacks. A CRIT Hit removes all stacks.",
-      "ParamList": [0.12]
+      "ParamList": [0.12, 0, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Focus",
       "Desc": "Upon damaging an opponent, increases CRIT Rate by <color=#99FFFFFF>14%</color>. Max 5 stacks. A CRIT Hit removes all stacks.",
-      "ParamList": [0.14]
+      "ParamList": [0.14, 0, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Focus",
       "Desc": "Upon damaging an opponent, increases CRIT Rate by <color=#99FFFFFF>16%</color>. Max 5 stacks. A CRIT Hit removes all stacks.",
-      "ParamList": [0.16]
+      "ParamList": [0.16, 0, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

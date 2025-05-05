@@ -424,7 +424,7 @@
         "Name": "Tawny Peaks, Spired Rock",
         "Desc": "Kachina's outfit. Sturdy gloves, check, wear-resistant boots, check — \"Uthabiti\" Kachina is ready to face the challenges ahead!",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -803,7 +803,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Cragbiter",
+      "Name": "Cragbiter",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 consecutive spear strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
       "Promote": {
         "0": {
@@ -829,7 +829,7 @@
           ],
           "Param": [
             0.493984, 0.27569, 0.306323, 0.704271, 0.774361, 1.1266, 25,
-            0.639324, 1.278377, 1.596762
+            0.639324, 1.278377, 1.596762, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -855,7 +855,7 @@
           ],
           "Param": [
             0.534192, 0.29813, 0.331257, 0.761596, 0.837391, 1.2183, 25,
-            0.691362, 1.382431, 1.726731
+            0.691362, 1.382431, 1.726731, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -881,7 +881,7 @@
           ],
           "Param": [
             0.5744, 0.32057, 0.35619, 0.81892, 0.90042, 1.31, 25, 0.7434,
-            1.486485, 1.8567
+            1.486485, 1.8567, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -907,7 +907,7 @@
           ],
           "Param": [
             0.63184, 0.352627, 0.391809, 0.900812, 0.990462, 1.441, 25, 0.81774,
-            1.635134, 2.04237
+            1.635134, 2.04237, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -933,7 +933,7 @@
           ],
           "Param": [
             0.672048, 0.375067, 0.416742, 0.958136, 1.053491, 1.5327, 25,
-            0.869778, 1.739187, 2.172339
+            0.869778, 1.739187, 2.172339, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -959,7 +959,7 @@
           ],
           "Param": [
             0.718, 0.400713, 0.445238, 1.02365, 1.125525, 1.6375, 25, 0.92925,
-            1.858106, 2.320875
+            1.858106, 2.320875, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -985,7 +985,7 @@
           ],
           "Param": [
             0.781184, 0.435975, 0.484418, 1.113731, 1.224571, 1.7816, 25,
-            1.011024, 2.02162, 2.525112
+            1.011024, 2.02162, 2.525112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1011,7 +1011,7 @@
           ],
           "Param": [
             0.844368, 0.471238, 0.523599, 1.203812, 1.323617, 1.9257, 25,
-            1.092798, 2.185133, 2.729349
+            1.092798, 2.185133, 2.729349, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1037,7 +1037,7 @@
           ],
           "Param": [
             0.907552, 0.506501, 0.56278, 1.293894, 1.422664, 2.0698, 25,
-            1.174572, 2.348646, 2.933586
+            1.174572, 2.348646, 2.933586, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1063,7 +1063,7 @@
           ],
           "Param": [
             0.97648, 0.544969, 0.605523, 1.392164, 1.530714, 2.227, 25, 1.26378,
-            2.527025, 3.15639
+            2.527025, 3.15639, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1089,7 +1089,7 @@
           ],
           "Param": [
             1.045408, 0.583437, 0.648266, 1.490434, 1.638764, 2.3842, 25,
-            1.352988, 2.705403, 3.379194
+            1.352988, 2.705403, 3.379194, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1115,7 +1115,7 @@
           ],
           "Param": [
             1.114336, 0.621906, 0.691009, 1.588705, 1.746815, 2.5414, 25,
-            1.442196, 2.883781, 3.601998
+            1.442196, 2.883781, 3.601998, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1141,7 +1141,7 @@
           ],
           "Param": [
             1.183264, 0.660374, 0.733751, 1.686975, 1.854865, 2.6986, 25,
-            1.531404, 3.062159, 3.824802
+            1.531404, 3.062159, 3.824802, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1167,7 +1167,7 @@
           ],
           "Param": [
             1.252192, 0.698843, 0.776494, 1.785246, 1.962916, 2.8558, 25,
-            1.620612, 3.240537, 4.047606
+            1.620612, 3.240537, 4.047606, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1193,7 +1193,7 @@
           ],
           "Param": [
             1.32112, 0.737311, 0.819237, 1.883516, 2.070966, 3.013, 25, 1.70982,
-            3.418915, 4.27041
+            3.418915, 4.27041, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1223,7 +1223,10 @@
             "",
             ""
           ],
-          "Param": [0.8776, 0.6376, 60, 20]
+          "Param": [
+            0.8776, 0.6376, 60, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1246,7 +1249,10 @@
             "",
             ""
           ],
-          "Param": [0.94342, 0.68542, 60, 20]
+          "Param": [
+            0.94342, 0.68542, 60, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1269,7 +1275,10 @@
             "",
             ""
           ],
-          "Param": [1.00924, 0.73324, 60, 20]
+          "Param": [
+            1.00924, 0.73324, 60, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1292,7 +1301,9 @@
             "",
             ""
           ],
-          "Param": [1.097, 0.797, 60, 20]
+          "Param": [
+            1.097, 0.797, 60, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1315,7 +1326,10 @@
             "",
             ""
           ],
-          "Param": [1.16282, 0.84482, 60, 20]
+          "Param": [
+            1.16282, 0.84482, 60, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1338,7 +1352,10 @@
             "",
             ""
           ],
-          "Param": [1.22864, 0.89264, 60, 20]
+          "Param": [
+            1.22864, 0.89264, 60, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1361,7 +1378,10 @@
             "",
             ""
           ],
-          "Param": [1.3164, 0.9564, 60, 20]
+          "Param": [
+            1.3164, 0.9564, 60, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1384,7 +1404,10 @@
             "",
             ""
           ],
-          "Param": [1.40416, 1.02016, 60, 20]
+          "Param": [
+            1.40416, 1.02016, 60, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1407,7 +1430,10 @@
             "",
             ""
           ],
-          "Param": [1.49192, 1.08392, 60, 20]
+          "Param": [
+            1.49192, 1.08392, 60, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1430,7 +1456,10 @@
             "",
             ""
           ],
-          "Param": [1.57968, 1.14768, 60, 20]
+          "Param": [
+            1.57968, 1.14768, 60, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1453,7 +1482,10 @@
             "",
             ""
           ],
-          "Param": [1.66744, 1.21144, 60, 20]
+          "Param": [
+            1.66744, 1.21144, 60, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1476,7 +1508,10 @@
             "",
             ""
           ],
-          "Param": [1.7552, 1.2752, 60, 20]
+          "Param": [
+            1.7552, 1.2752, 60, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1499,7 +1534,10 @@
             "",
             ""
           ],
-          "Param": [1.8649, 1.3549, 60, 20]
+          "Param": [
+            1.8649, 1.3549, 60, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1522,7 +1560,10 @@
             "",
             ""
           ],
-          "Param": [1.9746, 1.4346, 60, 20]
+          "Param": [
+            1.9746, 1.4346, 60, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1545,7 +1586,10 @@
             "",
             ""
           ],
-          "Param": [2.0843, 1.5143, 60, 20]
+          "Param": [
+            2.0843, 1.5143, 60, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         }
       }
     },
@@ -1574,7 +1618,9 @@
             "",
             ""
           ],
-          "Param": [3.805672, 12, 18, 70]
+          "Param": [
+            3.805672, 12, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1597,7 +1643,9 @@
             "",
             ""
           ],
-          "Param": [4.1366, 12, 18, 70]
+          "Param": [
+            4.1366, 12, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1620,7 +1668,9 @@
             "",
             ""
           ],
-          "Param": [4.4252, 12, 18, 70]
+          "Param": [
+            4.4252, 12, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1643,7 +1693,9 @@
             "",
             ""
           ],
-          "Param": [4.81, 12, 18, 70]
+          "Param": [
+            4.81, 12, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1666,7 +1718,9 @@
             "",
             ""
           ],
-          "Param": [5.0986, 12, 18, 70]
+          "Param": [
+            5.0986, 12, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1689,7 +1743,9 @@
             "",
             ""
           ],
-          "Param": [5.3872, 12, 18, 70]
+          "Param": [
+            5.3872, 12, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1712,7 +1768,9 @@
             "",
             ""
           ],
-          "Param": [5.772, 12, 18, 70]
+          "Param": [
+            5.772, 12, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1735,7 +1793,9 @@
             "",
             ""
           ],
-          "Param": [6.1568, 12, 18, 70]
+          "Param": [
+            6.1568, 12, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1758,7 +1818,9 @@
             "",
             ""
           ],
-          "Param": [6.5416, 12, 18, 70]
+          "Param": [
+            6.5416, 12, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1781,7 +1843,9 @@
             "",
             ""
           ],
-          "Param": [6.9264, 12, 18, 70]
+          "Param": [
+            6.9264, 12, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1804,7 +1868,9 @@
             "",
             ""
           ],
-          "Param": [7.3112, 12, 18, 70]
+          "Param": [
+            7.3112, 12, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1827,7 +1893,9 @@
             "",
             ""
           ],
-          "Param": [7.696, 12, 18, 70]
+          "Param": [
+            7.696, 12, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1850,7 +1918,9 @@
             "",
             ""
           ],
-          "Param": [8.177, 12, 18, 70]
+          "Param": [
+            8.177, 12, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1873,7 +1943,9 @@
             "",
             ""
           ],
-          "Param": [8.658, 12, 18, 70]
+          "Param": [
+            8.658, 12, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1896,7 +1968,9 @@
             "",
             ""
           ],
-          "Param": [9.139, 12, 18, 70]
+          "Param": [
+            9.139, 12, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         }
       }
     }
@@ -1907,28 +1981,32 @@
       "Desc": "After nearby party members trigger a Nightsoul Burst, Kachina's <color=#FFE699FF>Geo DMG Bonus</color> increases by 20% for 12s.",
       "Icon": "UI_Talent_S_Kachina_05",
       "Unlock": 1,
-      "ParamList": [0.2, 12]
+      "ParamList": [
+        0.2, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "The Weight of Stone",
       "Desc": "<color=#FFD780FF>Turbo Twirly</color>'s DMG is increased by 20% of Kachina's DEF.",
       "Icon": "UI_Talent_S_Kachina_06",
       "Unlock": 4,
-      "ParamList": [0.2]
+      "ParamList": [
+        0.2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Night Realm's Gift: Heart of Unity",
       "Desc": "After her Nightsoul points are depleted, Kachina will switch to consuming Phlogiston to maintain her Nightsoul's Blessing.\\nWhile in an area with Phlogiston Mechanics within Natlan, she can use Nightsoul Transmission: Kachina. When the active character is currently sprinting, climbing, in a movement mode caused by certain Talents, or at a certain height in the air, the following will trigger when switching to Kachina: Kachina will enter the Nightsoul's Blessing state and ride <color=#FFD780FF>Turbo Twirly</color> when taking the field while gaining 30 Nightsoul points. Nightsoul Transmission can be triggered once every 10s by your own team.\\n\\nAdditionally, while in Natlan, Kachina will consume 90% less Stamina when climbing while riding <color=#FFD780FF>Turbo Twirly</color>.",
       "Icon": "UI_Talent_S_Kachina_07",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Boon of Crystal Flame",
       "Desc": "While in an area with Phlogiston Mechanics within Natlan, 20 Stamina will be restored when interacting with some harvestable items. Additionally, the location of nearby <color=#FFD780FF>resources unique to Natlan</color> will appear on your mini-map.",
       "Icon": "UI_Talent_S_Kachina_08",
       "Unlock": 0,
-      "ParamList": [20]
+      "ParamList": [20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Constellations": [
@@ -1936,37 +2014,37 @@
       "Name": "Shards Are Gems Too",
       "Desc": "When Kachina mounts or dismounts <color=#FFD780FF>Turbo Twirly</color>, she will absorb nearby Elemental Shards created by Crystallize.\\nAdditionally, when a party member picks up such a Shard, 3 Energy will be restored to Kachina. Energy can be restored this way once every 5s.",
       "Icon": "UI_Talent_S_Kachina_01",
-      "ParamList": [3, 5]
+      "ParamList": [3, 5, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Never Leave Home Without... Turbo Twirly",
       "Desc": "When Kachina uses <color=#FFD780FF>\"Time to Get Serious!\"</color>, she will regain 20 Nightsoul points. If there is no <color=#FFD780FF>Turbo Twirly</color> belonging to her on the field, she will enter Nightsoul's Blessing and summon one.",
       "Icon": "UI_Talent_S_Kachina_02",
-      "ParamList": [20]
+      "ParamList": [20, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Improved Stabilizer",
       "Desc": "Increases the Level of <color=#FFD780FF>Go, Go Turbo Twirly!</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Kachina_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "More Foes, More Caution",
       "Desc": "When there are 1/2/3/4 (or more) opponents within the Turbo Drill Field created by <color=#FFD780FF>\"Time to Get Serious!\"</color>, the active character within the field gains 8%/12%/16%/20% increased DEF.",
       "Icon": "UI_Talent_S_Kachina_03",
-      "ParamList": [0.08, 0.12, 0.16, 0.2]
+      "ParamList": [0.08, 0.12, 0.16, 0.2, 0, 0, 0, 0]
     },
     {
       "Name": "All I've Collected Till Now",
       "Desc": "Increases the Level of <color=#FFD780FF>Time to Get Serious!</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Kachina_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "This Time, I've Gotta Win",
       "Desc": "When your active character's Shield is replaced or destroyed for any reason, Kachina will deal 200% of her DEF as <color=#FFE699FF>AoE Geo DMG</color>. This effect can be triggered once every 5s.",
       "Icon": "UI_Talent_S_Kachina_04",
-      "ParamList": [2, 5]
+      "ParamList": [2, 5, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -1979,7 +2057,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Quenepa Berry", "Id": 101249, "Count": 3, "Rank": 1 },
+          { "Name": "Quenepa Berry", "Id": 101249, "Count": 3, "Rank": 0 },
           {
             "Name": "Sentry's Wooden Whistle",
             "Id": 112104,
@@ -2003,7 +2081,7 @@
             "Count": 2,
             "Rank": 4
           },
-          { "Name": "Quenepa Berry", "Id": 101249, "Count": 10, "Rank": 1 },
+          { "Name": "Quenepa Berry", "Id": 101249, "Count": 10, "Rank": 0 },
           {
             "Name": "Sentry's Wooden Whistle",
             "Id": 112104,
@@ -2027,7 +2105,7 @@
             "Count": 4,
             "Rank": 4
           },
-          { "Name": "Quenepa Berry", "Id": 101249, "Count": 20, "Rank": 1 },
+          { "Name": "Quenepa Berry", "Id": 101249, "Count": 20, "Rank": 0 },
           {
             "Name": "Warrior's Metal Whistle",
             "Id": 112105,
@@ -2051,7 +2129,7 @@
             "Count": 8,
             "Rank": 4
           },
-          { "Name": "Quenepa Berry", "Id": 101249, "Count": 30, "Rank": 1 },
+          { "Name": "Quenepa Berry", "Id": 101249, "Count": 30, "Rank": 0 },
           {
             "Name": "Warrior's Metal Whistle",
             "Id": 112105,
@@ -2075,7 +2153,7 @@
             "Count": 12,
             "Rank": 4
           },
-          { "Name": "Quenepa Berry", "Id": 101249, "Count": 45, "Rank": 1 },
+          { "Name": "Quenepa Berry", "Id": 101249, "Count": 45, "Rank": 0 },
           {
             "Name": "Saurian-Crowned Warrior's Golden Whistle",
             "Id": 112106,
@@ -2099,7 +2177,7 @@
             "Count": 20,
             "Rank": 4
           },
-          { "Name": "Quenepa Berry", "Id": 101249, "Count": 60, "Rank": 1 },
+          { "Name": "Quenepa Berry", "Id": 101249, "Count": 60, "Rank": 0 },
           {
             "Name": "Saurian-Crowned Warrior's Golden Whistle",
             "Id": 112106,

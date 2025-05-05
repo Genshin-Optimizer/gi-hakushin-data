@@ -5,28 +5,29 @@
   "Rank": [1, 2, 3, 4, 5],
   "Affix": [
     {
-      "paramList": [0.15],
       "id": 210006,
-      "openConfig": "Relic_AtkAndExtraAtkUp",
+      "level": 0,
       "affixId": 2100060,
+      "paramList": [0.15, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "Relic_AtkAndExtraAtkUp",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Martial Artist",
       "Desc": "Normal and Charged Attack DMG +15%"
     },
     {
-      "level": 1,
-      "paramList": [8, 1, 0.25],
       "id": 210006,
-      "openConfig": "Relic_SkillEnhanceNormalAtkAndExtraAtk",
+      "level": 1,
       "affixId": 2100061,
+      "paramList": [8, 1, 0.25, 0, 0, 0, 0, 0],
+      "openConfig": "Relic_SkillEnhanceNormalAtkAndExtraAtk",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Martial Artist",
       "Desc": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 25% for 8s."

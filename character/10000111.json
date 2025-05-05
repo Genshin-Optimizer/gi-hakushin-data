@@ -443,7 +443,7 @@
         "Name": "Sugar Rush",
         "Desc": "Varesa's outfit. In her eyes, sugar is a sweet, sublime gift from the heavens. Cakes of sparkly pink and emerald green, yummy fruit tea, mountains of candy... These things are the source of all happiness in the world! Unfortunately, her coach vehemently begs to differ.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -822,7 +822,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: By the Horns",
+      "Name": "By the Horns",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nGotta try... to do battle like the greatest champion luchadors do! Varesa launches up to 3 strikes, dealing <color=#FFACFFFF>Electro DMG</color>.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to headbutt opponents in front, dealing Nightsoul-aligned <color=#FFACFFFF>Electro DMG</color> and using the momentum to leap into the air.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing Nightsoul-aligned <color=#FFACFFFF>AoE Electro DMG</color> upon impact. If Varesa is in a combat state upon landing, or if the shockwave from her plunging attack hits an opponent, she will gain 25 Nightsoul points. She enters the Fiery Passion state upon reaching maximum Nightsoul points through this method.\\n\\n<color=#FFD780FF>Fiery Passion</color>\\nIn this state, Varesa's Normal, Charged, and Plunging Attacks will gain corresponding buffs:\\n\\n<color=#FFD780FF>Normal Attack</color>\\nFight like a superstar champion luchador! Launches up to 3 fierce strikes, dealing greater <color=#FFACFFFF>Electro DMG</color>.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to slam into her opponents, dealing greater amounts of Nightsoul-aligned <color=#FFACFFFF>Electro DMG</color> and using the momentum to leap into the air.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nConsumes all her Nightsoul points and slams down on the ground from mid-air, dealing DMG to opponents in her path and dealing greater amounts of Nightsoul-aligned <color=#FFACFFFF>AoE Electro DMG</color> upon hitting the ground.",
       "Promote": {
         "0": {
@@ -849,7 +849,7 @@
           "Param": [
             0.467784, 0.40028, 0.563128, 0.8928, 50, 0.745878, 1.49144,
             1.862889, 0.544072, 0.520288, 0.735864, 0.9264, 50, 0.745878,
-            2.23716, 2.794334
+            2.23716, 2.794334, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -876,7 +876,7 @@
           "Param": [
             0.502868, 0.430301, 0.605363, 0.95976, 50, 0.806589, 1.612836,
             2.01452, 0.584877, 0.55931, 0.791054, 0.99588, 50, 0.806589,
-            2.419254, 3.021779
+            2.419254, 3.021779, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -903,7 +903,7 @@
           "Param": [
             0.537952, 0.460322, 0.647597, 1.02672, 50, 0.8673, 1.734233,
             2.16615, 0.625683, 0.598331, 0.846244, 1.06536, 50, 0.8673,
-            2.601349, 3.249225
+            2.601349, 3.249225, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -929,7 +929,8 @@
           ],
           "Param": [
             0.58473, 0.50035, 0.70391, 1.116, 50, 0.95403, 1.907656, 2.382765,
-            0.68009, 0.65036, 0.91983, 1.158, 50, 0.95403, 2.861484, 3.574148
+            0.68009, 0.65036, 0.91983, 1.158, 50, 0.95403, 2.861484, 3.574148,
+            0, 0, 0, 0
           ]
         },
         "4": {
@@ -956,7 +957,7 @@
           "Param": [
             0.619814, 0.530371, 0.746145, 1.18296, 50, 1.014741, 2.029052,
             2.534396, 0.720895, 0.689382, 0.97502, 1.22748, 50, 1.014741,
-            3.043578, 3.801593
+            3.043578, 3.801593, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -983,7 +984,7 @@
           "Param": [
             0.654898, 0.560392, 0.788379, 1.24992, 50, 1.084125, 2.167791,
             2.707688, 0.761701, 0.728403, 1.03021, 1.29696, 50, 1.084125,
-            3.251686, 4.061531
+            3.251686, 4.061531, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -1010,7 +1011,7 @@
           "Param": [
             0.701676, 0.60042, 0.844692, 1.3392, 50, 1.179528, 2.358556,
             2.945964, 0.816108, 0.780432, 1.103796, 1.3896, 50, 1.179528,
-            3.537834, 4.418946
+            3.537834, 4.418946, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1037,7 +1038,7 @@
           "Param": [
             0.748454, 0.640448, 0.901005, 1.42848, 50, 1.274931, 2.549322,
             3.184241, 0.870515, 0.832461, 1.177382, 1.48224, 50, 1.274931,
-            3.823983, 4.776361
+            3.823983, 4.776361, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1064,7 +1065,7 @@
           "Param": [
             0.795233, 0.680476, 0.957318, 1.51776, 50, 1.370334, 2.740087,
             3.422517, 0.924922, 0.88449, 1.250969, 1.57488, 50, 1.370334,
-            4.110131, 5.133776
+            4.110131, 5.133776, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1091,7 +1092,7 @@
           "Param": [
             0.842011, 0.720504, 1.01363, 1.60704, 50, 1.47441, 2.948195,
             3.682455, 0.97933, 0.936518, 1.324555, 1.66752, 50, 1.47441,
-            4.422293, 5.523683
+            4.422293, 5.523683, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1118,7 +1119,7 @@
           "Param": [
             0.88879, 0.760532, 1.069943, 1.69632, 50, 1.578486, 3.156303,
             3.942393, 1.033737, 0.988547, 1.398142, 1.76016, 50, 1.578486,
-            4.734455, 5.91359
+            4.734455, 5.91359, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1145,7 +1146,7 @@
           "Param": [
             0.935568, 0.80056, 1.126256, 1.7856, 50, 1.682562, 3.364411,
             4.202331, 1.088144, 1.040576, 1.471728, 1.8528, 50, 1.682562,
-            5.046617, 6.303497
+            5.046617, 6.303497, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1172,7 +1173,7 @@
           "Param": [
             0.994041, 0.850595, 1.196647, 1.8972, 50, 1.786638, 3.572519,
             4.462269, 1.156153, 1.105612, 1.563711, 1.9686, 50, 1.786638,
-            5.358778, 6.693404
+            5.358778, 6.693404, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1199,7 +1200,7 @@
           "Param": [
             1.052514, 0.90063, 1.267038, 2.0088, 50, 1.890714, 3.780627,
             4.722207, 1.224162, 1.170648, 1.655694, 2.0844, 50, 1.890714,
-            5.67094, 7.083311
+            5.67094, 7.083311, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1226,7 +1227,7 @@
           "Param": [
             1.110987, 0.950665, 1.337429, 2.1204, 50, 1.99479, 3.988735,
             4.982145, 1.292171, 1.235684, 1.747677, 2.2002, 50, 1.99479,
-            5.983102, 7.473218
+            5.983102, 7.473218, 0, 0, 0, 0
           ]
         }
       }
@@ -1256,7 +1257,9 @@
             "",
             ""
           ],
-          "Param": [0.7448, 1.064, 5, 40, 9]
+          "Param": [
+            0.7448, 1.064, 5, 40, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1279,7 +1282,10 @@
             "",
             ""
           ],
-          "Param": [0.80066, 1.1438, 5, 40, 9]
+          "Param": [
+            0.80066, 1.1438, 5, 40, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1302,7 +1308,10 @@
             "",
             ""
           ],
-          "Param": [0.85652, 1.2236, 5, 40, 9]
+          "Param": [
+            0.85652, 1.2236, 5, 40, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1325,7 +1334,9 @@
             "",
             ""
           ],
-          "Param": [0.931, 1.33, 5, 40, 9]
+          "Param": [
+            0.931, 1.33, 5, 40, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1348,7 +1359,10 @@
             "",
             ""
           ],
-          "Param": [0.98686, 1.4098, 5, 40, 9]
+          "Param": [
+            0.98686, 1.4098, 5, 40, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1371,7 +1385,10 @@
             "",
             ""
           ],
-          "Param": [1.04272, 1.4896, 5, 40, 9]
+          "Param": [
+            1.04272, 1.4896, 5, 40, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1394,7 +1411,9 @@
             "",
             ""
           ],
-          "Param": [1.1172, 1.596, 5, 40, 9]
+          "Param": [
+            1.1172, 1.596, 5, 40, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1417,7 +1436,10 @@
             "",
             ""
           ],
-          "Param": [1.19168, 1.7024, 5, 40, 9]
+          "Param": [
+            1.19168, 1.7024, 5, 40, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1440,7 +1462,10 @@
             "",
             ""
           ],
-          "Param": [1.26616, 1.8088, 5, 40, 9]
+          "Param": [
+            1.26616, 1.8088, 5, 40, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1463,7 +1488,10 @@
             "",
             ""
           ],
-          "Param": [1.34064, 1.9152, 5, 40, 9]
+          "Param": [
+            1.34064, 1.9152, 5, 40, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1486,7 +1514,10 @@
             "",
             ""
           ],
-          "Param": [1.41512, 2.0216, 5, 40, 9]
+          "Param": [
+            1.41512, 2.0216, 5, 40, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1509,7 +1540,9 @@
             "",
             ""
           ],
-          "Param": [1.4896, 2.128, 5, 40, 9]
+          "Param": [
+            1.4896, 2.128, 5, 40, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1532,7 +1565,9 @@
             "",
             ""
           ],
-          "Param": [1.5827, 2.261, 5, 40, 9]
+          "Param": [
+            1.5827, 2.261, 5, 40, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1555,7 +1590,9 @@
             "",
             ""
           ],
-          "Param": [1.6758, 2.394, 5, 40, 9]
+          "Param": [
+            1.6758, 2.394, 5, 40, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1578,7 +1615,9 @@
             "",
             ""
           ],
-          "Param": [1.7689, 2.527, 5, 40, 9]
+          "Param": [
+            1.7689, 2.527, 5, 40, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         }
       }
     },
@@ -1607,7 +1646,10 @@
             "",
             ""
           ],
-          "Param": [3.4512, 5.752, 18, 70, 4.0264, 30]
+          "Param": [
+            3.4512, 5.752, 18, 70, 4.0264, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1630,7 +1672,10 @@
             "",
             ""
           ],
-          "Param": [3.71004, 6.1834, 18, 70, 4.32838, 30]
+          "Param": [
+            3.71004, 6.1834, 18, 70, 4.32838, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1653,7 +1698,10 @@
             "",
             ""
           ],
-          "Param": [3.96888, 6.6148, 18, 70, 4.63036, 30]
+          "Param": [
+            3.96888, 6.6148, 18, 70, 4.63036, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1676,7 +1724,10 @@
             "",
             ""
           ],
-          "Param": [4.314, 7.19, 18, 70, 5.033, 30]
+          "Param": [
+            4.314, 7.19, 18, 70, 5.033, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1699,7 +1750,10 @@
             "",
             ""
           ],
-          "Param": [4.57284, 7.6214, 18, 70, 5.33498, 30]
+          "Param": [
+            4.57284, 7.6214, 18, 70, 5.33498, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1722,7 +1776,10 @@
             "",
             ""
           ],
-          "Param": [4.83168, 8.0528, 18, 70, 5.63696, 30]
+          "Param": [
+            4.83168, 8.0528, 18, 70, 5.63696, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1745,7 +1802,10 @@
             "",
             ""
           ],
-          "Param": [5.1768, 8.628, 18, 70, 6.0396, 30]
+          "Param": [
+            5.1768, 8.628, 18, 70, 6.0396, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1768,7 +1828,10 @@
             "",
             ""
           ],
-          "Param": [5.52192, 9.2032, 18, 70, 6.44224, 30]
+          "Param": [
+            5.52192, 9.2032, 18, 70, 6.44224, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1791,7 +1854,10 @@
             "",
             ""
           ],
-          "Param": [5.86704, 9.7784, 18, 70, 6.84488, 30]
+          "Param": [
+            5.86704, 9.7784, 18, 70, 6.84488, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1814,7 +1880,10 @@
             "",
             ""
           ],
-          "Param": [6.21216, 10.3536, 18, 70, 7.24752, 30]
+          "Param": [
+            6.21216, 10.3536, 18, 70, 7.24752, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1837,7 +1906,10 @@
             "",
             ""
           ],
-          "Param": [6.55728, 10.9288, 18, 70, 7.65016, 30]
+          "Param": [
+            6.55728, 10.9288, 18, 70, 7.65016, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1860,7 +1932,10 @@
             "",
             ""
           ],
-          "Param": [6.9024, 11.504, 18, 70, 8.0528, 30]
+          "Param": [
+            6.9024, 11.504, 18, 70, 8.0528, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1883,7 +1958,10 @@
             "",
             ""
           ],
-          "Param": [7.3338, 12.223, 18, 70, 8.5561, 30]
+          "Param": [
+            7.3338, 12.223, 18, 70, 8.5561, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1906,7 +1984,10 @@
             "",
             ""
           ],
-          "Param": [7.7652, 12.942, 18, 70, 9.0594, 30]
+          "Param": [
+            7.7652, 12.942, 18, 70, 9.0594, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1929,7 +2010,10 @@
             "",
             ""
           ],
-          "Param": [8.1966, 13.661, 18, 70, 9.5627, 30]
+          "Param": [
+            8.1966, 13.661, 18, 70, 9.5627, 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         }
       }
     }
@@ -1940,28 +2024,34 @@
       "Desc": "After using the Elemental Skill <color=#FFD780FF>Riding the Night-Rainbow</color>, Varesa gains \"Rainbow Crash\" for 5s.\\nDuring this time, when Varesa uses a Plunging Attack, the shockwave DMG dealt when she hits the ground is increased by 50% of her ATK. If Varesa is in the Fiery Passion state, this ground impact DMG is increased by 180% of her ATK instead.\\n\\nThe Rainbow Crash effect will be canceled once a ground impact hits an opponent, or when its duration expires.",
       "Icon": "UI_Talent_S_Varesa_05",
       "Unlock": 1,
-      "ParamList": [0.5, 1.8]
+      "ParamList": [
+        0.5, 1.8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "The Hero Twice-Returned!",
       "Desc": "When a nearby party member triggers a Nightsoul Burst, Varesa's ATK increases by 35% for 12s. Max 2 stacks. Each stack's duration is counted independently.",
       "Icon": "UI_Talent_S_Varesa_06",
       "Unlock": 4,
-      "ParamList": [0.35, 12]
+      "ParamList": [
+        0.35, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Night Realm's Gift: A Torch That Incinerates Evil",
       "Desc": "After Nightsoul points have been fully depleted, Varesa will switch to using Phlogiston to maintain the Sudden Onrush mode from her Nightsoul's Blessing.\\nWhile in an area with Phlogiston Mechanics within Natlan, Nightsoul Transmission: Varesa can be used. When the current active character is sprinting or in movement modes caused by certain Talents, or at a certain height in the air, switching to Varesa will trigger the following: Varesa enters the Nightsoul's Blessing state, switches to Sudden Onrush mode, and obtains 20 Nightsoul points. Nightsoul Transmission can be triggered once every 10s by your own party.\\nWhile in an area with Phlogiston Mechanics within Natlan, Varesa will not take fall DMG when using terrain differences to make leaps.",
       "Icon": "UI_Talent_S_Varesa_07",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Blazing Heart, Singular Advance!",
       "Desc": "Varesa's Sprint speed is increased. When she is not in combat, her Sprint Stamina consumption will also increase.\\nAdditionally, while in an area with Phlogiston Mechanics within Natlan, your party members will restore 20 Phlogiston when consuming food. This effect can occur once every 10s and does not take effect in Domains, Trounce Domains, or the Spiral Abyss.",
       "Icon": "UI_Talent_S_Varesa_08",
       "Unlock": 0,
-      "ParamList": [20, 10]
+      "ParamList": [
+        20, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     }
   ],
   "Constellations": [
@@ -1969,37 +2059,37 @@
       "Name": "Undying Passion",
       "Desc": "The effects of the Passive Talent \"Tag-Team Triple Jump!\" are enhanced:\\nWhen performing the Special Plunging Attack \"Thunderous Tornado Eruption,\" Varesa will also gain \"Rainbow Crash\" for 5s.\\nWhen \"Rainbow Crash\" is in effect, Varesa's Plunging Attack ground impact DMG is increased by 180% of her ATK, whether she is in the Fiery Passion state or not. You must first unlock the Passive Talent \"Tag-Team Triple Jump!\" to access the above effect.\\n\\nAdditionally, when Varesa is in the Sudden Onrush mode of her Nightsoul's Blessing, she consumes 30% less Nightsoul points or Phlogiston.",
       "Icon": "UI_Talent_S_Varesa_01",
-      "ParamList": [1.8, 0.3]
+      "ParamList": [1.8, 0.3, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Beyond the Edge of Light",
       "Desc": "Varesa will enter Apex Drive after using a Plunging Attack, regardless of whether she is in the Fiery Passion state or not.\\nWhen Apex Drive is active, Varesa's interruption resistance will also further increase.\\nAdditionally, Varesa will restore 11.5 Energy when her Plunging Attack ground impact hits an opponent.",
       "Icon": "UI_Talent_S_Varesa_02",
-      "ParamList": [11.5]
+      "ParamList": [11.5, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Unbowed Resolve",
       "Desc": "Increases the Level of <color=#FFD780FF>Guardian Vent!</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Varesa_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "The Courage to Press On",
       "Desc": "Varesa will receive various buffs based on her state when using her Elemental Burst <color=#FFD780FF>Guardian Vent!</color> If Varesa:\\n· Has neither Fiery Passion nor Apex Drive active, she will gain Diligent Refinement for 15s, which will increase her Plunging Attack ground impact DMG by 500% of her ATK, with a maximum increase of 20,000 DMG. This effect will be canceled once the ground impact hits an opponent, or if its duration ends.\\n· If she has either Fiery Passion or Apex Drive active, this instance of her Elemental Burst <color=#FFD780FF>Guardian Vent!</color> deals 100% increased DMG.",
       "Icon": "UI_Talent_S_Varesa_03",
-      "ParamList": [5, 20000, 1]
+      "ParamList": [5, 20000, 1, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Thoughts Floating on the Warm Breeze",
       "Desc": "Increases the Level of <color=#FFD780FF>Normal Attack: By the Horns</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Varesa_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "A Hero of Justice's Triumph",
       "Desc": "Varesa restores 30 Energy when she enters Apex Drive.\\nHer Plunging Attacks and Elemental Burst <color=#FFD780FF>Guardian Vent!</color> gain 10% CRIT Rate and 100% CRIT DMG.\\nAdditionally, when Varesa uses the Hold version of her Elemental Skill <color=#FFD780FF>Riding the Night-Rainbow</color>, or Taps her Elemental Skill while in the Sudden Onrush mode, she will restore Nightsoul points up to her maximum.",
       "Icon": "UI_Talent_S_Varesa_04",
-      "ParamList": [0.1, 1]
+      "ParamList": [0.1, 1, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -2012,7 +2102,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Skysplit Gembloom", "Id": 101254, "Count": 3, "Rank": 1 },
+          { "Name": "Skysplit Gembloom", "Id": 101254, "Count": 3, "Rank": 0 },
           { "Name": "Juvenile Fang", "Id": 112101, "Count": 3, "Rank": 1 }
         ],
         "Cost": 20000
@@ -2031,7 +2121,7 @@
             "Count": 2,
             "Rank": 4
           },
-          { "Name": "Skysplit Gembloom", "Id": 101254, "Count": 10, "Rank": 1 },
+          { "Name": "Skysplit Gembloom", "Id": 101254, "Count": 10, "Rank": 0 },
           { "Name": "Juvenile Fang", "Id": 112101, "Count": 15, "Rank": 1 }
         ],
         "Cost": 40000
@@ -2050,7 +2140,7 @@
             "Count": 4,
             "Rank": 4
           },
-          { "Name": "Skysplit Gembloom", "Id": 101254, "Count": 20, "Rank": 1 },
+          { "Name": "Skysplit Gembloom", "Id": 101254, "Count": 20, "Rank": 0 },
           { "Name": "Seasoned Fang", "Id": 112102, "Count": 12, "Rank": 2 }
         ],
         "Cost": 60000
@@ -2069,7 +2159,7 @@
             "Count": 8,
             "Rank": 4
           },
-          { "Name": "Skysplit Gembloom", "Id": 101254, "Count": 30, "Rank": 1 },
+          { "Name": "Skysplit Gembloom", "Id": 101254, "Count": 30, "Rank": 0 },
           { "Name": "Seasoned Fang", "Id": 112102, "Count": 18, "Rank": 2 }
         ],
         "Cost": 80000
@@ -2088,7 +2178,7 @@
             "Count": 12,
             "Rank": 4
           },
-          { "Name": "Skysplit Gembloom", "Id": 101254, "Count": 45, "Rank": 1 },
+          { "Name": "Skysplit Gembloom", "Id": 101254, "Count": 45, "Rank": 0 },
           { "Name": "Tyrant's Fang", "Id": 112103, "Count": 12, "Rank": 3 }
         ],
         "Cost": 100000
@@ -2107,7 +2197,7 @@
             "Count": 20,
             "Rank": 4
           },
-          { "Name": "Skysplit Gembloom", "Id": 101254, "Count": 60, "Rank": 1 },
+          { "Name": "Skysplit Gembloom", "Id": 101254, "Count": 60, "Rank": 0 },
           { "Name": "Tyrant's Fang", "Id": 112103, "Count": 24, "Rank": 3 }
         ],
         "Cost": 120000

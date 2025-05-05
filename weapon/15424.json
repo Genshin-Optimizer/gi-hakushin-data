@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_202",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 43.7349
+      "initValue": 43.7349,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_CRITICAL",
-      "initValue": 0.04
+      "initValue": 0.04,
+      "propType": "FIGHT_PROP_CRITICAL"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "The Way of Sunfire",
       "Desc": "After a Charged Attack hits an opponent, a Sunfire Arrow will descend upon the opponent hit, dealing <color=#99FFFFFF>60%</color> ATK as DMG, and applying the Heartsearer effect to the opponent damaged by said Arrow for 10s. Opponents affected by Heartsearer take <color=#99FFFFFF>28%</color> more Charged Attack DMG from the wielder. A Sunfire Arrow can be triggered once every 10s.",
-      "ParamList": [10, 0.6, 10, 0.28]
+      "ParamList": [10, 0.6, 10, 0.28, 0, 0, 0, 0]
     },
     "2": {
       "Name": "The Way of Sunfire",
       "Desc": "After a Charged Attack hits an opponent, a Sunfire Arrow will descend upon the opponent hit, dealing <color=#99FFFFFF>75%</color> ATK as DMG, and applying the Heartsearer effect to the opponent damaged by said Arrow for 10s. Opponents affected by Heartsearer take <color=#99FFFFFF>35%</color> more Charged Attack DMG from the wielder. A Sunfire Arrow can be triggered once every 10s.",
-      "ParamList": [10, 0.75, 10, 0.35]
+      "ParamList": [10, 0.75, 10, 0.35, 0, 0, 0, 0]
     },
     "3": {
       "Name": "The Way of Sunfire",
       "Desc": "After a Charged Attack hits an opponent, a Sunfire Arrow will descend upon the opponent hit, dealing <color=#99FFFFFF>90%</color> ATK as DMG, and applying the Heartsearer effect to the opponent damaged by said Arrow for 10s. Opponents affected by Heartsearer take <color=#99FFFFFF>42%</color> more Charged Attack DMG from the wielder. A Sunfire Arrow can be triggered once every 10s.",
-      "ParamList": [10, 0.9, 10, 0.42]
+      "ParamList": [10, 0.9, 10, 0.42, 0, 0, 0, 0]
     },
     "4": {
       "Name": "The Way of Sunfire",
       "Desc": "After a Charged Attack hits an opponent, a Sunfire Arrow will descend upon the opponent hit, dealing <color=#99FFFFFF>105%</color> ATK as DMG, and applying the Heartsearer effect to the opponent damaged by said Arrow for 10s. Opponents affected by Heartsearer take <color=#99FFFFFF>49%</color> more Charged Attack DMG from the wielder. A Sunfire Arrow can be triggered once every 10s.",
-      "ParamList": [10, 1.05, 10, 0.49]
+      "ParamList": [10, 1.05, 10, 0.49, 0, 0, 0, 0]
     },
     "5": {
       "Name": "The Way of Sunfire",
       "Desc": "After a Charged Attack hits an opponent, a Sunfire Arrow will descend upon the opponent hit, dealing <color=#99FFFFFF>120%</color> ATK as DMG, and applying the Heartsearer effect to the opponent damaged by said Arrow for 10s. Opponents affected by Heartsearer take <color=#99FFFFFF>56%</color> more Charged Attack DMG from the wielder. A Sunfire Arrow can be triggered once every 10s.",
-      "ParamList": [10, 1.2, 10, 0.56]
+      "ParamList": [10, 1.2, 10, 0.56, 0, 0, 0, 0]
     }
   },
   "Materials": {

@@ -418,7 +418,7 @@
         "Name": "A Guest's August Omen",
         "Desc": "Xianyun's outfit. These garments were not designed by any famous tailor, though at first glance, they appear to be made of the finest silks. Yet closer inspection reveals that the weave is not of silk, cotton, or linen, and a glow runs through it like an adeptus's feather coat. One can only imagine from what provenance she obtained such clothes...",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -797,7 +797,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Word of Wind and Flower",
+      "Name": "Word of Wind and Flower",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nSummons swirling winds to perform up to 4 attacks, dealing <color=#80FFD7FF>Anemo DMG</color>.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina and launches a Breeze Bolt in a straight line that deals <color=#80FFD7FF>Anemo DMG</color> to opponents along its path.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nGathers the power of Anemo and plunges towards the ground from mid-air, damaging all opponents in her path. Deals <color=#80FFD7FF>AoE Anemo DMG</color> upon impact with the ground.",
       "Promote": {
         "0": {
@@ -823,7 +823,7 @@
           ],
           "Param": [
             0.403024, 0.388552, 0.488776, 0.649168, 1.2312, 50, 0.568288,
-            1.136335, 1.419344
+            1.136335, 1.419344, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -849,7 +849,7 @@
           ],
           "Param": [
             0.433251, 0.417693, 0.525434, 0.697856, 1.32354, 50, 0.614544,
-            1.228828, 1.534872
+            1.228828, 1.534872, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -875,7 +875,7 @@
           ],
           "Param": [
             0.463478, 0.446835, 0.562092, 0.746543, 1.41588, 50, 0.6608,
-            1.32132, 1.6504
+            1.32132, 1.6504, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -901,7 +901,7 @@
           ],
           "Param": [
             0.50378, 0.48569, 0.61097, 0.81146, 1.539, 50, 0.72688, 1.453452,
-            1.81544
+            1.81544, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -927,7 +927,7 @@
           ],
           "Param": [
             0.534007, 0.514831, 0.647628, 0.860148, 1.63134, 50, 0.773136,
-            1.545944, 1.930968
+            1.545944, 1.930968, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -953,7 +953,7 @@
           ],
           "Param": [
             0.564234, 0.543973, 0.684286, 0.908835, 1.72368, 50, 0.826, 1.65165,
-            2.063
+            2.063, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -979,7 +979,7 @@
           ],
           "Param": [
             0.604536, 0.582828, 0.733164, 0.973752, 1.8468, 50, 0.898688,
-            1.796995, 2.244544
+            1.796995, 2.244544, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1005,7 +1005,7 @@
           ],
           "Param": [
             0.644838, 0.621683, 0.782042, 1.038669, 1.96992, 50, 0.971376,
-            1.94234, 2.426088
+            1.94234, 2.426088, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1031,7 +1031,7 @@
           ],
           "Param": [
             0.685141, 0.660538, 0.830919, 1.103586, 2.09304, 50, 1.044064,
-            2.087686, 2.607632
+            2.087686, 2.607632, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1057,7 +1057,7 @@
           ],
           "Param": [
             0.725443, 0.699394, 0.879797, 1.168502, 2.21616, 50, 1.12336,
-            2.246244, 2.80568
+            2.246244, 2.80568, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1083,7 +1083,7 @@
           ],
           "Param": [
             0.765746, 0.738249, 0.928674, 1.233419, 2.33928, 50, 1.202656,
-            2.404802, 3.003728
+            2.404802, 3.003728, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1109,7 +1109,7 @@
           ],
           "Param": [
             0.806048, 0.777104, 0.977552, 1.298336, 2.4624, 50, 1.281952,
-            2.563361, 3.201776
+            2.563361, 3.201776, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1135,7 +1135,7 @@
           ],
           "Param": [
             0.856426, 0.825673, 1.038649, 1.379482, 2.6163, 50, 1.361248,
-            2.721919, 3.399824
+            2.721919, 3.399824, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1161,7 +1161,7 @@
           ],
           "Param": [
             0.906804, 0.874242, 1.099746, 1.460628, 2.7702, 50, 1.440544,
-            2.880478, 3.597872
+            2.880478, 3.597872, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1187,7 +1187,7 @@
           ],
           "Param": [
             0.957182, 0.922811, 1.160843, 1.541774, 2.9241, 50, 1.51984,
-            3.039036, 3.79592
+            3.039036, 3.79592, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1217,7 +1217,10 @@
             "",
             ""
           ],
-          "Param": [0.248, 1.16, 1.48, 3.376, 12]
+          "Param": [
+            0.248, 1.16, 1.48, 3.376, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1240,7 +1243,10 @@
             "",
             ""
           ],
-          "Param": [0.2666, 1.247, 1.591, 3.6292, 12]
+          "Param": [
+            0.2666, 1.247, 1.591, 3.6292, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1263,7 +1269,10 @@
             "",
             ""
           ],
-          "Param": [0.2852, 1.334, 1.702, 3.8824, 12]
+          "Param": [
+            0.2852, 1.334, 1.702, 3.8824, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1286,7 +1295,10 @@
             "",
             ""
           ],
-          "Param": [0.31, 1.45, 1.85, 4.22, 12]
+          "Param": [
+            0.31, 1.45, 1.85, 4.22, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1309,7 +1321,10 @@
             "",
             ""
           ],
-          "Param": [0.3286, 1.537, 1.961, 4.4732, 12]
+          "Param": [
+            0.3286, 1.537, 1.961, 4.4732, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1332,7 +1347,10 @@
             "",
             ""
           ],
-          "Param": [0.3472, 1.624, 2.072, 4.7264, 12]
+          "Param": [
+            0.3472, 1.624, 2.072, 4.7264, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1355,7 +1373,10 @@
             "",
             ""
           ],
-          "Param": [0.372, 1.74, 2.22, 5.064, 12]
+          "Param": [
+            0.372, 1.74, 2.22, 5.064, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1378,7 +1399,10 @@
             "",
             ""
           ],
-          "Param": [0.3968, 1.856, 2.368, 5.4016, 12]
+          "Param": [
+            0.3968, 1.856, 2.368, 5.4016, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1401,7 +1425,10 @@
             "",
             ""
           ],
-          "Param": [0.4216, 1.972, 2.516, 5.7392, 12]
+          "Param": [
+            0.4216, 1.972, 2.516, 5.7392, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1424,7 +1451,10 @@
             "",
             ""
           ],
-          "Param": [0.4464, 2.088, 2.664, 6.0768, 12]
+          "Param": [
+            0.4464, 2.088, 2.664, 6.0768, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1447,7 +1477,10 @@
             "",
             ""
           ],
-          "Param": [0.4712, 2.204, 2.812, 6.4144, 12]
+          "Param": [
+            0.4712, 2.204, 2.812, 6.4144, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1470,7 +1503,10 @@
             "",
             ""
           ],
-          "Param": [0.496, 2.32, 2.96, 6.752, 12]
+          "Param": [
+            0.496, 2.32, 2.96, 6.752, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1493,7 +1529,10 @@
             "",
             ""
           ],
-          "Param": [0.527, 2.465, 3.145, 7.174, 12]
+          "Param": [
+            0.527, 2.465, 3.145, 7.174, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1516,7 +1555,10 @@
             "",
             ""
           ],
-          "Param": [0.558, 2.61, 3.33, 7.596, 12]
+          "Param": [
+            0.558, 2.61, 3.33, 7.596, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1539,7 +1581,10 @@
             "",
             ""
           ],
-          "Param": [0.589, 2.755, 3.515, 8.018, 12]
+          "Param": [
+            0.589, 2.755, 3.515, 8.018, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         }
       }
     },
@@ -1569,7 +1614,8 @@
             ""
           ],
           "Param": [
-            1.08, 0.392, 577.7816, 0.9216, 269.6314, 0.43008, 2.5, 8, 16, 18, 70
+            1.08, 0.392, 577.7816, 0.9216, 269.6314, 0.43008, 2.5, 8, 16, 18,
+            70, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -1595,7 +1641,7 @@
           ],
           "Param": [
             1.161, 0.4214, 635.5678, 0.99072, 296.59833, 0.462336, 2.5, 8, 16,
-            18, 70
+            18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -1621,7 +1667,7 @@
           ],
           "Param": [
             1.242, 0.4508, 698.1695, 1.05984, 325.81244, 0.494592, 2.5, 8, 16,
-            18, 70
+            18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -1646,7 +1692,8 @@
             ""
           ],
           "Param": [
-            1.35, 0.49, 765.58673, 1.152, 357.2738, 0.5376, 2.5, 8, 16, 18, 70
+            1.35, 0.49, 765.58673, 1.152, 357.2738, 0.5376, 2.5, 8, 16, 18, 70,
+            0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -1672,7 +1719,7 @@
           ],
           "Param": [
             1.431, 0.5194, 837.8195, 1.22112, 390.98242, 0.569856, 2.5, 8, 16,
-            18, 70
+            18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -1698,7 +1745,7 @@
           ],
           "Param": [
             1.512, 0.5488, 914.86774, 1.29024, 426.9383, 0.602112, 2.5, 8, 16,
-            18, 70
+            18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -1723,7 +1770,8 @@
             ""
           ],
           "Param": [
-            1.62, 0.588, 996.7315, 1.3824, 465.1414, 0.64512, 2.5, 8, 16, 18, 70
+            1.62, 0.588, 996.7315, 1.3824, 465.1414, 0.64512, 2.5, 8, 16, 18,
+            70, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1749,7 +1797,7 @@
           ],
           "Param": [
             1.728, 0.6272, 1083.4108, 1.47456, 505.5917, 0.688128, 2.5, 8, 16,
-            18, 70
+            18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1775,7 +1823,7 @@
           ],
           "Param": [
             1.836, 0.6664, 1174.9056, 1.56672, 548.2893, 0.731136, 2.5, 8, 16,
-            18, 70
+            18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1801,7 +1849,7 @@
           ],
           "Param": [
             1.944, 0.7056, 1271.216, 1.65888, 593.23413, 0.774144, 2.5, 8, 16,
-            18, 70
+            18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1827,7 +1875,7 @@
           ],
           "Param": [
             2.052, 0.7448, 1372.3418, 1.75104, 640.42615, 0.817152, 2.5, 8, 16,
-            18, 70
+            18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1853,7 +1901,7 @@
           ],
           "Param": [
             2.16, 0.784, 1478.2831, 1.8432, 689.8655, 0.86016, 2.5, 8, 16, 18,
-            70
+            70, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1878,7 +1926,8 @@
             ""
           ],
           "Param": [
-            2.295, 0.833, 1589.04, 1.9584, 741.552, 0.91392, 2.5, 8, 16, 18, 70
+            2.295, 0.833, 1589.04, 1.9584, 741.552, 0.91392, 2.5, 8, 16, 18, 70,
+            0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1904,7 +1953,7 @@
           ],
           "Param": [
             2.43, 0.882, 1704.6124, 2.0736, 795.4858, 0.96768, 2.5, 8, 16, 18,
-            70
+            70, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1930,7 +1979,7 @@
           ],
           "Param": [
             2.565, 0.931, 1825.0002, 2.1888, 851.6668, 1.02144, 2.5, 8, 16, 18,
-            70
+            70, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1942,21 +1991,25 @@
       "Desc": "Each opponent hit by Driftcloud Waves from <color=#FFD780FF>White Clouds at Dawn</color> will grant all nearby party members 1 stack of Storm Pinion for 20s. Max 4 stacks. These will cause the characters' Plunging Attack CRIT Rate to increase by 4%/6%/8%/10% respectively.\\nEach Storm Pinion created by hitting an opponent has an independent duration.",
       "Icon": "UI_Talent_S_Liuyun_05",
       "Unlock": 1,
-      "ParamList": [0.04, 0.06, 0.08, 0.1, 20]
+      "ParamList": [
+        0.04, 0.06, 0.08, 0.1, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Consider, the Adeptus in Her Realm",
       "Desc": "When the Starwicker created by <color=#FFD780FF>Stars Gather at Dusk</color> has Adeptal Assistance stacks, nearby active characters' Plunging Attack shockwave DMG will be increased by 200% of Xianyun's ATK. The maximum DMG increase that can be achieved this way is 9,000.\\nEach Plunging Attack shockwave DMG instance can only apply this increased DMG effect to a single opponent. Each character can trigger this effect once every 0.4s.",
       "Icon": "UI_Talent_S_Liuyun_06",
       "Unlock": 4,
-      "ParamList": [2, 4500, 0.4]
+      "ParamList": [
+        2, 4500, 0.4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Crane Form",
       "Desc": "Increases gliding SPD for your own party members by 15%.\\nNot stackable with Passive Talents that provide the exact same effects.",
       "Icon": "UI_Talent_S_Liuyun_07",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Constellations": [
@@ -1964,37 +2017,37 @@
       "Name": "Purifying Wind",
       "Desc": "<color=#FFD780FF>White Clouds at Dawn</color> gains 1 additional charge.",
       "Icon": "UI_Talent_S_Liuyun_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Aloof From the World",
       "Desc": "After using a Skyladder from <color=#FFD780FF>White Clouds at Dawn</color>, Xianyun's ATK will be increased by 20% for 15s.\\nAdditionally, the effects of the Passive Talent \"Consider, the Adeptus in Her Realm\" will be enhanced: When the Starwicker created by <color=#FFD780FF>Stars Gather at Dusk</color> has Adeptal Assistance stacks, nearby active characters' Plunging Attack shockwave DMG will be increased by 400% of Xianyun's ATK. The maximum DMG increase that can be achieved this way is 18,000.\\nEach Plunging Attack shockwave DMG instance can only apply this increased DMG effect to a single opponent. Each character can trigger this effect once every 0.4s.\\nYou must first unlock the Passive Talent \"Consider, the Adeptus in Her Realm.\"",
       "Icon": "UI_Talent_S_Liuyun_02",
-      "ParamList": [0.2, 15, 1]
+      "ParamList": [0.2, 15, 1, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Creations of Star and Moon",
       "Desc": "Increases the Level of <color=#FFD780FF>Stars Gather at Dusk</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Liuyun_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Mystery Millet Gourmet",
       "Desc": "After using Skyladder 1/2/3 times during one <color=#FFD780FF>White Clouds at Dawn</color> Cloud Transmogrification state, when a Driftcloud Wave unleashed during that instance hits an opponent, it will heal all nearby party members for 50%/80%/150% of Xianyun's ATK. This effect can be triggered once every 5s.",
       "Icon": "UI_Talent_S_Liuyun_03",
-      "ParamList": [0.5, 0.8, 1.5, 5]
+      "ParamList": [0.5, 0.8, 1.5, 5, 0, 0, 0, 0]
     },
     {
       "Name": "Astride Rose-Colored Clouds",
       "Desc": "Increases the Level of <color=#FFD780FF>White Clouds at Dawn</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Liuyun_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "They Call Her Cloud Retainer",
       "Desc": "After Xianyun uses 1/2/3 Skyladders within one Cloud Transmogrification caused by <color=#FFD780FF>White Clouds at Dawn</color>, the CRIT DMG of a Driftcloud Wave created in this instance of Cloud Transmogrification will be increased by 15%/35%/70%.\\nWithin 16s after Xianyun has used <color=#FFD780FF>Stars Gather at Dusk</color>, White Clouds at Dawn will not enter CD. This effect will be canceled once she has used White Clouds at Dawn 8 times.",
       "Icon": "UI_Talent_S_Liuyun_04",
-      "ParamList": [0.15, 0.35, 0.7, 8, 16]
+      "ParamList": [0.15, 0.35, 0.7, 8, 16, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -2007,7 +2060,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Clearwater Jade", "Id": 101241, "Count": 3, "Rank": 1 },
+          { "Name": "Clearwater Jade", "Id": 101241, "Count": 3, "Rank": 0 },
           { "Name": "Divining Scroll", "Id": 112008, "Count": 3, "Rank": 1 }
         ],
         "Cost": 20000
@@ -2021,7 +2074,7 @@
             "Rank": 3
           },
           { "Name": "Cloudseam Scale", "Id": 113058, "Count": 2, "Rank": 4 },
-          { "Name": "Clearwater Jade", "Id": 101241, "Count": 10, "Rank": 1 },
+          { "Name": "Clearwater Jade", "Id": 101241, "Count": 10, "Rank": 0 },
           { "Name": "Divining Scroll", "Id": 112008, "Count": 15, "Rank": 1 }
         ],
         "Cost": 40000
@@ -2035,7 +2088,7 @@
             "Rank": 3
           },
           { "Name": "Cloudseam Scale", "Id": 113058, "Count": 4, "Rank": 4 },
-          { "Name": "Clearwater Jade", "Id": 101241, "Count": 20, "Rank": 1 },
+          { "Name": "Clearwater Jade", "Id": 101241, "Count": 20, "Rank": 0 },
           { "Name": "Sealed Scroll", "Id": 112009, "Count": 12, "Rank": 2 }
         ],
         "Cost": 60000
@@ -2049,7 +2102,7 @@
             "Rank": 4
           },
           { "Name": "Cloudseam Scale", "Id": 113058, "Count": 8, "Rank": 4 },
-          { "Name": "Clearwater Jade", "Id": 101241, "Count": 30, "Rank": 1 },
+          { "Name": "Clearwater Jade", "Id": 101241, "Count": 30, "Rank": 0 },
           { "Name": "Sealed Scroll", "Id": 112009, "Count": 18, "Rank": 2 }
         ],
         "Cost": 80000
@@ -2063,7 +2116,7 @@
             "Rank": 4
           },
           { "Name": "Cloudseam Scale", "Id": 113058, "Count": 12, "Rank": 4 },
-          { "Name": "Clearwater Jade", "Id": 101241, "Count": 45, "Rank": 1 },
+          { "Name": "Clearwater Jade", "Id": 101241, "Count": 45, "Rank": 0 },
           {
             "Name": "Forbidden Curse Scroll",
             "Id": 112010,
@@ -2082,7 +2135,7 @@
             "Rank": 5
           },
           { "Name": "Cloudseam Scale", "Id": 113058, "Count": 20, "Rank": 4 },
-          { "Name": "Clearwater Jade", "Id": 101241, "Count": 60, "Rank": 1 },
+          { "Name": "Clearwater Jade", "Id": 101241, "Count": 60, "Rank": 0 },
           {
             "Name": "Forbidden Curse Scroll",
             "Id": 112010,

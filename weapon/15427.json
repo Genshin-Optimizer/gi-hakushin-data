@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_202",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 43.7349
+      "initValue": 43.7349,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_ATTACK_PERCENT",
-      "initValue": 0.06
+      "initValue": 0.06,
+      "propType": "FIGHT_PROP_ATTACK_PERCENT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Masons' Ditty",
       "Desc": "When the wielder is healed or heals others, they will gain a Unity's Symbol that lasts 30s, up to a maximum of 3 Symbols. When using their Elemental Skill or Burst, all Symbols will be consumed and the Struggle effect will be granted for 10s. For each Symbol consumed, gain <color=#99FFFFFF>3%</color> ATK and <color=#99FFFFFF>7%</color> All Elemental DMG Bonus. The Struggle effect can be triggered once every 15s, and Symbols can be gained even when the character is not on the field.",
-      "ParamList": [30, 10, 15, 0.03, 0.07]
+      "ParamList": [30, 10, 15, 0.03, 0.07, 0, 0, 0]
     },
     "2": {
       "Name": "Masons' Ditty",
       "Desc": "When the wielder is healed or heals others, they will gain a Unity's Symbol that lasts 30s, up to a maximum of 3 Symbols. When using their Elemental Skill or Burst, all Symbols will be consumed and the Struggle effect will be granted for 10s. For each Symbol consumed, gain <color=#99FFFFFF>4%</color> ATK and <color=#99FFFFFF>8.5%</color> All Elemental DMG Bonus. The Struggle effect can be triggered once every 15s, and Symbols can be gained even when the character is not on the field.",
-      "ParamList": [30, 10, 15, 0.04, 0.085]
+      "ParamList": [30, 10, 15, 0.04, 0.085, 0, 0, 0]
     },
     "3": {
       "Name": "Masons' Ditty",
       "Desc": "When the wielder is healed or heals others, they will gain a Unity's Symbol that lasts 30s, up to a maximum of 3 Symbols. When using their Elemental Skill or Burst, all Symbols will be consumed and the Struggle effect will be granted for 10s. For each Symbol consumed, gain <color=#99FFFFFF>5%</color> ATK and <color=#99FFFFFF>10%</color> All Elemental DMG Bonus. The Struggle effect can be triggered once every 15s, and Symbols can be gained even when the character is not on the field.",
-      "ParamList": [30, 10, 15, 0.05, 0.1]
+      "ParamList": [30, 10, 15, 0.05, 0.1, 0, 0, 0]
     },
     "4": {
       "Name": "Masons' Ditty",
       "Desc": "When the wielder is healed or heals others, they will gain a Unity's Symbol that lasts 30s, up to a maximum of 3 Symbols. When using their Elemental Skill or Burst, all Symbols will be consumed and the Struggle effect will be granted for 10s. For each Symbol consumed, gain <color=#99FFFFFF>6%</color> ATK and <color=#99FFFFFF>11.5%</color> All Elemental DMG Bonus. The Struggle effect can be triggered once every 15s, and Symbols can be gained even when the character is not on the field.",
-      "ParamList": [30, 10, 15, 0.06, 0.115]
+      "ParamList": [30, 10, 15, 0.06, 0.115, 0, 0, 0]
     },
     "5": {
       "Name": "Masons' Ditty",
       "Desc": "When the wielder is healed or heals others, they will gain a Unity's Symbol that lasts 30s, up to a maximum of 3 Symbols. When using their Elemental Skill or Burst, all Symbols will be consumed and the Struggle effect will be granted for 10s. For each Symbol consumed, gain <color=#99FFFFFF>7%</color> ATK and <color=#99FFFFFF>13%</color> All Elemental DMG Bonus. The Struggle effect can be triggered once every 15s, and Symbols can be gained even when the character is not on the field.",
-      "ParamList": [30, 10, 15, 0.07, 0.13]
+      "ParamList": [30, 10, 15, 0.07, 0.13, 0, 0, 0]
     }
   },
   "Materials": {

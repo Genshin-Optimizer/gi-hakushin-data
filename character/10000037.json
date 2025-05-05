@@ -466,7 +466,7 @@
         "Name": "Frostdew Trail",
         "Desc": "Ganyu's outfit. Elegant clothes blessed by the mighty and illuminated adepti.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": [
@@ -852,7 +852,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Liutian Archery",
+      "Name": "Liutian Archery",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 6 consecutive shots with a bow.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nPerforms a more precise <color=#FFD780FF>Aimed Shot</color> with increased DMG.\\nWhile aiming, an icy aura will accumulate on the arrowhead before the arrow is fired. Has different effects based on how long the energy has been charged:\\n·Charge Level 1: Fires off an icy arrow that deals <color=#99FFFFFF>Cryo DMG</color>.\\n·Charge Level 2: Fires off a Frostflake Arrow that deals <color=#99FFFFFF>Cryo DMG</color>. The Frostflake Arrow blooms after hitting its target, dealing <color=#99FFFFFF>AoE Cryo DMG</color>.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
       "Promote": {
         "0": {
@@ -878,7 +878,7 @@
           ],
           "Param": [
             0.31734, 0.35604, 0.45494, 0.45494, 0.48246, 0.5762, 0.4386, 1.24,
-            1.28, 2.176, 0.568288, 1.136335, 1.419344
+            1.28, 2.176, 0.568288, 1.136335, 1.419344, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -904,7 +904,7 @@
           ],
           "Param": [
             0.34317, 0.38502, 0.49197, 0.49197, 0.52173, 0.6231, 0.4743, 1.333,
-            1.376, 2.3392, 0.614544, 1.228828, 1.534872
+            1.376, 2.3392, 0.614544, 1.228828, 1.534872, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -930,7 +930,7 @@
           ],
           "Param": [
             0.369, 0.414, 0.529, 0.529, 0.561, 0.67, 0.51, 1.426, 1.472, 2.5024,
-            0.6608, 1.32132, 1.6504
+            0.6608, 1.32132, 1.6504, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -956,7 +956,7 @@
           ],
           "Param": [
             0.4059, 0.4554, 0.5819, 0.5819, 0.6171, 0.737, 0.561, 1.55, 1.6,
-            2.72, 0.72688, 1.453452, 1.81544
+            2.72, 0.72688, 1.453452, 1.81544, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -982,7 +982,7 @@
           ],
           "Param": [
             0.43173, 0.48438, 0.61893, 0.61893, 0.65637, 0.7839, 0.5967, 1.643,
-            1.696, 2.8832, 0.773136, 1.545944, 1.930968
+            1.696, 2.8832, 0.773136, 1.545944, 1.930968, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -1008,7 +1008,7 @@
           ],
           "Param": [
             0.46125, 0.5175, 0.66125, 0.66125, 0.70125, 0.8375, 0.6375, 1.736,
-            1.792, 3.0464, 0.826, 1.65165, 2.063
+            1.792, 3.0464, 0.826, 1.65165, 2.063, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -1034,7 +1034,7 @@
           ],
           "Param": [
             0.50184, 0.56304, 0.71944, 0.71944, 0.76296, 0.9112, 0.6936, 1.86,
-            1.92, 3.264, 0.898688, 1.796995, 2.244544
+            1.92, 3.264, 0.898688, 1.796995, 2.244544, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1060,7 +1060,7 @@
           ],
           "Param": [
             0.54243, 0.60858, 0.77763, 0.77763, 0.82467, 0.9849, 0.7497, 1.984,
-            2.048, 3.4816, 0.971376, 1.94234, 2.426088
+            2.048, 3.4816, 0.971376, 1.94234, 2.426088, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1086,7 +1086,7 @@
           ],
           "Param": [
             0.58302, 0.65412, 0.83582, 0.83582, 0.88638, 1.0586, 0.8058, 2.108,
-            2.176, 3.6992, 1.044064, 2.087686, 2.607632
+            2.176, 3.6992, 1.044064, 2.087686, 2.607632, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1112,7 +1112,7 @@
           ],
           "Param": [
             0.6273, 0.7038, 0.8993, 0.8993, 0.9537, 1.139, 0.867, 2.232, 2.304,
-            3.9168, 1.12336, 2.246244, 2.80568
+            3.9168, 1.12336, 2.246244, 2.80568, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1138,7 +1138,8 @@
           ],
           "Param": [
             0.678037, 0.760725, 0.972038, 0.972038, 1.030838, 1.231125, 0.9282,
-            2.356, 2.432, 4.1344, 1.202656, 2.404802, 3.003728
+            2.356, 2.432, 4.1344, 1.202656, 2.404802, 3.003728, 0, 0, 0, 0, 0,
+            0, 0
           ]
         },
         "11": {
@@ -1164,7 +1165,7 @@
           ],
           "Param": [
             0.737705, 0.827669, 1.057577, 1.057577, 1.121551, 1.339464, 0.9894,
-            2.48, 2.56, 4.352, 1.281952, 2.563361, 3.201776
+            2.48, 2.56, 4.352, 1.281952, 2.563361, 3.201776, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1190,7 +1191,8 @@
           ],
           "Param": [
             0.797372, 0.894613, 1.143116, 1.143116, 1.212265, 1.447803, 1.0506,
-            2.635, 2.72, 4.624, 1.361248, 2.721919, 3.399824
+            2.635, 2.72, 4.624, 1.361248, 2.721919, 3.399824, 0, 0, 0, 0, 0, 0,
+            0
           ]
         },
         "13": {
@@ -1216,7 +1218,7 @@
           ],
           "Param": [
             0.857039, 0.961556, 1.228655, 1.228655, 1.302979, 1.556142, 1.1118,
-            2.79, 2.88, 4.896, 1.440544, 2.880478, 3.597872
+            2.79, 2.88, 4.896, 1.440544, 2.880478, 3.597872, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1242,7 +1244,7 @@
           ],
           "Param": [
             0.922131, 1.034586, 1.321971, 1.321971, 1.401939, 1.67433, 1.173,
-            2.945, 3.04, 5.168, 1.51984, 3.039036, 3.79592
+            2.945, 3.04, 5.168, 1.51984, 3.039036, 3.79592, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1272,7 +1274,9 @@
             "",
             ""
           ],
-          "Param": [1.2, 1.32, 6, 10]
+          "Param": [
+            1.2, 1.32, 6, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1295,7 +1299,9 @@
             "",
             ""
           ],
-          "Param": [1.29, 1.419, 6, 10]
+          "Param": [
+            1.29, 1.419, 6, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1318,7 +1324,9 @@
             "",
             ""
           ],
-          "Param": [1.38, 1.518, 6, 10]
+          "Param": [
+            1.38, 1.518, 6, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1341,7 +1349,9 @@
             "",
             ""
           ],
-          "Param": [1.5, 1.65, 6, 10]
+          "Param": [
+            1.5, 1.65, 6, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1364,7 +1374,9 @@
             "",
             ""
           ],
-          "Param": [1.59, 1.749, 6, 10]
+          "Param": [
+            1.59, 1.749, 6, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1387,7 +1399,9 @@
             "",
             ""
           ],
-          "Param": [1.68, 1.848, 6, 10]
+          "Param": [
+            1.68, 1.848, 6, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1410,7 +1424,9 @@
             "",
             ""
           ],
-          "Param": [1.8, 1.98, 6, 10]
+          "Param": [
+            1.8, 1.98, 6, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1433,7 +1449,9 @@
             "",
             ""
           ],
-          "Param": [1.92, 2.112, 6, 10]
+          "Param": [
+            1.92, 2.112, 6, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1456,7 +1474,9 @@
             "",
             ""
           ],
-          "Param": [2.04, 2.244, 6, 10]
+          "Param": [
+            2.04, 2.244, 6, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1479,7 +1499,9 @@
             "",
             ""
           ],
-          "Param": [2.16, 2.376, 6, 10]
+          "Param": [
+            2.16, 2.376, 6, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1502,7 +1524,9 @@
             "",
             ""
           ],
-          "Param": [2.28, 2.508, 6, 10]
+          "Param": [
+            2.28, 2.508, 6, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1525,7 +1549,9 @@
             "",
             ""
           ],
-          "Param": [2.4, 2.64, 6, 10]
+          "Param": [
+            2.4, 2.64, 6, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1548,7 +1574,9 @@
             "",
             ""
           ],
-          "Param": [2.55, 2.805, 6, 10]
+          "Param": [
+            2.55, 2.805, 6, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1571,7 +1599,9 @@
             "",
             ""
           ],
-          "Param": [2.7, 2.97, 6, 10]
+          "Param": [
+            2.7, 2.97, 6, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1594,7 +1624,9 @@
             "",
             ""
           ],
-          "Param": [2.85, 3.135, 6, 10]
+          "Param": [
+            2.85, 3.135, 6, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         }
       }
     },
@@ -1623,7 +1655,9 @@
             "",
             ""
           ],
-          "Param": [0.70272, 15, 15, 60]
+          "Param": [
+            0.70272, 15, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1646,7 +1680,9 @@
             "",
             ""
           ],
-          "Param": [0.755424, 15, 15, 60]
+          "Param": [
+            0.755424, 15, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1669,7 +1705,9 @@
             "",
             ""
           ],
-          "Param": [0.808128, 15, 15, 60]
+          "Param": [
+            0.808128, 15, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1692,7 +1730,9 @@
             "",
             ""
           ],
-          "Param": [0.8784, 15, 15, 60]
+          "Param": [
+            0.8784, 15, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1715,7 +1755,9 @@
             "",
             ""
           ],
-          "Param": [0.931104, 15, 15, 60]
+          "Param": [
+            0.931104, 15, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1738,7 +1780,9 @@
             "",
             ""
           ],
-          "Param": [0.983808, 15, 15, 60]
+          "Param": [
+            0.983808, 15, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1761,7 +1805,9 @@
             "",
             ""
           ],
-          "Param": [1.05408, 15, 15, 60]
+          "Param": [
+            1.05408, 15, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1784,7 +1830,9 @@
             "",
             ""
           ],
-          "Param": [1.124352, 15, 15, 60]
+          "Param": [
+            1.124352, 15, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1807,7 +1855,9 @@
             "",
             ""
           ],
-          "Param": [1.194624, 15, 15, 60]
+          "Param": [
+            1.194624, 15, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1830,7 +1880,9 @@
             "",
             ""
           ],
-          "Param": [1.264896, 15, 15, 60]
+          "Param": [
+            1.264896, 15, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1853,7 +1905,9 @@
             "",
             ""
           ],
-          "Param": [1.335168, 15, 15, 60]
+          "Param": [
+            1.335168, 15, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1876,7 +1930,9 @@
             "",
             ""
           ],
-          "Param": [1.40544, 15, 15, 60]
+          "Param": [
+            1.40544, 15, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1899,7 +1955,9 @@
             "",
             ""
           ],
-          "Param": [1.49328, 15, 15, 60]
+          "Param": [
+            1.49328, 15, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1922,7 +1980,9 @@
             "",
             ""
           ],
-          "Param": [1.58112, 15, 15, 60]
+          "Param": [
+            1.58112, 15, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1945,7 +2005,9 @@
             "",
             ""
           ],
-          "Param": [1.66896, 15, 15, 60]
+          "Param": [
+            1.66896, 15, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         }
       }
     }
@@ -1956,21 +2018,25 @@
       "Desc": "After firing a Frostflake Arrow, the CRIT Rate of subsequent Frostflake Arrows and their resulting bloom effects is increased by 20% for 5s.",
       "Icon": "UI_Talent_S_Ganyu_05",
       "Unlock": 1,
-      "ParamList": [5, 0.2]
+      "ParamList": [
+        5, 0.2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Harmony Between Heaven and Earth",
       "Desc": "<color=#FFD780FF>Celestial Shower</color> grants a 20% <color=#99FFFFFF>Cryo DMG Bonus</color> to active party members in the AoE.",
       "Icon": "UI_Talent_S_Ganyu_06",
       "Unlock": 4,
-      "ParamList": [0.2]
+      "ParamList": [
+        0.2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Preserved for the Hunt",
       "Desc": "Refunds 15% of the ore used when crafting Bow-type weapons.",
       "Icon": "UI_Talent_Forge_Bow",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Constellations": [
@@ -1978,37 +2044,37 @@
       "Name": "Dew-Drinker",
       "Desc": "Charge Level 2 Frostflake Arrows or Frostflake Arrow Blooms decrease opponents' <color=#99FFFFFF>Cryo RES</color> by 15% for 6s upon hit.\\nA hit also regenerates 2 Energy for Ganyu. This effect can only occur once per Charge Level 2 Frostflake Arrow, regardless if Frostflake Arrow itself or its Bloom hits the target.",
       "Icon": "UI_Talent_S_Ganyu_01",
-      "ParamList": [-0.15, 6, 2]
+      "ParamList": [-0.15, 6, 2, 0, 0, 0, 0, 0]
     },
     {
       "Name": "The Auspicious",
       "Desc": "<color=#FFD780FF>Trail of the Qilin</color> gains 1 additional charge.",
       "Icon": "UI_Talent_S_Ganyu_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Cloud-Strider",
       "Desc": "Increases the Level of <color=#FFD780FF>Celestial Shower</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Ganyu_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Westward Sojourn",
       "Desc": "Opponents standing within the AoE of <color=#FFD780FF>Celestial Shower</color> take increased DMG. This effect strengthens over time.\\nIncreased DMG taken begins at 5% and increases by 5% every 3s, up to a maximum of 25%.\\nThe effect lingers for 3s after the opponent leaves the AoE.",
       "Icon": "UI_Talent_S_Ganyu_03",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "The Merciful",
       "Desc": "Increases the Level of <color=#FFD780FF>Trail of the Qilin</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Ganyu_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "The Clement",
       "Desc": "Using <color=#FFD780FF>Trail of the Qilin</color> causes the next Frostflake Arrow shot within 30s to not require charging.",
       "Icon": "UI_Talent_S_Ganyu_04",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -2021,7 +2087,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Qingxin", "Id": 100031, "Count": 3, "Rank": 1 },
+          { "Name": "Qingxin", "Id": 100031, "Count": 3, "Rank": 0 },
           {
             "Name": "Whopperflower Nectar",
             "Id": 112038,
@@ -2040,7 +2106,7 @@
             "Rank": 3
           },
           { "Name": "Hoarfrost Core", "Id": 113010, "Count": 2, "Rank": 4 },
-          { "Name": "Qingxin", "Id": 100031, "Count": 10, "Rank": 1 },
+          { "Name": "Qingxin", "Id": 100031, "Count": 10, "Rank": 0 },
           {
             "Name": "Whopperflower Nectar",
             "Id": 112038,
@@ -2059,7 +2125,7 @@
             "Rank": 3
           },
           { "Name": "Hoarfrost Core", "Id": 113010, "Count": 4, "Rank": 4 },
-          { "Name": "Qingxin", "Id": 100031, "Count": 20, "Rank": 1 },
+          { "Name": "Qingxin", "Id": 100031, "Count": 20, "Rank": 0 },
           { "Name": "Shimmering Nectar", "Id": 112039, "Count": 12, "Rank": 2 }
         ],
         "Cost": 60000
@@ -2068,7 +2134,7 @@
         "Mats": [
           { "Name": "Shivada Jade Chunk", "Id": 104163, "Count": 3, "Rank": 4 },
           { "Name": "Hoarfrost Core", "Id": 113010, "Count": 8, "Rank": 4 },
-          { "Name": "Qingxin", "Id": 100031, "Count": 30, "Rank": 1 },
+          { "Name": "Qingxin", "Id": 100031, "Count": 30, "Rank": 0 },
           { "Name": "Shimmering Nectar", "Id": 112039, "Count": 18, "Rank": 2 }
         ],
         "Cost": 80000
@@ -2077,7 +2143,7 @@
         "Mats": [
           { "Name": "Shivada Jade Chunk", "Id": 104163, "Count": 6, "Rank": 4 },
           { "Name": "Hoarfrost Core", "Id": 113010, "Count": 12, "Rank": 4 },
-          { "Name": "Qingxin", "Id": 100031, "Count": 45, "Rank": 1 },
+          { "Name": "Qingxin", "Id": 100031, "Count": 45, "Rank": 0 },
           { "Name": "Energy Nectar", "Id": 112040, "Count": 12, "Rank": 3 }
         ],
         "Cost": 100000
@@ -2091,7 +2157,7 @@
             "Rank": 5
           },
           { "Name": "Hoarfrost Core", "Id": 113010, "Count": 20, "Rank": 4 },
-          { "Name": "Qingxin", "Id": 100031, "Count": 60, "Rank": 1 },
+          { "Name": "Qingxin", "Id": 100031, "Count": 60, "Rank": 0 },
           { "Name": "Energy Nectar", "Id": 112040, "Count": 24, "Rank": 3 }
         ],
         "Cost": 120000

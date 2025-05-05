@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_304",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 44.3358
+      "initValue": 44.3358,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_301",
-      "propType": "FIGHT_PROP_CRITICAL_HURT",
-      "initValue": 0.192
+      "initValue": 0.192,
+      "propType": "FIGHT_PROP_CRITICAL_HURT"
     }
   ],
   "Rarity": 5,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Whitemoon Bristle",
       "Desc": "CRIT Rate is increased by <color=#99FFFFFF>4%</color>. After Normal Attacks deal Elemental DMG, the Foliar Incision effect will be obtained, increasing DMG dealt by Normal Attacks and Elemental Skills by <color=#99FFFFFF>120%</color> of Elemental Mastery. This effect will disappear after 28 DMG instances or 12s. You can obtain Foliar Incision once every 12s.",
-      "ParamList": [0.04, 1.2, 28, 12, 12]
+      "ParamList": [0.04, 1.2, 28, 12, 12, 0, 0, 0]
     },
     "2": {
       "Name": "Whitemoon Bristle",
       "Desc": "CRIT Rate is increased by <color=#99FFFFFF>5%</color>. After Normal Attacks deal Elemental DMG, the Foliar Incision effect will be obtained, increasing DMG dealt by Normal Attacks and Elemental Skills by <color=#99FFFFFF>150%</color> of Elemental Mastery. This effect will disappear after 28 DMG instances or 12s. You can obtain Foliar Incision once every 12s.",
-      "ParamList": [0.05, 1.5, 28, 12, 12]
+      "ParamList": [0.05, 1.5, 28, 12, 12, 0, 0, 0]
     },
     "3": {
       "Name": "Whitemoon Bristle",
       "Desc": "CRIT Rate is increased by <color=#99FFFFFF>6%</color>. After Normal Attacks deal Elemental DMG, the Foliar Incision effect will be obtained, increasing DMG dealt by Normal Attacks and Elemental Skills by <color=#99FFFFFF>180%</color> of Elemental Mastery. This effect will disappear after 28 DMG instances or 12s. You can obtain Foliar Incision once every 12s.",
-      "ParamList": [0.06, 1.8, 28, 12, 12]
+      "ParamList": [0.06, 1.8, 28, 12, 12, 0, 0, 0]
     },
     "4": {
       "Name": "Whitemoon Bristle",
       "Desc": "CRIT Rate is increased by <color=#99FFFFFF>7%</color>. After Normal Attacks deal Elemental DMG, the Foliar Incision effect will be obtained, increasing DMG dealt by Normal Attacks and Elemental Skills by <color=#99FFFFFF>210%</color> of Elemental Mastery. This effect will disappear after 28 DMG instances or 12s. You can obtain Foliar Incision once every 12s.",
-      "ParamList": [0.07, 2.1, 28, 12, 12]
+      "ParamList": [0.07, 2.1, 28, 12, 12, 0, 0, 0]
     },
     "5": {
       "Name": "Whitemoon Bristle",
       "Desc": "CRIT Rate is increased by <color=#99FFFFFF>8%</color>. After Normal Attacks deal Elemental DMG, the Foliar Incision effect will be obtained, increasing DMG dealt by Normal Attacks and Elemental Skills by <color=#99FFFFFF>240%</color> of Elemental Mastery. This effect will disappear after 28 DMG instances or 12s. You can obtain Foliar Incision once every 12s.",
-      "ParamList": [0.08, 2.4, 28, 12, 12]
+      "ParamList": [0.08, 2.4, 28, 12, 12, 0, 0, 0]
     }
   },
   "Materials": {

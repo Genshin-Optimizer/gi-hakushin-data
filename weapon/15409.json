@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_201",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 42.401
+      "initValue": 42.401,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_CRITICAL",
-      "initValue": 0.06
+      "initValue": 0.06,
+      "propType": "FIGHT_PROP_CRITICAL"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Verdant Wind",
       "Desc": "Upon hit, Normal and Charged Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing <color=#99FFFFFF>40%</color> of ATK as DMG to these opponents every 0.5s for 4s. This effect can only occur once every <color=#99FFFFFF>14</color>s.",
-      "ParamList": [0.5, 0.4, 0.5, 4, 14]
+      "ParamList": [0.5, 0.4, 0.5, 4, 14, 0, 0, 0]
     },
     "2": {
       "Name": "Verdant Wind",
       "Desc": "Upon hit, Normal and Charged Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing <color=#99FFFFFF>50%</color> of ATK as DMG to these opponents every 0.5s for 4s. This effect can only occur once every <color=#99FFFFFF>13</color>s.",
-      "ParamList": [0.5, 0.5, 0.5, 4, 13]
+      "ParamList": [0.5, 0.5, 0.5, 4, 13, 0, 0, 0]
     },
     "3": {
       "Name": "Verdant Wind",
       "Desc": "Upon hit, Normal and Charged Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing <color=#99FFFFFF>60%</color> of ATK as DMG to these opponents every 0.5s for 4s. This effect can only occur once every <color=#99FFFFFF>12</color>s.",
-      "ParamList": [0.5, 0.6, 0.5, 4, 12]
+      "ParamList": [0.5, 0.6, 0.5, 4, 12, 0, 0, 0]
     },
     "4": {
       "Name": "Verdant Wind",
       "Desc": "Upon hit, Normal and Charged Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing <color=#99FFFFFF>70%</color> of ATK as DMG to these opponents every 0.5s for 4s. This effect can only occur once every <color=#99FFFFFF>11</color>s.",
-      "ParamList": [0.5, 0.7, 0.5, 4, 11]
+      "ParamList": [0.5, 0.7, 0.5, 4, 11, 0, 0, 0]
     },
     "5": {
       "Name": "Verdant Wind",
       "Desc": "Upon hit, Normal and Charged Attacks have a 50% chance to generate a Cyclone, which will continuously attract surrounding opponents, dealing <color=#99FFFFFF>80%</color> of ATK as DMG to these opponents every 0.5s for 4s. This effect can only occur once every <color=#99FFFFFF>10</color>s.",
-      "ParamList": [0.5, 0.8, 0.5, 4, 10]
+      "ParamList": [0.5, 0.8, 0.5, 4, 10, 0, 0, 0]
     }
   },
   "Materials": {

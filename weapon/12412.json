@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_204",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 41.0671
+      "initValue": 41.0671,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_ATTACK_PERCENT",
-      "initValue": 0.12
+      "initValue": 0.12,
+      "propType": "FIGHT_PROP_ATTACK_PERCENT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Oceanic Victory",
       "Desc": "Increases Elemental Burst DMG by <color=#99FFFFFF>12%</color>. When Elemental Burst hits opponents, there is a 100% chance of summoning a huge onrush of tuna that deals <color=#99FFFFFF>100%</color> ATK as AoE DMG. This effect can occur once every 15s.",
-      "ParamList": [0.12, 1, 1, 15]
+      "ParamList": [0.12, 1, 1, 15, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Oceanic Victory",
       "Desc": "Increases Elemental Burst DMG by <color=#99FFFFFF>15%</color>. When Elemental Burst hits opponents, there is a 100% chance of summoning a huge onrush of tuna that deals <color=#99FFFFFF>125%</color> ATK as AoE DMG. This effect can occur once every 15s.",
-      "ParamList": [0.15, 1, 1.25, 15]
+      "ParamList": [0.15, 1, 1.25, 15, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Oceanic Victory",
       "Desc": "Increases Elemental Burst DMG by <color=#99FFFFFF>18%</color>. When Elemental Burst hits opponents, there is a 100% chance of summoning a huge onrush of tuna that deals <color=#99FFFFFF>150%</color> ATK as AoE DMG. This effect can occur once every 15s.",
-      "ParamList": [0.18, 1, 1.5, 15]
+      "ParamList": [0.18, 1, 1.5, 15, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Oceanic Victory",
       "Desc": "Increases Elemental Burst DMG by <color=#99FFFFFF>21%</color>. When Elemental Burst hits opponents, there is a 100% chance of summoning a huge onrush of tuna that deals <color=#99FFFFFF>175%</color> ATK as AoE DMG. This effect can occur once every 15s.",
-      "ParamList": [0.21, 1, 1.75, 15]
+      "ParamList": [0.21, 1, 1.75, 15, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Oceanic Victory",
       "Desc": "Increases Elemental Burst DMG by <color=#99FFFFFF>24%</color>. When Elemental Burst hits opponents, there is a 100% chance of summoning a huge onrush of tuna that deals <color=#99FFFFFF>200%</color> ATK as AoE DMG. This effect can occur once every 15s.",
-      "ParamList": [0.24, 1, 2, 15]
+      "ParamList": [0.24, 1, 2, 15, 0, 0, 0, 0]
     }
   },
   "Materials": {

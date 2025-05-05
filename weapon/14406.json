@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_201",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 42.401
+      "initValue": 42.401,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_HP_PERCENT",
-      "initValue": 0.09
+      "initValue": 0.09,
+      "propType": "FIGHT_PROP_HP_PERCENT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Gilding",
       "Desc": "Using an Elemental Burst regenerates <color=#99FFFFFF>4</color> Energy every 2s for 6s. All party members will regenerate <color=#99FFFFFF>4%</color> HP every 2s for this duration.",
-      "ParamList": [6, 2, 4, 0.04]
+      "ParamList": [6, 2, 4, 0.04, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Gilding",
       "Desc": "Using an Elemental Burst regenerates <color=#99FFFFFF>4.5</color> Energy every 2s for 6s. All party members will regenerate <color=#99FFFFFF>4.5%</color> HP every 2s for this duration.",
-      "ParamList": [6, 2, 4.5, 0.045]
+      "ParamList": [6, 2, 4.5, 0.045, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Gilding",
       "Desc": "Using an Elemental Burst regenerates <color=#99FFFFFF>5</color> Energy every 2s for 6s. All party members will regenerate <color=#99FFFFFF>5%</color> HP every 2s for this duration.",
-      "ParamList": [6, 2, 5, 0.05]
+      "ParamList": [6, 2, 5, 0.05, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Gilding",
       "Desc": "Using an Elemental Burst regenerates <color=#99FFFFFF>5.5</color> Energy every 2s for 6s. All party members will regenerate <color=#99FFFFFF>5.5%</color> HP every 2s for this duration.",
-      "ParamList": [6, 2, 5.5, 0.055]
+      "ParamList": [6, 2, 5.5, 0.055, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Gilding",
       "Desc": "Using an Elemental Burst regenerates <color=#99FFFFFF>6</color> Energy every 2s for 6s. All party members will regenerate <color=#99FFFFFF>6%</color> HP every 2s for this duration.",
-      "ParamList": [6, 2, 6, 0.06]
+      "ParamList": [6, 2, 6, 0.06, 0, 0, 0, 0]
     }
   },
   "Materials": {

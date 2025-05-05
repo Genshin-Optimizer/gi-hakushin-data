@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_201",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 42.401
+      "initValue": 42.401,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_ATTACK_PERCENT",
-      "initValue": 0.09
+      "initValue": 0.09,
+      "propType": "FIGHT_PROP_ATTACK_PERCENT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Benthic Pulse",
       "Desc": "After the wielder is healed, they will deal <color=#99FFFFFF>16%</color> more DMG for 8s. This can be triggered even when the character is not on the field.",
-      "ParamList": [0.16, 8]
+      "ParamList": [0.16, 8, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Benthic Pulse",
       "Desc": "After the wielder is healed, they will deal <color=#99FFFFFF>20%</color> more DMG for 8s. This can be triggered even when the character is not on the field.",
-      "ParamList": [0.2, 8]
+      "ParamList": [0.2, 8, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Benthic Pulse",
       "Desc": "After the wielder is healed, they will deal <color=#99FFFFFF>24%</color> more DMG for 8s. This can be triggered even when the character is not on the field.",
-      "ParamList": [0.24, 8]
+      "ParamList": [0.24, 8, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Benthic Pulse",
       "Desc": "After the wielder is healed, they will deal <color=#99FFFFFF>28%</color> more DMG for 8s. This can be triggered even when the character is not on the field.",
-      "ParamList": [0.28, 8]
+      "ParamList": [0.28, 8, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Benthic Pulse",
       "Desc": "After the wielder is healed, they will deal <color=#99FFFFFF>32%</color> more DMG for 8s. This can be triggered even when the character is not on the field.",
-      "ParamList": [0.32, 8]
+      "ParamList": [0.32, 8, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

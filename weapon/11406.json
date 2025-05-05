@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_202",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 43.7349
+      "initValue": 43.7349,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
-      "initValue": 0.075067
+      "initValue": 0.075067,
+      "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Smashed Stone",
       "Desc": "On hit, Normal or Charged Attacks increase ATK and DEF by <color=#99FFFFFF>4%</color> for 6s. Max 4 stacks. This effect can only occur once every 0.3s.",
-      "ParamList": [0.04]
+      "ParamList": [0.04, 0, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Smashed Stone",
       "Desc": "On hit, Normal or Charged Attacks increase ATK and DEF by <color=#99FFFFFF>5%</color> for 6s. Max 4 stacks. This effect can only occur once every 0.3s.",
-      "ParamList": [0.05]
+      "ParamList": [0.05, 0, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Smashed Stone",
       "Desc": "On hit, Normal or Charged Attacks increase ATK and DEF by <color=#99FFFFFF>6%</color> for 6s. Max 4 stacks. This effect can only occur once every 0.3s.",
-      "ParamList": [0.06]
+      "ParamList": [0.06, 0, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Smashed Stone",
       "Desc": "On hit, Normal or Charged Attacks increase ATK and DEF by <color=#99FFFFFF>7%</color> for 6s. Max 4 stacks. This effect can only occur once every 0.3s.",
-      "ParamList": [0.07]
+      "ParamList": [0.07, 0, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Smashed Stone",
       "Desc": "On hit, Normal or Charged Attacks increase ATK and DEF by <color=#99FFFFFF>8%</color> for 6s. Max 4 stacks. This effect can only occur once every 0.3s.",
-      "ParamList": [0.08]
+      "ParamList": [0.08, 0, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

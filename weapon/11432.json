@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_202",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 43.7349
+      "initValue": 43.7349,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_ATTACK_PERCENT",
-      "initValue": 0.06
+      "initValue": 0.06,
+      "propType": "FIGHT_PROP_ATTACK_PERCENT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Diffusing Boundary",
       "Desc": "While characters are protected by a Shield, DMG dealt by Normal and Charged Attacks is increased by <color=#99FFFFFF>20%</color>, and Normal and Charged Attack CRIT Rate is increased by <color=#99FFFFFF>8%</color>.",
-      "ParamList": [0.2, 0.08]
+      "ParamList": [0.2, 0.08, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Diffusing Boundary",
       "Desc": "While characters are protected by a Shield, DMG dealt by Normal and Charged Attacks is increased by <color=#99FFFFFF>25%</color>, and Normal and Charged Attack CRIT Rate is increased by <color=#99FFFFFF>10%</color>.",
-      "ParamList": [0.25, 0.1]
+      "ParamList": [0.25, 0.1, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Diffusing Boundary",
       "Desc": "While characters are protected by a Shield, DMG dealt by Normal and Charged Attacks is increased by <color=#99FFFFFF>30%</color>, and Normal and Charged Attack CRIT Rate is increased by <color=#99FFFFFF>12%</color>.",
-      "ParamList": [0.3, 0.12]
+      "ParamList": [0.3, 0.12, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Diffusing Boundary",
       "Desc": "While characters are protected by a Shield, DMG dealt by Normal and Charged Attacks is increased by <color=#99FFFFFF>35%</color>, and Normal and Charged Attack CRIT Rate is increased by <color=#99FFFFFF>14%</color>.",
-      "ParamList": [0.35, 0.14]
+      "ParamList": [0.35, 0.14, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Diffusing Boundary",
       "Desc": "While characters are protected by a Shield, DMG dealt by Normal and Charged Attacks is increased by <color=#99FFFFFF>40%</color>, and Normal and Charged Attack CRIT Rate is increased by <color=#99FFFFFF>16%</color>.",
-      "ParamList": [0.4, 0.16]
+      "ParamList": [0.4, 0.16, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

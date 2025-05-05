@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_202",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 43.7349
+      "initValue": 43.7349,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
-      "initValue": 0.066667
+      "initValue": 0.066667,
+      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Radiance of the Deeps",
       "Desc": "Has three states, Evengleam, Afterglow, and Dawnblaze, which increase DMG dealt by <color=#99FFFFFF>6%/10%/14%</color> respectively. When attacks hit opponents, this weapon will switch to the next state. This weapon can change states once every 7s. The character equipping this weapon can still trigger the state switch while not on the field.",
-      "ParamList": [7, 0.06, 0.1, 0.14]
+      "ParamList": [7, 0.06, 0.1, 0.14, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Radiance of the Deeps",
       "Desc": "Has three states, Evengleam, Afterglow, and Dawnblaze, which increase DMG dealt by <color=#99FFFFFF>7.5%/12.5%/17.5%</color> respectively. When attacks hit opponents, this weapon will switch to the next state. This weapon can change states once every 7s. The character equipping this weapon can still trigger the state switch while not on the field.",
-      "ParamList": [7, 0.075, 0.125, 0.175]
+      "ParamList": [7, 0.075, 0.125, 0.175, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Radiance of the Deeps",
       "Desc": "Has three states, Evengleam, Afterglow, and Dawnblaze, which increase DMG dealt by <color=#99FFFFFF>9%/15%/21%</color> respectively. When attacks hit opponents, this weapon will switch to the next state. This weapon can change states once every 7s. The character equipping this weapon can still trigger the state switch while not on the field.",
-      "ParamList": [7, 0.09, 0.15, 0.21]
+      "ParamList": [7, 0.09, 0.15, 0.21, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Radiance of the Deeps",
       "Desc": "Has three states, Evengleam, Afterglow, and Dawnblaze, which increase DMG dealt by <color=#99FFFFFF>10.5%/17.5%/24.5%</color> respectively. When attacks hit opponents, this weapon will switch to the next state. This weapon can change states once every 7s. The character equipping this weapon can still trigger the state switch while not on the field.",
-      "ParamList": [7, 0.105, 0.175, 0.245]
+      "ParamList": [7, 0.105, 0.175, 0.245, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Radiance of the Deeps",
       "Desc": "Has three states, Evengleam, Afterglow, and Dawnblaze, which increase DMG dealt by <color=#99FFFFFF>12%/20%/28%</color> respectively. When attacks hit opponents, this weapon will switch to the next state. This weapon can change states once every 7s. The character equipping this weapon can still trigger the state switch while not on the field.",
-      "ParamList": [7, 0.12, 0.2, 0.28]
+      "ParamList": [7, 0.12, 0.2, 0.28, 0, 0, 0, 0]
     }
   },
   "Materials": {

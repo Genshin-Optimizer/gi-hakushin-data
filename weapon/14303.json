@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_101",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 38.7413
+      "initValue": 38.7413,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_101",
-      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
-      "initValue": 0.085
+      "initValue": 0.085,
+      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
     }
   ],
   "Rarity": 3,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Energy Shower",
       "Desc": "Picking up an Elemental Energy Orb/Particle recovers <color=#99FFFFFF>1%</color> HP.",
-      "ParamList": [0.01]
+      "ParamList": [0.01, 0, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Energy Shower",
       "Desc": "Each Elemental Orb or Particle collected restores <color=#99FFFFFF>1.25%</color> HP.",
-      "ParamList": [0.0125]
+      "ParamList": [0.0125, 0, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Energy Shower",
       "Desc": "Each Elemental Orb or Particle collected restores <color=#99FFFFFF>1.5%</color> HP.",
-      "ParamList": [0.015]
+      "ParamList": [0.015, 0, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Energy Shower",
       "Desc": "Each Elemental Orb or Particle collected restores <color=#99FFFFFF>1.75%</color> HP.",
-      "ParamList": [0.0175]
+      "ParamList": [0.0175, 0, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Energy Shower",
       "Desc": "Each Elemental Orb or Particle collected restores <color=#99FFFFFF>2%</color> HP.",
-      "ParamList": [0.02]
+      "ParamList": [0.02, 0, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

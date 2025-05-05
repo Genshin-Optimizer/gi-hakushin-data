@@ -441,7 +441,7 @@
         "Name": "Dawnbreath Dreambelle",
         "Desc": "Mizuki's outfit.\\nA cold night-mist brews, the baku stirs to spring breeze, spent from tending dreams. Fixing hairpin, flapping sleeves, from yon fanned fog, the moon beams.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -820,7 +820,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Pure Heart, Pure Dreams",
+      "Name": "Pure Heart, Pure Dreams",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 3 attacks, dealing <color=#80FFD7FF>Anemo DMG</color>.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina and deals <color=#80FFD7FF>AoE Anemo DMG</color> after a short casting time.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nCalling upon the power of Anemo, she plunges towards the ground from mid-air, damaging all opponents in her path. Deals <color=#80FFD7FF>AoE Anemo DMG</color> upon impact with the ground.",
       "Promote": {
         "0": {
@@ -845,7 +845,8 @@
             ""
           ],
           "Param": [
-            0.522768, 0.469144, 0.713688, 1.3, 50, 0.568288, 1.136335, 1.419344
+            0.522768, 0.469144, 0.713688, 1.3, 50, 0.568288, 1.136335, 1.419344,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -871,7 +872,7 @@
           ],
           "Param": [
             0.561976, 0.50433, 0.767215, 1.3975, 50, 0.614544, 1.228828,
-            1.534872
+            1.534872, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -896,7 +897,8 @@
             ""
           ],
           "Param": [
-            0.601183, 0.539516, 0.820741, 1.495, 50, 0.6608, 1.32132, 1.6504
+            0.601183, 0.539516, 0.820741, 1.495, 50, 0.6608, 1.32132, 1.6504, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -921,7 +923,8 @@
             ""
           ],
           "Param": [
-            0.65346, 0.58643, 0.89211, 1.625, 50, 0.72688, 1.453452, 1.81544
+            0.65346, 0.58643, 0.89211, 1.625, 50, 0.72688, 1.453452, 1.81544, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -947,7 +950,7 @@
           ],
           "Param": [
             0.692668, 0.621616, 0.945637, 1.7225, 50, 0.773136, 1.545944,
-            1.930968
+            1.930968, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -972,7 +975,8 @@
             ""
           ],
           "Param": [
-            0.731875, 0.656802, 0.999163, 1.82, 50, 0.826, 1.65165, 2.063
+            0.731875, 0.656802, 0.999163, 1.82, 50, 0.826, 1.65165, 2.063, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -997,7 +1001,8 @@
             ""
           ],
           "Param": [
-            0.784152, 0.703716, 1.070532, 1.95, 50, 0.898688, 1.796995, 2.244544
+            0.784152, 0.703716, 1.070532, 1.95, 50, 0.898688, 1.796995,
+            2.244544, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1022,7 +1027,8 @@
             ""
           ],
           "Param": [
-            0.836429, 0.75063, 1.141901, 2.08, 50, 0.971376, 1.94234, 2.426088
+            0.836429, 0.75063, 1.141901, 2.08, 50, 0.971376, 1.94234, 2.426088,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1047,7 +1053,8 @@
             ""
           ],
           "Param": [
-            0.888706, 0.797545, 1.21327, 2.21, 50, 1.044064, 2.087686, 2.607632
+            0.888706, 0.797545, 1.21327, 2.21, 50, 1.044064, 2.087686, 2.607632,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1072,7 +1079,8 @@
             ""
           ],
           "Param": [
-            0.940982, 0.844459, 1.284638, 2.34, 50, 1.12336, 2.246244, 2.80568
+            0.940982, 0.844459, 1.284638, 2.34, 50, 1.12336, 2.246244, 2.80568,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1097,7 +1105,8 @@
             ""
           ],
           "Param": [
-            0.993259, 0.891374, 1.356007, 2.47, 50, 1.202656, 2.404802, 3.003728
+            0.993259, 0.891374, 1.356007, 2.47, 50, 1.202656, 2.404802,
+            3.003728, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1122,7 +1131,8 @@
             ""
           ],
           "Param": [
-            1.045536, 0.938288, 1.427376, 2.6, 50, 1.281952, 2.563361, 3.201776
+            1.045536, 0.938288, 1.427376, 2.6, 50, 1.281952, 2.563361, 3.201776,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1148,7 +1158,7 @@
           ],
           "Param": [
             1.110882, 0.996931, 1.516587, 2.7625, 50, 1.361248, 2.721919,
-            3.399824
+            3.399824, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1174,7 +1184,7 @@
           ],
           "Param": [
             1.176228, 1.055574, 1.605798, 2.925, 50, 1.440544, 2.880478,
-            3.597872
+            3.597872, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1199,7 +1209,8 @@
             ""
           ],
           "Param": [
-            1.241574, 1.114217, 1.695009, 3.0875, 50, 1.51984, 3.039036, 3.79592
+            1.241574, 1.114217, 1.695009, 3.0875, 50, 1.51984, 3.039036,
+            3.79592, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1229,7 +1240,10 @@
             "",
             ""
           ],
-          "Param": [0.44912, 0.0018, 15, 0.57744, 5]
+          "Param": [
+            0.44912, 0.0018, 15, 0.57744, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1252,7 +1266,10 @@
             "",
             ""
           ],
-          "Param": [0.482804, 0.0021, 15, 0.620748, 5]
+          "Param": [
+            0.482804, 0.0021, 15, 0.620748, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1275,7 +1292,10 @@
             "",
             ""
           ],
-          "Param": [0.516488, 0.0024, 15, 0.664056, 5]
+          "Param": [
+            0.516488, 0.0024, 15, 0.664056, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1298,7 +1318,10 @@
             "",
             ""
           ],
-          "Param": [0.5614, 0.0027, 15, 0.7218, 5]
+          "Param": [
+            0.5614, 0.0027, 15, 0.7218, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1321,7 +1344,10 @@
             "",
             ""
           ],
-          "Param": [0.595084, 0.003, 15, 0.765108, 5]
+          "Param": [
+            0.595084, 0.003, 15, 0.765108, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1344,7 +1370,10 @@
             "",
             ""
           ],
-          "Param": [0.628768, 0.0033, 15, 0.808416, 5]
+          "Param": [
+            0.628768, 0.0033, 15, 0.808416, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1367,7 +1396,10 @@
             "",
             ""
           ],
-          "Param": [0.67368, 0.0036, 15, 0.86616, 5]
+          "Param": [
+            0.67368, 0.0036, 15, 0.86616, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1390,7 +1422,10 @@
             "",
             ""
           ],
-          "Param": [0.718592, 0.0039, 15, 0.923904, 5]
+          "Param": [
+            0.718592, 0.0039, 15, 0.923904, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1413,7 +1448,10 @@
             "",
             ""
           ],
-          "Param": [0.763504, 0.0042, 15, 0.981648, 5]
+          "Param": [
+            0.763504, 0.0042, 15, 0.981648, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1436,7 +1474,10 @@
             "",
             ""
           ],
-          "Param": [0.808416, 0.0045, 15, 1.039392, 5]
+          "Param": [
+            0.808416, 0.0045, 15, 1.039392, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1459,7 +1500,10 @@
             "",
             ""
           ],
-          "Param": [0.853328, 0.0048, 15, 1.097136, 5]
+          "Param": [
+            0.853328, 0.0048, 15, 1.097136, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1482,7 +1526,10 @@
             "",
             ""
           ],
-          "Param": [0.89824, 0.0051, 15, 1.15488, 5]
+          "Param": [
+            0.89824, 0.0051, 15, 1.15488, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1505,7 +1552,10 @@
             "",
             ""
           ],
-          "Param": [0.95438, 0.0054, 15, 1.22706, 5]
+          "Param": [
+            0.95438, 0.0054, 15, 1.22706, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1528,7 +1578,10 @@
             "",
             ""
           ],
-          "Param": [1.01052, 0.0057, 15, 1.29924, 5]
+          "Param": [
+            1.01052, 0.0057, 15, 1.29924, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1551,7 +1604,10 @@
             "",
             ""
           ],
-          "Param": [1.06666, 0.006, 15, 1.37142, 5]
+          "Param": [
+            1.06666, 0.006, 15, 1.37142, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         }
       }
     },
@@ -1580,7 +1636,10 @@
             "",
             ""
           ],
-          "Param": [0.9408, 0.7056, 1.3056, 15, 60, 12, 314.57]
+          "Param": [
+            0.9408, 0.7056, 1.3056, 15, 60, 12, 314.57, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1603,7 +1662,10 @@
             "",
             ""
           ],
-          "Param": [1.01136, 0.75852, 1.40352, 15, 60, 12, 346.03137]
+          "Param": [
+            1.01136, 0.75852, 1.40352, 15, 60, 12, 346.03137, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1626,7 +1688,10 @@
             "",
             ""
           ],
-          "Param": [1.08192, 0.81144, 1.50144, 15, 60, 12, 380.11453]
+          "Param": [
+            1.08192, 0.81144, 1.50144, 15, 60, 12, 380.11453, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1649,7 +1714,10 @@
             "",
             ""
           ],
-          "Param": [1.176, 0.882, 1.632, 15, 60, 12, 416.81946]
+          "Param": [
+            1.176, 0.882, 1.632, 15, 60, 12, 416.81946, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1672,7 +1740,10 @@
             "",
             ""
           ],
-          "Param": [1.24656, 0.93492, 1.72992, 15, 60, 12, 456.14618]
+          "Param": [
+            1.24656, 0.93492, 1.72992, 15, 60, 12, 456.14618, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1695,7 +1766,10 @@
             "",
             ""
           ],
-          "Param": [1.31712, 0.98784, 1.82784, 15, 60, 12, 498.09467]
+          "Param": [
+            1.31712, 0.98784, 1.82784, 15, 60, 12, 498.09467, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1718,7 +1792,10 @@
             "",
             ""
           ],
-          "Param": [1.4112, 1.0584, 1.9584, 15, 60, 12, 542.6649]
+          "Param": [
+            1.4112, 1.0584, 1.9584, 15, 60, 12, 542.6649, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1741,7 +1818,10 @@
             "",
             ""
           ],
-          "Param": [1.50528, 1.12896, 2.08896, 15, 60, 12, 589.857]
+          "Param": [
+            1.50528, 1.12896, 2.08896, 15, 60, 12, 589.857, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1764,7 +1844,10 @@
             "",
             ""
           ],
-          "Param": [1.59936, 1.19952, 2.21952, 15, 60, 12, 639.67084]
+          "Param": [
+            1.59936, 1.19952, 2.21952, 15, 60, 12, 639.67084, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1787,7 +1870,10 @@
             "",
             ""
           ],
-          "Param": [1.69344, 1.27008, 2.35008, 15, 60, 12, 692.10645]
+          "Param": [
+            1.69344, 1.27008, 2.35008, 15, 60, 12, 692.10645, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1810,7 +1896,10 @@
             "",
             ""
           ],
-          "Param": [1.78752, 1.34064, 2.48064, 15, 60, 12, 747.1639]
+          "Param": [
+            1.78752, 1.34064, 2.48064, 15, 60, 12, 747.1639, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1833,7 +1922,10 @@
             "",
             ""
           ],
-          "Param": [1.8816, 1.4112, 2.6112, 15, 60, 12, 804.843]
+          "Param": [
+            1.8816, 1.4112, 2.6112, 15, 60, 12, 804.843, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1856,7 +1948,10 @@
             "",
             ""
           ],
-          "Param": [1.9992, 1.4994, 2.7744, 15, 60, 12, 865.144]
+          "Param": [
+            1.9992, 1.4994, 2.7744, 15, 60, 12, 865.144, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1879,7 +1974,10 @@
             "",
             ""
           ],
-          "Param": [2.1168, 1.5876, 2.9376, 15, 60, 12, 928.0668]
+          "Param": [
+            2.1168, 1.5876, 2.9376, 15, 60, 12, 928.0668, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1902,7 +2000,10 @@
             "",
             ""
           ],
-          "Param": [2.2344, 1.6758, 3.1008, 15, 60, 12, 993.61127]
+          "Param": [
+            2.2344, 1.6758, 3.1008, 15, 60, 12, 993.61127, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         }
       }
     }
@@ -1913,21 +2014,25 @@
       "Desc": "When Yumemizuki Mizuki triggers Swirl while in her Dreamdrifter state, Dreamdrifter's duration increases by 2.5s. This effect can trigger once every 0.3s for a maximum of 2 times per Dreamdrifter state.",
       "Icon": "UI_Talent_S_Mizuki_05",
       "Unlock": 1,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Thoughts by Day Bring Dreams by Night",
       "Desc": "While Yumemizuki Mizuki is in the Dreamdrifter state, when other nearby party members hit opponents with <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#99FFFFFF>Cryo</color>, or <color=#FFACFFFF>Electro</color> attacks, her Elemental Mastery will increase by 100 for 4s.",
       "Icon": "UI_Talent_S_Mizuki_06",
       "Unlock": 4,
-      "ParamList": [100, 4]
+      "ParamList": [
+        100, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "All Ailments Banished",
       "Desc": "When Yumemizuki Mizuki is in the party, party members have a chance to recover 30% additional HP when using healing foods that do not have reviving properties. The trigger chance for this effect increases with the corresponding character's Friendship Level. (This effect will always trigger if the Traveler is the character consuming healing food.)",
       "Icon": "UI_Talent_S_Mizuki_07",
       "Unlock": 0,
-      "ParamList": [0.3]
+      "ParamList": [
+        0.3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     }
   ],
   "Constellations": [
@@ -1935,37 +2040,37 @@
       "Name": "In Mist-Like Waters",
       "Desc": "When Yumemizuki Mizuki is in the Dreamdrifter state, she will continuously apply the \"Twenty-Three Nights' Awaiting\" effect to nearby opponents for 3s every 3.5s. When an opponent is affected by Anemo DMG-triggered Swirl reactions while the aforementioned effect is active, the effect will be canceled and this Swirl instance has its DMG against this opponent increased by 1,100% of Mizuki's Elemental Mastery.",
       "Icon": "UI_Talent_S_Mizuki_01",
-      "ParamList": [11, 3, 3.5]
+      "ParamList": [11, 3, 3.5, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Your Echo I Meet in Dreams",
       "Desc": "When Yumemizuki Mizuki enters the Dreamdrifter state, every Elemental Mastery point she has will increase all nearby party members' <color=#FF9999FF>Pyro</color>, <color=#80C0FFFF>Hydro</color>, <color=#99FFFFFF>Cryo</color>, and <color=#FFACFFFF>Electro</color> DMG Bonuses by 0.04% until the Dreamdrifter state ends.",
       "Icon": "UI_Talent_S_Mizuki_02",
-      "ParamList": [0.0004]
+      "ParamList": [0.0004, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Till Dawn's Moon Ends Night",
       "Desc": "Increases the Level of <color=#FFD780FF>Aisa Utamakura Pilgrimage</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Mizuki_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Buds Warm Lucid Springs",
       "Desc": "Picking up a <color=#FFD780FF>Yumemi Style Special Snack</color> from the Elemental Burst <color=#FFD780FF>Anraku Secret Spring Therapy</color> will both deal DMG and heal, and will restore 5 Energy to Yumemizuki Mizuki. Energy can be restored this way 4 times per <color=#FFD780FF>Anraku Secret Spring Therapy</color> duration.",
       "Icon": "UI_Talent_S_Mizuki_03",
-      "ParamList": [5]
+      "ParamList": [5, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "As Setting Moon Brings Year's End",
       "Desc": "Increases the Level of <color=#FFD780FF>Anraku Secret Spring Therapy</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Mizuki_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "The Heart Lingers Long",
       "Desc": "While Yumemizuki Mizuki is in the Dreamdrifter state, Swirl DMG dealt by nearby party members can score CRIT Hits, with CRIT Rate fixed at 30%, and CRIT DMG fixed at 100%.",
       "Icon": "UI_Talent_S_Mizuki_04",
-      "ParamList": [0.3]
+      "ParamList": [0.3, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -1978,7 +2083,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Sea Ganoderma", "Id": 101206, "Count": 3, "Rank": 1 },
+          { "Name": "Sea Ganoderma", "Id": 101206, "Count": 3, "Rank": 0 },
           { "Name": "Old Handguard", "Id": 112044, "Count": 3, "Rank": 1 }
         ],
         "Cost": 20000
@@ -1997,7 +2102,7 @@
             "Count": 2,
             "Rank": 4
           },
-          { "Name": "Sea Ganoderma", "Id": 101206, "Count": 10, "Rank": 1 },
+          { "Name": "Sea Ganoderma", "Id": 101206, "Count": 10, "Rank": 0 },
           { "Name": "Old Handguard", "Id": 112044, "Count": 15, "Rank": 1 }
         ],
         "Cost": 40000
@@ -2016,7 +2121,7 @@
             "Count": 4,
             "Rank": 4
           },
-          { "Name": "Sea Ganoderma", "Id": 101206, "Count": 20, "Rank": 1 },
+          { "Name": "Sea Ganoderma", "Id": 101206, "Count": 20, "Rank": 0 },
           { "Name": "Kageuchi Handguard", "Id": 112045, "Count": 12, "Rank": 2 }
         ],
         "Cost": 60000
@@ -2035,7 +2140,7 @@
             "Count": 8,
             "Rank": 4
           },
-          { "Name": "Sea Ganoderma", "Id": 101206, "Count": 30, "Rank": 1 },
+          { "Name": "Sea Ganoderma", "Id": 101206, "Count": 30, "Rank": 0 },
           { "Name": "Kageuchi Handguard", "Id": 112045, "Count": 18, "Rank": 2 }
         ],
         "Cost": 80000
@@ -2054,7 +2159,7 @@
             "Count": 12,
             "Rank": 4
           },
-          { "Name": "Sea Ganoderma", "Id": 101206, "Count": 45, "Rank": 1 },
+          { "Name": "Sea Ganoderma", "Id": 101206, "Count": 45, "Rank": 0 },
           { "Name": "Famed Handguard", "Id": 112046, "Count": 12, "Rank": 3 }
         ],
         "Cost": 100000
@@ -2073,7 +2178,7 @@
             "Count": 20,
             "Rank": 4
           },
-          { "Name": "Sea Ganoderma", "Id": 101206, "Count": 60, "Rank": 1 },
+          { "Name": "Sea Ganoderma", "Id": 101206, "Count": 60, "Rank": 0 },
           { "Name": "Famed Handguard", "Id": 112046, "Count": 24, "Rank": 3 }
         ],
         "Cost": 120000

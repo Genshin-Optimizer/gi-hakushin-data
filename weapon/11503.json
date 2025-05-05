@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_301",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 45.9364
+      "initValue": 45.9364,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_301",
-      "propType": "FIGHT_PROP_ELEMENT_MASTERY",
-      "initValue": 43.2
+      "initValue": 43.2,
+      "propType": "FIGHT_PROP_ELEMENT_MASTERY"
     }
   ],
   "Rarity": 5,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Revolutionary Chorale",
       "Desc": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases DMG by <color=#99FFFFFF>10%</color>. When the character wielding this weapon triggers Elemental Reactions, they gain a Sigil of Rebellion. This effect can be triggered once every 0.5s and can be triggered even if said character is not on the field. When you possess 2 Sigils of Rebellion, all of them will be consumed and all nearby party members will obtain \"Millennial Movement: Song of Resistance\" for 12s. \"Millennial Movement: Song of Resistance\" increases Normal, Charged and Plunging Attack DMG by <color=#99FFFFFF>16%</color> and increases ATK by <color=#99FFFFFF>20%</color>. Once this effect is triggered, you will not gain Sigils of Rebellion for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack.",
-      "ParamList": [0.1, 0.5, 12, 0.16, 0.2, 20]
+      "ParamList": [0.1, 0.5, 12, 0.16, 0.2, 20, 0, 0]
     },
     "2": {
       "Name": "Revolutionary Chorale",
       "Desc": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases DMG by <color=#99FFFFFF>12.5%</color>. When the character wielding this weapon triggers Elemental Reactions, they gain a Sigil of Rebellion. This effect can be triggered once every 0.5s and can be triggered even if said character is not on the field. When you possess 2 Sigils of Rebellion, all of them will be consumed and all nearby party members will obtain \"Millennial Movement: Song of Resistance\" for 12s. \"Millennial Movement: Song of Resistance\" increases Normal, Charged and Plunging Attack DMG by <color=#99FFFFFF>20%</color> and increases ATK by <color=#99FFFFFF>25%</color>. Once this effect is triggered, you will not gain Sigils of Rebellion for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack.",
-      "ParamList": [0.125, 0.5, 12, 0.2, 0.25, 20]
+      "ParamList": [0.125, 0.5, 12, 0.2, 0.25, 20, 0, 0]
     },
     "3": {
       "Name": "Revolutionary Chorale",
       "Desc": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases DMG by <color=#99FFFFFF>15%</color>. When the character wielding this weapon triggers Elemental Reactions, they gain a Sigil of Rebellion. This effect can be triggered once every 0.5s and can be triggered even if said character is not on the field. When you possess 2 Sigils of Rebellion, all of them will be consumed and all nearby party members will obtain \"Millennial Movement: Song of Resistance\" for 12s. \"Millennial Movement: Song of Resistance\" increases Normal, Charged and Plunging Attack DMG by <color=#99FFFFFF>24%</color> and increases ATK by <color=#99FFFFFF>30%</color>. Once this effect is triggered, you will not gain Sigils of Rebellion for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack.",
-      "ParamList": [0.15, 0.5, 12, 0.24, 0.3, 20]
+      "ParamList": [0.15, 0.5, 12, 0.24, 0.3, 20, 0, 0]
     },
     "4": {
       "Name": "Revolutionary Chorale",
       "Desc": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases DMG by <color=#99FFFFFF>17.5%</color>. When the character wielding this weapon triggers Elemental Reactions, they gain a Sigil of Rebellion. This effect can be triggered once every 0.5s and can be triggered even if said character is not on the field. When you possess 2 Sigils of Rebellion, all of them will be consumed and all nearby party members will obtain \"Millennial Movement: Song of Resistance\" for 12s. \"Millennial Movement: Song of Resistance\" increases Normal, Charged and Plunging Attack DMG by <color=#99FFFFFF>28%</color> and increases ATK by <color=#99FFFFFF>35%</color>. Once this effect is triggered, you will not gain Sigils of Rebellion for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack.",
-      "ParamList": [0.175, 0.5, 12, 0.28, 0.35, 20]
+      "ParamList": [0.175, 0.5, 12, 0.28, 0.35, 20, 0, 0]
     },
     "5": {
       "Name": "Revolutionary Chorale",
       "Desc": "A part of the \"Millennial Movement\" that wanders amidst the winds. Increases DMG by <color=#99FFFFFF>20%</color>. When the character wielding this weapon triggers Elemental Reactions, they gain a Sigil of Rebellion. This effect can be triggered once every 0.5s and can be triggered even if said character is not on the field. When you possess 2 Sigils of Rebellion, all of them will be consumed and all nearby party members will obtain \"Millennial Movement: Song of Resistance\" for 12s. \"Millennial Movement: Song of Resistance\" increases Normal, Charged and Plunging Attack DMG by <color=#99FFFFFF>32%</color> and increases ATK by <color=#99FFFFFF>40%</color>. Once this effect is triggered, you will not gain Sigils of Rebellion for 20s. Of the many effects of the \"Millennial Movement,\" buffs of the same type will not stack.",
-      "ParamList": [0.2, 0.5, 12, 0.32, 0.4, 20]
+      "ParamList": [0.2, 0.5, 12, 0.32, 0.4, 20, 0, 0]
     }
   },
   "Materials": {

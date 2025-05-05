@@ -6,25 +6,28 @@
   "Affix": [
     {
       "id": 215016,
+      "level": 0,
       "affixId": 2150160,
+      "paramList": [0, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "",
       "addProps": [
-        { "value": 0.15, "propType": "FIGHT_PROP_WATER_ADD_HURT" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_WATER_ADD_HURT", "value": 0.15 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Heart of Depth",
       "Desc": "Hydro DMG Bonus +15%"
     },
     {
-      "level": 1,
-      "paramList": [0.3, 1, 15],
       "id": 215016,
-      "openConfig": "Relic_WaterSkillEnhanceNormalAtkAndExtraAtk",
+      "level": 1,
       "affixId": 2150161,
+      "paramList": [0.3, 1, 15, 0, 0, 0, 0, 0],
+      "openConfig": "Relic_WaterSkillEnhanceNormalAtkAndExtraAtk",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Heart of Depth",
       "Desc": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 30% for 15s."

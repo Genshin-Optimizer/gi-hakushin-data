@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_302",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 47.537
+      "initValue": 47.537,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_301",
-      "propType": "FIGHT_PROP_CRITICAL_HURT",
-      "initValue": 0.096
+      "initValue": 0.096,
+      "propType": "FIGHT_PROP_CRITICAL_HURT"
     }
   ],
   "Rarity": 5,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Bygone Azure Teardrop",
       "Desc": "Normal Attack SPD is increased by <color=#99FFFFFF>10%</color>. After the wielder unleashes an Elemental Skill, Normal Attack DMG will increase by <color=#99FFFFFF>4.8%</color> every second for 14s. After hitting an opponent with a Normal Attack during this duration, Normal Attack DMG will be increased by <color=#99FFFFFF>9.6%</color>. This increase can be triggered once every 0.3s. The maximum Normal Attack DMG increase per single duration of the overall effect is <color=#99FFFFFF>48%</color>. The effect will be removed when the wielder leaves the field, and using the Elemental Skill again will reset all DMG buffs.",
-      "ParamList": [0.1, 0.048, 14, 1, 2, 0.3, 10]
+      "ParamList": [0.1, 0.048, 14, 1, 2, 0.3, 10, 0]
     },
     "2": {
       "Name": "Bygone Azure Teardrop",
       "Desc": "Normal Attack SPD is increased by <color=#99FFFFFF>12.5%</color>. After the wielder unleashes an Elemental Skill, Normal Attack DMG will increase by <color=#99FFFFFF>6%</color> every second for 14s. After hitting an opponent with a Normal Attack during this duration, Normal Attack DMG will be increased by <color=#99FFFFFF>12%</color>. This increase can be triggered once every 0.3s. The maximum Normal Attack DMG increase per single duration of the overall effect is <color=#99FFFFFF>60%</color>. The effect will be removed when the wielder leaves the field, and using the Elemental Skill again will reset all DMG buffs.",
-      "ParamList": [0.125, 0.06, 14, 1, 2, 0.3, 10]
+      "ParamList": [0.125, 0.06, 14, 1, 2, 0.3, 10, 0]
     },
     "3": {
       "Name": "Bygone Azure Teardrop",
       "Desc": "Normal Attack SPD is increased by <color=#99FFFFFF>15%</color>. After the wielder unleashes an Elemental Skill, Normal Attack DMG will increase by <color=#99FFFFFF>7.2%</color> every second for 14s. After hitting an opponent with a Normal Attack during this duration, Normal Attack DMG will be increased by <color=#99FFFFFF>14.4%</color>. This increase can be triggered once every 0.3s. The maximum Normal Attack DMG increase per single duration of the overall effect is <color=#99FFFFFF>72%</color>. The effect will be removed when the wielder leaves the field, and using the Elemental Skill again will reset all DMG buffs.",
-      "ParamList": [0.15, 0.072, 14, 1, 2, 0.3, 10]
+      "ParamList": [0.15, 0.072, 14, 1, 2, 0.3, 10, 0]
     },
     "4": {
       "Name": "Bygone Azure Teardrop",
       "Desc": "Normal Attack SPD is increased by <color=#99FFFFFF>17.5%</color>. After the wielder unleashes an Elemental Skill, Normal Attack DMG will increase by <color=#99FFFFFF>8.4%</color> every second for 14s. After hitting an opponent with a Normal Attack during this duration, Normal Attack DMG will be increased by <color=#99FFFFFF>16.8%</color>. This increase can be triggered once every 0.3s. The maximum Normal Attack DMG increase per single duration of the overall effect is <color=#99FFFFFF>84%</color>. The effect will be removed when the wielder leaves the field, and using the Elemental Skill again will reset all DMG buffs.",
-      "ParamList": [0.175, 0.084, 14, 1, 2, 0.3, 10]
+      "ParamList": [0.175, 0.084, 14, 1, 2, 0.3, 10, 0]
     },
     "5": {
       "Name": "Bygone Azure Teardrop",
       "Desc": "Normal Attack SPD is increased by <color=#99FFFFFF>20%</color>. After the wielder unleashes an Elemental Skill, Normal Attack DMG will increase by <color=#99FFFFFF>9.6%</color> every second for 14s. After hitting an opponent with a Normal Attack during this duration, Normal Attack DMG will be increased by <color=#99FFFFFF>19.2%</color>. This increase can be triggered once every 0.3s. The maximum Normal Attack DMG increase per single duration of the overall effect is <color=#99FFFFFF>96%</color>. The effect will be removed when the wielder leaves the field, and using the Elemental Skill again will reset all DMG buffs.",
-      "ParamList": [0.2, 0.096, 14, 1, 2, 0.3, 10]
+      "ParamList": [0.2, 0.096, 14, 1, 2, 0.3, 10, 0]
     }
   },
   "Materials": {

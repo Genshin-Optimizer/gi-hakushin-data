@@ -6,25 +6,28 @@
   "Affix": [
     {
       "id": 215020,
+      "level": 0,
       "affixId": 2150200,
+      "paramList": [0, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "",
       "addProps": [
-        { "value": 0.2, "propType": "FIGHT_PROP_CHARGE_EFFICIENCY" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_CHARGE_EFFICIENCY", "value": 0.2 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Emblem of Severed Fate",
       "Desc": "Energy Recharge +20%"
     },
     {
-      "level": 1,
-      "paramList": [0.25, 0.75],
       "id": 215020,
-      "openConfig": "Relic_ElementalBurstUpByChargeEfficiency",
+      "level": 1,
       "affixId": 2150201,
+      "paramList": [0.25, 0.75, 0, 0, 0, 0, 0, 0],
+      "openConfig": "Relic_ElementalBurstUpByChargeEfficiency",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Emblem of Severed Fate",
       "Desc": "Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way."

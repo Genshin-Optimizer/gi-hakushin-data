@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_101",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 38.7413
+      "initValue": 38.7413,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_101",
-      "propType": "FIGHT_PROP_ATTACK_PERCENT",
-      "initValue": 0.0766
+      "initValue": 0.0766,
+      "propType": "FIGHT_PROP_ATTACK_PERCENT"
     }
   ],
   "Rarity": 3,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Bane of Water and Ice",
       "Desc": "Increases DMG against opponents affected by Hydro or Cryo by <color=#99FFFFFF>12%</color>.",
-      "ParamList": [0.12]
+      "ParamList": [0.12, 0, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Bane of Water and Ice",
       "Desc": "Increases DMG against opponents affected by Hydro or Cryo by <color=#99FFFFFF>15%</color>.",
-      "ParamList": [0.15]
+      "ParamList": [0.15, 0, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Bane of Water and Ice",
       "Desc": "Increases DMG against opponents affected by Hydro or Cryo by <color=#99FFFFFF>18%</color>.",
-      "ParamList": [0.18]
+      "ParamList": [0.18, 0, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Bane of Water and Ice",
       "Desc": "Increases DMG against opponents affected by Hydro or Cryo by <color=#99FFFFFF>21%</color>.",
-      "ParamList": [0.21]
+      "ParamList": [0.21, 0, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Bane of Water and Ice",
       "Desc": "Increases DMG against opponents affected by Hydro or Cryo by <color=#99FFFFFF>24%</color>.",
-      "ParamList": [0.24]
+      "ParamList": [0.24, 0, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

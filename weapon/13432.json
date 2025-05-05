@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_202",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 43.7349
+      "initValue": 43.7349,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
-      "initValue": 0.066667
+      "initValue": 0.066667,
+      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Busybody's Running Light",
       "Desc": "Increase ATK by <color=#99FFFFFF>20%</color> and Movement SPD by 10% for 10s when using an Elemental Skill.",
-      "ParamList": [0.2, 0.1, 10]
+      "ParamList": [0.2, 0.1, 10, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Busybody's Running Light",
       "Desc": "Increase ATK by <color=#99FFFFFF>25%</color> and Movement SPD by 10% for 10s when using an Elemental Skill.",
-      "ParamList": [0.25, 0.1, 10]
+      "ParamList": [0.25, 0.1, 10, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Busybody's Running Light",
       "Desc": "Increase ATK by <color=#99FFFFFF>30%</color> and Movement SPD by 10% for 10s when using an Elemental Skill.",
-      "ParamList": [0.3, 0.1, 10]
+      "ParamList": [0.3, 0.1, 10, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Busybody's Running Light",
       "Desc": "Increase ATK by <color=#99FFFFFF>35%</color> and Movement SPD by 10% for 10s when using an Elemental Skill.",
-      "ParamList": [0.35, 0.1, 10]
+      "ParamList": [0.35, 0.1, 10, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Busybody's Running Light",
       "Desc": "Increase ATK by <color=#99FFFFFF>40%</color> and Movement SPD by 10% for 10s when using an Elemental Skill.",
-      "ParamList": [0.4, 0.1, 10]
+      "ParamList": [0.4, 0.1, 10, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

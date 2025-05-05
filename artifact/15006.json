@@ -6,25 +6,28 @@
   "Affix": [
     {
       "id": 215006,
+      "level": 0,
       "affixId": 2150060,
+      "paramList": [0, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "",
       "addProps": [
-        { "value": 0.15, "propType": "FIGHT_PROP_FIRE_ADD_HURT" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_FIRE_ADD_HURT", "value": 0.15 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Crimson Witch of Flames",
       "Desc": "Pyro DMG Bonus +15%"
     },
     {
-      "level": 1,
-      "paramList": [0.4, 0.15, 0.15, 0.5, 10],
       "id": 215006,
-      "openConfig": "Relic_ReactionFireEnhance",
+      "level": 1,
       "affixId": 2150061,
+      "paramList": [0.4, 0.15, 0.15, 0.5, 10, 0, 0, 0],
+      "openConfig": "Relic_ReactionFireEnhance",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Crimson Witch of Flames",
       "Desc": "Increases Overloaded, Burning, and Burgeon DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using Elemental Skill increases the 2-Piece Set Bonus by 50% of its starting value for 10s. Max 3 stacks."

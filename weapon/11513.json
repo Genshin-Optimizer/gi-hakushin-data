@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_304",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 44.3358
+      "initValue": 44.3358,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_301",
-      "propType": "FIGHT_PROP_CRITICAL_HURT",
-      "initValue": 0.192
+      "initValue": 0.192,
+      "propType": "FIGHT_PROP_CRITICAL_HURT"
     }
   ],
   "Rarity": 5,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Dawn and Dusk by the Lake",
       "Desc": "When the equipping character's current HP increases or decreases, Elemental Skill DMG dealt will be increased by <color=#99FFFFFF>8%</color> for 6s. Max 3 stacks. This effect can be triggered once every 0.2s. When other party members' current HP increases or decreases, the equipping character's Max HP will be increased by <color=#99FFFFFF>14%</color> for 6s. Max 2 stacks. This effect can be triggered once every 0.2s. The aforementioned effects can be triggered even if the wielder is off-field.",
-      "ParamList": [0.08, 6, 0.2, 0.14, 6, 0.2]
+      "ParamList": [0.08, 6, 0.2, 0.14, 6, 0.2, 0, 0]
     },
     "2": {
       "Name": "Dawn and Dusk by the Lake",
       "Desc": "When the equipping character's current HP increases or decreases, Elemental Skill DMG dealt will be increased by <color=#99FFFFFF>10%</color> for 6s. Max 3 stacks. This effect can be triggered once every 0.2s. When other party members' current HP increases or decreases, the equipping character's Max HP will be increased by <color=#99FFFFFF>17.5%</color> for 6s. Max 2 stacks. This effect can be triggered once every 0.2s. The aforementioned effects can be triggered even if the wielder is off-field.",
-      "ParamList": [0.1, 6, 0.2, 0.175, 6, 0.2]
+      "ParamList": [0.1, 6, 0.2, 0.175, 6, 0.2, 0, 0]
     },
     "3": {
       "Name": "Dawn and Dusk by the Lake",
       "Desc": "When the equipping character's current HP increases or decreases, Elemental Skill DMG dealt will be increased by <color=#99FFFFFF>12%</color> for 6s. Max 3 stacks. This effect can be triggered once every 0.2s. When other party members' current HP increases or decreases, the equipping character's Max HP will be increased by <color=#99FFFFFF>21%</color> for 6s. Max 2 stacks. This effect can be triggered once every 0.2s. The aforementioned effects can be triggered even if the wielder is off-field.",
-      "ParamList": [0.12, 6, 0.2, 0.21, 6, 0.2]
+      "ParamList": [0.12, 6, 0.2, 0.21, 6, 0.2, 0, 0]
     },
     "4": {
       "Name": "Dawn and Dusk by the Lake",
       "Desc": "When the equipping character's current HP increases or decreases, Elemental Skill DMG dealt will be increased by <color=#99FFFFFF>14%</color> for 6s. Max 3 stacks. This effect can be triggered once every 0.2s. When other party members' current HP increases or decreases, the equipping character's Max HP will be increased by <color=#99FFFFFF>24.5%</color> for 6s. Max 2 stacks. This effect can be triggered once every 0.2s. The aforementioned effects can be triggered even if the wielder is off-field.",
-      "ParamList": [0.14, 6, 0.2, 0.245, 6, 0.2]
+      "ParamList": [0.14, 6, 0.2, 0.245, 6, 0.2, 0, 0]
     },
     "5": {
       "Name": "Dawn and Dusk by the Lake",
       "Desc": "When the equipping character's current HP increases or decreases, Elemental Skill DMG dealt will be increased by <color=#99FFFFFF>16%</color> for 6s. Max 3 stacks. This effect can be triggered once every 0.2s. When other party members' current HP increases or decreases, the equipping character's Max HP will be increased by <color=#99FFFFFF>28%</color> for 6s. Max 2 stacks. This effect can be triggered once every 0.2s. The aforementioned effects can be triggered even if the wielder is off-field.",
-      "ParamList": [0.16, 6, 0.2, 0.28, 6, 0.2]
+      "ParamList": [0.16, 6, 0.2, 0.28, 6, 0.2, 0, 0]
     }
   },
   "Materials": {

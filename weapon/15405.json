@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_201",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 42.401
+      "initValue": 42.401,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_ATTACK_PERCENT",
-      "initValue": 0.09
+      "initValue": 0.09,
+      "propType": "FIGHT_PROP_ATTACK_PERCENT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Rapid Firing",
       "Desc": "Increases Normal Attack DMG by <color=#99FFFFFF>40%</color> but decreases Charged Attack DMG by 10%.",
-      "ParamList": [0.4, 0.1]
+      "ParamList": [0.4, 0.1, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Rapid Firing",
       "Desc": "Increases Normal Attack DMG by <color=#99FFFFFF>50%</color> but decreases Charged Attack DMG by 10%.",
-      "ParamList": [0.5, 0.1]
+      "ParamList": [0.5, 0.1, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Rapid Firing",
       "Desc": "Increases Normal Attack DMG by <color=#99FFFFFF>60%</color> but decreases Charged Attack DMG by 10%.",
-      "ParamList": [0.6, 0.1]
+      "ParamList": [0.6, 0.1, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Rapid Firing",
       "Desc": "Increases Normal Attack DMG by <color=#99FFFFFF>70%</color> but decreases Charged Attack DMG by 10%.",
-      "ParamList": [0.7, 0.1]
+      "ParamList": [0.7, 0.1, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Rapid Firing",
       "Desc": "Increases Normal Attack DMG by <color=#99FFFFFF>80%</color> but decreases Charged Attack DMG by 10%.",
-      "ParamList": [0.8, 0.1]
+      "ParamList": [0.8, 0.1, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

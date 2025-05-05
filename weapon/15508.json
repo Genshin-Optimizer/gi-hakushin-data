@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_304",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 44.3358
+      "initValue": 44.3358,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_301",
-      "propType": "FIGHT_PROP_CRITICAL_HURT",
-      "initValue": 0.192
+      "initValue": 0.192,
+      "propType": "FIGHT_PROP_CRITICAL_HURT"
     }
   ],
   "Rarity": 5,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "The Cleansing Form",
       "Desc": "HP is increased by <color=#99FFFFFF>16%</color>. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by <color=#99FFFFFF>20%</color>. This will take effect whether the character is on-field or not.",
-      "ParamList": [0.16, 0.2, 0.5, 1.2]
+      "ParamList": [0.16, 0.2, 0.5, 1.2, 0, 0, 0, 0]
     },
     "2": {
       "Name": "The Cleansing Form",
       "Desc": "HP is increased by <color=#99FFFFFF>20%</color>. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by <color=#99FFFFFF>25%</color>. This will take effect whether the character is on-field or not.",
-      "ParamList": [0.2, 0.25, 0.5, 1.2]
+      "ParamList": [0.2, 0.25, 0.5, 1.2, 0, 0, 0, 0]
     },
     "3": {
       "Name": "The Cleansing Form",
       "Desc": "HP is increased by <color=#99FFFFFF>24%</color>. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by <color=#99FFFFFF>30%</color>. This will take effect whether the character is on-field or not.",
-      "ParamList": [0.24, 0.3, 0.5, 1.2]
+      "ParamList": [0.24, 0.3, 0.5, 1.2, 0, 0, 0, 0]
     },
     "4": {
       "Name": "The Cleansing Form",
       "Desc": "HP is increased by <color=#99FFFFFF>28%</color>. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by <color=#99FFFFFF>35%</color>. This will take effect whether the character is on-field or not.",
-      "ParamList": [0.28, 0.35, 0.5, 1.2]
+      "ParamList": [0.28, 0.35, 0.5, 1.2, 0, 0, 0, 0]
     },
     "5": {
       "Name": "The Cleansing Form",
       "Desc": "HP is increased by <color=#99FFFFFF>32%</color>. When there are opponents nearby, the DMG dealt by the wielder of this weapon is increased by <color=#99FFFFFF>40%</color>. This will take effect whether the character is on-field or not.",
-      "ParamList": [0.32, 0.4, 0.5, 1.2]
+      "ParamList": [0.32, 0.4, 0.5, 1.2, 0, 0, 0, 0]
     }
   },
   "Materials": {

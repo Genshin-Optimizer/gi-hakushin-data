@@ -52,7 +52,7 @@
       },
       {
         "Title": "Melusine-Specialized Portable Integrated Medical Apparatus",
-        "Text": "In the days before the main body of the Fontaine Research Institute had yet to float in the skies, the researchers would also accept some research projects that lay outside the scope of their usual investigations as a way to repay their benefactors.\\nThese projects were largely dry, uninteresting, but tolerable sacrifices for the sake of courting sponsors. Still, some would be outright ridiculous, to the point that the researchers might consider having their funding cut to be preferable to actually carrying them out.\\nOne day, one such task appeared, finding pride of place on their announcement boards.\\n\"Extra Urgent: Specialist Medical Device Development.\"\\n\"Requirements: 1. Portable, Small Size, Lightweight, to be carried with ease by a person with the build of a small child. 2. Needs to contain all needed medical implements for emergency calls (if present medical instruments cannot meet these requirements, a new complement of devices will need to be created separately.) 3. Contains a function with which to perform routine health checkups. 4. Must have a cute design.\"\\nThose who had gathered around the board to read this began to scrunch up their brows as they did so, and finally, they could not contain their anger any longer.\\n\"What sort of request is this? Never mind the how strict the requirements are — they're self-contradictory, too!\"\\n\"A cute design? What are we, toymakers?\"\\nBut the person who had put up the notice was unfazed by their infuriated response.\\n\"The commissioner is the Melusine head nurse at the Fortress of Meropide.\"\\nAt this, the researchers — who just moments before had been the very picture of outrage — fell utterly silent, until finally someone shouted out:\\n\"We're bidding for this one — no preferential treatment for those on shift! Also, anyone who complained just now is automatically out of the running!\"\\nAfter just a single month, Sigewinne had received a most satisfactory product. From then on, this heart-shaped medical kit could be seen at her hip wherever she went, indeed becoming one of her calling cards.\\nIf she had but one complaint, it would have to be its awful mouthful of a name — the \"Melusine-Specialized Portable Integrated Medical Apparatus.\"",
+        "Text": "In the days before the main body of the Fontaine Research Institute had yet to float in the skies, the researchers would also accept some research projects that lay outside the scope of their usual investigations as a way to repay their benefactors.\\nThese projects were largely dry, uninteresting, but tolerable sacrifices for the sake of courting sponsors. Still, some would be outright ridiculous, to the point that the researchers might consider having their funding cut to be preferable to actually carrying them out.\\nOne day, one such task appeared, finding pride of place on their announcement boards.\\n\"Extra Urgent: Specialist Medical Device Development.\"\\n\"Requirements: 1. Portable, Small Size, Lightweight, to be carried with ease by a person with the build of a small child. 2. Needs to contain all needed medical implements for emergency calls (if present medical instruments cannot meet these requirements, a new complement of devices will need to be created separately.) 3. Contains a function with which to perform routine health checkups. 4. Must have a cute design.\"\\nThose who had gathered around the board to read this began to scrunch up their brows as they did so, and finally, they could not contain their anger any longer.\\n\"What sort of request is this? Never mind the how strict the requirements are — they're self-contradictory, too!\"\\n\"A cute design? What are we, toymakers?\"\\nBut the person who had put up the notice was unfazed by their infuriated response.\\n\"The commissioner is the Melusine head nurse at the Fortress of Meropide.\"\\nAt this, the researchers ��� who just moments before had been the very picture of outrage — fell utterly silent, until finally someone shouted out:\\n\"We're bidding for this one — no preferential treatment for those on shift! Also, anyone who complained just now is automatically out of the running!\"\\nAfter just a single month, Sigewinne had received a most satisfactory product. From then on, this heart-shaped medical kit could be seen at her hip wherever she went, indeed becoming one of her calling cards.\\nIf she had but one complaint, it would have to be its awful mouthful of a name — the \"Melusine-Specialized Portable Integrated Medical Apparatus.\"",
         "Unlock": ["Unlocks at Friendship Lv. 4"]
       },
       {
@@ -426,7 +426,15 @@
         "Text": "Anesthetics... check.",
         "Unlocked": []
       },
-      { "Title": "Joining Party: III", "Text": "Excuse me~", "Unlocked": [] }
+      { "Title": "Joining Party: III", "Text": "Excuse me~", "Unlocked": [] },
+      {
+        "Title": "About Escoffier",
+        "Text": "Miss Escoffier wasn't in the Fortress long, but she was a delightful presence! Whenever I made her a beverage, she would get so serious, taking these small, careful sips, it took her forever to finish! And then, she would go into a bunch of detail about the flavor profile... A lot of it went over my head, but the way her face would contort in response to the flavor was so cute! I should send her some milkshakes for old time's sake!",
+        "Unlocked": [
+          "Unlocks at Friendship Lv. 4",
+          "Complete \"Cataclysm's Quickening\""
+        ]
+      }
     ],
     "SpecialFood": {
       "Id": 108673,
@@ -447,7 +455,7 @@
         "Name": "Sweetness of the Sea",
         "Desc": "Sigewinne's outfit. Its brilliant colors epitomize Head Nurse Sigewinne herself — a welcome ray of sunshine brightening life down in the gloomy depths.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -826,7 +834,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Targeted Treatment",
+      "Name": "Targeted Treatment",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 3 consecutive attacks.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nPerforms a more precise <color=#FFD780FF>Aimed Shot</color> with increased DMG.\\nWhile aiming, the power of Hydro will continually accumulate on the arrow. After fully charging, Sigewinne will periodically fire slow-moving Mini-Stration Bubbles toward the target, dealing <color=#80C0FFFF>Hydro DMG</color>. When released, an arrow imbued with torrential energy will deal <color=#80C0FFFF>Hydro DMG</color> to the opponent hit.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
       "Promote": {
         "0": {
@@ -852,7 +860,7 @@
           ],
           "Param": [
             0.526139, 0.510711, 0.78291, 0.568288, 1.136335, 1.419344, 0.4386,
-            1.24, 0.248
+            1.24, 0.248, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -878,7 +886,7 @@
           ],
           "Param": [
             0.568965, 0.552281, 0.846635, 0.614544, 1.228828, 1.534872, 0.4743,
-            1.333, 0.2666
+            1.333, 0.2666, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -904,7 +912,7 @@
           ],
           "Param": [
             0.61179, 0.59385, 0.91036, 0.6608, 1.32132, 1.6504, 0.51, 1.426,
-            0.2852
+            0.2852, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -930,7 +938,7 @@
           ],
           "Param": [
             0.672969, 0.653235, 1.001396, 0.72688, 1.453452, 1.81544, 0.561,
-            1.55, 0.31
+            1.55, 0.31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -956,7 +964,7 @@
           ],
           "Param": [
             0.715794, 0.694804, 1.065121, 0.773136, 1.545944, 1.930968, 0.5967,
-            1.643, 0.3286
+            1.643, 0.3286, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -982,7 +990,7 @@
           ],
           "Param": [
             0.764737, 0.742312, 1.13795, 0.826, 1.65165, 2.063, 0.6375, 1.736,
-            0.3472
+            0.3472, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -1008,7 +1016,7 @@
           ],
           "Param": [
             0.832034, 0.807636, 1.23809, 0.898688, 1.796995, 2.244544, 0.6936,
-            1.86, 0.372
+            1.86, 0.372, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1034,7 +1042,7 @@
           ],
           "Param": [
             0.899331, 0.872959, 1.338229, 0.971376, 1.94234, 2.426088, 0.7497,
-            1.984, 0.3968
+            1.984, 0.3968, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1060,7 +1068,7 @@
           ],
           "Param": [
             0.966628, 0.938283, 1.438369, 1.044064, 2.087686, 2.607632, 0.8058,
-            2.108, 0.4216
+            2.108, 0.4216, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1086,7 +1094,7 @@
           ],
           "Param": [
             1.040043, 1.009545, 1.547612, 1.12336, 2.246244, 2.80568, 0.867,
-            2.232, 0.4464
+            2.232, 0.4464, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1112,7 +1120,7 @@
           ],
           "Param": [
             1.113458, 1.080807, 1.656855, 1.202656, 2.404802, 3.003728, 0.9282,
-            2.356, 0.4712
+            2.356, 0.4712, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1138,7 +1146,7 @@
           ],
           "Param": [
             1.186873, 1.152069, 1.766098, 1.281952, 2.563361, 3.201776, 0.9894,
-            2.48, 0.496
+            2.48, 0.496, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1164,7 +1172,7 @@
           ],
           "Param": [
             1.260287, 1.223331, 1.875342, 1.361248, 2.721919, 3.399824, 1.0506,
-            2.635, 0.527
+            2.635, 0.527, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1190,7 +1198,7 @@
           ],
           "Param": [
             1.333702, 1.294593, 1.984585, 1.440544, 2.880478, 3.597872, 1.1118,
-            2.79, 0.558
+            2.79, 0.558, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1216,7 +1224,7 @@
           ],
           "Param": [
             1.407117, 1.365855, 2.093828, 1.51984, 3.039036, 3.79592, 1.173,
-            2.945, 0.589
+            2.945, 0.589, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1247,7 +1255,8 @@
             ""
           ],
           "Param": [
-            0.0228, 0.028, 269.6314, 0.5, 0.1, 0.00684, 10, 18, 0.0005, 5
+            0.0228, 0.028, 269.6314, 0.5, 0, 0.1, 0.00684, 10, 18, 0.0005, 5, 0,
+            0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -1272,7 +1281,8 @@
             ""
           ],
           "Param": [
-            0.02451, 0.0301, 296.5983, 0.5, 0.1, 0.007353, 10, 18, 0.0005, 5
+            0.02451, 0.0301, 296.5983, 0.5, 0, 0.1, 0.007353, 10, 18, 0.0005, 5,
+            0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -1297,7 +1307,8 @@
             ""
           ],
           "Param": [
-            0.02622, 0.0322, 325.81244, 0.5, 0.1, 0.007866, 10, 18, 0.0005, 5
+            0.02622, 0.0322, 325.81244, 0.5, 0, 0.1, 0.007866, 10, 18, 0.0005,
+            5, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -1322,7 +1333,8 @@
             ""
           ],
           "Param": [
-            0.0285, 0.035, 357.2738, 0.5, 0.1, 0.00855, 10, 18, 0.0005, 5
+            0.0285, 0.035, 357.2738, 0.5, 0, 0.1, 0.00855, 10, 18, 0.0005, 5, 0,
+            0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -1347,7 +1359,8 @@
             ""
           ],
           "Param": [
-            0.03021, 0.0371, 390.98242, 0.5, 0.1, 0.009063, 10, 18, 0.0005, 5
+            0.03021, 0.0371, 390.98242, 0.5, 0, 0.1, 0.009063, 10, 18, 0.0005,
+            5, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -1372,7 +1385,8 @@
             ""
           ],
           "Param": [
-            0.03192, 0.0392, 426.93826, 0.5, 0.1, 0.009576, 10, 18, 0.0005, 5
+            0.03192, 0.0392, 426.93826, 0.5, 0, 0.1, 0.009576, 10, 18, 0.0005,
+            5, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -1397,7 +1411,8 @@
             ""
           ],
           "Param": [
-            0.0342, 0.042, 465.14136, 0.5, 0.1, 0.01026, 10, 18, 0.0005, 5
+            0.0342, 0.042, 465.14136, 0.5, 0, 0.1, 0.01026, 10, 18, 0.0005, 5,
+            0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1422,7 +1437,8 @@
             ""
           ],
           "Param": [
-            0.03648, 0.0448, 505.59167, 0.5, 0.1, 0.010944, 10, 18, 0.0005, 5
+            0.03648, 0.0448, 505.59167, 0.5, 0, 0.1, 0.010944, 10, 18, 0.0005,
+            5, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1447,7 +1463,8 @@
             ""
           ],
           "Param": [
-            0.03876, 0.0476, 548.28925, 0.5, 0.1, 0.011628, 10, 18, 0.0005, 5
+            0.03876, 0.0476, 548.28925, 0.5, 0, 0.1, 0.011628, 10, 18, 0.0005,
+            5, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1472,7 +1489,8 @@
             ""
           ],
           "Param": [
-            0.04104, 0.0504, 593.2341, 0.5, 0.1, 0.012312, 10, 18, 0.0005, 5
+            0.04104, 0.0504, 593.2341, 0.5, 0, 0.1, 0.012312, 10, 18, 0.0005, 5,
+            0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1497,7 +1515,8 @@
             ""
           ],
           "Param": [
-            0.04332, 0.0532, 640.42615, 0.5, 0.1, 0.012996, 10, 18, 0.0005, 5
+            0.04332, 0.0532, 640.42615, 0.5, 0, 0.1, 0.012996, 10, 18, 0.0005,
+            5, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1522,7 +1541,8 @@
             ""
           ],
           "Param": [
-            0.0456, 0.056, 689.8654, 0.5, 0.1, 0.01368, 10, 18, 0.0005, 5
+            0.0456, 0.056, 689.8654, 0.5, 0, 0.1, 0.01368, 10, 18, 0.0005, 5, 0,
+            0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1547,7 +1567,8 @@
             ""
           ],
           "Param": [
-            0.04845, 0.0595, 741.55194, 0.5, 0.1, 0.014535, 10, 18, 0.0005, 5
+            0.04845, 0.0595, 741.55194, 0.5, 0, 0.1, 0.014535, 10, 18, 0.0005,
+            5, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1572,7 +1593,8 @@
             ""
           ],
           "Param": [
-            0.0513, 0.063, 795.4857, 0.5, 0.1, 0.01539, 10, 18, 0.0005, 5
+            0.0513, 0.063, 795.4857, 0.5, 0, 0.1, 0.01539, 10, 18, 0.0005, 5, 0,
+            0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1597,7 +1619,8 @@
             ""
           ],
           "Param": [
-            0.05415, 0.0665, 851.66675, 0.5, 0.1, 0.016245, 10, 18, 0.0005, 5
+            0.05415, 0.0665, 851.66675, 0.5, 0, 0.1, 0.016245, 10, 18, 0.0005,
+            5, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1627,7 +1650,10 @@
             "",
             ""
           ],
-          "Param": [0.117708, 18, 70, 2.5]
+          "Param": [
+            0.117708, 18, 70, 2.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1650,7 +1676,10 @@
             "",
             ""
           ],
-          "Param": [0.126536, 18, 70, 2.5]
+          "Param": [
+            0.126536, 18, 70, 2.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1673,7 +1702,10 @@
             "",
             ""
           ],
-          "Param": [0.135364, 18, 70, 2.5]
+          "Param": [
+            0.135364, 18, 70, 2.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1696,7 +1728,10 @@
             "",
             ""
           ],
-          "Param": [0.147135, 18, 70, 2.5]
+          "Param": [
+            0.147135, 18, 70, 2.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1719,7 +1754,10 @@
             "",
             ""
           ],
-          "Param": [0.155963, 18, 70, 2.5]
+          "Param": [
+            0.155963, 18, 70, 2.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1742,7 +1780,10 @@
             "",
             ""
           ],
-          "Param": [0.164791, 18, 70, 2.5]
+          "Param": [
+            0.164791, 18, 70, 2.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1765,7 +1806,10 @@
             "",
             ""
           ],
-          "Param": [0.176562, 18, 70, 2.5]
+          "Param": [
+            0.176562, 18, 70, 2.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1788,7 +1832,10 @@
             "",
             ""
           ],
-          "Param": [0.188333, 18, 70, 2.5]
+          "Param": [
+            0.188333, 18, 70, 2.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1811,7 +1858,10 @@
             "",
             ""
           ],
-          "Param": [0.200104, 18, 70, 2.5]
+          "Param": [
+            0.200104, 18, 70, 2.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1834,7 +1884,10 @@
             "",
             ""
           ],
-          "Param": [0.211874, 18, 70, 2.5]
+          "Param": [
+            0.211874, 18, 70, 2.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1857,7 +1910,10 @@
             "",
             ""
           ],
-          "Param": [0.223645, 18, 70, 2.5]
+          "Param": [
+            0.223645, 18, 70, 2.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1880,7 +1936,10 @@
             "",
             ""
           ],
-          "Param": [0.235416, 18, 70, 2.5]
+          "Param": [
+            0.235416, 18, 70, 2.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1903,7 +1962,10 @@
             "",
             ""
           ],
-          "Param": [0.250129, 18, 70, 2.5]
+          "Param": [
+            0.250129, 18, 70, 2.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1926,7 +1988,10 @@
             "",
             ""
           ],
-          "Param": [0.264843, 18, 70, 2.5]
+          "Param": [
+            0.264843, 18, 70, 2.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1949,7 +2014,10 @@
             "",
             ""
           ],
-          "Param": [0.279556, 18, 70, 2.5]
+          "Param": [
+            0.279556, 18, 70, 2.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         }
       }
     }
@@ -1960,21 +2028,25 @@
       "Desc": "Sigewinne grants herself the \"Semi-Strict Bedrest\" effect for 18s after using <color=#FFD780FF>Rebound Hydrotherapy</color>: Sigewinne gains an 8% <color=#80C0FFFF>Hydro DMG Bonus</color> and 10 stacks of Convalescence. When the Elemental Skills of your nearby off-field party members other than Sigewinne deal DMG, consume 1 stack of Convalescence, and increase the DMG dealt by this instance of Elemental Skill DMG. Every 1,000 Max HP Sigewinne has above 30,000 increases the DMG by 80. The maximum DMG increase for Elemental Skills that can be gained in this way is 2,800.",
       "Icon": "UI_Talent_S_Sigewinne_05",
       "Unlock": 1,
-      "ParamList": [80, 2800, 18, 0.08, 10, 30000]
+      "ParamList": [
+        80, 2800, 18, 0.08, 10, 30000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Detailed Diagnosis, Thorough Treatment",
       "Desc": "When Sigewinne performs healing, the amount healed for this instance is increased based on the total current value of the Bonds of Life on all party members: For each 1,000 HP worth of Bonds of Life, the outgoing healing is increased by 3%. The amount of healing provided can be increased by up to 30% in this way.",
       "Icon": "UI_Talent_S_Sigewinne_06",
       "Unlock": 4,
-      "ParamList": [0.03, 0.3]
+      "ParamList": [
+        0.03, 0.3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Emergency Dose",
       "Desc": "While underwater, heals your active character over 2.5s when their HP falls under 50%. The amount healed is equal to 50% of their Max HP, and their All Elemental and Physical RES will be decreased by 10% for 10s. This effect can be triggered up to once every 20s.",
       "Icon": "UI_Talent_S_Sigewinne_07",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Constellations": [
@@ -1982,37 +2054,37 @@
       "Name": "\"Can the Happiest of Spirits Understand Anxiety?\"",
       "Desc": "<color=#FFD780FF>Rebound Hydrotherapy</color>'s Bolstering Bubblebalm can bounce 3 extra times, and the first 3 bounces will not cause big Bubblebalms to become smaller.\\nThe Passive Talent \"Requires Appropriate Rest\" is enhanced: Each Bubblebalm bounce adds 1 stack to her Convalescence tally, and the values for the Convalescence stacks' DMG bonus will be modified to: Every 1,000 max HP Sigewinne has above 30,000 increases the DMG by 100. The maximum DMG increase for Elemental Skills that can be gained in this way is 3,500. You must first unlock the Passive Talent \"Requires Appropriate Rest.\"",
       "Icon": "UI_Talent_S_Sigewinne_01",
-      "ParamList": [20, 700]
+      "ParamList": [20, 700, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "\"Can the Most Merciful of Spirits Defeat Its Foes?\"",
       "Desc": "When using <color=#FFD780FF>Rebound Hydrotherapy</color> and <color=#FFD780FF>Super Saturated Syringing</color>, Sigewinne can create a Bubbly Shield worth 30% of her Max HP that absorbs <color=#80C0FFFF>Hydro DMG</color> with 250% efficiency. The Bubbly Shield will persist until Sigewinne finishes using relevant skills.\\nAdditionally, after Rebound Hydrotherapy's Bolstering Bubblebalm or Super Saturated Syringing hits an opponent, that opponent's <color=#80C0FFFF>Hydro RES</color> will be decreased by 35% for 8s.",
       "Icon": "UI_Talent_S_Sigewinne_02",
-      "ParamList": [0.3, 0.35, 8]
+      "ParamList": [0.3, 0.35, 8, 0, 0, 0, 0, 0]
     },
     {
       "Name": "\"Can the Healthiest of Spirits Cure Fevers?\"",
       "Desc": "Increases the Level of <color=#FFD780FF>Rebound Hydrotherapy</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Sigewinne_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "\"Can the Loveliest of Spirits Keep Decay at Bay?\"",
       "Desc": "The duration of <color=#FFD780FF>Super Saturated Syringing</color> is extended by 3s.",
       "Icon": "UI_Talent_S_Sigewinne_03",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "\"Can the Most Joyful of Spirits Alleviate Agony?\"",
       "Desc": "Increases the Level of <color=#FFD780FF>Super Saturated Syringing</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Sigewinne_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "\"Can the Most Radiant of Spirits Pray For Me?\"",
       "Desc": "When Sigewinne performs healing, she will increase the CRIT Rate and CRIT DMG of her <color=#FFD780FF>Super Saturated Syringing</color> based on her Max HP. Every 1,000 Max HP she has will increase CRIT Rate by 0.4% and CRIT DMG by 2.2% for 15s. The maximum increase achievable this way is 20% CRIT Rate and 110% CRIT DMG.",
       "Icon": "UI_Talent_S_Sigewinne_04",
-      "ParamList": [0.004, 0.022, 15, 0.2, 1.1]
+      "ParamList": [0.004, 0.022, 15, 0.2, 1.1, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -2025,7 +2097,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Romaritime Flower", "Id": 101233, "Count": 3, "Rank": 1 },
+          { "Name": "Romaritime Flower", "Id": 101233, "Count": 3, "Rank": 0 },
           { "Name": "Transoceanic Pearl", "Id": 112080, "Count": 3, "Rank": 1 }
         ],
         "Cost": 20000
@@ -2044,7 +2116,7 @@
             "Count": 2,
             "Rank": 4
           },
-          { "Name": "Romaritime Flower", "Id": 101233, "Count": 10, "Rank": 1 },
+          { "Name": "Romaritime Flower", "Id": 101233, "Count": 10, "Rank": 0 },
           { "Name": "Transoceanic Pearl", "Id": 112080, "Count": 15, "Rank": 1 }
         ],
         "Cost": 40000
@@ -2063,7 +2135,7 @@
             "Count": 4,
             "Rank": 4
           },
-          { "Name": "Romaritime Flower", "Id": 101233, "Count": 20, "Rank": 1 },
+          { "Name": "Romaritime Flower", "Id": 101233, "Count": 20, "Rank": 0 },
           { "Name": "Transoceanic Chunk", "Id": 112081, "Count": 12, "Rank": 2 }
         ],
         "Cost": 60000
@@ -2082,7 +2154,7 @@
             "Count": 8,
             "Rank": 4
           },
-          { "Name": "Romaritime Flower", "Id": 101233, "Count": 30, "Rank": 1 },
+          { "Name": "Romaritime Flower", "Id": 101233, "Count": 30, "Rank": 0 },
           { "Name": "Transoceanic Chunk", "Id": 112081, "Count": 18, "Rank": 2 }
         ],
         "Cost": 80000
@@ -2101,7 +2173,7 @@
             "Count": 12,
             "Rank": 4
           },
-          { "Name": "Romaritime Flower", "Id": 101233, "Count": 45, "Rank": 1 },
+          { "Name": "Romaritime Flower", "Id": 101233, "Count": 45, "Rank": 0 },
           {
             "Name": "Xenochromatic Crystal",
             "Id": 112082,
@@ -2125,7 +2197,7 @@
             "Count": 20,
             "Rank": 4
           },
-          { "Name": "Romaritime Flower", "Id": 101233, "Count": 60, "Rank": 1 },
+          { "Name": "Romaritime Flower", "Id": 101233, "Count": 60, "Rank": 0 },
           {
             "Name": "Xenochromatic Crystal",
             "Id": 112082,

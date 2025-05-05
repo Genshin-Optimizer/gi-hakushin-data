@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_201",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 42.401
+      "initValue": 42.401,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
-      "initValue": 0.1
+      "initValue": 0.1,
+      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Samurai Conduct",
       "Desc": "Increases Elemental Skill DMG by <color=#99FFFFFF>6%</color>. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates <color=#99FFFFFF>3</color> Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field.",
-      "ParamList": [0.06, 3, 3, 6, 10]
+      "ParamList": [0.06, 3, 3, 6, 10, 0, 0, 0]
     },
     "2": {
       "Name": "Samurai Conduct",
       "Desc": "Increases Elemental Skill DMG by <color=#99FFFFFF>7.5%</color>. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates <color=#99FFFFFF>3.5</color> Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field.",
-      "ParamList": [0.075, 3, 3.5, 6, 10]
+      "ParamList": [0.075, 3, 3.5, 6, 10, 0, 0, 0]
     },
     "3": {
       "Name": "Samurai Conduct",
       "Desc": "Increases Elemental Skill DMG by <color=#99FFFFFF>9%</color>. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates <color=#99FFFFFF>4</color> Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field.",
-      "ParamList": [0.09, 3, 4, 6, 10]
+      "ParamList": [0.09, 3, 4, 6, 10, 0, 0, 0]
     },
     "4": {
       "Name": "Samurai Conduct",
       "Desc": "Increases Elemental Skill DMG by <color=#99FFFFFF>10.5%</color>. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates <color=#99FFFFFF>4.5</color> Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field.",
-      "ParamList": [0.105, 3, 4.5, 6, 10]
+      "ParamList": [0.105, 3, 4.5, 6, 10, 0, 0, 0]
     },
     "5": {
       "Name": "Samurai Conduct",
       "Desc": "Increases Elemental Skill DMG by <color=#99FFFFFF>12%</color>. After Elemental Skill hits an opponent, the character loses 3 Energy but regenerates <color=#99FFFFFF>5</color> Energy every 2s for the next 6s. This effect can occur once every 10s. Can be triggered even when the character is not on the field.",
-      "ParamList": [0.12, 3, 5, 6, 10]
+      "ParamList": [0.12, 3, 5, 6, 10, 0, 0, 0]
     }
   },
   "Materials": {

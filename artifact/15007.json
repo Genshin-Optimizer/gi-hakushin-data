@@ -5,28 +5,29 @@
   "Rank": [3, 4, 5],
   "Affix": [
     {
-      "paramList": [0.2],
       "id": 215007,
-      "openConfig": "Relic_ElementalBurstUp",
+      "level": 0,
       "affixId": 2150070,
+      "paramList": [0.2, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "Relic_ElementalBurstUp",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Noblesse Oblige",
       "Desc": "Elemental Burst DMG +20%"
     },
     {
-      "level": 1,
-      "paramList": [0.2, 12],
       "id": 215007,
-      "openConfig": "Relic_TeamAtkupAfterElementalBurst",
+      "level": 1,
       "affixId": 2150071,
+      "paramList": [0.2, 12, 0, 0, 0, 0, 0, 0],
+      "openConfig": "Relic_TeamAtkupAfterElementalBurst",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Noblesse Oblige",
       "Desc": "Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack."

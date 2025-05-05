@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_202",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 43.7349
+      "initValue": 43.7349,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
-      "initValue": 0.066667
+      "initValue": 0.066667,
+      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Sakura Saiguu",
       "Desc": "After the character equipped with this weapon triggers an Electro elemental reaction, nearby party members of an Elemental Type involved in the elemental reaction receive a <color=#99FFFFFF>10%</color> Elemental DMG Bonus for their element, lasting 6s. Elemental Bonuses gained in this way cannot be stacked.",
-      "ParamList": [0.1, 6, 1]
+      "ParamList": [0.1, 6, 1, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Sakura Saiguu",
       "Desc": "After the character equipped with this weapon triggers an Electro elemental reaction, nearby party members of an Elemental Type involved in the elemental reaction receive a <color=#99FFFFFF>12.5%</color> Elemental DMG Bonus for their element, lasting 6s. Elemental Bonuses gained in this way cannot be stacked.",
-      "ParamList": [0.125, 6, 1]
+      "ParamList": [0.125, 6, 1, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Sakura Saiguu",
       "Desc": "After the character equipped with this weapon triggers an Electro elemental reaction, nearby party members of an Elemental Type involved in the elemental reaction receive a <color=#99FFFFFF>15%</color> Elemental DMG Bonus for their element, lasting 6s. Elemental Bonuses gained in this way cannot be stacked.",
-      "ParamList": [0.15, 6, 1]
+      "ParamList": [0.15, 6, 1, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Sakura Saiguu",
       "Desc": "After the character equipped with this weapon triggers an Electro elemental reaction, nearby party members of an Elemental Type involved in the elemental reaction receive a <color=#99FFFFFF>17.5%</color> Elemental DMG Bonus for their element, lasting 6s. Elemental Bonuses gained in this way cannot be stacked.",
-      "ParamList": [0.175, 6, 1]
+      "ParamList": [0.175, 6, 1, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Sakura Saiguu",
       "Desc": "After the character equipped with this weapon triggers an Electro elemental reaction, nearby party members of an Elemental Type involved in the elemental reaction receive a <color=#99FFFFFF>20%</color> Elemental DMG Bonus for their element, lasting 6s. Elemental Bonuses gained in this way cannot be stacked.",
-      "ParamList": [0.2, 6, 1]
+      "ParamList": [0.2, 6, 1, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

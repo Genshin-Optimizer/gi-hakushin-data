@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_301",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 45.9364
+      "initValue": 45.9364,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_301",
-      "propType": "FIGHT_PROP_CRITICAL",
-      "initValue": 0.072
+      "initValue": 0.072,
+      "propType": "FIGHT_PROP_CRITICAL"
     }
   ],
   "Rarity": 5,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Desert Watch",
       "Desc": "After the character's Elemental Skill hits an opponent, their ATK will be increased by <color=#99FFFFFF>20%</color> for 8s. After the character takes DMG, their ATK will be increased by <color=#99FFFFFF>20%</color> for 8s. The 2 aforementioned effects can be triggered even when the character is not on the field. Additionally, when not protected by a shield, the character's Max HP will be increased by <color=#99FFFFFF>32%</color>.",
-      "ParamList": [0.2, 8, 0.2, 8, 0.32]
+      "ParamList": [0.2, 8, 0.2, 8, 0.32, 0, 0, 0]
     },
     "2": {
       "Name": "Desert Watch",
       "Desc": "After the character's Elemental Skill hits an opponent, their ATK will be increased by <color=#99FFFFFF>25%</color> for 8s. After the character takes DMG, their ATK will be increased by <color=#99FFFFFF>25%</color> for 8s. The 2 aforementioned effects can be triggered even when the character is not on the field. Additionally, when not protected by a shield, the character's Max HP will be increased by <color=#99FFFFFF>40%</color>.",
-      "ParamList": [0.25, 8, 0.25, 8, 0.4]
+      "ParamList": [0.25, 8, 0.25, 8, 0.4, 0, 0, 0]
     },
     "3": {
       "Name": "Desert Watch",
       "Desc": "After the character's Elemental Skill hits an opponent, their ATK will be increased by <color=#99FFFFFF>30%</color> for 8s. After the character takes DMG, their ATK will be increased by <color=#99FFFFFF>30%</color> for 8s. The 2 aforementioned effects can be triggered even when the character is not on the field. Additionally, when not protected by a shield, the character's Max HP will be increased by <color=#99FFFFFF>48%</color>.",
-      "ParamList": [0.3, 8, 0.3, 8, 0.48]
+      "ParamList": [0.3, 8, 0.3, 8, 0.48, 0, 0, 0]
     },
     "4": {
       "Name": "Desert Watch",
       "Desc": "After the character's Elemental Skill hits an opponent, their ATK will be increased by <color=#99FFFFFF>35%</color> for 8s. After the character takes DMG, their ATK will be increased by <color=#99FFFFFF>35%</color> for 8s. The 2 aforementioned effects can be triggered even when the character is not on the field. Additionally, when not protected by a shield, the character's Max HP will be increased by <color=#99FFFFFF>56%</color>.",
-      "ParamList": [0.35, 8, 0.35, 8, 0.56]
+      "ParamList": [0.35, 8, 0.35, 8, 0.56, 0, 0, 0]
     },
     "5": {
       "Name": "Desert Watch",
       "Desc": "After the character's Elemental Skill hits an opponent, their ATK will be increased by <color=#99FFFFFF>40%</color> for 8s. After the character takes DMG, their ATK will be increased by <color=#99FFFFFF>40%</color> for 8s. The 2 aforementioned effects can be triggered even when the character is not on the field. Additionally, when not protected by a shield, the character's Max HP will be increased by <color=#99FFFFFF>64%</color>.",
-      "ParamList": [0.4, 8, 0.4, 8, 0.64]
+      "ParamList": [0.4, 8, 0.4, 8, 0.64, 0, 0, 0]
     }
   },
   "Materials": {

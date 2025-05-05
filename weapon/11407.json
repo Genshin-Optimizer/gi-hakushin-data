@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_201",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 42.401
+      "initValue": 42.401,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_ELEMENT_MASTERY",
-      "initValue": 36
+      "initValue": 36,
+      "propType": "FIGHT_PROP_ELEMENT_MASTERY"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Infusion Stinger",
       "Desc": "Dealing Elemental DMG increases all DMG by <color=#99FFFFFF>6%</color> for 6s. Max 2 stacks. Can occur once every 1s.",
-      "ParamList": [0.06, 1, 6]
+      "ParamList": [0.06, 1, 6, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Infusion Stinger",
       "Desc": "Dealing Elemental DMG increases all DMG by <color=#99FFFFFF>7.5%</color> for 6s. Max 2 stacks. Can occur once every 1s.",
-      "ParamList": [0.075, 1, 6]
+      "ParamList": [0.075, 1, 6, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Infusion Stinger",
       "Desc": "Dealing Elemental DMG increases all DMG by <color=#99FFFFFF>9%</color> for 6s. Max 2 stacks. Can occur once every 1s.",
-      "ParamList": [0.09, 1, 6]
+      "ParamList": [0.09, 1, 6, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Infusion Stinger",
       "Desc": "Dealing Elemental DMG increases all DMG by <color=#99FFFFFF>10.5%</color> for 6s. Max 2 stacks. Can occur once every 1s.",
-      "ParamList": [0.105, 1, 6]
+      "ParamList": [0.105, 1, 6, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Infusion Stinger",
       "Desc": "Dealing Elemental DMG increases all DMG by <color=#99FFFFFF>12%</color> for 6s. Max 2 stacks. Can occur once every 1s.",
-      "ParamList": [0.12, 1, 6]
+      "ParamList": [0.12, 1, 6, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

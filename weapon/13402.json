@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_201",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 42.401
+      "initValue": 42.401,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
-      "initValue": 0.1
+      "initValue": 0.1,
+      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Magic Affinity",
       "Desc": "After using an Elemental Skill, increases Normal and Charged Attack DMG by <color=#99FFFFFF>8%</color> for 12s. Max 2 stacks.",
-      "ParamList": [0.08]
+      "ParamList": [0.08, 0, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Magic Affinity",
       "Desc": "After using an Elemental Skill, increases Normal and Charged Attack DMG by <color=#99FFFFFF>10%</color> for 12s. Max 2 stacks.",
-      "ParamList": [0.1]
+      "ParamList": [0.1, 0, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Magic Affinity",
       "Desc": "After using an Elemental Skill, increases Normal and Charged Attack DMG by <color=#99FFFFFF>12%</color> for 12s. Max 2 stacks.",
-      "ParamList": [0.12]
+      "ParamList": [0.12, 0, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Magic Affinity",
       "Desc": "After using an Elemental Skill, increases Normal and Charged Attack DMG by <color=#99FFFFFF>14%</color> for 12s. Max 2 stacks.",
-      "ParamList": [0.14]
+      "ParamList": [0.14, 0, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Magic Affinity",
       "Desc": "After using an Elemental Skill, increases Normal and Charged Attack DMG by <color=#99FFFFFF>16%</color> for 12s. Max 2 stacks.",
-      "ParamList": [0.16]
+      "ParamList": [0.16, 0, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

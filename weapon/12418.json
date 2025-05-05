@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_202",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 43.7349
+      "initValue": 43.7349,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_ELEMENT_MASTERY",
-      "initValue": 24
+      "initValue": 24,
+      "propType": "FIGHT_PROP_ELEMENT_MASTERY"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Whispers of Wind and Flower",
       "Desc": "Within 8s after the character's Elemental Skill hits an opponent or the character triggers an Elemental Reaction, their ATK and Elemental Mastery will be increased by <color=#99FFFFFF>12%</color> and <color=#99FFFFFF>48</color> respectively.",
-      "ParamList": [8, 0.12, 48]
+      "ParamList": [8, 0.12, 48, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Whispers of Wind and Flower",
       "Desc": "Within 8s after the character's Elemental Skill hits an opponent or the character triggers an Elemental Reaction, their ATK and Elemental Mastery will be increased by <color=#99FFFFFF>15%</color> and <color=#99FFFFFF>60</color> respectively.",
-      "ParamList": [8, 0.15, 60]
+      "ParamList": [8, 0.15, 60, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Whispers of Wind and Flower",
       "Desc": "Within 8s after the character's Elemental Skill hits an opponent or the character triggers an Elemental Reaction, their ATK and Elemental Mastery will be increased by <color=#99FFFFFF>18%</color> and <color=#99FFFFFF>72</color> respectively.",
-      "ParamList": [8, 0.18, 72]
+      "ParamList": [8, 0.18, 72, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Whispers of Wind and Flower",
       "Desc": "Within 8s after the character's Elemental Skill hits an opponent or the character triggers an Elemental Reaction, their ATK and Elemental Mastery will be increased by <color=#99FFFFFF>21%</color> and <color=#99FFFFFF>84</color> respectively.",
-      "ParamList": [8, 0.21, 84]
+      "ParamList": [8, 0.21, 84, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Whispers of Wind and Flower",
       "Desc": "Within 8s after the character's Elemental Skill hits an opponent or the character triggers an Elemental Reaction, their ATK and Elemental Mastery will be increased by <color=#99FFFFFF>24%</color> and <color=#99FFFFFF>96</color> respectively.",
-      "ParamList": [8, 0.24, 96]
+      "ParamList": [8, 0.24, 96, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

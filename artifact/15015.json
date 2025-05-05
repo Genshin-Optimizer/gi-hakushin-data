@@ -6,25 +6,28 @@
   "Affix": [
     {
       "id": 215015,
+      "level": 0,
       "affixId": 2150150,
+      "paramList": [0, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "",
       "addProps": [
-        { "value": 0.35, "propType": "FIGHT_PROP_SHIELD_COST_MINUS_RATIO" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_SHIELD_COST_MINUS_RATIO", "value": 0.35 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Retracing Bolide",
       "Desc": "Increases Shield Strength by 35%."
     },
     {
-      "level": 1,
-      "paramList": [0.4],
       "id": 215015,
-      "openConfig": "Relic_ShieldEnhanceAtk",
+      "level": 1,
       "affixId": 2150151,
+      "paramList": [0.4, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "Relic_ShieldEnhanceAtk",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Retracing Bolide",
       "Desc": "While protected by a shield, gain an additional 40% Normal and Charged Attack DMG."

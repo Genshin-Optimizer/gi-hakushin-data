@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_201",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 42.401
+      "initValue": 42.401,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_HP_PERCENT",
-      "initValue": 0.09
+      "initValue": 0.09,
+      "propType": "FIGHT_PROP_HP_PERCENT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Rebellious Guardian",
       "Desc": "Taking DMG generates a shield which absorbs DMG up to <color=#99FFFFFF>20%</color> of Max HP. This shield lasts for 10s or until broken, and can only be triggered once every <color=#99FFFFFF>45</color>s. While protected by a shield, the character gains <color=#99FFFFFF>12%</color> increased DMG.",
-      "ParamList": [0.2, 45, 0.12]
+      "ParamList": [0.2, 45, 0.12, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Rebellious Guardian",
       "Desc": "Taking DMG generates a shield which absorbs DMG up to <color=#99FFFFFF>23%</color> of Max HP. This shield lasts for 10s or until broken, and can only be triggered once every <color=#99FFFFFF>45</color>s. While protected by a shield, the character gains <color=#99FFFFFF>15%</color> increased DMG.",
-      "ParamList": [0.23, 45, 0.15]
+      "ParamList": [0.23, 45, 0.15, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Rebellious Guardian",
       "Desc": "Taking DMG generates a shield which absorbs DMG up to <color=#99FFFFFF>26%</color> of Max HP. This shield lasts for 10s or until broken, and can only be triggered once every <color=#99FFFFFF>45</color>s. While protected by a shield, the character gains <color=#99FFFFFF>18%</color> increased DMG.",
-      "ParamList": [0.26, 45, 0.18]
+      "ParamList": [0.26, 45, 0.18, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Rebellious Guardian",
       "Desc": "Taking DMG generates a shield which absorbs DMG up to <color=#99FFFFFF>29%</color> of Max HP. This shield lasts for 10s or until broken, and can only be triggered once every <color=#99FFFFFF>45</color>s. While protected by a shield, the character gains <color=#99FFFFFF>21%</color> increased DMG.",
-      "ParamList": [0.29, 45, 0.21]
+      "ParamList": [0.29, 45, 0.21, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Rebellious Guardian",
       "Desc": "Taking DMG generates a shield which absorbs DMG up to <color=#99FFFFFF>32%</color> of Max HP. This shield lasts for 10s or until broken, and can only be triggered once every <color=#99FFFFFF>45</color>s. While protected by a shield, the character gains <color=#99FFFFFF>24%</color> increased DMG.",
-      "ParamList": [0.32, 45, 0.24]
+      "ParamList": [0.32, 45, 0.24, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

@@ -5,28 +5,29 @@
   "Rank": [4, 5],
   "Affix": [
     {
-      "paramList": [0.2],
       "id": 215032,
-      "openConfig": "Relic_ArtSkillDamageUp",
+      "level": 0,
       "affixId": 2150320,
+      "paramList": [0.2, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "Relic_ArtSkillDamageUp",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Golden Troupe",
       "Desc": "Increases Elemental Skill DMG by 20%."
     },
     {
-      "level": 1,
-      "paramList": [0.25, 1, 2],
       "id": 215032,
-      "openConfig": "Relic_OffStageArtDamageUp",
+      "level": 1,
       "affixId": 2150321,
+      "paramList": [0.25, 1, 2, 0, 0, 0, 0, 0],
+      "openConfig": "Relic_OffStageArtDamageUp",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Golden Troupe",
       "Desc": "Increases Elemental Skill DMG by 25%. Additionally, when not on the field, Elemental Skill DMG will be further increased by 25%. This effect will be cleared 2s after taking the field."

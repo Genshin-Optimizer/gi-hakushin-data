@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_102",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 39.8751
+      "initValue": 39.8751,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_101",
-      "propType": "FIGHT_PROP_ATTACK_PERCENT",
-      "initValue": 0.051067
+      "initValue": 0.051067,
+      "propType": "FIGHT_PROP_ATTACK_PERCENT"
     }
   ],
   "Rarity": 3,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Heavy",
       "Desc": "Normal Attacks deal an additional <color=#99FFFFFF>160%</color> ATK as DMG. Can only occur once every 10s.",
-      "ParamList": [1.6, 10]
+      "ParamList": [1.6, 10, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Heavy",
       "Desc": "Normal Attacks deal an additional <color=#99FFFFFF>200%</color> ATK as DMG. This effect can only occur once every 10s.",
-      "ParamList": [2, 10]
+      "ParamList": [2, 10, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Heavy",
       "Desc": "Normal Attacks deal an additional <color=#99FFFFFF>240%</color> ATK as DMG. This effect can only occur once every 10s.",
-      "ParamList": [2.4, 10]
+      "ParamList": [2.4, 10, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Heavy",
       "Desc": "Normal Attacks deal an additional <color=#99FFFFFF>280%</color> ATK as DMG. This effect can only occur once every 10s.",
-      "ParamList": [2.8, 10]
+      "ParamList": [2.8, 10, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Heavy",
       "Desc": "Normal Attacks deal an additional <color=#99FFFFFF>320%</color> ATK as DMG. This effect can only occur once every 10s.",
-      "ParamList": [3.2, 10]
+      "ParamList": [3.2, 10, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_301",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 45.9364
+      "initValue": 45.9364,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_301",
-      "propType": "FIGHT_PROP_CRITICAL_HURT",
-      "initValue": 0.144
+      "initValue": 0.144,
+      "propType": "FIGHT_PROP_CRITICAL_HURT"
     }
   ],
   "Rarity": 5,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Rule by Thunder",
       "Desc": "Increases ATK by <color=#99FFFFFF>20%</color> and grants the might of the Thunder Emblem. At stack levels 1/2/3, the Thunder Emblem increases Normal Attack DMG by <color=#99FFFFFF>12/24/40%</color>. The character will obtain 1 stack of Thunder Emblem in each of the following scenarios: Normal Attack deals DMG (stack lasts 5s), casting Elemental Skill (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently.",
-      "ParamList": [0.2, 0.12, 0.24, 0.4, 5, 10]
+      "ParamList": [0.2, 0.12, 0.24, 0.4, 5, 10, 0, 0]
     },
     "2": {
       "Name": "Rule by Thunder",
       "Desc": "Increases ATK by <color=#99FFFFFF>25%</color> and grants the might of the Thunder Emblem. At stack levels 1/2/3, the Thunder Emblem increases Normal Attack DMG by <color=#99FFFFFF>15/30/50%</color>. The character will obtain 1 stack of Thunder Emblem in each of the following scenarios: Normal Attack deals DMG (stack lasts 5s), casting Elemental Skill (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently.",
-      "ParamList": [0.25, 0.15, 0.3, 0.5, 5, 10]
+      "ParamList": [0.25, 0.15, 0.3, 0.5, 5, 10, 0, 0]
     },
     "3": {
       "Name": "Rule by Thunder",
       "Desc": "Increases ATK by <color=#99FFFFFF>30%</color> and grants the might of the Thunder Emblem. At stack levels 1/2/3, the Thunder Emblem increases Normal Attack DMG by <color=#99FFFFFF>18/36/60%</color>. The character will obtain 1 stack of Thunder Emblem in each of the following scenarios: Normal Attack deals DMG (stack lasts 5s), casting Elemental Skill (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently.",
-      "ParamList": [0.3, 0.18, 0.36, 0.6, 5, 10]
+      "ParamList": [0.3, 0.18, 0.36, 0.6, 5, 10, 0, 0]
     },
     "4": {
       "Name": "Rule by Thunder",
       "Desc": "Increases ATK by <color=#99FFFFFF>35%</color> and grants the might of the Thunder Emblem. At stack levels 1/2/3, the Thunder Emblem increases Normal Attack DMG by <color=#99FFFFFF>21/42/70%</color>. The character will obtain 1 stack of Thunder Emblem in each of the following scenarios: Normal Attack deals DMG (stack lasts 5s), casting Elemental Skill (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently.",
-      "ParamList": [0.35, 0.21, 0.42, 0.7, 5, 10]
+      "ParamList": [0.35, 0.21, 0.42, 0.7, 5, 10, 0, 0]
     },
     "5": {
       "Name": "Rule by Thunder",
       "Desc": "Increases ATK by <color=#99FFFFFF>40%</color> and grants the might of the Thunder Emblem. At stack levels 1/2/3, the Thunder Emblem increases Normal Attack DMG by <color=#99FFFFFF>24/48/80%</color>. The character will obtain 1 stack of Thunder Emblem in each of the following scenarios: Normal Attack deals DMG (stack lasts 5s), casting Elemental Skill (stack lasts 10s); Energy is less than 100% (stack disappears when Energy is full). Each stack's duration is calculated independently.",
-      "ParamList": [0.4, 0.24, 0.48, 0.8, 5, 10]
+      "ParamList": [0.4, 0.24, 0.48, 0.8, 5, 10, 0, 0]
     }
   },
   "Materials": {

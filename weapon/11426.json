@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_201",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 42.401
+      "initValue": 42.401,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
-      "initValue": 0.1
+      "initValue": 0.1,
+      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Ironbone",
       "Desc": "Increases Elemental Skill CRIT Rate by <color=#99FFFFFF>8%</color>. Additionally, increases Energy Recharge by <color=#99FFFFFF>16%</color> for 5s after using an Elemental Skill.",
-      "ParamList": [0.08, 0.16, 5]
+      "ParamList": [0.08, 0.16, 5, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Ironbone",
       "Desc": "Increases Elemental Skill CRIT Rate by <color=#99FFFFFF>10%</color>. Additionally, increases Energy Recharge by <color=#99FFFFFF>20%</color> for 5s after using an Elemental Skill.",
-      "ParamList": [0.1, 0.2, 5]
+      "ParamList": [0.1, 0.2, 5, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Ironbone",
       "Desc": "Increases Elemental Skill CRIT Rate by <color=#99FFFFFF>12%</color>. Additionally, increases Energy Recharge by <color=#99FFFFFF>24%</color> for 5s after using an Elemental Skill.",
-      "ParamList": [0.12, 0.24, 5]
+      "ParamList": [0.12, 0.24, 5, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Ironbone",
       "Desc": "Increases Elemental Skill CRIT Rate by <color=#99FFFFFF>14%</color>. Additionally, increases Energy Recharge by <color=#99FFFFFF>28%</color> for 5s after using an Elemental Skill.",
-      "ParamList": [0.14, 0.28, 5]
+      "ParamList": [0.14, 0.28, 5, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Ironbone",
       "Desc": "Increases Elemental Skill CRIT Rate by <color=#99FFFFFF>16%</color>. Additionally, increases Energy Recharge by <color=#99FFFFFF>32%</color> for 5s after using an Elemental Skill.",
-      "ParamList": [0.16, 0.32, 5]
+      "ParamList": [0.16, 0.32, 5, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

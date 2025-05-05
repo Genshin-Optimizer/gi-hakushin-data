@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_202",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 43.7349
+      "initValue": 43.7349,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_ATTACK_PERCENT",
-      "initValue": 0.06
+      "initValue": 0.06,
+      "propType": "FIGHT_PROP_ATTACK_PERCENT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Oppidan Ambush",
       "Desc": "While the character equipped with this weapon is in the party but not on the field, their DMG increases by <color=#99FFFFFF>2%</color> every second up to a max of <color=#99FFFFFF>20%</color>. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by <color=#99FFFFFF>4%</color> per second until it reaches 0%.",
-      "ParamList": [0.02, 4]
+      "ParamList": [0.02, 4, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Oppidan Ambush",
       "Desc": "While the character equipped with this weapon is in the party but not on the field, their DMG increases by <color=#99FFFFFF>2.5%</color> every second up to a max of <color=#99FFFFFF>25%</color>. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by <color=#99FFFFFF>5%</color> per second until it reaches 0%.",
-      "ParamList": [0.025, 4]
+      "ParamList": [0.025, 4, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Oppidan Ambush",
       "Desc": "While the character equipped with this weapon is in the party but not on the field, their DMG increases by <color=#99FFFFFF>3%</color> every second up to a max of <color=#99FFFFFF>30%</color>. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by <color=#99FFFFFF>6%</color> per second until it reaches 0%.",
-      "ParamList": [0.03, 4]
+      "ParamList": [0.03, 4, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Oppidan Ambush",
       "Desc": "While the character equipped with this weapon is in the party but not on the field, their DMG increases by <color=#99FFFFFF>3.5%</color> every second up to a max of <color=#99FFFFFF>35%</color>. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by <color=#99FFFFFF>7%</color> per second until it reaches 0%.",
-      "ParamList": [0.035, 4]
+      "ParamList": [0.035, 4, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Oppidan Ambush",
       "Desc": "While the character equipped with this weapon is in the party but not on the field, their DMG increases by <color=#99FFFFFF>4%</color> every second up to a max of <color=#99FFFFFF>40%</color>. When the character is on the field for more than 4s, the aforementioned DMG buff decreases by <color=#99FFFFFF>8%</color> per second until it reaches 0%.",
-      "ParamList": [0.04, 4]
+      "ParamList": [0.04, 4, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

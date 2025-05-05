@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_202",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 43.7349
+      "initValue": 43.7349,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
-      "initValue": 0.075067
+      "initValue": 0.075067,
+      "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Infusion Needle",
       "Desc": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to <color=#99FFFFFF>20%</color> of ATK for 5s.",
-      "ParamList": [0.2]
+      "ParamList": [0.2, 0, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Infusion Needle",
       "Desc": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to <color=#99FFFFFF>25%</color> of ATK for 5s.",
-      "ParamList": [0.25]
+      "ParamList": [0.25, 0, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Infusion Needle",
       "Desc": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to <color=#99FFFFFF>30%</color> of ATK for 5s.",
-      "ParamList": [0.3]
+      "ParamList": [0.3, 0, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Infusion Needle",
       "Desc": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to <color=#99FFFFFF>35%</color> of ATK for 5s.",
-      "ParamList": [0.35]
+      "ParamList": [0.35, 0, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Infusion Needle",
       "Desc": "After picking up an Elemental Orb/Particle, Normal and Charged Attacks deal additional DMG equal to <color=#99FFFFFF>40%</color> of ATK for 5s.",
-      "ParamList": [0.4]
+      "ParamList": [0.4, 0, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

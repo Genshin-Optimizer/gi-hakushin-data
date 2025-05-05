@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_202",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 43.7349
+      "initValue": 43.7349,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_ELEMENT_MASTERY",
-      "initValue": 24
+      "initValue": 24,
+      "propType": "FIGHT_PROP_ELEMENT_MASTERY"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Stillwood Moonshadow",
       "Desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Revival will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character <color=#99FFFFFF>16%</color> ATK for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field.",
-      "ParamList": [0.16, 12, 20, 10]
+      "ParamList": [0.16, 12, 20, 10, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Stillwood Moonshadow",
       "Desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Revival will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character <color=#99FFFFFF>20%</color> ATK for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field.",
-      "ParamList": [0.2, 12, 20, 10]
+      "ParamList": [0.2, 12, 20, 10, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Stillwood Moonshadow",
       "Desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Revival will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character <color=#99FFFFFF>24%</color> ATK for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field.",
-      "ParamList": [0.24, 12, 20, 10]
+      "ParamList": [0.24, 12, 20, 10, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Stillwood Moonshadow",
       "Desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Revival will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character <color=#99FFFFFF>28%</color> ATK for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field.",
-      "ParamList": [0.28, 12, 20, 10]
+      "ParamList": [0.28, 12, 20, 10, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Stillwood Moonshadow",
       "Desc": "After triggering Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon, a Leaf of Revival will be created around the character for a maximum of 10s. When picked up, the Leaf will grant the character <color=#99FFFFFF>32%</color> ATK for 12s. Only 1 Leaf can be generated this way every 20s. This effect can still be triggered if the character is not on the field.",
-      "ParamList": [0.32, 12, 20, 10]
+      "ParamList": [0.32, 12, 20, 10, 0, 0, 0, 0]
     }
   },
   "Materials": {

@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_201",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 42.401
+      "initValue": 42.401,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_ATTACK_PERCENT",
-      "initValue": 0.09
+      "initValue": 0.09,
+      "propType": "FIGHT_PROP_ATTACK_PERCENT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Inflorescence Unattainable",
       "Desc": "Decreases Gliding Stamina consumption by 15%. When using Aimed Shots, the DMG dealt by Charged Attacks increases by <color=#99FFFFFF>6%</color> every 0.5s. This effect can stack up to 6 times and will be removed 10s after leaving Aiming Mode.",
-      "ParamList": [0.15, 0.5, 0.06, 6, 10]
+      "ParamList": [0.15, 0.5, 0.06, 6, 10, 0, 0, 0]
     },
     "2": {
       "Name": "Inflorescence Unattainable",
       "Desc": "Decreases Gliding Stamina consumption by 15%. When using Aimed Shots, the DMG dealt by Charged Attacks increases by <color=#99FFFFFF>7.5%</color> every 0.5s. This effect can stack up to 6 times and will be removed 10s after leaving Aiming Mode.",
-      "ParamList": [0.15, 0.5, 0.075, 6, 10]
+      "ParamList": [0.15, 0.5, 0.075, 6, 10, 0, 0, 0]
     },
     "3": {
       "Name": "Inflorescence Unattainable",
       "Desc": "Decreases Gliding Stamina consumption by 15%. When using Aimed Shots, the DMG dealt by Charged Attacks increases by <color=#99FFFFFF>9%</color> every 0.5s. This effect can stack up to 6 times and will be removed 10s after leaving Aiming Mode.",
-      "ParamList": [0.15, 0.5, 0.09, 6, 10]
+      "ParamList": [0.15, 0.5, 0.09, 6, 10, 0, 0, 0]
     },
     "4": {
       "Name": "Inflorescence Unattainable",
       "Desc": "Decreases Gliding Stamina consumption by 15%. When using Aimed Shots, the DMG dealt by Charged Attacks increases by <color=#99FFFFFF>10.5%</color> every 0.5s. This effect can stack up to 6 times and will be removed 10s after leaving Aiming Mode.",
-      "ParamList": [0.15, 0.5, 0.105, 6, 10]
+      "ParamList": [0.15, 0.5, 0.105, 6, 10, 0, 0, 0]
     },
     "5": {
       "Name": "Inflorescence Unattainable",
       "Desc": "Decreases Gliding Stamina consumption by 15%. When using Aimed Shots, the DMG dealt by Charged Attacks increases by <color=#99FFFFFF>12%</color> every 0.5s. This effect can stack up to 6 times and will be removed 10s after leaving Aiming Mode.",
-      "ParamList": [0.15, 0.5, 0.12, 6, 10]
+      "ParamList": [0.15, 0.5, 0.12, 6, 10, 0, 0, 0]
     }
   },
   "Materials": {

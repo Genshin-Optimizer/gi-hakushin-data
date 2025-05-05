@@ -6,25 +6,28 @@
   "Affix": [
     {
       "id": 215001,
+      "level": 0,
       "affixId": 2150010,
+      "paramList": [0, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "",
       "addProps": [
-        { "value": 0.18, "propType": "FIGHT_PROP_ATTACK_PERCENT" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_ATTACK_PERCENT", "value": 0.18 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Gladiator's Finale",
       "Desc": "ATK +18%."
     },
     {
-      "level": 1,
-      "paramList": [0.35],
       "id": 215001,
-      "openConfig": "Relic_MeleeAttackUp",
+      "level": 1,
       "affixId": 2150011,
+      "paramList": [0.35, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "Relic_MeleeAttackUp",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Gladiator's Finale",
       "Desc": "If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%."

@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_201",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 42.401
+      "initValue": 42.401,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_CRITICAL",
-      "initValue": 0.06
+      "initValue": 0.06,
+      "propType": "FIGHT_PROP_CRITICAL"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Wavesplitter",
       "Desc": "Every 4s a character is on the field, they will deal <color=#99FFFFFF>6%</color> more DMG and take <color=#99FFFFFF>3%</color> more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be reduced by 1 stack when the character takes DMG.",
-      "ParamList": [4, 0.06, 0.03]
+      "ParamList": [4, 0.06, 0.03, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Wavesplitter",
       "Desc": "Every 4s a character is on the field, they will deal <color=#99FFFFFF>7%</color> more DMG and take <color=#99FFFFFF>2.7%</color> more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be reduced by 1 stack when the character takes DMG.",
-      "ParamList": [4, 0.07, 0.027]
+      "ParamList": [4, 0.07, 0.027, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Wavesplitter",
       "Desc": "Every 4s a character is on the field, they will deal <color=#99FFFFFF>8%</color> more DMG and take <color=#99FFFFFF>2.4%</color> more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be reduced by 1 stack when the character takes DMG.",
-      "ParamList": [4, 0.08, 0.024]
+      "ParamList": [4, 0.08, 0.024, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Wavesplitter",
       "Desc": "Every 4s a character is on the field, they will deal <color=#99FFFFFF>9%</color> more DMG and take <color=#99FFFFFF>2.2%</color> more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be reduced by 1 stack when the character takes DMG.",
-      "ParamList": [4, 0.09, 0.022]
+      "ParamList": [4, 0.09, 0.022, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Wavesplitter",
       "Desc": "Every 4s a character is on the field, they will deal <color=#99FFFFFF>10%</color> more DMG and take <color=#99FFFFFF>2%</color> more DMG. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be reduced by 1 stack when the character takes DMG.",
-      "ParamList": [4, 0.1, 0.02]
+      "ParamList": [4, 0.1, 0.02, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

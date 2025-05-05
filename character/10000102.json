@@ -440,7 +440,7 @@
         "Name": "Flying Fish, Heat Waves, and Moon Scallop",
         "Desc": "Mualani's outfit. She originally intended to stick the designs of all the fish ever as ornaments for her clothes, but this design was politely rejected by the tailor on account of being too avant-garde. Despite the immense simplification, this outfit has more than enough personality to mark the enthusiastic guide out even in a crowd.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -819,7 +819,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Cooling Treatment",
+      "Name": "Cooling Treatment",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 3 attacks that deal <color=#80C0FFFF>Hydro DMG</color>.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to smack a Pufferball into the air that deals <color=#80C0FFFF>AoE Hydro DMG</color> upon landing.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nGathers the power of Hydro and plunges towards the ground from mid-air, damaging all opponents in her path. Deals <color=#80C0FFFF>AoE Hydro DMG</color> upon impact with the ground.",
       "Promote": {
         "0": {
@@ -845,7 +845,7 @@
           ],
           "Param": [
             0.51396, 0.446256, 0.700344, 1.4288, 50, 0.568288, 1.136335,
-            1.419344
+            1.419344, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -871,7 +871,7 @@
           ],
           "Param": [
             0.552507, 0.479725, 0.75287, 1.53596, 50, 0.614544, 1.228828,
-            1.534872
+            1.534872, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -896,7 +896,8 @@
             ""
           ],
           "Param": [
-            0.591054, 0.513194, 0.805396, 1.64312, 50, 0.6608, 1.32132, 1.6504
+            0.591054, 0.513194, 0.805396, 1.64312, 50, 0.6608, 1.32132, 1.6504,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -921,7 +922,8 @@
             ""
           ],
           "Param": [
-            0.64245, 0.55782, 0.87543, 1.786, 50, 0.72688, 1.453452, 1.81544
+            0.64245, 0.55782, 0.87543, 1.786, 50, 0.72688, 1.453452, 1.81544, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -947,7 +949,7 @@
           ],
           "Param": [
             0.680997, 0.591289, 0.927956, 1.89316, 50, 0.773136, 1.545944,
-            1.930968
+            1.930968, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -972,7 +974,8 @@
             ""
           ],
           "Param": [
-            0.719544, 0.624758, 0.980482, 2.00032, 50, 0.826, 1.65165, 2.063
+            0.719544, 0.624758, 0.980482, 2.00032, 50, 0.826, 1.65165, 2.063, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -998,7 +1001,7 @@
           ],
           "Param": [
             0.77094, 0.669384, 1.050516, 2.1432, 50, 0.898688, 1.796995,
-            2.244544
+            2.244544, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1023,7 +1026,8 @@
             ""
           ],
           "Param": [
-            0.822336, 0.71401, 1.12055, 2.28608, 50, 0.971376, 1.94234, 2.426088
+            0.822336, 0.71401, 1.12055, 2.28608, 50, 0.971376, 1.94234,
+            2.426088, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1049,7 +1053,7 @@
           ],
           "Param": [
             0.873732, 0.758635, 1.190585, 2.42896, 50, 1.044064, 2.087686,
-            2.607632
+            2.607632, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1075,7 +1079,7 @@
           ],
           "Param": [
             0.925128, 0.803261, 1.260619, 2.57184, 50, 1.12336, 2.246244,
-            2.80568
+            2.80568, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1101,7 +1105,7 @@
           ],
           "Param": [
             0.976524, 0.847886, 1.330654, 2.71472, 50, 1.202656, 2.404802,
-            3.003728
+            3.003728, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1127,7 +1131,7 @@
           ],
           "Param": [
             1.02792, 0.892512, 1.400688, 2.8576, 50, 1.281952, 2.563361,
-            3.201776
+            3.201776, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1153,7 +1157,7 @@
           ],
           "Param": [
             1.092165, 0.948294, 1.488231, 3.0362, 50, 1.361248, 2.721919,
-            3.399824
+            3.399824, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1179,7 +1183,7 @@
           ],
           "Param": [
             1.15641, 1.004076, 1.575774, 3.2148, 50, 1.440544, 2.880478,
-            3.597872
+            3.597872, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1204,7 +1208,8 @@
             ""
           ],
           "Param": [
-            1.220655, 1.059858, 1.663317, 3.3934, 50, 1.51984, 3.039036, 3.79592
+            1.220655, 1.059858, 1.663317, 3.3934, 50, 1.51984, 3.039036,
+            3.79592, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1234,7 +1239,10 @@
             "",
             ""
           ],
-          "Param": [0.0868, 0.0434, 0.217, 1.8, 60, 6]
+          "Param": [
+            0.0868, 0.0434, 0.217, 1.8, 60, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1257,7 +1265,10 @@
             "",
             ""
           ],
-          "Param": [0.09331, 0.046655, 0.233275, 1.8, 60, 6]
+          "Param": [
+            0.09331, 0.046655, 0.233275, 1.8, 60, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1280,7 +1291,10 @@
             "",
             ""
           ],
-          "Param": [0.09982, 0.04991, 0.24955, 1.8, 60, 6]
+          "Param": [
+            0.09982, 0.04991, 0.24955, 1.8, 60, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1303,7 +1317,10 @@
             "",
             ""
           ],
-          "Param": [0.1085, 0.05425, 0.27125, 1.8, 60, 6]
+          "Param": [
+            0.1085, 0.05425, 0.27125, 1.8, 60, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1326,7 +1343,10 @@
             "",
             ""
           ],
-          "Param": [0.11501, 0.057505, 0.287525, 1.8, 60, 6]
+          "Param": [
+            0.11501, 0.057505, 0.287525, 1.8, 60, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1349,7 +1369,10 @@
             "",
             ""
           ],
-          "Param": [0.12152, 0.06076, 0.3038, 1.8, 60, 6]
+          "Param": [
+            0.12152, 0.06076, 0.3038, 1.8, 60, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1372,7 +1395,10 @@
             "",
             ""
           ],
-          "Param": [0.1302, 0.0651, 0.3255, 1.8, 60, 6]
+          "Param": [
+            0.1302, 0.0651, 0.3255, 1.8, 60, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1395,7 +1421,10 @@
             "",
             ""
           ],
-          "Param": [0.13888, 0.06944, 0.3472, 1.8, 60, 6]
+          "Param": [
+            0.13888, 0.06944, 0.3472, 1.8, 60, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1418,7 +1447,10 @@
             "",
             ""
           ],
-          "Param": [0.14756, 0.07378, 0.3689, 1.8, 60, 6]
+          "Param": [
+            0.14756, 0.07378, 0.3689, 1.8, 60, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1441,7 +1473,10 @@
             "",
             ""
           ],
-          "Param": [0.15624, 0.07812, 0.3906, 1.8, 60, 6]
+          "Param": [
+            0.15624, 0.07812, 0.3906, 1.8, 60, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1464,7 +1499,10 @@
             "",
             ""
           ],
-          "Param": [0.16492, 0.08246, 0.4123, 1.8, 60, 6]
+          "Param": [
+            0.16492, 0.08246, 0.4123, 1.8, 60, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1487,7 +1525,10 @@
             "",
             ""
           ],
-          "Param": [0.1736, 0.0868, 0.434, 1.8, 60, 6]
+          "Param": [
+            0.1736, 0.0868, 0.434, 1.8, 60, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1510,7 +1551,10 @@
             "",
             ""
           ],
-          "Param": [0.18445, 0.092225, 0.461125, 1.8, 60, 6]
+          "Param": [
+            0.18445, 0.092225, 0.461125, 1.8, 60, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1533,7 +1577,10 @@
             "",
             ""
           ],
-          "Param": [0.1953, 0.09765, 0.48825, 1.8, 60, 6]
+          "Param": [
+            0.1953, 0.09765, 0.48825, 1.8, 60, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1556,7 +1603,10 @@
             "",
             ""
           ],
-          "Param": [0.20615, 0.103075, 0.515375, 1.8, 60, 6]
+          "Param": [
+            0.20615, 0.103075, 0.515375, 1.8, 60, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         }
       }
     },
@@ -1585,7 +1635,9 @@
             "",
             ""
           ],
-          "Param": [0.584392, 15, 60]
+          "Param": [
+            0.584392, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1608,7 +1660,9 @@
             "",
             ""
           ],
-          "Param": [0.628221, 15, 60]
+          "Param": [
+            0.628221, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1631,7 +1685,9 @@
             "",
             ""
           ],
-          "Param": [0.672051, 15, 60]
+          "Param": [
+            0.672051, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1654,7 +1710,9 @@
             "",
             ""
           ],
-          "Param": [0.73049, 15, 60]
+          "Param": [
+            0.73049, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1677,7 +1735,9 @@
             "",
             ""
           ],
-          "Param": [0.774319, 15, 60]
+          "Param": [
+            0.774319, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1700,7 +1760,9 @@
             "",
             ""
           ],
-          "Param": [0.818149, 15, 60]
+          "Param": [
+            0.818149, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1723,7 +1785,9 @@
             "",
             ""
           ],
-          "Param": [0.876588, 15, 60]
+          "Param": [
+            0.876588, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1746,7 +1810,9 @@
             "",
             ""
           ],
-          "Param": [0.935027, 15, 60]
+          "Param": [
+            0.935027, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1769,7 +1835,9 @@
             "",
             ""
           ],
-          "Param": [0.993466, 15, 60]
+          "Param": [
+            0.993466, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1792,7 +1860,9 @@
             "",
             ""
           ],
-          "Param": [1.051906, 15, 60]
+          "Param": [
+            1.051906, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1815,7 +1885,9 @@
             "",
             ""
           ],
-          "Param": [1.110345, 15, 60]
+          "Param": [
+            1.110345, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1838,7 +1910,9 @@
             "",
             ""
           ],
-          "Param": [1.168784, 15, 60]
+          "Param": [
+            1.168784, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1861,7 +1935,9 @@
             "",
             ""
           ],
-          "Param": [1.241833, 15, 60]
+          "Param": [
+            1.241833, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1884,7 +1960,9 @@
             "",
             ""
           ],
-          "Param": [1.314882, 15, 60]
+          "Param": [
+            1.314882, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1907,7 +1985,9 @@
             "",
             ""
           ],
-          "Param": [1.387931, 15, 60]
+          "Param": [
+            1.387931, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         }
       }
     }
@@ -1918,28 +1998,32 @@
       "Desc": "When Sharky's Surging Bite hits an opponent, a Puffer will be generated nearby. Mualani will restore 20 Nightsoul points when she picks up a Puffer. Only 2 such Puffers can be created in this way during a single instance of being in Nightsoul's Blessing.",
       "Icon": "UI_Talent_S_Mualani_05",
       "Unlock": 1,
-      "ParamList": [20]
+      "ParamList": [20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Natlan's Greatest Guide",
       "Desc": "After a nearby party member triggers a Nightsoul Burst, Mualani will gain 1 stack of Wavechaser's Exploits, which lasts for 20s. Max 3 stacks. When she uses <color=#FFD780FF>Boomsharka-laka</color>, Mualani will clear all Wavechaser's Exploits stacks and increase the DMG of this Boomsharka-laka by 15%/30%/45% of her Max HP based on the number of stacks cleared.",
       "Icon": "UI_Talent_S_Mualani_06",
       "Unlock": 4,
-      "ParamList": [20, 0.15, 0.3, 0.45]
+      "ParamList": [
+        20, 0.15, 0.3, 0.45, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Night Realm's Gift: Crests and Troughs",
       "Desc": "After her Nightsoul points are depleted, Mualani will switch to consuming Phlogiston to maintain her Nightsoul's Blessing.\\nWhile in an area with Phlogiston Mechanics within Natlan, she can use Nightsoul Transmission: Mualani. When the active character is currently sprinting, swimming, in a movement mode caused by certain Talents, or at a certain height in the air, the following will trigger when switching to Mualani: Mualani will enter the Nightsoul's Blessing state and gain 40 Nightsoul points. Nightsoul Transmission can be triggered once every 10s by your own team.\\n\\nAdditionally, Mualani's Nightsoul point or Phlogiston consumption while moving on water and Liquid Phlogiston during Nightsoul's Blessing is decreased by 75% while in Natlan, and her Nightsoul point consumption is decreased by 35% while doing the same outside Natlan.",
       "Icon": "UI_Talent_S_Mualani_07",
       "Unlock": 0,
-      "ParamList": [0.25, 0.65]
+      "ParamList": [
+        0.25, 0.65, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "The Trick Is to Keep Smiling!",
       "Desc": "While in an area with Phlogiston Mechanics within Natlan, 15 Phlogiston will be restored when interacting with some harvestable items. Additionally, the location of nearby <color=#FFD780FF>resources unique to Natlan</color> will appear on your mini-map.",
       "Icon": "UI_Talent_S_Kachina_08",
       "Unlock": 0,
-      "ParamList": [15]
+      "ParamList": [15, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Constellations": [
@@ -1947,37 +2031,37 @@
       "Name": "The Leisurely \"Meztli\"...",
       "Desc": "The DMG dealt by the first Sharky's Surging Bite after Mualani enters Nightsoul's Blessing and the Shark Missiles it triggers is increased by 66% of Mualani's Max HP. This instance of increased DMG is subject to the diminishing DMG rules of <color=#FFD780FF>Surfshark Wavebreaker</color>.\\nIn addition, while out of combat, Mualani's Nightsoul's Blessing state consumes 30% less Phlogiston and Nightsoul points.",
       "Icon": "UI_Talent_S_Mualani_01",
-      "ParamList": [0.66, 0.7]
+      "ParamList": [0.66, 0.7, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Mualani, Going All Out!",
       "Desc": "Mualani gains 2 of <color=#FFD780FF>Surfshark Wavebreaker</color>'s Wave Momentum stacks when she enters Nightsoul's Blessing state. She will gain 1 stack when obtaining a Puffer.\\nIn addition, whenever Mualani obtains 2 Puffers within a single instance of the Nightsoul's Blessing state, she will recover an additional 12 Nightsoul points over 2s. This effect requires the Passive Talent \"Heat-Resistant Freshwater Floater\" to be unlocked first.",
       "Icon": "UI_Talent_S_Mualani_02",
-      "ParamList": [6, 2]
+      "ParamList": [6, 2, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Surfing Atop Joyous Seas",
       "Desc": "Increases the Level of <color=#FFD780FF>Surfshark Wavebreaker</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Mualani_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Sharky Eats Puffies",
       "Desc": "Mualani regenerates 8 Energy when obtaining a Puffer. Must first unlock the Passive Talent \"Heat-Resistant Freshwater Floater.\"\\nAdditionally, <color=#FFD780FF>Boomsharka-laka</color> deals 75% increased DMG.",
       "Icon": "UI_Talent_S_Mualani_03",
-      "ParamList": [8, 0.75]
+      "ParamList": [8, 0.75, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Same Style of Surfboard on Sale!",
       "Desc": "Increases the Level of <color=#FFD780FF>Boomsharka-laka</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Mualani_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Spirit of the Springs' People",
       "Desc": "The DMG increase from the Constellation \"The Leisurely 'Meztli'...\" is no longer limited to being triggered once every Nightsoul's Blessing.",
       "Icon": "UI_Talent_S_Mualani_04",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -1990,7 +2074,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Sprayfeather Gill", "Id": 101247, "Count": 3, "Rank": 1 },
+          { "Name": "Sprayfeather Gill", "Id": 101247, "Count": 3, "Rank": 0 },
           {
             "Name": "Sentry's Wooden Whistle",
             "Id": 112104,
@@ -2014,7 +2098,7 @@
             "Count": 2,
             "Rank": 4
           },
-          { "Name": "Sprayfeather Gill", "Id": 101247, "Count": 10, "Rank": 1 },
+          { "Name": "Sprayfeather Gill", "Id": 101247, "Count": 10, "Rank": 0 },
           {
             "Name": "Sentry's Wooden Whistle",
             "Id": 112104,
@@ -2038,7 +2122,7 @@
             "Count": 4,
             "Rank": 4
           },
-          { "Name": "Sprayfeather Gill", "Id": 101247, "Count": 20, "Rank": 1 },
+          { "Name": "Sprayfeather Gill", "Id": 101247, "Count": 20, "Rank": 0 },
           {
             "Name": "Warrior's Metal Whistle",
             "Id": 112105,
@@ -2062,7 +2146,7 @@
             "Count": 8,
             "Rank": 4
           },
-          { "Name": "Sprayfeather Gill", "Id": 101247, "Count": 30, "Rank": 1 },
+          { "Name": "Sprayfeather Gill", "Id": 101247, "Count": 30, "Rank": 0 },
           {
             "Name": "Warrior's Metal Whistle",
             "Id": 112105,
@@ -2086,7 +2170,7 @@
             "Count": 12,
             "Rank": 4
           },
-          { "Name": "Sprayfeather Gill", "Id": 101247, "Count": 45, "Rank": 1 },
+          { "Name": "Sprayfeather Gill", "Id": 101247, "Count": 45, "Rank": 0 },
           {
             "Name": "Saurian-Crowned Warrior's Golden Whistle",
             "Id": 112106,
@@ -2110,7 +2194,7 @@
             "Count": 20,
             "Rank": 4
           },
-          { "Name": "Sprayfeather Gill", "Id": 101247, "Count": 60, "Rank": 1 },
+          { "Name": "Sprayfeather Gill", "Id": 101247, "Count": 60, "Rank": 0 },
           {
             "Name": "Saurian-Crowned Warrior's Golden Whistle",
             "Id": 112106,

@@ -6,25 +6,28 @@
   "Affix": [
     {
       "id": 215002,
+      "level": 0,
       "affixId": 2150020,
+      "paramList": [0, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "",
       "addProps": [
-        { "value": 0.15, "propType": "FIGHT_PROP_WIND_ADD_HURT" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_WIND_ADD_HURT", "value": 0.15 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Viridescent Venerer",
       "Desc": "Anemo DMG Bonus +15%"
     },
     {
-      "level": 1,
-      "paramList": [0.6, 0.4, 10],
       "id": 215002,
-      "openConfig": "Relic_ReactionWindEnhance",
+      "level": 1,
       "affixId": 2150021,
+      "paramList": [0.6, 0.4, 10, 0, 0, 0, 0, 0],
+      "openConfig": "Relic_ReactionWindEnhance",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Viridescent Venerer",
       "Desc": "Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s."

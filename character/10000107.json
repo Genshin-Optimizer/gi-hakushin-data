@@ -393,7 +393,7 @@
       },
       {
         "Title": "Joining Party: II",
-        "Text": "Leave me alo— Ahh, never mind! Let's go!",
+        "Text": "Leave me alo�� Ahh, never mind! Let's go!",
         "Unlocked": []
       },
       {
@@ -426,7 +426,7 @@
         "Name": "Dawnseer",
         "Desc": "Citlali's outfit. Shamans are seers, diviners of forgotten past and untold future. In their world, the eye holds a special symbolic meaning. This is why Citlali's robe, worn half-draped around her waist, is adorned with the \"Eye of Revelation\" — a pattern that encapsulates both its bearer's identity and her aesthetic tastes.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -805,7 +805,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Shadow-Stealing Spirit Vessel",
+      "Name": "Shadow-Stealing Spirit Vessel",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nCalls upon secret arts passed down through the Masters of the Night-Wind from generation to generation, performing up to three strikes that deal <color=#99FFFFFF>Cryo DMG</color>.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nEnters Aiming Mode, and after Holding, consumes a certain amount of Stamina to call forth a Frost Star that deals <color=#99FFFFFF>Cryo DMG</color> to opponents in its path.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nGathers the power of Cryo and plunges towards the ground from mid-air, damaging all opponents in her path. Deals <color=#99FFFFFF>Aoe Cryo DMG</color> upon impact with the ground.",
       "Promote": {
         "0": {
@@ -831,7 +831,7 @@
           ],
           "Param": [
             0.434072, 0.388136, 0.537712, 0.992, 50, 0.568288, 1.136335,
-            1.419344
+            1.419344, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -857,7 +857,7 @@
           ],
           "Param": [
             0.466627, 0.417246, 0.57804, 1.0664, 50, 0.614544, 1.228828,
-            1.534872
+            1.534872, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -882,7 +882,8 @@
             ""
           ],
           "Param": [
-            0.499183, 0.446356, 0.618369, 1.1408, 50, 0.6608, 1.32132, 1.6504
+            0.499183, 0.446356, 0.618369, 1.1408, 50, 0.6608, 1.32132, 1.6504,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -907,7 +908,8 @@
             ""
           ],
           "Param": [
-            0.54259, 0.48517, 0.67214, 1.24, 50, 0.72688, 1.453452, 1.81544
+            0.54259, 0.48517, 0.67214, 1.24, 50, 0.72688, 1.453452, 1.81544, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -933,7 +935,7 @@
           ],
           "Param": [
             0.575145, 0.51428, 0.712468, 1.3144, 50, 0.773136, 1.545944,
-            1.930968
+            1.930968, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -958,7 +960,8 @@
             ""
           ],
           "Param": [
-            0.607701, 0.54339, 0.752797, 1.3888, 50, 0.826, 1.65165, 2.063
+            0.607701, 0.54339, 0.752797, 1.3888, 50, 0.826, 1.65165, 2.063, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -984,7 +987,7 @@
           ],
           "Param": [
             0.651108, 0.582204, 0.806568, 1.488, 50, 0.898688, 1.796995,
-            2.244544
+            2.244544, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1010,7 +1013,7 @@
           ],
           "Param": [
             0.694515, 0.621018, 0.860339, 1.5872, 50, 0.971376, 1.94234,
-            2.426088
+            2.426088, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1036,7 +1039,7 @@
           ],
           "Param": [
             0.737922, 0.659831, 0.91411, 1.6864, 50, 1.044064, 2.087686,
-            2.607632
+            2.607632, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1061,7 +1064,8 @@
             ""
           ],
           "Param": [
-            0.78133, 0.698645, 0.967882, 1.7856, 50, 1.12336, 2.246244, 2.80568
+            0.78133, 0.698645, 0.967882, 1.7856, 50, 1.12336, 2.246244, 2.80568,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1087,7 +1091,7 @@
           ],
           "Param": [
             0.824737, 0.737458, 1.021653, 1.8848, 50, 1.202656, 2.404802,
-            3.003728
+            3.003728, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1113,7 +1117,7 @@
           ],
           "Param": [
             0.868144, 0.776272, 1.075424, 1.984, 50, 1.281952, 2.563361,
-            3.201776
+            3.201776, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1139,7 +1143,7 @@
           ],
           "Param": [
             0.922403, 0.824789, 1.142638, 2.108, 50, 1.361248, 2.721919,
-            3.399824
+            3.399824, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1165,7 +1169,7 @@
           ],
           "Param": [
             0.976662, 0.873306, 1.209852, 2.232, 50, 1.440544, 2.880478,
-            3.597872
+            3.597872, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1190,7 +1194,8 @@
             ""
           ],
           "Param": [
-            1.030921, 0.921823, 1.277066, 2.356, 50, 1.51984, 3.039036, 3.79592
+            1.030921, 0.921823, 1.277066, 2.356, 50, 1.51984, 3.039036, 3.79592,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1220,7 +1225,10 @@
             "",
             ""
           ],
-          "Param": [0.7296, 5.76, 1386.6759, 20, 0.17024, 24, 8, 16, 100]
+          "Param": [
+            0.7296, 5.76, 1386.6759, 20, 0.17024, 24, 8, 16, 100, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1243,7 +1251,10 @@
             "",
             ""
           ],
-          "Param": [0.78432, 6.192, 1525.3628, 20, 0.183008, 24, 8, 16, 100]
+          "Param": [
+            0.78432, 6.192, 1525.3628, 20, 0.183008, 24, 8, 16, 100, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1266,7 +1277,10 @@
             "",
             ""
           ],
-          "Param": [0.83904, 6.624, 1675.6068, 20, 0.195776, 24, 8, 16, 100]
+          "Param": [
+            0.83904, 6.624, 1675.6068, 20, 0.195776, 24, 8, 16, 100, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1289,7 +1303,10 @@
             "",
             ""
           ],
-          "Param": [0.912, 7.2, 1837.4082, 20, 0.2128, 24, 8, 16, 100]
+          "Param": [
+            0.912, 7.2, 1837.4082, 20, 0.2128, 24, 8, 16, 100, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1312,7 +1329,10 @@
             "",
             ""
           ],
-          "Param": [0.96672, 7.632, 2010.7667, 20, 0.225568, 24, 8, 16, 100]
+          "Param": [
+            0.96672, 7.632, 2010.7667, 20, 0.225568, 24, 8, 16, 100, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1335,7 +1355,10 @@
             "",
             ""
           ],
-          "Param": [1.02144, 8.064, 2195.6826, 20, 0.238336, 24, 8, 16, 100]
+          "Param": [
+            1.02144, 8.064, 2195.6826, 20, 0.238336, 24, 8, 16, 100, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1358,7 +1381,10 @@
             "",
             ""
           ],
-          "Param": [1.0944, 8.64, 2392.1558, 20, 0.25536, 24, 8, 16, 100]
+          "Param": [
+            1.0944, 8.64, 2392.1558, 20, 0.25536, 24, 8, 16, 100, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1381,7 +1407,10 @@
             "",
             ""
           ],
-          "Param": [1.16736, 9.216, 2600.186, 20, 0.272384, 24, 8, 16, 100]
+          "Param": [
+            1.16736, 9.216, 2600.186, 20, 0.272384, 24, 8, 16, 100, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1404,7 +1433,10 @@
             "",
             ""
           ],
-          "Param": [1.24032, 9.792, 2819.7734, 20, 0.289408, 24, 8, 16, 100]
+          "Param": [
+            1.24032, 9.792, 2819.7734, 20, 0.289408, 24, 8, 16, 100, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1427,7 +1459,10 @@
             "",
             ""
           ],
-          "Param": [1.31328, 10.368, 3050.9182, 20, 0.306432, 24, 8, 16, 100]
+          "Param": [
+            1.31328, 10.368, 3050.9182, 20, 0.306432, 24, 8, 16, 100, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1450,7 +1485,10 @@
             "",
             ""
           ],
-          "Param": [1.38624, 10.944, 3293.6204, 20, 0.323456, 24, 8, 16, 100]
+          "Param": [
+            1.38624, 10.944, 3293.6204, 20, 0.323456, 24, 8, 16, 100, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1473,7 +1511,10 @@
             "",
             ""
           ],
-          "Param": [1.4592, 11.52, 3547.8796, 20, 0.34048, 24, 8, 16, 100]
+          "Param": [
+            1.4592, 11.52, 3547.8796, 20, 0.34048, 24, 8, 16, 100, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1496,7 +1537,10 @@
             "",
             ""
           ],
-          "Param": [1.5504, 12.24, 3813.696, 20, 0.36176, 24, 8, 16, 100]
+          "Param": [
+            1.5504, 12.24, 3813.696, 20, 0.36176, 24, 8, 16, 100, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1519,7 +1563,10 @@
             "",
             ""
           ],
-          "Param": [1.6416, 12.96, 4091.0698, 20, 0.38304, 24, 8, 16, 100]
+          "Param": [
+            1.6416, 12.96, 4091.0698, 20, 0.38304, 24, 8, 16, 100, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1542,7 +1589,10 @@
             "",
             ""
           ],
-          "Param": [1.7328, 13.68, 4380.0005, 20, 0.40432, 24, 8, 16, 100]
+          "Param": [
+            1.7328, 13.68, 4380.0005, 20, 0.40432, 24, 8, 16, 100, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         }
       }
     },
@@ -1571,7 +1621,10 @@
             "",
             ""
           ],
-          "Param": [5.376, 1.344, 24, 3, 15, 60]
+          "Param": [
+            5.376, 1.344, 24, 3, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1594,7 +1647,10 @@
             "",
             ""
           ],
-          "Param": [5.7792, 1.4448, 24, 3, 15, 60]
+          "Param": [
+            5.7792, 1.4448, 24, 3, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1617,7 +1673,10 @@
             "",
             ""
           ],
-          "Param": [6.1824, 1.5456, 24, 3, 15, 60]
+          "Param": [
+            6.1824, 1.5456, 24, 3, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1640,7 +1699,9 @@
             "",
             ""
           ],
-          "Param": [6.72, 1.68, 24, 3, 15, 60]
+          "Param": [
+            6.72, 1.68, 24, 3, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1663,7 +1724,10 @@
             "",
             ""
           ],
-          "Param": [7.1232, 1.7808, 24, 3, 15, 60]
+          "Param": [
+            7.1232, 1.7808, 24, 3, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1686,7 +1750,10 @@
             "",
             ""
           ],
-          "Param": [7.5264, 1.8816, 24, 3, 15, 60]
+          "Param": [
+            7.5264, 1.8816, 24, 3, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1709,7 +1776,10 @@
             "",
             ""
           ],
-          "Param": [8.064, 2.016, 24, 3, 15, 60]
+          "Param": [
+            8.064, 2.016, 24, 3, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1732,7 +1802,10 @@
             "",
             ""
           ],
-          "Param": [8.6016, 2.1504, 24, 3, 15, 60]
+          "Param": [
+            8.6016, 2.1504, 24, 3, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1755,7 +1828,10 @@
             "",
             ""
           ],
-          "Param": [9.1392, 2.2848, 24, 3, 15, 60]
+          "Param": [
+            9.1392, 2.2848, 24, 3, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1778,7 +1854,10 @@
             "",
             ""
           ],
-          "Param": [9.6768, 2.4192, 24, 3, 15, 60]
+          "Param": [
+            9.6768, 2.4192, 24, 3, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1801,7 +1880,10 @@
             "",
             ""
           ],
-          "Param": [10.2144, 2.5536, 24, 3, 15, 60]
+          "Param": [
+            10.2144, 2.5536, 24, 3, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1824,7 +1906,10 @@
             "",
             ""
           ],
-          "Param": [10.752, 2.688, 24, 3, 15, 60]
+          "Param": [
+            10.752, 2.688, 24, 3, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1847,7 +1932,10 @@
             "",
             ""
           ],
-          "Param": [11.424, 2.856, 24, 3, 15, 60]
+          "Param": [
+            11.424, 2.856, 24, 3, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1870,7 +1958,10 @@
             "",
             ""
           ],
-          "Param": [12.096, 3.024, 24, 3, 15, 60]
+          "Param": [
+            12.096, 3.024, 24, 3, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1893,7 +1984,10 @@
             "",
             ""
           ],
-          "Param": [12.768, 3.192, 24, 3, 15, 60]
+          "Param": [
+            12.768, 3.192, 24, 3, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         }
       }
     }
@@ -1904,28 +1998,34 @@
       "Desc": "While Itzpapa is on the field, after nearby party members trigger the Frozen or Melt reactions, the <color=#FF9999FF>Pyro</color> and <color=#80C0FFFF>Hydro</color> RES of opponents affected by that reaction decreases by 20% for 12s. Additionally, Citlali will regain 16 Nightsoul points. Nightsoul points can be restored this way once every 8s.",
       "Icon": "UI_Talent_S_Citlali_05",
       "Unlock": 1,
-      "ParamList": [16, 8, 0.2, 12]
+      "ParamList": [
+        16, 8, 0.2, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Itzpapalotl's Star Garments",
       "Desc": "During the Elemental Skill <color=#FFD780FF>Dawnfrost Darkstar</color>, Itzpapa's Frostfall Storm DMG is increased by 90% of Citlali's Elemental Mastery. During the Elemental Burst <color=#FFD780FF>Edict of Entwined Splendor</color>, Ice Storm DMG is increased by 1200% of Citlali's Elemental Mastery.\\nIn addition, when nearby party members trigger Nightsoul Bursts, Citlali regains 4 Nightsoul points.",
       "Icon": "UI_Talent_S_Citlali_06",
       "Unlock": 4,
-      "ParamList": [0.9, 12, 4]
+      "ParamList": [
+        0.9, 12, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Night Realm's Gift: Smoke, Mirrors, and the Flowing Winds",
       "Desc": "While in an area with Phlogiston Mechanics within Natlan, can use Nightsoul Transmission: Citlali. When the active character is currently high enough in the air, the following will trigger when switching to Citlali: Citlali will leap up high, and will deploy \"White Obsidian Tzitzimitl: Citlalin\" to float in the air. Nightsoul Transmission can be triggered once every 10s by your party.\\n\\nHolding Aiming Mode will cause Citlali to enter the \"Spiritspeaker\" state, which will allow her to interact with \"Nightspirit Graffiti\" and \"Nightspirit Sigils,\" extracting information and power from them. The rules for interacting with these objects follow the same rules as those governing Iktomisaurus interactions.\\n\\nAdditionally, holding the jump button will cause Citlali to consume 75 Stamina and leap. In areas within Natlan where Phlogiston mechanics are present, Citlali will prioritize consuming 5 Phlogiston to leap to a height higher still.\\nWhen in the air, Citlali can Hold her Normal Attack to consume Phlogiston or Stamina and enter Aiming Mode and trigger Charged Attacks. When initiating Charged Attacks in mid-air, Citlali will prioritize consuming 20 Phlogiston.",
       "Icon": "UI_Talent_S_Citlali_08",
       "Unlock": 0,
-      "ParamList": [75, 5, 20]
+      "ParamList": [
+        75, 5, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Songs of Profound Mystery",
       "Desc": "While in an area with Phlogiston Mechanics within Natlan, triggering \"Nightsoul Burst\" restores 20 Phlogiston.\\nThis cannot take effect in Domains, Trounce Domains, or the Spiral Abyss.",
       "Icon": "UI_Talent_S_Mavuika_08",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Constellations": [
@@ -1933,37 +2033,37 @@
       "Name": "Radiant Blades of Centzon Mimixcoah",
       "Desc": "When she uses the Elemental Skill <color=#FFD780FF>Dawnfrost Darkstar</color>, Citlali gains the \"Opalstar Vestments\" effect until Itzpapa leaves the field. During this time, she will obtain 10 stacks of Stellar Blade. When a nearby active character other than Citlali deals DMG using Normal, Charged, or Plunging Attacks, or Elemental Skills and Bursts, 1 stack of Stellar Blade will be consumed to increase the DMG dealt by 200% of Citlali's Elemental Mastery.\\nAfter nearby party members trigger Frozen or Melt, Citlali will gain another 3 stacks of Stellar Blade. This effect can trigger once every 8s.\\n\\nUsing the Elemental Skill <color=#FFD780FF>Dawnfrost Darkstar</color> will reset Stellar Blade stacks.\\nAdditionally, when Citlali is using her leap, or is Aiming or using her Charged Attack in mid-air, her Phlogiston consumption is decreased by 45%.",
       "Icon": "UI_Talent_S_Citlali_01",
-      "ParamList": [2, 10, 3, 8, 0.45]
+      "ParamList": [2, 10, 3, 8, 0.45, 0, 0, 0]
     },
     {
       "Name": "Heart Devourer's Travail",
       "Desc": "Citlali gains 125 Elemental Mastery, and other characters shielded by her Opal Shield, or who have Itzpapa following them, gain 250 Elemental Mastery.\\nAdditionally, when the Elemental Skill <color=#FFD780FF>Dawnfrost Darkstar</color> is used, nearby active characters will also be granted an Opal Shield.\\n\\nAlso, the Passive Talent \"Mamaloaco's Frigid Rain\" has its effects enhanced:\\nWhile Itzpapa is on the field, after nearby party members trigger Frozen or Melt, the opponent(s) affected by this reaction will have their <color=#FF9999FF>Pyro</color> and <color=#80C0FFFF>Hydro</color> RES additionally decreased by 20% for 12s. You must first unlock the Passive Talent \"Mamaloaco's Frigid Rain\" to gain access to the above effect.",
       "Icon": "UI_Talent_S_Citlali_02",
-      "ParamList": [125, 250, 1, 0.2, 12]
+      "ParamList": [125, 250, 1, 0.2, 12, 0, 0, 0]
     },
     {
       "Name": "Cloud Serpent's Feathered Crown",
       "Desc": "Increases the Level of <color=#FFD780FF>Dawnfrost Darkstar</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Citlali_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Death Defier's Spirit Skull",
       "Desc": "While the Elemental Skill <color=#FFD780FF>Dawnfrost Darkstar</color> is active, when Itzpapa's Frostfall Storm hits opponents, an additional <color=#FFD780FF>Obsidian Spiritvessel Skull</color> will be summoned. When a Spiritvessel Skull summoned this way explodes, it deals 1800% of Citlali's Elemental Mastery as Nightsoul-aligned <color=#99FFFFFF>AoE Cryo DMG</color> and restores 16 Nightsoul points and 8 Energy for Citlali. This effect can trigger once every 8s. This DMG is not considered Elemental Burst DMG.",
       "Icon": "UI_Talent_S_Citlali_03",
-      "ParamList": [18, 16, 8, 8]
+      "ParamList": [18, 16, 8, 8, 0, 0, 0, 0]
     },
     {
       "Name": "Nemontemi's Hex",
       "Desc": "Increases the Level of <color=#FFD780FF>Edict of Entwined Splendor</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Citlali_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Teoiztac's Secret Pact",
       "Desc": "After being summoned with the Elemental Skill <color=#FFD780FF>Dawnfrost Darkstar</color>, Itzpapa will always be in the Opal Fire state, and when Nightsoul points are exhausted, this state will not end.\\nAdditionally, when <color=#FFD780FF>Dawnfrost Darkstar</color> is used, Itzpapa will consume all Nightsoul points, and while it is on the field, it will continuously consume Nightsoul points. Each Nightsoul point consumed in this way will grant Citlali 1 \"Cifra of the Secret Law\" point.\\nA maximum of 40 such points can be gained, and each point Citlali possesses will grant all nearby party members a 1.5% <color=#FF9999FF>Pyro</color> and <color=#80C0FFFF>Hydro</color> DMG Bonus, and increase the DMG Citlali deals by 2.5%.\\nWhen Itzpapa leaves the field, or upon using Citlali's Elemental Skill again, all \"Cifra of the Secret Law\" points she has will be removed.",
       "Icon": "UI_Talent_S_Citlali_04",
-      "ParamList": [0.015, 0.015, 0.025, 40]
+      "ParamList": [0.015, 0.015, 0.025, 40, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -1976,7 +2076,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Quenepa Berry", "Id": 101249, "Count": 3, "Rank": 1 },
+          { "Name": "Quenepa Berry", "Id": 101249, "Count": 3, "Rank": 0 },
           { "Name": "Juvenile Fang", "Id": 112101, "Count": 3, "Rank": 1 }
         ],
         "Cost": 20000
@@ -1995,7 +2095,7 @@
             "Count": 2,
             "Rank": 4
           },
-          { "Name": "Quenepa Berry", "Id": 101249, "Count": 10, "Rank": 1 },
+          { "Name": "Quenepa Berry", "Id": 101249, "Count": 10, "Rank": 0 },
           { "Name": "Juvenile Fang", "Id": 112101, "Count": 15, "Rank": 1 }
         ],
         "Cost": 40000
@@ -2014,7 +2114,7 @@
             "Count": 4,
             "Rank": 4
           },
-          { "Name": "Quenepa Berry", "Id": 101249, "Count": 20, "Rank": 1 },
+          { "Name": "Quenepa Berry", "Id": 101249, "Count": 20, "Rank": 0 },
           { "Name": "Seasoned Fang", "Id": 112102, "Count": 12, "Rank": 2 }
         ],
         "Cost": 60000
@@ -2028,7 +2128,7 @@
             "Count": 8,
             "Rank": 4
           },
-          { "Name": "Quenepa Berry", "Id": 101249, "Count": 30, "Rank": 1 },
+          { "Name": "Quenepa Berry", "Id": 101249, "Count": 30, "Rank": 0 },
           { "Name": "Seasoned Fang", "Id": 112102, "Count": 18, "Rank": 2 }
         ],
         "Cost": 80000
@@ -2042,7 +2142,7 @@
             "Count": 12,
             "Rank": 4
           },
-          { "Name": "Quenepa Berry", "Id": 101249, "Count": 45, "Rank": 1 },
+          { "Name": "Quenepa Berry", "Id": 101249, "Count": 45, "Rank": 0 },
           { "Name": "Tyrant's Fang", "Id": 112103, "Count": 12, "Rank": 3 }
         ],
         "Cost": 100000
@@ -2061,7 +2161,7 @@
             "Count": 20,
             "Rank": 4
           },
-          { "Name": "Quenepa Berry", "Id": 101249, "Count": 60, "Rank": 1 },
+          { "Name": "Quenepa Berry", "Id": 101249, "Count": 60, "Rank": 0 },
           { "Name": "Tyrant's Fang", "Id": 112103, "Count": 24, "Rank": 3 }
         ],
         "Cost": 120000

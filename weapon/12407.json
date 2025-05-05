@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_201",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 42.401
+      "initValue": 42.401,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_DEFENSE_PERCENT",
-      "initValue": 0.1126
+      "initValue": 0.1126,
+      "propType": "FIGHT_PROP_DEFENSE_PERCENT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Infusion Blade",
       "Desc": "On hit, Normal or Charged Attacks increase ATK and DEF by <color=#99FFFFFF>6%</color> for 6s. Max 4 stacks. This effect can only occur once every 0.5s.",
-      "ParamList": [0.06]
+      "ParamList": [0.06, 0, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Infusion Blade",
       "Desc": "On hit, Normal or Charged Attacks increase ATK and DEF by <color=#99FFFFFF>7.5%</color> for 6s. Max 4 stacks. This effect can only occur once every 0.5s.",
-      "ParamList": [0.075]
+      "ParamList": [0.075, 0, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Infusion Blade",
       "Desc": "On hit, Normal or Charged Attacks increase ATK and DEF by <color=#99FFFFFF>9%</color> for 6s. Max 4 stacks. This effect can only occur once every 0.5s.",
-      "ParamList": [0.09]
+      "ParamList": [0.09, 0, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Infusion Blade",
       "Desc": "On hit, Normal or Charged Attacks increase ATK and DEF by <color=#99FFFFFF>10.5%</color> for 6s. Max 4 stacks. This effect can only occur once every 0.5s.",
-      "ParamList": [0.105]
+      "ParamList": [0.105, 0, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Infusion Blade",
       "Desc": "On hit, Normal or Charged Attacks increase ATK and DEF by <color=#99FFFFFF>12%</color> for 6s. Max 4 stacks. This effect can only occur once every 0.5s.",
-      "ParamList": [0.12]
+      "ParamList": [0.12, 0, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

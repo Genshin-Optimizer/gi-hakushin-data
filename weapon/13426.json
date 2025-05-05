@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_201",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 42.401
+      "initValue": 42.401,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_HP_PERCENT",
-      "initValue": 0.09
+      "initValue": 0.09,
+      "propType": "FIGHT_PROP_HP_PERCENT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Principle of Equilibrium",
       "Desc": "When the wielder performs healing, restore <color=#99FFFFFF>8</color> Energy. This effect can be triggered once every 10s and can occur even when the character is not on the field.",
-      "ParamList": [8, 10]
+      "ParamList": [8, 10, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Principle of Equilibrium",
       "Desc": "When the wielder performs healing, restore <color=#99FFFFFF>10</color> Energy. This effect can be triggered once every 10s and can occur even when the character is not on the field.",
-      "ParamList": [10, 10]
+      "ParamList": [10, 10, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Principle of Equilibrium",
       "Desc": "When the wielder performs healing, restore <color=#99FFFFFF>12</color> Energy. This effect can be triggered once every 10s and can occur even when the character is not on the field.",
-      "ParamList": [12, 10]
+      "ParamList": [12, 10, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Principle of Equilibrium",
       "Desc": "When the wielder performs healing, restore <color=#99FFFFFF>14</color> Energy. This effect can be triggered once every 10s and can occur even when the character is not on the field.",
-      "ParamList": [14, 10]
+      "ParamList": [14, 10, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Principle of Equilibrium",
       "Desc": "When the wielder performs healing, restore <color=#99FFFFFF>16</color> Energy. This effect can be triggered once every 10s and can occur even when the character is not on the field.",
-      "ParamList": [16, 10]
+      "ParamList": [16, 10, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

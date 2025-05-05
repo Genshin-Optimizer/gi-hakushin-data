@@ -434,7 +434,7 @@
         "Name": "Guardian's Gun",
         "Desc": "Chevreuse's outfit. The designers kept the uniform's classic black, white, and red color combination and added a bevy of accessories, but the result proved too heavy, which the captain protested. The final, fit-for-public-consumption version lacked most of those metal decorations.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -813,7 +813,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Line Bayonet Thrust EX",
+      "Name": "Line Bayonet Thrust EX",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 consecutive spear strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
       "Promote": {
         "0": {
@@ -839,7 +839,7 @@
           ],
           "Param": [
             0.531299, 0.493107, 0.276449, 0.324527, 0.772615, 1.2169, 25,
-            0.639324, 1.278377, 1.596762
+            0.639324, 1.278377, 1.596762, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -865,7 +865,7 @@
           ],
           "Param": [
             0.574545, 0.533243, 0.298951, 0.350942, 0.835503, 1.31595, 25,
-            0.691362, 1.382431, 1.726731
+            0.691362, 1.382431, 1.726731, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -891,7 +891,7 @@
           ],
           "Param": [
             0.61779, 0.57338, 0.321453, 0.377357, 0.89839, 1.415, 25, 0.7434,
-            1.486485, 1.8567
+            1.486485, 1.8567, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -917,7 +917,7 @@
           ],
           "Param": [
             0.679569, 0.630718, 0.353598, 0.415093, 0.988229, 1.5565, 25,
-            0.81774, 1.635134, 2.04237
+            0.81774, 1.635134, 2.04237, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -943,7 +943,7 @@
           ],
           "Param": [
             0.722814, 0.670855, 0.3761, 0.441508, 1.051116, 1.65555, 25,
-            0.869778, 1.739187, 2.172339
+            0.869778, 1.739187, 2.172339, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -969,7 +969,7 @@
           ],
           "Param": [
             0.772237, 0.716725, 0.401816, 0.471697, 1.122988, 1.76875, 25,
-            0.92925, 1.858106, 2.320875
+            0.92925, 1.858106, 2.320875, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -995,7 +995,7 @@
           ],
           "Param": [
             0.840194, 0.779797, 0.437176, 0.513206, 1.22181, 1.9244, 25,
-            1.011024, 2.02162, 2.525112
+            1.011024, 2.02162, 2.525112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1021,7 +1021,7 @@
           ],
           "Param": [
             0.908151, 0.842869, 0.472535, 0.554715, 1.320633, 2.08005, 25,
-            1.092798, 2.185133, 2.729349
+            1.092798, 2.185133, 2.729349, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1047,7 +1047,7 @@
           ],
           "Param": [
             0.976108, 0.90594, 0.507895, 0.596225, 1.419456, 2.2357, 25,
-            1.174572, 2.348646, 2.933586
+            1.174572, 2.348646, 2.933586, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1073,7 +1073,7 @@
           ],
           "Param": [
             1.050243, 0.974746, 0.546469, 0.641508, 1.527263, 2.4055, 25,
-            1.26378, 2.527025, 3.15639
+            1.26378, 2.527025, 3.15639, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1099,7 +1099,7 @@
           ],
           "Param": [
             1.124378, 1.043552, 0.585044, 0.68679, 1.63507, 2.5753, 25,
-            1.352988, 2.705403, 3.379194
+            1.352988, 2.705403, 3.379194, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1125,7 +1125,7 @@
           ],
           "Param": [
             1.198513, 1.112357, 0.623618, 0.732073, 1.742877, 2.7451, 25,
-            1.442196, 2.883781, 3.601998
+            1.442196, 2.883781, 3.601998, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1151,7 +1151,7 @@
           ],
           "Param": [
             1.272647, 1.181163, 0.662192, 0.777356, 1.850683, 2.9149, 25,
-            1.531404, 3.062159, 3.824802
+            1.531404, 3.062159, 3.824802, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1177,7 +1177,7 @@
           ],
           "Param": [
             1.346782, 1.249968, 0.700767, 0.822639, 1.95849, 3.0847, 25,
-            1.620612, 3.240537, 4.047606
+            1.620612, 3.240537, 4.047606, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1203,7 +1203,7 @@
           ],
           "Param": [
             1.420917, 1.318774, 0.739341, 0.867922, 2.066297, 3.2545, 25,
-            1.70982, 3.418915, 4.27041
+            1.70982, 3.418915, 4.27041, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1233,7 +1233,10 @@
             "",
             ""
           ],
-          "Param": [1.152, 1.728, 2.824, 12, 0.026667, 256.79184, 0.288, 10, 15]
+          "Param": [
+            1.152, 1.728, 2.824, 12, 0.026667, 256.79184, 0.288, 10, 15, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1257,7 +1260,8 @@
             ""
           ],
           "Param": [
-            1.2384, 1.8576, 3.0358, 12, 0.028667, 282.47458, 0.3096, 10, 15
+            1.2384, 1.8576, 3.0358, 12, 0.028667, 282.47458, 0.3096, 10, 15, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -1282,7 +1286,8 @@
             ""
           ],
           "Param": [
-            1.3248, 1.9872, 3.2476, 12, 0.030667, 310.29758, 0.3312, 10, 15
+            1.3248, 1.9872, 3.2476, 12, 0.030667, 310.29758, 0.3312, 10, 15, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -1306,7 +1311,10 @@
             "",
             ""
           ],
-          "Param": [1.44, 2.16, 3.53, 12, 0.033333, 340.26077, 0.36, 10, 15]
+          "Param": [
+            1.44, 2.16, 3.53, 12, 0.033333, 340.26077, 0.36, 10, 15, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1330,7 +1338,8 @@
             ""
           ],
           "Param": [
-            1.5264, 2.2896, 3.7418, 12, 0.035333, 372.36423, 0.3816, 10, 15
+            1.5264, 2.2896, 3.7418, 12, 0.035333, 372.36423, 0.3816, 10, 15, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -1355,7 +1364,8 @@
             ""
           ],
           "Param": [
-            1.6128, 2.4192, 3.9536, 12, 0.037333, 406.60788, 0.4032, 10, 15
+            1.6128, 2.4192, 3.9536, 12, 0.037333, 406.60788, 0.4032, 10, 15, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -1379,7 +1389,10 @@
             "",
             ""
           ],
-          "Param": [1.728, 2.592, 4.236, 12, 0.04, 442.9918, 0.432, 10, 15]
+          "Param": [
+            1.728, 2.592, 4.236, 12, 0.04, 442.9918, 0.432, 10, 15, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1403,7 +1416,8 @@
             ""
           ],
           "Param": [
-            1.8432, 2.7648, 4.5184, 12, 0.042667, 481.51593, 0.4608, 10, 15
+            1.8432, 2.7648, 4.5184, 12, 0.042667, 481.51593, 0.4608, 10, 15, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1428,7 +1442,8 @@
             ""
           ],
           "Param": [
-            1.9584, 2.9376, 4.8008, 12, 0.045333, 522.1803, 0.4896, 10, 15
+            1.9584, 2.9376, 4.8008, 12, 0.045333, 522.1803, 0.4896, 10, 15, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1453,7 +1468,8 @@
             ""
           ],
           "Param": [
-            2.0736, 3.1104, 5.0832, 12, 0.048, 564.98486, 0.5184, 10, 15
+            2.0736, 3.1104, 5.0832, 12, 0.048, 564.98486, 0.5184, 10, 15, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1478,7 +1494,8 @@
             ""
           ],
           "Param": [
-            2.1888, 3.2832, 5.3656, 12, 0.050667, 609.9297, 0.5472, 10, 15
+            2.1888, 3.2832, 5.3656, 12, 0.050667, 609.9297, 0.5472, 10, 15, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1502,7 +1519,10 @@
             "",
             ""
           ],
-          "Param": [2.304, 3.456, 5.648, 12, 0.053333, 657.0147, 0.576, 10, 15]
+          "Param": [
+            2.304, 3.456, 5.648, 12, 0.053333, 657.0147, 0.576, 10, 15, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1525,7 +1545,10 @@
             "",
             ""
           ],
-          "Param": [2.448, 3.672, 6.001, 12, 0.056667, 706.24, 0.612, 10, 15]
+          "Param": [
+            2.448, 3.672, 6.001, 12, 0.056667, 706.24, 0.612, 10, 15, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1548,7 +1571,10 @@
             "",
             ""
           ],
-          "Param": [2.592, 3.888, 6.354, 12, 0.06, 757.6055, 0.648, 10, 15]
+          "Param": [
+            2.592, 3.888, 6.354, 12, 0.06, 757.6055, 0.648, 10, 15, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1571,7 +1597,10 @@
             "",
             ""
           ],
-          "Param": [2.736, 4.104, 6.707, 12, 0.063333, 811.11127, 0.684, 10, 15]
+          "Param": [
+            2.736, 4.104, 6.707, 12, 0.063333, 811.11127, 0.684, 10, 15, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         }
       }
     },
@@ -1600,7 +1629,10 @@
             "",
             ""
           ],
-          "Param": [3.6816, 0.49088, 15, 60]
+          "Param": [
+            3.6816, 0.49088, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1623,7 +1655,10 @@
             "",
             ""
           ],
-          "Param": [3.95772, 0.527696, 15, 60]
+          "Param": [
+            3.95772, 0.527696, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1646,7 +1681,10 @@
             "",
             ""
           ],
-          "Param": [4.23384, 0.564512, 15, 60]
+          "Param": [
+            4.23384, 0.564512, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1669,7 +1707,10 @@
             "",
             ""
           ],
-          "Param": [4.602, 0.6136, 15, 60]
+          "Param": [
+            4.602, 0.6136, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1692,7 +1733,10 @@
             "",
             ""
           ],
-          "Param": [4.87812, 0.650416, 15, 60]
+          "Param": [
+            4.87812, 0.650416, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1715,7 +1759,10 @@
             "",
             ""
           ],
-          "Param": [5.15424, 0.687232, 15, 60]
+          "Param": [
+            5.15424, 0.687232, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1738,7 +1785,10 @@
             "",
             ""
           ],
-          "Param": [5.5224, 0.73632, 15, 60]
+          "Param": [
+            5.5224, 0.73632, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1761,7 +1811,10 @@
             "",
             ""
           ],
-          "Param": [5.89056, 0.785408, 15, 60]
+          "Param": [
+            5.89056, 0.785408, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1784,7 +1837,10 @@
             "",
             ""
           ],
-          "Param": [6.25872, 0.834496, 15, 60]
+          "Param": [
+            6.25872, 0.834496, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1807,7 +1863,10 @@
             "",
             ""
           ],
-          "Param": [6.62688, 0.883584, 15, 60]
+          "Param": [
+            6.62688, 0.883584, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1830,7 +1889,10 @@
             "",
             ""
           ],
-          "Param": [6.99504, 0.932672, 15, 60]
+          "Param": [
+            6.99504, 0.932672, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1853,7 +1915,10 @@
             "",
             ""
           ],
-          "Param": [7.3632, 0.98176, 15, 60]
+          "Param": [
+            7.3632, 0.98176, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1876,7 +1941,10 @@
             "",
             ""
           ],
-          "Param": [7.8234, 1.04312, 15, 60]
+          "Param": [
+            7.8234, 1.04312, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1899,7 +1967,10 @@
             "",
             ""
           ],
-          "Param": [8.2836, 1.10448, 15, 60]
+          "Param": [
+            8.2836, 1.10448, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1922,7 +1993,10 @@
             "",
             ""
           ],
-          "Param": [8.7438, 1.16584, 15, 60]
+          "Param": [
+            8.7438, 1.16584, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         }
       }
     }
@@ -1933,21 +2007,25 @@
       "Desc": "When all party members are <color=#FF9999FF>Pyro</color> and <color=#FFACFFFF>Electro</color> characters and there is at least one Pyro and one Electro character each in the party:\\nChevreuse grants \"Coordinated Tactics\" to nearby party members: After a character triggers the Overloaded reaction, the <color=#FF9999FF>Pyro</color> and <color=#FFACFFFF>Electro</color> RES of the opponent(s) affected by this Overloaded reaction will be decreased by 40% for 6s.\\nThe \"Coordinated Tactics\" effect will be removed when the Elemental Types of the characters in the party do not meet the basic requirements for the Passive Talent.",
       "Icon": "UI_Talent_S_Chevreuse_05",
       "Unlock": 1,
-      "ParamList": [0.4, 6]
+      "ParamList": [
+        0.4, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Vertical Force Coordination",
       "Desc": "After Chevreuse fires an Overcharged Ball using <color=#FFD780FF>Short-Range Rapid Interdiction Fire</color>, nearby <color=#FF9999FF>Pyro</color> and <color=#FFACFFFF>Electro</color> characters in the party gain 1% increased ATK for every 1,000 Max HP Chevreuse has for 30s. ATK can be increased by up to 40% in this way.",
       "Icon": "UI_Talent_S_Chevreuse_06",
       "Unlock": 4,
-      "ParamList": [0.01, 30, 0.4]
+      "ParamList": [
+        0.01, 30, 0.4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Double Time March",
       "Desc": "Decreases sprinting Stamina consumption for your own party members by 20%.\\nNot stackable with Passive Talents that provide the exact same effects.",
       "Icon": "UI_Talent_Explosion_Sprint",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Constellations": [
@@ -1955,37 +2033,37 @@
       "Name": "Stable Front Line's Resolve",
       "Desc": "When the active character with the \"Coordinated Tactics\" status (not including Chevreuse herself) triggers the Overloaded reaction, they will recover 6 Energy. This effect can be triggered once every 10s.\\nYou must first unlock the Passive Talent \"Vanguard's Coordinated Tactics.\"",
       "Icon": "UI_Talent_S_Chevreuse_01",
-      "ParamList": [6, 10]
+      "ParamList": [6, 10, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Sniper Induced Explosion",
       "Desc": "After Holding <color=#FFD780FF>Short-Range Rapid Interdiction Fire</color> and hitting a target, 2 chain explosions will be triggered near the location where said target is hit. Each explosion deals <color=#FF9999FF>Pyro DMG</color> equal to 120% of Chevreuse's ATK. This effect can be triggered up to once every 10s, and DMG dealt this way is considered Elemental Skill DMG.",
       "Icon": "UI_Talent_S_Chevreuse_02",
-      "ParamList": [1.2, 10]
+      "ParamList": [1.2, 10, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Practiced Field Stripping Technique",
       "Desc": "Increases the Level of <color=#FFD780FF>Short-Range Rapid Interdiction Fire</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Chevreuse_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "The Secret to Rapid-Fire Multishots",
       "Desc": "After using <color=#FFD780FF>Ring of Bursting Grenades</color>, the Hold mode of <color=#FFD780FF>Short-Range Rapid Interdiction Fire</color> will not go on cooldown when Chevreuse uses it. This effect is removed after Short-Range Rapid Interdiction Fire has been fired twice using Hold or after 6s.",
       "Icon": "UI_Talent_S_Chevreuse_03",
-      "ParamList": [6, 2]
+      "ParamList": [6, 2, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Enhanced Incendiary Firepower",
       "Desc": "Increases the Level of <color=#FFD780FF>Ring of Bursting Grenades</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Chevreuse_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "In Pursuit of Ending Evil",
       "Desc": "After 12s of the healing effect from <color=#FFD780FF>Short-Range Rapid Interdiction Fire</color>, all nearby party members recover HP equivalent to 10% of Chevreuse's Max HP once.\\nAfter a party member is healed by Short-Range Rapid Interdiction Fire, they gain a 20% <color=#FF9999FF>Pyro DMG Bonus</color> and <color=#FFACFFFF>Electro DMG Bonus</color> for 8s. Max 3 stacks. Each stack's duration is counted independently.",
       "Icon": "UI_Talent_S_Chevreuse_04",
-      "ParamList": [12, 0.1, 0.2, 8, 3]
+      "ParamList": [12, 0.1, 0.2, 8, 3, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -1998,7 +2076,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Lumidouce Bell", "Id": 101235, "Count": 3, "Rank": 1 },
+          { "Name": "Lumidouce Bell", "Id": 101235, "Count": 3, "Rank": 0 },
           { "Name": "Meshing Gear", "Id": 112083, "Count": 3, "Rank": 1 }
         ],
         "Cost": 20000
@@ -2012,7 +2090,7 @@
             "Rank": 3
           },
           { "Name": "Fontemer Unihorn", "Id": 113053, "Count": 2, "Rank": 4 },
-          { "Name": "Lumidouce Bell", "Id": 101235, "Count": 10, "Rank": 1 },
+          { "Name": "Lumidouce Bell", "Id": 101235, "Count": 10, "Rank": 0 },
           { "Name": "Meshing Gear", "Id": 112083, "Count": 15, "Rank": 1 }
         ],
         "Cost": 40000
@@ -2026,7 +2104,7 @@
             "Rank": 3
           },
           { "Name": "Fontemer Unihorn", "Id": 113053, "Count": 4, "Rank": 4 },
-          { "Name": "Lumidouce Bell", "Id": 101235, "Count": 20, "Rank": 1 },
+          { "Name": "Lumidouce Bell", "Id": 101235, "Count": 20, "Rank": 0 },
           {
             "Name": "Mechanical Spur Gear",
             "Id": 112084,
@@ -2045,7 +2123,7 @@
             "Rank": 4
           },
           { "Name": "Fontemer Unihorn", "Id": 113053, "Count": 8, "Rank": 4 },
-          { "Name": "Lumidouce Bell", "Id": 101235, "Count": 30, "Rank": 1 },
+          { "Name": "Lumidouce Bell", "Id": 101235, "Count": 30, "Rank": 0 },
           {
             "Name": "Mechanical Spur Gear",
             "Id": 112084,
@@ -2064,7 +2142,7 @@
             "Rank": 4
           },
           { "Name": "Fontemer Unihorn", "Id": 113053, "Count": 12, "Rank": 4 },
-          { "Name": "Lumidouce Bell", "Id": 101235, "Count": 45, "Rank": 1 },
+          { "Name": "Lumidouce Bell", "Id": 101235, "Count": 45, "Rank": 0 },
           {
             "Name": "Artificed Dynamic Gear",
             "Id": 112085,
@@ -2083,7 +2161,7 @@
             "Rank": 5
           },
           { "Name": "Fontemer Unihorn", "Id": 113053, "Count": 20, "Rank": 4 },
-          { "Name": "Lumidouce Bell", "Id": 101235, "Count": 60, "Rank": 1 },
+          { "Name": "Lumidouce Bell", "Id": 101235, "Count": 60, "Rank": 0 },
           {
             "Name": "Artificed Dynamic Gear",
             "Id": 112085,

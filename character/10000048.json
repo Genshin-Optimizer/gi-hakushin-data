@@ -394,7 +394,7 @@
         "Name": "Golden Rule",
         "Desc": "Yanfei's outfit. The dress that the legal adviser Yanfei wears when she heads out to visit clients.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -773,7 +773,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Seal of Approval",
+      "Name": "Seal of Approval",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nShoots fireballs that deal up to three counts of <color=#FF9999FF>Pyro DMG</color>.\\nWhen Yanfei's Normal Attacks hit enemies, they will grant her a single Scarlet Seal. Yanfei may possess a maximum of 3 Scarlet Seals, and each time this effect is triggered, the duration of currently possessed Scarlet Seals will refresh.\\nEach Scarlet Seal will decrease Yanfei's Stamina consumption and will disappear when she leaves the field.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes Stamina and all Scarlet Seals before dealing <color=#FF9999FF>AoE Pyro DMG</color> to opponents after a short casting time.\\nThis Charged Attack's AoE and DMG will increase according to the amount of Scarlet Seals consumed.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nGathering the power of Pyro, Yanfei plunges towards the ground from mid-air, damaging all opponents in her path. Deals <color=#FF9999FF>AoE Pyro DMG</color> upon impact with the ground.",
       "Promote": {
         "0": {
@@ -1206,7 +1206,9 @@
             "",
             ""
           ],
-          "Param": [1.696, 9]
+          "Param": [
+            1.696, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1229,7 +1231,9 @@
             "",
             ""
           ],
-          "Param": [1.8232, 9]
+          "Param": [
+            1.8232, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1252,7 +1256,9 @@
             "",
             ""
           ],
-          "Param": [1.9504, 9]
+          "Param": [
+            1.9504, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1275,7 +1281,9 @@
             "",
             ""
           ],
-          "Param": [2.12, 9]
+          "Param": [
+            2.12, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1298,7 +1306,9 @@
             "",
             ""
           ],
-          "Param": [2.2472, 9]
+          "Param": [
+            2.2472, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1321,7 +1331,9 @@
             "",
             ""
           ],
-          "Param": [2.3744, 9]
+          "Param": [
+            2.3744, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1344,7 +1356,9 @@
             "",
             ""
           ],
-          "Param": [2.544, 9]
+          "Param": [
+            2.544, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1367,7 +1381,9 @@
             "",
             ""
           ],
-          "Param": [2.7136, 9]
+          "Param": [
+            2.7136, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1390,7 +1406,9 @@
             "",
             ""
           ],
-          "Param": [2.8832, 9]
+          "Param": [
+            2.8832, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1413,7 +1431,9 @@
             "",
             ""
           ],
-          "Param": [3.0528, 9]
+          "Param": [
+            3.0528, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1436,7 +1456,9 @@
             "",
             ""
           ],
-          "Param": [3.2224, 9]
+          "Param": [
+            3.2224, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1459,7 +1481,9 @@
             "",
             ""
           ],
-          "Param": [3.392, 9]
+          "Param": [
+            3.392, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1482,7 +1506,9 @@
             "",
             ""
           ],
-          "Param": [3.604, 9]
+          "Param": [
+            3.604, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1505,7 +1531,9 @@
             "",
             ""
           ],
-          "Param": [3.816, 9]
+          "Param": [
+            3.816, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1528,7 +1556,9 @@
             "",
             ""
           ],
-          "Param": [4.028, 9]
+          "Param": [
+            4.028, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         }
       }
     },
@@ -1557,7 +1587,10 @@
             "",
             ""
           ],
-          "Param": [1.824, 0.334, 15, 1, 20, 80]
+          "Param": [
+            1.824, 0.334, 15, 1, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1580,7 +1613,10 @@
             "",
             ""
           ],
-          "Param": [1.9608, 0.354, 15, 1, 20, 80]
+          "Param": [
+            1.9608, 0.354, 15, 1, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1603,7 +1639,10 @@
             "",
             ""
           ],
-          "Param": [2.0976, 0.374, 15, 1, 20, 80]
+          "Param": [
+            2.0976, 0.374, 15, 1, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1626,7 +1665,9 @@
             "",
             ""
           ],
-          "Param": [2.28, 0.4, 15, 1, 20, 80]
+          "Param": [
+            2.28, 0.4, 15, 1, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1649,7 +1690,10 @@
             "",
             ""
           ],
-          "Param": [2.4168, 0.42, 15, 1, 20, 80]
+          "Param": [
+            2.4168, 0.42, 15, 1, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1672,7 +1716,10 @@
             "",
             ""
           ],
-          "Param": [2.5536, 0.44, 15, 1, 20, 80]
+          "Param": [
+            2.5536, 0.44, 15, 1, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1695,7 +1742,10 @@
             "",
             ""
           ],
-          "Param": [2.736, 0.466, 15, 1, 20, 80]
+          "Param": [
+            2.736, 0.466, 15, 1, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1718,7 +1768,10 @@
             "",
             ""
           ],
-          "Param": [2.9184, 0.492, 15, 1, 20, 80]
+          "Param": [
+            2.9184, 0.492, 15, 1, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1741,7 +1794,10 @@
             "",
             ""
           ],
-          "Param": [3.1008, 0.518, 15, 1, 20, 80]
+          "Param": [
+            3.1008, 0.518, 15, 1, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1764,7 +1820,10 @@
             "",
             ""
           ],
-          "Param": [3.2832, 0.544, 15, 1, 20, 80]
+          "Param": [
+            3.2832, 0.544, 15, 1, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1787,7 +1846,10 @@
             "",
             ""
           ],
-          "Param": [3.4656, 0.57, 15, 1, 20, 80]
+          "Param": [
+            3.4656, 0.57, 15, 1, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1810,7 +1872,10 @@
             "",
             ""
           ],
-          "Param": [3.648, 0.596, 15, 1, 20, 80]
+          "Param": [
+            3.648, 0.596, 15, 1, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1833,7 +1898,10 @@
             "",
             ""
           ],
-          "Param": [3.876, 0.622, 15, 1, 20, 80]
+          "Param": [
+            3.876, 0.622, 15, 1, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1856,7 +1924,10 @@
             "",
             ""
           ],
-          "Param": [4.104, 0.648, 15, 1, 20, 80]
+          "Param": [
+            4.104, 0.648, 15, 1, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1879,7 +1950,10 @@
             "",
             ""
           ],
-          "Param": [4.332, 0.674, 15, 1, 20, 80]
+          "Param": [
+            4.332, 0.674, 15, 1, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         }
       }
     }
@@ -1890,21 +1964,25 @@
       "Desc": "When Yanfei consumes Scarlet Seals by using a Charged Attack, each Scarlet Seal will increase Yanfei's <color=#FF9999FF>Pyro DMG Bonus</color> by 5%. This effect lasts for 6s. When a Charged Attack is used again during the effect's duration, it will dispel the previous effect.",
       "Icon": "UI_Talent_S_Feiyan_05",
       "Unlock": 1,
-      "ParamList": [0.05, 6, 5]
+      "ParamList": [
+        0.05, 6, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Blazing Eye",
       "Desc": "When Yanfei's Charged Attack deals a CRIT Hit to opponents, she will deal an additional instance of <color=#FF9999FF>AoE Pyro DMG</color> equal to 80% of her ATK. This DMG counts as Charged Attack DMG.",
       "Icon": "UI_Talent_S_Feiyan_06",
       "Unlock": 4,
-      "ParamList": [0.8]
+      "ParamList": [
+        0.8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Encyclopedic Expertise",
       "Desc": "Displays the location of nearby <color=#FFD780FF>resources unique to Liyue</color> on the mini-map.",
       "Icon": "UI_Talent_Collect_Local_Liyue",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Constellations": [
@@ -1912,37 +1990,37 @@
       "Name": "The Law Knows No Kindness",
       "Desc": "When Yanfei uses her Charged Attack, each existing Scarlet Seal additionally reduces the stamina cost of this Charged Attack by 10% and increases resistance against interruption during its release.",
       "Icon": "UI_Talent_S_Feiyan_01",
-      "ParamList": [-0.1, -0.1]
+      "ParamList": [-0.1, -0.1, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Right of Final Interpretation",
       "Desc": "Increases Yanfei's Charged Attack CRIT Rate by 20% against enemies below 50% HP.",
       "Icon": "UI_Talent_S_Feiyan_02",
-      "ParamList": [0.5, 0.2]
+      "ParamList": [0.5, 0.2, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Samadhi Fire-Forged",
       "Desc": "Increases the Level of <color=#FFD780FF>Signed Edict</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Feiyan_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Supreme Amnesty",
       "Desc": "When <color=#FFD780FF>Done Deal</color> is used:\\nCreates a shield that absorbs up to 45% of Yanfei's Max HP for 15s.\\nThis shield absorbs <color=#FF9999FF>Pyro DMG</color> 250% more effectively.",
       "Icon": "UI_Talent_S_Feiyan_03",
-      "ParamList": [0.45]
+      "ParamList": [0.45, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Abiding Affidavit",
       "Desc": "Increases the Level of <color=#FFD780FF>Done Deal</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Feiyan_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Extra Clause",
       "Desc": "Increases the maximum number of Scarlet Seals by 1.",
       "Icon": "UI_Talent_S_Feiyan_04",
-      "ParamList": [1]
+      "ParamList": [1, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -1955,7 +2033,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Noctilucous Jade", "Id": 100028, "Count": 3, "Rank": 1 },
+          { "Name": "Noctilucous Jade", "Id": 100028, "Count": 3, "Rank": 0 },
           {
             "Name": "Treasure Hoarder Insignia",
             "Id": 112035,
@@ -1974,7 +2052,7 @@
             "Rank": 3
           },
           { "Name": "Juvenile Jade", "Id": 113016, "Count": 2, "Rank": 4 },
-          { "Name": "Noctilucous Jade", "Id": 100028, "Count": 10, "Rank": 1 },
+          { "Name": "Noctilucous Jade", "Id": 100028, "Count": 10, "Rank": 0 },
           {
             "Name": "Treasure Hoarder Insignia",
             "Id": 112035,
@@ -1993,7 +2071,7 @@
             "Rank": 3
           },
           { "Name": "Juvenile Jade", "Id": 113016, "Count": 4, "Rank": 4 },
-          { "Name": "Noctilucous Jade", "Id": 100028, "Count": 20, "Rank": 1 },
+          { "Name": "Noctilucous Jade", "Id": 100028, "Count": 20, "Rank": 0 },
           {
             "Name": "Silver Raven Insignia",
             "Id": 112036,
@@ -2012,7 +2090,7 @@
             "Rank": 4
           },
           { "Name": "Juvenile Jade", "Id": 113016, "Count": 8, "Rank": 4 },
-          { "Name": "Noctilucous Jade", "Id": 100028, "Count": 30, "Rank": 1 },
+          { "Name": "Noctilucous Jade", "Id": 100028, "Count": 30, "Rank": 0 },
           {
             "Name": "Silver Raven Insignia",
             "Id": 112036,
@@ -2031,7 +2109,7 @@
             "Rank": 4
           },
           { "Name": "Juvenile Jade", "Id": 113016, "Count": 12, "Rank": 4 },
-          { "Name": "Noctilucous Jade", "Id": 100028, "Count": 45, "Rank": 1 },
+          { "Name": "Noctilucous Jade", "Id": 100028, "Count": 45, "Rank": 0 },
           {
             "Name": "Golden Raven Insignia",
             "Id": 112037,
@@ -2050,7 +2128,7 @@
             "Rank": 5
           },
           { "Name": "Juvenile Jade", "Id": 113016, "Count": 20, "Rank": 4 },
-          { "Name": "Noctilucous Jade", "Id": 100028, "Count": 60, "Rank": 1 },
+          { "Name": "Noctilucous Jade", "Id": 100028, "Count": 60, "Rank": 0 },
           {
             "Name": "Golden Raven Insignia",
             "Id": 112037,

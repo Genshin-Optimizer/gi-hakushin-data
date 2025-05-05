@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_301",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 45.9364
+      "initValue": 45.9364,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_301",
-      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
-      "initValue": 0.12
+      "initValue": 0.12,
+      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
     }
   ],
   "Rarity": 5,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Sky-Piercing Fang",
       "Desc": "CRIT Rate increased by <color=#99FFFFFF>4%</color>. Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by <color=#99FFFFFF>10%</color>, increases ATK SPD by <color=#99FFFFFF>10%</color>, and Normal and Charged hits deal additional DMG equal to <color=#99FFFFFF>20%</color> of ATK. Skypiercing Might lasts for 12s.",
-      "ParamList": [0.04, 0.1, 0.1, 0.2, 12]
+      "ParamList": [0.04, 0.1, 0.1, 0.2, 12, 0, 0, 0]
     },
     "2": {
       "Name": "Sky-Piercing Fang",
       "Desc": "CRIT Rate increased by <color=#99FFFFFF>5%</color>, Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by <color=#99FFFFFF>10%</color>, increases ATK SPD by <color=#99FFFFFF>10%</color>, and Normal and Charged hits deal additional DMG equal to <color=#99FFFFFF>25%</color> of ATK. Skypiercing Might lasts for 12s.",
-      "ParamList": [0.05, 0.1, 0.1, 0.25, 12]
+      "ParamList": [0.05, 0.1, 0.1, 0.25, 12, 0, 0, 0]
     },
     "3": {
       "Name": "Sky-Piercing Fang",
       "Desc": "CRIT Rate increased by <color=#99FFFFFF>6%</color>. Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by <color=#99FFFFFF>10%</color>, increases ATK SPD by <color=#99FFFFFF>10%</color>, and Normal and Charged hits deal additional DMG equal to <color=#99FFFFFF>30%</color> of ATK. Skypiercing Might lasts for 12s.",
-      "ParamList": [0.06, 0.1, 0.1, 0.3, 12]
+      "ParamList": [0.06, 0.1, 0.1, 0.3, 12, 0, 0, 0]
     },
     "4": {
       "Name": "Sky-Piercing Fang",
       "Desc": "CRIT Rate increased by <color=#99FFFFFF>7%</color>. Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by <color=#99FFFFFF>10%</color>, increases ATK SPD by <color=#99FFFFFF>10%</color>, and Normal and Charged hits deal additional DMG equal to <color=#99FFFFFF>35%</color> of ATK. Skypiercing Might lasts for 12s.",
-      "ParamList": [0.07, 0.1, 0.1, 0.35, 12]
+      "ParamList": [0.07, 0.1, 0.1, 0.35, 12, 0, 0, 0]
     },
     "5": {
       "Name": "Sky-Piercing Fang",
       "Desc": "CRIT Rate increased by <color=#99FFFFFF>8%</color>. Gains Skypiercing Might upon using an Elemental Burst: Increases Movement SPD by <color=#99FFFFFF>10%</color>, increases ATK SPD by <color=#99FFFFFF>10%</color>, and Normal and Charged hits deal additional DMG equal to <color=#99FFFFFF>40%</color> of ATK. Skypiercing Might lasts for 12s.",
-      "ParamList": [0.08, 0.1, 0.1, 0.4, 12]
+      "ParamList": [0.08, 0.1, 0.1, 0.4, 12, 0, 0, 0]
     }
   },
   "Materials": {

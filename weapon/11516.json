@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_304",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 44.3358
+      "initValue": 44.3358,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_301",
-      "propType": "FIGHT_PROP_DEFENSE_PERCENT",
-      "initValue": 0.18
+      "initValue": 0.18,
+      "propType": "FIGHT_PROP_DEFENSE_PERCENT"
     }
   ],
   "Rarity": 5,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Halcyon Years Unending",
       "Desc": "Gain \"Ode to Flowers\" after Normal or Plunging Attacks hit an opponent: DEF increases by <color=#99FFFFFF>8%</color> and gain a <color=#99FFFFFF>10%</color> All Elemental DMG Bonus for 6s. Max 2 stacks. Can trigger once per 0.1s. When this effect reaches 2 stacks or the 2nd stack's duration is refreshed, increase all nearby party members' All Elemental DMG Bonus by <color=#99FFFFFF>8%</color> for every 1,000 DEF the equipping character has, up to a maximum of <color=#99FFFFFF>25.6%</color>, for 15s.",
-      "ParamList": [0.08, 6, 0.1, 0.1, 0.08, 15, 3200]
+      "ParamList": [0.08, 6, 0.1, 0.1, 0, 0.08, 15, 3200]
     },
     "2": {
       "Name": "Halcyon Years Unending",
       "Desc": "Gain \"Ode to Flowers\" after Normal or Plunging Attacks hit an opponent: DEF increases by <color=#99FFFFFF>10%</color> and gain a <color=#99FFFFFF>12.5%</color> All Elemental DMG Bonus for 6s. Max 2 stacks. Can trigger once per 0.1s. When this effect reaches 2 stacks or the 2nd stack's duration is refreshed, increase all nearby party members' All Elemental DMG Bonus by <color=#99FFFFFF>10%</color> for every 1,000 DEF the equipping character has, up to a maximum of <color=#99FFFFFF>32%</color>, for 15s.",
-      "ParamList": [0.1, 6, 0.1, 0.125, 0.1, 15, 3200]
+      "ParamList": [0.1, 6, 0.1, 0.125, 0, 0.1, 15, 3200]
     },
     "3": {
       "Name": "Halcyon Years Unending",
       "Desc": "Gain \"Ode to Flowers\" after Normal or Plunging Attacks hit an opponent: DEF increases by <color=#99FFFFFF>12%</color> and gain a <color=#99FFFFFF>15%</color> All Elemental DMG Bonus for 6s. Max 2 stacks. Can trigger once per 0.1s. When this effect reaches 2 stacks or the 2nd stack's duration is refreshed, increase all nearby party members' All Elemental DMG Bonus by <color=#99FFFFFF>12%</color> for every 1,000 DEF the equipping character has, up to a maximum of <color=#99FFFFFF>38.4%</color>, for 15s.",
-      "ParamList": [0.12, 6, 0.1, 0.15, 0.12, 15, 3200]
+      "ParamList": [0.12, 6, 0.1, 0.15, 0, 0.12, 15, 3200]
     },
     "4": {
       "Name": "Halcyon Years Unending",
       "Desc": "Gain \"Ode to Flowers\" after Normal or Plunging Attacks hit an opponent: DEF increases by <color=#99FFFFFF>14%</color> and gain a <color=#99FFFFFF>17.5%</color> All Elemental DMG Bonus for 6s. Max 2 stacks. Can trigger once per 0.1s. When this effect reaches 2 stacks or the 2nd stack's duration is refreshed, increase all nearby party members' All Elemental DMG Bonus by <color=#99FFFFFF>14%</color> for every 1,000 DEF the equipping character has, up to a maximum of <color=#99FFFFFF>44.8%</color>, for 15s.",
-      "ParamList": [0.14, 6, 0.1, 0.175, 0.14, 15, 3200]
+      "ParamList": [0.14, 6, 0.1, 0.175, 0, 0.14, 15, 3200]
     },
     "5": {
       "Name": "Halcyon Years Unending",
       "Desc": "Gain \"Ode to Flowers\" after Normal or Plunging Attacks hit an opponent: DEF increases by <color=#99FFFFFF>16%</color> and gain a <color=#99FFFFFF>20%</color> All Elemental DMG Bonus for 6s. Max 2 stacks. Can trigger once per 0.1s. When this effect reaches 2 stacks or the 2nd stack's duration is refreshed, increase all nearby party members' All Elemental DMG Bonus by <color=#99FFFFFF>16%</color> for every 1,000 DEF the equipping character has, up to a maximum of <color=#99FFFFFF>51.2%</color>, for 15s.",
-      "ParamList": [0.16, 6, 0.1, 0.2, 0.16, 15, 3200]
+      "ParamList": [0.16, 6, 0.1, 0.2, 0, 0.16, 15, 3200]
     }
   },
   "Materials": {

@@ -400,7 +400,7 @@
         "Name": "Dreaming Star",
         "Desc": "Layla's outfit. In the depths of quiet nights, the stars that dot the sky wrap her like a cloak, guiding her into sweet dreams — well, or so she dearly wishes might happen.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -779,7 +779,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Sword of the Radiant Path",
+      "Name": "Sword of the Radiant Path",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 3 rapid strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
       "Promote": {
         "0": {
@@ -805,7 +805,7 @@
           ],
           "Param": [
             0.512173, 0.484834, 0.729736, 0.4773, 0.52546, 20, 0.639324,
-            1.278377, 1.596762
+            1.278377, 1.596762, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -831,7 +831,7 @@
           ],
           "Param": [
             0.553862, 0.524297, 0.789133, 0.51615, 0.56823, 20, 0.691362,
-            1.382431, 1.726731
+            1.382431, 1.726731, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -857,7 +857,7 @@
           ],
           "Param": [
             0.59555, 0.56376, 0.84853, 0.555, 0.611, 20, 0.7434, 1.486485,
-            1.8567
+            1.8567, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -883,7 +883,7 @@
           ],
           "Param": [
             0.655105, 0.620136, 0.933383, 0.6105, 0.6721, 20, 0.81774, 1.635134,
-            2.04237
+            2.04237, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -909,7 +909,7 @@
           ],
           "Param": [
             0.696793, 0.659599, 0.99278, 0.64935, 0.71487, 20, 0.869778,
-            1.739187, 2.172339
+            1.739187, 2.172339, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -935,7 +935,7 @@
           ],
           "Param": [
             0.744438, 0.7047, 1.060663, 0.69375, 0.76375, 20, 0.92925, 1.858106,
-            2.320875
+            2.320875, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -961,7 +961,7 @@
           ],
           "Param": [
             0.809948, 0.766714, 1.154001, 0.7548, 0.83096, 20, 1.011024,
-            2.02162, 2.525112
+            2.02162, 2.525112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -987,7 +987,7 @@
           ],
           "Param": [
             0.875459, 0.828727, 1.247339, 0.81585, 0.89817, 20, 1.092798,
-            2.185133, 2.729349
+            2.185133, 2.729349, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1013,7 +1013,7 @@
           ],
           "Param": [
             0.940969, 0.890741, 1.340677, 0.8769, 0.96538, 20, 1.174572,
-            2.348646, 2.933586
+            2.348646, 2.933586, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1039,7 +1039,7 @@
           ],
           "Param": [
             1.012435, 0.958392, 1.442501, 0.9435, 1.0387, 20, 1.26378, 2.527025,
-            3.15639
+            3.15639, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1065,7 +1065,7 @@
           ],
           "Param": [
             1.083901, 1.026043, 1.544325, 1.0101, 1.11202, 20, 1.352988,
-            2.705403, 3.379194
+            2.705403, 3.379194, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1091,7 +1091,7 @@
           ],
           "Param": [
             1.155367, 1.093694, 1.646148, 1.0767, 1.18534, 20, 1.442196,
-            2.883781, 3.601998
+            2.883781, 3.601998, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1117,7 +1117,7 @@
           ],
           "Param": [
             1.226833, 1.161346, 1.747972, 1.1433, 1.25866, 20, 1.531404,
-            3.062159, 3.824802
+            3.062159, 3.824802, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1143,7 +1143,7 @@
           ],
           "Param": [
             1.298299, 1.228997, 1.849795, 1.2099, 1.33198, 20, 1.620612,
-            3.240537, 4.047606
+            3.240537, 4.047606, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1169,7 +1169,7 @@
           ],
           "Param": [
             1.369765, 1.296648, 1.951619, 1.2765, 1.4053, 20, 1.70982, 3.418915,
-            4.27041
+            4.27041, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1199,7 +1199,10 @@
             "",
             ""
           ],
-          "Param": [0.128, 0.1472, 0.108, 1040.007, 12, 12]
+          "Param": [
+            0.128, 0.1472, 0.108, 1040.007, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1222,7 +1225,10 @@
             "",
             ""
           ],
-          "Param": [0.1376, 0.15824, 0.1161, 1144.0221, 12, 12]
+          "Param": [
+            0.1376, 0.15824, 0.1161, 1144.0221, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1245,7 +1251,10 @@
             "",
             ""
           ],
-          "Param": [0.1472, 0.16928, 0.1242, 1256.7052, 12, 12]
+          "Param": [
+            0.1472, 0.16928, 0.1242, 1256.7052, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1268,7 +1277,10 @@
             "",
             ""
           ],
-          "Param": [0.16, 0.184, 0.135, 1378.0562, 12, 12]
+          "Param": [
+            0.16, 0.184, 0.135, 1378.0562, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1291,7 +1303,10 @@
             "",
             ""
           ],
-          "Param": [0.1696, 0.19504, 0.1431, 1508.0751, 12, 12]
+          "Param": [
+            0.1696, 0.19504, 0.1431, 1508.0751, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1314,7 +1329,10 @@
             "",
             ""
           ],
-          "Param": [0.1792, 0.20608, 0.1512, 1646.762, 12, 12]
+          "Param": [
+            0.1792, 0.20608, 0.1512, 1646.762, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1337,7 +1355,10 @@
             "",
             ""
           ],
-          "Param": [0.192, 0.2208, 0.162, 1794.1167, 12, 12]
+          "Param": [
+            0.192, 0.2208, 0.162, 1794.1167, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1360,7 +1381,10 @@
             "",
             ""
           ],
-          "Param": [0.2048, 0.23552, 0.1728, 1950.1394, 12, 12]
+          "Param": [
+            0.2048, 0.23552, 0.1728, 1950.1394, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1383,7 +1407,10 @@
             "",
             ""
           ],
-          "Param": [0.2176, 0.25024, 0.1836, 2114.83, 12, 12]
+          "Param": [
+            0.2176, 0.25024, 0.1836, 2114.83, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1406,7 +1433,10 @@
             "",
             ""
           ],
-          "Param": [0.2304, 0.26496, 0.1944, 2288.1887, 12, 12]
+          "Param": [
+            0.2304, 0.26496, 0.1944, 2288.1887, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1429,7 +1459,10 @@
             "",
             ""
           ],
-          "Param": [0.2432, 0.27968, 0.2052, 2470.215, 12, 12]
+          "Param": [
+            0.2432, 0.27968, 0.2052, 2470.215, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1452,7 +1485,10 @@
             "",
             ""
           ],
-          "Param": [0.256, 0.2944, 0.216, 2660.9097, 12, 12]
+          "Param": [
+            0.256, 0.2944, 0.216, 2660.9097, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1475,7 +1511,10 @@
             "",
             ""
           ],
-          "Param": [0.272, 0.3128, 0.2295, 2860.272, 12, 12]
+          "Param": [
+            0.272, 0.3128, 0.2295, 2860.272, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1498,7 +1537,10 @@
             "",
             ""
           ],
-          "Param": [0.288, 0.3312, 0.243, 3068.3022, 12, 12]
+          "Param": [
+            0.288, 0.3312, 0.243, 3068.3022, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1521,7 +1563,10 @@
             "",
             ""
           ],
-          "Param": [0.304, 0.3496, 0.2565, 3285.0005, 12, 12]
+          "Param": [
+            0.304, 0.3496, 0.2565, 3285.0005, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         }
       }
     },
@@ -1550,7 +1595,9 @@
             "",
             ""
           ],
-          "Param": [0.046488, 12, 12, 40]
+          "Param": [
+            0.046488, 12, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1573,7 +1620,9 @@
             "",
             ""
           ],
-          "Param": [0.049975, 12, 12, 40]
+          "Param": [
+            0.049975, 12, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1596,7 +1645,9 @@
             "",
             ""
           ],
-          "Param": [0.053461, 12, 12, 40]
+          "Param": [
+            0.053461, 12, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1619,7 +1670,9 @@
             "",
             ""
           ],
-          "Param": [0.05811, 12, 12, 40]
+          "Param": [
+            0.05811, 12, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1642,7 +1695,9 @@
             "",
             ""
           ],
-          "Param": [0.061597, 12, 12, 40]
+          "Param": [
+            0.061597, 12, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1665,7 +1720,9 @@
             "",
             ""
           ],
-          "Param": [0.065083, 12, 12, 40]
+          "Param": [
+            0.065083, 12, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1688,7 +1745,9 @@
             "",
             ""
           ],
-          "Param": [0.069732, 12, 12, 40]
+          "Param": [
+            0.069732, 12, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1711,7 +1770,9 @@
             "",
             ""
           ],
-          "Param": [0.074381, 12, 12, 40]
+          "Param": [
+            0.074381, 12, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1734,7 +1795,9 @@
             "",
             ""
           ],
-          "Param": [0.07903, 12, 12, 40]
+          "Param": [
+            0.07903, 12, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1757,7 +1820,9 @@
             "",
             ""
           ],
-          "Param": [0.083678, 12, 12, 40]
+          "Param": [
+            0.083678, 12, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1780,7 +1845,9 @@
             "",
             ""
           ],
-          "Param": [0.088327, 12, 12, 40]
+          "Param": [
+            0.088327, 12, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1803,7 +1870,9 @@
             "",
             ""
           ],
-          "Param": [0.092976, 12, 12, 40]
+          "Param": [
+            0.092976, 12, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1826,7 +1895,9 @@
             "",
             ""
           ],
-          "Param": [0.098787, 12, 12, 40]
+          "Param": [
+            0.098787, 12, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1849,7 +1920,9 @@
             "",
             ""
           ],
-          "Param": [0.104598, 12, 12, 40]
+          "Param": [
+            0.104598, 12, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1872,7 +1945,9 @@
             "",
             ""
           ],
-          "Param": [0.110409, 12, 12, 40]
+          "Param": [
+            0.110409, 12, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         }
       }
     }
@@ -1883,21 +1958,25 @@
       "Desc": "While the <color=#FFD780FF>Curtain of Slumber</color> is active, the Deep Sleep effect will activate each time the Curtain gains 1 Night Star:\\n·The Shield Strength of a character under the effect of the Curtain of Slumber increases by 6%.\\n·This effect can have a maximum of 4 stacks and persists until the Curtain of Slumber disappears.",
       "Icon": "UI_Talent_S_Layla_05",
       "Unlock": 1,
-      "ParamList": [0.06]
+      "ParamList": [
+        0.06, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Sweet Slumber Undisturbed",
       "Desc": "The DMG dealt by the Shooting Stars fired by <color=#FFD780FF>Nights of Formal Focus</color> is increased by 1.5% of Layla's Max HP.",
       "Icon": "UI_Talent_S_Layla_06",
       "Unlock": 4,
-      "ParamList": [0.015]
+      "ParamList": [
+        0.015, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Shadowy Dream-Signs",
       "Desc": "When Layla crafts Character Talent Materials, she has a 10% chance to receive double the product.",
       "Icon": "UI_Talent_Eula_Combine",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Constellations": [
@@ -1905,37 +1984,37 @@
       "Name": "Fortress of Fantasy",
       "Desc": "The Shield Absorption of the Curtain of Slumber generated by <color=#FFD780FF>Nights of Formal Focus</color> is increased by 20%.\\nAdditionally, when unleashing Nights of Formal Focus, she will generate a shield for any nearby party members who are not being protected by a Curtain of Slumber. This shield will have 35% of the absorption of a Curtain of Slumber, will last for 12s, and will absorb <color=#99FFFFFF>Cryo DMG</color> with 250% effectiveness.",
       "Icon": "UI_Talent_S_Layla_01",
-      "ParamList": [0.2, 0.35, 12]
+      "ParamList": [0.2, 0.35, 12, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Light's Remit",
       "Desc": "When Shooting Stars from <color=#FFD780FF>Nights of Formal Focus</color> strike opponents, they will each restore 1 Energy to Layla. Each Shooting Star can restore Energy to her in this manner once.",
       "Icon": "UI_Talent_S_Layla_02",
-      "ParamList": [1]
+      "ParamList": [1, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Secrets of the Night",
       "Desc": "Increases the Level of <color=#FFD780FF>Nights of Formal Focus</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Layla_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Starry Illumination",
       "Desc": "When <color=#FFD780FF>Nights of Formal Focus</color> starts to fire off Shooting Stars, it will grant all nearby party members the Dawn Star effect, causing their Normal and Charged Attack DMG to increase based on 5% of Layla's Max HP.\\nDawn Star can last up to 3s and will be removed 0.05s after dealing Normal or Charged Attack DMG.",
       "Icon": "UI_Talent_S_Layla_03",
-      "ParamList": [0.05, 3, 0.05]
+      "ParamList": [0.05, 3, 0.05, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Stream of Consciousness",
       "Desc": "Increases the Level of <color=#FFD780FF>Dream of the Star-Stream Shaker</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Layla_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Radiant Soulfire",
       "Desc": "Shooting Stars from <color=#FFD780FF>Nights of Formal Focus</color> deal 40% increased DMG, and Starlight Slugs from <color=#FFD780FF>Dream of the Star-Stream Shaker</color> deal 40% increased DMG.\\nAdditionally, the interval between the creation of Night Stars via Nights of Formal Focus is decreased by 20%.",
       "Icon": "UI_Talent_S_Layla_04",
-      "ParamList": [0.2, 0.4]
+      "ParamList": [0.2, 0.4, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -1948,7 +2027,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Nilotpala Lotus", "Id": 101215, "Count": 3, "Rank": 1 },
+          { "Name": "Nilotpala Lotus", "Id": 101215, "Count": 3, "Rank": 0 },
           { "Name": "Divining Scroll", "Id": 112008, "Count": 3, "Rank": 1 }
         ],
         "Cost": 20000
@@ -1962,7 +2041,7 @@
             "Rank": 3
           },
           { "Name": "Perpetual Caliber", "Id": 113038, "Count": 2, "Rank": 4 },
-          { "Name": "Nilotpala Lotus", "Id": 101215, "Count": 10, "Rank": 1 },
+          { "Name": "Nilotpala Lotus", "Id": 101215, "Count": 10, "Rank": 0 },
           { "Name": "Divining Scroll", "Id": 112008, "Count": 15, "Rank": 1 }
         ],
         "Cost": 40000
@@ -1976,7 +2055,7 @@
             "Rank": 3
           },
           { "Name": "Perpetual Caliber", "Id": 113038, "Count": 4, "Rank": 4 },
-          { "Name": "Nilotpala Lotus", "Id": 101215, "Count": 20, "Rank": 1 },
+          { "Name": "Nilotpala Lotus", "Id": 101215, "Count": 20, "Rank": 0 },
           { "Name": "Sealed Scroll", "Id": 112009, "Count": 12, "Rank": 2 }
         ],
         "Cost": 60000
@@ -1985,7 +2064,7 @@
         "Mats": [
           { "Name": "Shivada Jade Chunk", "Id": 104163, "Count": 3, "Rank": 4 },
           { "Name": "Perpetual Caliber", "Id": 113038, "Count": 8, "Rank": 4 },
-          { "Name": "Nilotpala Lotus", "Id": 101215, "Count": 30, "Rank": 1 },
+          { "Name": "Nilotpala Lotus", "Id": 101215, "Count": 30, "Rank": 0 },
           { "Name": "Sealed Scroll", "Id": 112009, "Count": 18, "Rank": 2 }
         ],
         "Cost": 80000
@@ -1994,7 +2073,7 @@
         "Mats": [
           { "Name": "Shivada Jade Chunk", "Id": 104163, "Count": 6, "Rank": 4 },
           { "Name": "Perpetual Caliber", "Id": 113038, "Count": 12, "Rank": 4 },
-          { "Name": "Nilotpala Lotus", "Id": 101215, "Count": 45, "Rank": 1 },
+          { "Name": "Nilotpala Lotus", "Id": 101215, "Count": 45, "Rank": 0 },
           {
             "Name": "Forbidden Curse Scroll",
             "Id": 112010,
@@ -2013,7 +2092,7 @@
             "Rank": 5
           },
           { "Name": "Perpetual Caliber", "Id": 113038, "Count": 20, "Rank": 4 },
-          { "Name": "Nilotpala Lotus", "Id": 101215, "Count": 60, "Rank": 1 },
+          { "Name": "Nilotpala Lotus", "Id": 101215, "Count": 60, "Rank": 0 },
           {
             "Name": "Forbidden Curse Scroll",
             "Id": 112010,

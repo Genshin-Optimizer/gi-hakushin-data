@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_201",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 42.401
+      "initValue": 42.401,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
-      "initValue": 0.1126
+      "initValue": 0.1126,
+      "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Evernight Duet",
       "Desc": "Normal Attack hits on opponents increase Elemental Skill DMG by <color=#99FFFFFF>20%</color> for 5s. Elemental Skill hits on opponents increase Normal Attack DMG by <color=#99FFFFFF>20%</color> for 5s.",
-      "ParamList": [0.2, 5, 0.2, 5]
+      "ParamList": [0.2, 5, 0.2, 5, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Evernight Duet",
       "Desc": "Normal Attack hits on opponents increase Elemental Skill DMG by <color=#99FFFFFF>25%</color> for 5s. Elemental Skill hits on opponents increase Normal Attack DMG by <color=#99FFFFFF>25%</color> for 5s.",
-      "ParamList": [0.25, 5, 0.25, 5]
+      "ParamList": [0.25, 5, 0.25, 5, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Evernight Duet",
       "Desc": "Normal Attack hits on opponents increase Elemental Skill DMG by <color=#99FFFFFF>30%</color> for 5s. Elemental Skill hits on opponents increase Normal Attack DMG by <color=#99FFFFFF>30%</color> for 5s.",
-      "ParamList": [0.3, 5, 0.3, 5]
+      "ParamList": [0.3, 5, 0.3, 5, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Evernight Duet",
       "Desc": "Normal Attack hits on opponents increase Elemental Skill DMG by <color=#99FFFFFF>35%</color> for 5s. Elemental Skill hits on opponents increase Normal Attack DMG by <color=#99FFFFFF>35%</color> for 5s.",
-      "ParamList": [0.35, 5, 0.35, 5]
+      "ParamList": [0.35, 5, 0.35, 5, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Evernight Duet",
       "Desc": "Normal Attack hits on opponents increase Elemental Skill DMG by <color=#99FFFFFF>40%</color> for 5s. Elemental Skill hits on opponents increase Normal Attack DMG by <color=#99FFFFFF>40%</color> for 5s.",
-      "ParamList": [0.4, 5, 0.4, 5]
+      "ParamList": [0.4, 5, 0.4, 5, 0, 0, 0, 0]
     }
   },
   "Materials": {

@@ -6,25 +6,28 @@
   "Affix": [
     {
       "id": 214003,
+      "level": 0,
       "affixId": 2140030,
+      "paramList": [0, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "",
       "addProps": [
-        { "value": 0.4, "propType": "FIGHT_PROP_FIRE_SUB_HURT" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_FIRE_SUB_HURT", "value": 0.4 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Lavawalker",
       "Desc": "Pyro RES increased by 40%."
     },
     {
-      "level": 1,
-      "paramList": [0.35],
       "id": 214003,
-      "openConfig": "Relic_DamageUpAgainstFireAndBurning",
+      "level": 1,
       "affixId": 2140031,
+      "paramList": [0.35, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "Relic_DamageUpAgainstFireAndBurning",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Lavawalker",
       "Desc": "Increases DMG against opponents affected by Pyro by 35%."

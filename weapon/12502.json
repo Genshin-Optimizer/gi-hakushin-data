@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_301",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 45.9364
+      "initValue": 45.9364,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_301",
-      "propType": "FIGHT_PROP_ATTACK_PERCENT",
-      "initValue": 0.108
+      "initValue": 0.108,
+      "propType": "FIGHT_PROP_ATTACK_PERCENT"
     }
   ],
   "Rarity": 5,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Wolfish Tracker",
       "Desc": "Increases ATK by <color=#99FFFFFF>20%</color>. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by <color=#99FFFFFF>40%</color> for 12s. Can only occur once every 30s.",
-      "ParamList": [0.2, 0.4]
+      "ParamList": [0.2, 0.4, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Wolfish Tracker",
       "Desc": "Increases ATK by <color=#99FFFFFF>25%</color>. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by <color=#99FFFFFF>50%</color> for 12s. Can only occur once every 30s.",
-      "ParamList": [0.25, 0.5]
+      "ParamList": [0.25, 0.5, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Wolfish Tracker",
       "Desc": "Increases ATK by <color=#99FFFFFF>30%</color>. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by <color=#99FFFFFF>60%</color> for 12s. Can only occur once every 30s.",
-      "ParamList": [0.3, 0.6]
+      "ParamList": [0.3, 0.6, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Wolfish Tracker",
       "Desc": "Increases ATK by <color=#99FFFFFF>35%</color>. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by <color=#99FFFFFF>70%</color> for 12s. Can only occur once every 30s.",
-      "ParamList": [0.35, 0.7]
+      "ParamList": [0.35, 0.7, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Wolfish Tracker",
       "Desc": "Increases ATK by <color=#99FFFFFF>40%</color>. On hit, attacks against opponents with less than 30% HP increase all party members' ATK by <color=#99FFFFFF>80%</color> for 12s. Can only occur once every 30s.",
-      "ParamList": [0.4, 0.8]
+      "ParamList": [0.4, 0.8, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

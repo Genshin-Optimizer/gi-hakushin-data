@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_302",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 47.537
+      "initValue": 47.537,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_301",
-      "propType": "FIGHT_PROP_CRITICAL",
-      "initValue": 0.048
+      "initValue": 0.048,
+      "propType": "FIGHT_PROP_CRITICAL"
     }
   ],
   "Rarity": 5,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Many Oaths of Dawn and Dusk",
       "Desc": "Increases ATK by <color=#99FFFFFF>20%</color>. When party members obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by <color=#99FFFFFF>18%</color>. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG.",
-      "ParamList": [0.18, 15]
+      "ParamList": [0.18, 15, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Many Oaths of Dawn and Dusk",
       "Desc": "Increases ATK by <color=#99FFFFFF>25%</color>. When party members obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by <color=#99FFFFFF>22.5%</color>. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG.",
-      "ParamList": [0.225, 15]
+      "ParamList": [0.225, 15, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Many Oaths of Dawn and Dusk",
       "Desc": "Increases ATK by <color=#99FFFFFF>30%</color>. When party members obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by <color=#99FFFFFF>27%</color>. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG.",
-      "ParamList": [0.27, 15]
+      "ParamList": [0.27, 15, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Many Oaths of Dawn and Dusk",
       "Desc": "Increases ATK by <color=#99FFFFFF>35%</color>. When party members obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by <color=#99FFFFFF>31.5%</color>. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG.",
-      "ParamList": [0.315, 15]
+      "ParamList": [0.315, 15, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Many Oaths of Dawn and Dusk",
       "Desc": "Increases ATK by <color=#99FFFFFF>40%</color>. When party members obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by <color=#99FFFFFF>36%</color>. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG.",
-      "ParamList": [0.36, 15]
+      "ParamList": [0.36, 15, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

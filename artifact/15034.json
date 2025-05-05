@@ -6,25 +6,28 @@
   "Affix": [
     {
       "id": 215034,
+      "level": 0,
       "affixId": 2150340,
+      "paramList": [0, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "",
       "addProps": [
-        { "value": 0.18, "propType": "FIGHT_PROP_ATTACK_PERCENT" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_ATTACK_PERCENT", "value": 0.18 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Nighttime Whispers in the Echoing Woods",
       "Desc": "ATK +18%."
     },
     {
-      "level": 1,
-      "paramList": [10, 0.2, 1.5, 1],
       "id": 215034,
-      "openConfig": "Relic_CrystalShieldToRockDamageUp",
+      "level": 1,
       "affixId": 2150341,
+      "paramList": [10, 0.2, 1.5, 1, 0, 0, 0, 0],
+      "openConfig": "Relic_CrystalShieldToRockDamageUp",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Nighttime Whispers in the Echoing Woods",
       "Desc": "After using an Elemental Skill, gain a 20% Geo DMG Bonus for 10s. While under a shield granted by the Crystallize reaction, the above effect will be increased by 150%, and this additional increase disappears 1s after that shield is lost."

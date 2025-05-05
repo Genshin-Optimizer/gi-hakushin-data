@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_201",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 42.401
+      "initValue": 42.401,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_ATTACK_PERCENT",
-      "initValue": 0.09
+      "initValue": 0.09,
+      "propType": "FIGHT_PROP_ATTACK_PERCENT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Unreturning",
       "Desc": "Charged Attack hits on weak points increase Movement SPD by 10% and ATK by <color=#99FFFFFF>36%</color> for 10s.",
-      "ParamList": [0.1, 0.36, 10]
+      "ParamList": [0.1, 0.36, 10, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Unreturning",
       "Desc": "Charged Attack hits on weak points increase Movement SPD by 10% and ATK by <color=#99FFFFFF>45%</color> for 10s.",
-      "ParamList": [0.1, 0.45, 10]
+      "ParamList": [0.1, 0.45, 10, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Unreturning",
       "Desc": "Charged Attack hits on weak points increase Movement SPD by 10% and ATK by <color=#99FFFFFF>54%</color> for 10s.",
-      "ParamList": [0.1, 0.54, 10]
+      "ParamList": [0.1, 0.54, 10, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Unreturning",
       "Desc": "Charged Attack hits on weak points increase Movement SPD by 10% and ATK by <color=#99FFFFFF>63%</color> for 10s.",
-      "ParamList": [0.1, 0.63, 10]
+      "ParamList": [0.1, 0.63, 10, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Unreturning",
       "Desc": "Charged Attack hits on weak points increase Movement SPD by 10% and ATK by <color=#99FFFFFF>72%</color> for 10s.",
-      "ParamList": [0.1, 0.72, 10]
+      "ParamList": [0.1, 0.72, 10, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

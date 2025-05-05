@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_302",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 47.537
+      "initValue": 47.537,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_301",
-      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
-      "initValue": 0.08
+      "initValue": 0.08,
+      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
     }
   ],
   "Rarity": 5,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Black Wing",
       "Desc": "Increases CRIT Rate by <color=#99FFFFFF>8%</color> and increases Normal ATK SPD by <color=#99FFFFFF>12%</color>. Additionally, Normal and Charged Attacks hits on opponents have a <color=#99FFFFFF>50%</color> chance to trigger a vacuum blade that deals <color=#99FFFFFF>40%</color> of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.",
-      "ParamList": [0.08, 0.12, 0.5, 0.4, 2]
+      "ParamList": [0.08, 0.12, 0.5, 0.4, 2, 0, 0, 0]
     },
     "2": {
       "Name": "Black Wing",
       "Desc": "Increases CRIT Rate by <color=#99FFFFFF>10%</color> and increases Normal ATK SPD by <color=#99FFFFFF>12%</color>. Additionally, Normal and Charged Attacks hits on opponents have a <color=#99FFFFFF>50%</color> chance to trigger a vacuum blade that deals <color=#99FFFFFF>55%</color> of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.",
-      "ParamList": [0.1, 0.12, 0.5, 0.55, 2]
+      "ParamList": [0.1, 0.12, 0.5, 0.55, 2, 0, 0, 0]
     },
     "3": {
       "Name": "Black Wing",
       "Desc": "Increases CRIT Rate by <color=#99FFFFFF>12%</color> and increases Normal ATK SPD by <color=#99FFFFFF>12%</color>. Additionally, Normal and Charged Attacks hits on opponents have a <color=#99FFFFFF>50%</color> chance to trigger a vacuum blade that deals <color=#99FFFFFF>70%</color> of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.",
-      "ParamList": [0.12, 0.12, 0.5, 0.7, 2]
+      "ParamList": [0.12, 0.12, 0.5, 0.7, 2, 0, 0, 0]
     },
     "4": {
       "Name": "Black Wing",
       "Desc": "Increases CRIT Rate by <color=#99FFFFFF>14%</color> and increases Normal ATK SPD by <color=#99FFFFFF>12%</color>. Additionally, Normal and Charged Attacks hits on opponents have a <color=#99FFFFFF>50%</color> chance to trigger a vacuum blade that deals <color=#99FFFFFF>85%</color> of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.",
-      "ParamList": [0.14, 0.12, 0.5, 0.85, 2]
+      "ParamList": [0.14, 0.12, 0.5, 0.85, 2, 0, 0, 0]
     },
     "5": {
       "Name": "Black Wing",
       "Desc": "Increases CRIT Rate by <color=#99FFFFFF>16%</color> and increases Normal ATK SPD by <color=#99FFFFFF>12%</color>. Additionally, Normal and Charged Attacks hits on opponents have a <color=#99FFFFFF>50%</color> chance to trigger a vacuum blade that deals <color=#99FFFFFF>100%</color> of ATK as DMG in a small AoE. This effect can occur no more than once every 2s.",
-      "ParamList": [0.16, 0.12, 0.5, 1, 2]
+      "ParamList": [0.16, 0.12, 0.5, 1, 2, 0, 0, 0]
     }
   },
   "Materials": {

@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_202",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 43.7349
+      "initValue": 43.7349,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_ATTACK_PERCENT",
-      "initValue": 0.06
+      "initValue": 0.06,
+      "propType": "FIGHT_PROP_ATTACK_PERCENT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "An End Sublime",
       "Desc": "When using an Elemental Skill, ATK will be increased by <color=#99FFFFFF>12%</color> for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of <color=#99FFFFFF>150</color> ATK will be gained based on <color=#99FFFFFF>2.4%</color> of the total amount of the Life Bond cleared, lasting for 15s.",
-      "ParamList": [0.12, 15, 0.25, 0.024, 150, 15, 10]
+      "ParamList": [0.12, 15, 0.25, 0.024, 150, 15, 10, 0]
     },
     "2": {
       "Name": "An End Sublime",
       "Desc": "When using an Elemental Skill, ATK will be increased by <color=#99FFFFFF>15%</color> for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of <color=#99FFFFFF>187.5</color> ATK will be gained based on <color=#99FFFFFF>3%</color> of the total amount of the Life Bond cleared, lasting for 15s.",
-      "ParamList": [0.15, 15, 0.25, 0.03, 187.5, 15, 10]
+      "ParamList": [0.15, 15, 0.25, 0.03, 187.5, 15, 10, 0]
     },
     "3": {
       "Name": "An End Sublime",
       "Desc": "When using an Elemental Skill, ATK will be increased by <color=#99FFFFFF>18%</color> for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of <color=#99FFFFFF>225</color> ATK will be gained based on <color=#99FFFFFF>3.6%</color> of the total amount of the Life Bond cleared, lasting for 15s.",
-      "ParamList": [0.18, 15, 0.25, 0.036, 225, 15, 10]
+      "ParamList": [0.18, 15, 0.25, 0.036, 225, 15, 10, 0]
     },
     "4": {
       "Name": "An End Sublime",
       "Desc": "When using an Elemental Skill, ATK will be increased by <color=#99FFFFFF>21%</color> for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of <color=#99FFFFFF>262.5</color> ATK will be gained based on <color=#99FFFFFF>4.2%</color> of the total amount of the Life Bond cleared, lasting for 15s.",
-      "ParamList": [0.21, 15, 0.25, 0.042, 262.5, 15, 10]
+      "ParamList": [0.21, 15, 0.25, 0.042, 262.5, 15, 10, 0]
     },
     "5": {
       "Name": "An End Sublime",
       "Desc": "When using an Elemental Skill, ATK will be increased by <color=#99FFFFFF>24%</color> for 15s, and a Bond of Life worth 25% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, a maximum of <color=#99FFFFFF>300</color> ATK will be gained based on <color=#99FFFFFF>4.8%</color> of the total amount of the Life Bond cleared, lasting for 15s.",
-      "ParamList": [0.24, 15, 0.25, 0.048, 300, 15, 10]
+      "ParamList": [0.24, 15, 0.25, 0.048, 300, 15, 10, 0]
     }
   },
   "Materials": {

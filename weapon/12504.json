@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_301",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 45.9364
+      "initValue": 45.9364,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_301",
-      "propType": "FIGHT_PROP_ATTACK_PERCENT",
-      "initValue": 0.108
+      "initValue": 0.108,
+      "propType": "FIGHT_PROP_ATTACK_PERCENT"
     }
   ],
   "Rarity": 5,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Golden Majesty",
       "Desc": "Increases Shield Strength by <color=#99FFFFFF>20%</color>. Scoring hits on opponents increases ATK by <color=#99FFFFFF>4%</color> for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%.",
-      "ParamList": [0.2, 0.04, 8]
+      "ParamList": [0.2, 0.04, 8, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Golden Majesty",
       "Desc": "Increases Shield Strength by <color=#99FFFFFF>25%</color>. Scoring hits on opponents increases ATK by <color=#99FFFFFF>5%</color> for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%.",
-      "ParamList": [0.25, 0.05, 8]
+      "ParamList": [0.25, 0.05, 8, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Golden Majesty",
       "Desc": "Increases Shield Strength by <color=#99FFFFFF>30%</color>. Scoring hits on opponents increases ATK by <color=#99FFFFFF>6%</color> for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%.",
-      "ParamList": [0.3, 0.06, 8]
+      "ParamList": [0.3, 0.06, 8, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Golden Majesty",
       "Desc": "Increases Shield Strength by <color=#99FFFFFF>35%</color>. Scoring hits on opponents increases ATK by <color=#99FFFFFF>7%</color> for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%.",
-      "ParamList": [0.35, 0.07, 8]
+      "ParamList": [0.35, 0.07, 8, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Golden Majesty",
       "Desc": "Increases Shield Strength by <color=#99FFFFFF>40%</color>. Scoring hits on opponents increases ATK by <color=#99FFFFFF>8%</color> for 8s. Max 5 stacks. Can only occur once every 0.3s. While protected by a shield, this ATK increase effect is increased by 100%.",
-      "ParamList": [0.4, 0.08, 8]
+      "ParamList": [0.4, 0.08, 8, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

@@ -520,7 +520,7 @@
         "Name": "Narukami's Law",
         "Desc": "The Raiden Shogun's outfit. This kimono has been adorned with the Electro Mitsudomoe, granting it the highest honor in the land.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -899,7 +899,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Origin",
+      "Name": "Origin",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 5 consecutive spear strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to perform an upward slash.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
       "Promote": {
         "0": {
@@ -925,7 +925,7 @@
           ],
           "Param": [
             0.39646, 0.39732, 0.4988, 0.28982, 0.28982, 0.65446, 0.99588, 25,
-            0.639324, 1.278377, 1.596762
+            0.639324, 1.278377, 1.596762, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -951,7 +951,7 @@
           ],
           "Param": [
             0.42873, 0.42966, 0.5394, 0.31341, 0.31341, 0.70773, 1.07694, 25,
-            0.691362, 1.382431, 1.726731
+            0.691362, 1.382431, 1.726731, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -977,7 +977,7 @@
           ],
           "Param": [
             0.461, 0.462, 0.58, 0.337, 0.337, 0.761, 1.158, 25, 0.7434,
-            1.486485, 1.8567
+            1.486485, 1.8567, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -1003,7 +1003,7 @@
           ],
           "Param": [
             0.5071, 0.5082, 0.638, 0.3707, 0.3707, 0.8371, 1.2738, 25, 0.81774,
-            1.635134, 2.04237
+            1.635134, 2.04237, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -1029,7 +1029,7 @@
           ],
           "Param": [
             0.53937, 0.54054, 0.6786, 0.39429, 0.39429, 0.89037, 1.35486, 25,
-            0.869778, 1.739187, 2.172339
+            0.869778, 1.739187, 2.172339, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -1055,7 +1055,7 @@
           ],
           "Param": [
             0.57625, 0.5775, 0.725, 0.42125, 0.42125, 0.95125, 1.4475, 25,
-            0.92925, 1.858106, 2.320875
+            0.92925, 1.858106, 2.320875, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -1081,7 +1081,7 @@
           ],
           "Param": [
             0.62696, 0.62832, 0.7888, 0.45832, 0.45832, 1.03496, 1.57488, 25,
-            1.011024, 2.02162, 2.525112
+            1.011024, 2.02162, 2.525112, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1107,7 +1107,7 @@
           ],
           "Param": [
             0.67767, 0.67914, 0.8526, 0.49539, 0.49539, 1.11867, 1.70226, 25,
-            1.092798, 2.185133, 2.729349
+            1.092798, 2.185133, 2.729349, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1133,7 +1133,7 @@
           ],
           "Param": [
             0.72838, 0.72996, 0.9164, 0.53246, 0.53246, 1.20238, 1.82964, 25,
-            1.174572, 2.348646, 2.933586
+            1.174572, 2.348646, 2.933586, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1159,7 +1159,7 @@
           ],
           "Param": [
             0.7837, 0.7854, 0.986, 0.5729, 0.5729, 1.2937, 1.9686, 25, 1.26378,
-            2.527025, 3.15639
+            2.527025, 3.15639, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1185,7 +1185,7 @@
           ],
           "Param": [
             0.847087, 0.848925, 1.06575, 0.619237, 0.619237, 1.398338, 2.127825,
-            25, 1.352988, 2.705403, 3.379194
+            25, 1.352988, 2.705403, 3.379194, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1211,7 +1211,7 @@
           ],
           "Param": [
             0.921631, 0.92363, 1.159536, 0.67373, 0.67373, 1.521391, 2.315074,
-            25, 1.442196, 2.883781, 3.601998
+            25, 1.442196, 2.883781, 3.601998, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1237,7 +1237,8 @@
           ],
           "Param": [
             0.996175, 0.998336, 1.253322, 0.728223, 0.728223, 1.644445,
-            2.502322, 25, 1.531404, 3.062159, 3.824802
+            2.502322, 25, 1.531404, 3.062159, 3.824802, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
           ]
         },
         "13": {
@@ -1263,7 +1264,8 @@
           ],
           "Param": [
             1.070719, 1.073041, 1.347108, 0.782716, 0.782716, 1.767499,
-            2.689571, 25, 1.620612, 3.240537, 4.047606
+            2.689571, 25, 1.620612, 3.240537, 4.047606, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
           ]
         },
         "14": {
@@ -1289,7 +1291,7 @@
           ],
           "Param": [
             1.152039, 1.154538, 1.44942, 0.842163, 0.842163, 1.901739, 2.893842,
-            25, 1.70982, 3.418915, 4.27041
+            25, 1.70982, 3.418915, 4.27041, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1319,7 +1321,10 @@
             "",
             ""
           ],
-          "Param": [1.172, 0.42, 25, 0.0022, 10]
+          "Param": [
+            1.172, 0.42, 25, 0.0022, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1342,7 +1347,10 @@
             "",
             ""
           ],
-          "Param": [1.2599, 0.4515, 25, 0.0023, 10]
+          "Param": [
+            1.2599, 0.4515, 25, 0.0023, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1365,7 +1373,10 @@
             "",
             ""
           ],
-          "Param": [1.3478, 0.483, 25, 0.0024, 10]
+          "Param": [
+            1.3478, 0.483, 25, 0.0024, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1388,7 +1399,10 @@
             "",
             ""
           ],
-          "Param": [1.465, 0.525, 25, 0.0025, 10]
+          "Param": [
+            1.465, 0.525, 25, 0.0025, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1411,7 +1425,10 @@
             "",
             ""
           ],
-          "Param": [1.5529, 0.5565, 25, 0.0026, 10]
+          "Param": [
+            1.5529, 0.5565, 25, 0.0026, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1434,7 +1451,10 @@
             "",
             ""
           ],
-          "Param": [1.6408, 0.588, 25, 0.0027, 10]
+          "Param": [
+            1.6408, 0.588, 25, 0.0027, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1457,7 +1477,10 @@
             "",
             ""
           ],
-          "Param": [1.758, 0.63, 25, 0.0028, 10]
+          "Param": [
+            1.758, 0.63, 25, 0.0028, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1480,7 +1503,10 @@
             "",
             ""
           ],
-          "Param": [1.8752, 0.672, 25, 0.0029, 10]
+          "Param": [
+            1.8752, 0.672, 25, 0.0029, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1503,7 +1529,10 @@
             "",
             ""
           ],
-          "Param": [1.9924, 0.714, 25, 0.003, 10]
+          "Param": [
+            1.9924, 0.714, 25, 0.003, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1526,7 +1555,10 @@
             "",
             ""
           ],
-          "Param": [2.1096, 0.756, 25, 0.003, 10]
+          "Param": [
+            2.1096, 0.756, 25, 0.003, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1549,7 +1581,10 @@
             "",
             ""
           ],
-          "Param": [2.2268, 0.798, 25, 0.003, 10]
+          "Param": [
+            2.2268, 0.798, 25, 0.003, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1572,7 +1607,10 @@
             "",
             ""
           ],
-          "Param": [2.344, 0.84, 25, 0.003, 10]
+          "Param": [
+            2.344, 0.84, 25, 0.003, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1595,7 +1633,10 @@
             "",
             ""
           ],
-          "Param": [2.4905, 0.8925, 25, 0.003, 10]
+          "Param": [
+            2.4905, 0.8925, 25, 0.003, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1618,7 +1659,10 @@
             "",
             ""
           ],
-          "Param": [2.637, 0.945, 25, 0.003, 10]
+          "Param": [
+            2.637, 0.945, 25, 0.003, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1641,7 +1685,10 @@
             "",
             ""
           ],
-          "Param": [2.7835, 0.9975, 25, 0.003, 10]
+          "Param": [
+            2.7835, 0.9975, 25, 0.003, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         }
       }
     },
@@ -2063,22 +2110,30 @@
       "Desc": "When nearby party members gain Elemental Orbs or Particles, <color=#FFD780FF>Chakra Desiderata</color> gains 2 Resolve stacks.\\nThis effect can occur once every 3s.",
       "Icon": "UI_Talent_S_Shougun_05",
       "Unlock": 1,
-      "ParamList": [2, 3]
+      "ParamList": [2, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Enlightened One",
       "Desc": "Each 1% above 100% Energy Recharge that the Raiden Shogun possesses grants her:\\n·0.6% greater Energy restoration from <color=#FFD780FF>Musou Isshin</color>\\n·0.4% <color=#FFACFFFF>Electro DMG Bonus</color>.",
       "Icon": "UI_Talent_S_Shougun_06",
       "Unlock": 4,
-      "ParamList": [1, 0.006, 0.004]
+      "ParamList": [
+        1, 0.006, 0.004, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
-    { "Name": "", "Desc": "", "Icon": "", "Unlock": 0, "ParamList": [] },
+    {
+      "Name": "",
+      "Desc": "",
+      "Icon": "",
+      "Unlock": 0,
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
     {
       "Name": "All-Preserver",
       "Desc": "Mora expended when ascending Swords and Polearms is decreased by 50%.",
       "Icon": "UI_Talent_S_Shougun_07",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Constellations": [
@@ -2086,37 +2141,37 @@
       "Name": "Ominous Inscription",
       "Desc": "<color=#FFD780FF>Chakra Desiderata</color> will gather Resolve even faster. When <color=#FFACFFFF>Electro</color> characters use their Elemental Bursts, the Resolve gained is increased by 80%. When characters of other Elemental Types use their Elemental Bursts, the Resolve gained is increased by 20%.",
       "Icon": "UI_Talent_S_Shougun_01",
-      "ParamList": [0.8, 0.2]
+      "ParamList": [0.8, 0.2, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Steelbreaker",
       "Desc": "While using Musou no Hitotachi and in the Musou Isshin state applied by <color=#FFD780FF>Secret Art: Musou Shinsetsu</color>, the Raiden Shogun's attacks ignore 60% of opponents' DEF.",
       "Icon": "UI_Talent_S_Shougun_03",
-      "ParamList": [0.6]
+      "ParamList": [0.6, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Shinkage Bygones",
       "Desc": "Increases the Level of <color=#FFD780FF>Secret Art: Musou Shinsetsu</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Shougun_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Pledge of Propriety",
       "Desc": "When the <color=#FFD780FF>Musou Isshin</color> state applied by <color=#FFD780FF>Secret Art: Musou Shinsetsu</color> expires, all nearby party members (excluding the Raiden Shogun) gain 30% bonus ATK for 10s.",
       "Icon": "UI_Talent_S_Shougun_02",
-      "ParamList": [0.3, 10]
+      "ParamList": [0.3, 10, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Shogun's Descent",
       "Desc": "Increases the Level of <color=#FFD780FF>Transcendence: Baleful Omen</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Shougun_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Wishbearer",
       "Desc": "While in the <color=#FFD780FF>Musou Isshin</color> state applied by <color=#FFD780FF>Secret Art: Musou Shinsetsu</color>, attacks by the Raiden Shogun that are considered part of her Elemental Burst will decrease all nearby party members' (not including the Raiden Shogun herself) Elemental Burst CD by 1s when they hit opponents.\\nThis effect can trigger once every 1s and can trigger a total of 5 times during Musou Isshin's duration.",
       "Icon": "UI_Talent_S_Shougun_04",
-      "ParamList": [1, 1]
+      "ParamList": [1, 1, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -2129,7 +2184,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Amakumo Fruit", "Id": 101208, "Count": 3, "Rank": 1 },
+          { "Name": "Amakumo Fruit", "Id": 101208, "Count": 3, "Rank": 0 },
           { "Name": "Old Handguard", "Id": 112044, "Count": 3, "Rank": 1 }
         ],
         "Cost": 20000
@@ -2143,7 +2198,7 @@
             "Rank": 3
           },
           { "Name": "Storm Beads", "Id": 113029, "Count": 2, "Rank": 4 },
-          { "Name": "Amakumo Fruit", "Id": 101208, "Count": 10, "Rank": 1 },
+          { "Name": "Amakumo Fruit", "Id": 101208, "Count": 10, "Rank": 0 },
           { "Name": "Old Handguard", "Id": 112044, "Count": 15, "Rank": 1 }
         ],
         "Cost": 40000
@@ -2157,7 +2212,7 @@
             "Rank": 3
           },
           { "Name": "Storm Beads", "Id": 113029, "Count": 4, "Rank": 4 },
-          { "Name": "Amakumo Fruit", "Id": 101208, "Count": 20, "Rank": 1 },
+          { "Name": "Amakumo Fruit", "Id": 101208, "Count": 20, "Rank": 0 },
           { "Name": "Kageuchi Handguard", "Id": 112045, "Count": 12, "Rank": 2 }
         ],
         "Cost": 60000
@@ -2171,7 +2226,7 @@
             "Rank": 4
           },
           { "Name": "Storm Beads", "Id": 113029, "Count": 8, "Rank": 4 },
-          { "Name": "Amakumo Fruit", "Id": 101208, "Count": 30, "Rank": 1 },
+          { "Name": "Amakumo Fruit", "Id": 101208, "Count": 30, "Rank": 0 },
           { "Name": "Kageuchi Handguard", "Id": 112045, "Count": 18, "Rank": 2 }
         ],
         "Cost": 80000
@@ -2185,7 +2240,7 @@
             "Rank": 4
           },
           { "Name": "Storm Beads", "Id": 113029, "Count": 12, "Rank": 4 },
-          { "Name": "Amakumo Fruit", "Id": 101208, "Count": 45, "Rank": 1 },
+          { "Name": "Amakumo Fruit", "Id": 101208, "Count": 45, "Rank": 0 },
           { "Name": "Famed Handguard", "Id": 112046, "Count": 12, "Rank": 3 }
         ],
         "Cost": 100000
@@ -2199,7 +2254,7 @@
             "Rank": 5
           },
           { "Name": "Storm Beads", "Id": 113029, "Count": 20, "Rank": 4 },
-          { "Name": "Amakumo Fruit", "Id": 101208, "Count": 60, "Rank": 1 },
+          { "Name": "Amakumo Fruit", "Id": 101208, "Count": 60, "Rank": 0 },
           { "Name": "Famed Handguard", "Id": 112046, "Count": 24, "Rank": 3 }
         ],
         "Cost": 120000

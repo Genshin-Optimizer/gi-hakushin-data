@@ -5,10 +5,14 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_101",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 23.245
+      "initValue": 23.245,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
-    { "type": "GROW_CURVE_CRITICAL_101", "propType": "FIGHT_PROP_NONE" }
+    {
+      "type": "GROW_CURVE_CRITICAL_101",
+      "initValue": 0,
+      "propType": "FIGHT_PROP_NONE"
+    }
   ],
   "Rarity": 1,
   "Icon": "UI_EquipIcon_Sword_Blunt",

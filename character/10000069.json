@@ -447,7 +447,7 @@
         "Name": "Woodland Song",
         "Desc": "Tighnari's outfit. Clad in the colors of wood, tree, and flower, Tighnari is surrounded at all times by natural life, determined even in fashion sense to put the \"forest\" in \"Forest Watcher.\"",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -826,7 +826,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Khanda Barrier-Buster",
+      "Name": "Khanda Barrier-Buster",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 consecutive shots with a bow.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nPerforms a more precise <color=#FFD780FF>Aimed Shot</color> with increased DMG.\\nWhile aiming, the power of Dendro will accumulate on the arrowhead before the arrow is fired. Has different effects based on how long the energy has been charged:\\n·Charge Level 1: Fires off an arrow carrying the power of flora that deals <color=#99FF88FF>Dendro DMG</color>.\\n·Charge Level 2: Fires off a Wreath Arrow that deals <color=#99FF88FF>Dendro DMG</color>. Upon hit, the Wreath Arrow will create 4 Clusterbloom Arrows that will track nearby opponents automatically and deal <color=#99FF88FF>Dendro DMG</color>.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
       "Promote": {
         "0": {
@@ -852,7 +852,7 @@
           ],
           "Param": [
             0.44634, 0.41968, 0.26445, 0.68628, 0.4386, 1.24, 0.872, 0.386,
-            0.568288, 1.136335, 1.419344
+            0.568288, 1.136335, 1.419344, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -878,7 +878,7 @@
           ],
           "Param": [
             0.48267, 0.45384, 0.285975, 0.74214, 0.4743, 1.333, 0.9374, 0.41495,
-            0.614544, 1.228828, 1.534872
+            0.614544, 1.228828, 1.534872, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -904,7 +904,7 @@
           ],
           "Param": [
             0.519, 0.488, 0.3075, 0.798, 0.51, 1.426, 1.0028, 0.4439, 0.6608,
-            1.32132, 1.6504
+            1.32132, 1.6504, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -930,7 +930,7 @@
           ],
           "Param": [
             0.5709, 0.5368, 0.33825, 0.8778, 0.561, 1.55, 1.09, 0.4825, 0.72688,
-            1.453452, 1.81544
+            1.453452, 1.81544, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -956,7 +956,7 @@
           ],
           "Param": [
             0.60723, 0.57096, 0.359775, 0.93366, 0.5967, 1.643, 1.1554, 0.51145,
-            0.773136, 1.545944, 1.930968
+            0.773136, 1.545944, 1.930968, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -982,7 +982,7 @@
           ],
           "Param": [
             0.64875, 0.61, 0.384375, 0.9975, 0.6375, 1.736, 1.2208, 0.5404,
-            0.826, 1.65165, 2.063
+            0.826, 1.65165, 2.063, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -1008,7 +1008,7 @@
           ],
           "Param": [
             0.70584, 0.66368, 0.4182, 1.08528, 0.6936, 1.86, 1.308, 0.579,
-            0.898688, 1.796995, 2.244544
+            0.898688, 1.796995, 2.244544, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1034,7 +1034,7 @@
           ],
           "Param": [
             0.76293, 0.71736, 0.452025, 1.17306, 0.7497, 1.984, 1.3952, 0.6176,
-            0.971376, 1.94234, 2.426088
+            0.971376, 1.94234, 2.426088, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1060,7 +1060,7 @@
           ],
           "Param": [
             0.82002, 0.77104, 0.48585, 1.26084, 0.8058, 2.108, 1.4824, 0.6562,
-            1.044064, 2.087686, 2.607632
+            1.044064, 2.087686, 2.607632, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1086,7 +1086,7 @@
           ],
           "Param": [
             0.8823, 0.8296, 0.52275, 1.3566, 0.867, 2.232, 1.5696, 0.6948,
-            1.12336, 2.246244, 2.80568
+            1.12336, 2.246244, 2.80568, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1112,7 +1112,7 @@
           ],
           "Param": [
             0.94458, 0.88816, 0.55965, 1.45236, 0.9282, 2.356, 1.6568, 0.7334,
-            1.202656, 2.404802, 3.003728
+            1.202656, 2.404802, 3.003728, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1138,7 +1138,7 @@
           ],
           "Param": [
             1.00686, 0.94672, 0.59655, 1.54812, 0.9894, 2.48, 1.744, 0.772,
-            1.281952, 2.563361, 3.201776
+            1.281952, 2.563361, 3.201776, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1164,7 +1164,7 @@
           ],
           "Param": [
             1.06914, 1.00528, 0.63345, 1.64388, 1.0506, 2.635, 1.853, 0.82025,
-            1.361248, 2.721919, 3.399824
+            1.361248, 2.721919, 3.399824, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1190,7 +1190,7 @@
           ],
           "Param": [
             1.13142, 1.06384, 0.67035, 1.73964, 1.1118, 2.79, 1.962, 0.8685,
-            1.440544, 2.880478, 3.597872
+            1.440544, 2.880478, 3.597872, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1216,7 +1216,7 @@
           ],
           "Param": [
             1.1937, 1.1224, 0.70725, 1.8354, 1.173, 2.945, 2.071, 0.91675,
-            1.51984, 3.039036, 3.79592
+            1.51984, 3.039036, 3.79592, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1246,7 +1246,9 @@
             "",
             ""
           ],
-          "Param": [1.496, 8, 12, 12]
+          "Param": [
+            1.496, 8, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1269,7 +1271,9 @@
             "",
             ""
           ],
-          "Param": [1.6082, 8, 12, 12]
+          "Param": [
+            1.6082, 8, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1292,7 +1296,9 @@
             "",
             ""
           ],
-          "Param": [1.7204, 8, 12, 12]
+          "Param": [
+            1.7204, 8, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1315,7 +1321,9 @@
             "",
             ""
           ],
-          "Param": [1.87, 8, 12, 12]
+          "Param": [
+            1.87, 8, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1338,7 +1346,9 @@
             "",
             ""
           ],
-          "Param": [1.9822, 8, 12, 12]
+          "Param": [
+            1.9822, 8, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1361,7 +1371,9 @@
             "",
             ""
           ],
-          "Param": [2.0944, 8, 12, 12]
+          "Param": [
+            2.0944, 8, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1384,7 +1396,9 @@
             "",
             ""
           ],
-          "Param": [2.244, 8, 12, 12]
+          "Param": [
+            2.244, 8, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1407,7 +1421,9 @@
             "",
             ""
           ],
-          "Param": [2.3936, 8, 12, 12]
+          "Param": [
+            2.3936, 8, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1430,7 +1446,9 @@
             "",
             ""
           ],
-          "Param": [2.5432, 8, 12, 12]
+          "Param": [
+            2.5432, 8, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1453,7 +1471,9 @@
             "",
             ""
           ],
-          "Param": [2.6928, 8, 12, 12]
+          "Param": [
+            2.6928, 8, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1476,7 +1496,9 @@
             "",
             ""
           ],
-          "Param": [2.8424, 8, 12, 12]
+          "Param": [
+            2.8424, 8, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1499,7 +1521,9 @@
             "",
             ""
           ],
-          "Param": [2.992, 8, 12, 12]
+          "Param": [
+            2.992, 8, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1522,7 +1546,9 @@
             "",
             ""
           ],
-          "Param": [3.179, 8, 12, 12]
+          "Param": [
+            3.179, 8, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1545,7 +1571,9 @@
             "",
             ""
           ],
-          "Param": [3.366, 8, 12, 12]
+          "Param": [
+            3.366, 8, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1568,7 +1596,9 @@
             "",
             ""
           ],
-          "Param": [3.553, 8, 12, 12]
+          "Param": [
+            3.553, 8, 12, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         }
       }
     },
@@ -1597,7 +1627,10 @@
             "",
             ""
           ],
-          "Param": [0.5562, 0.6798, 12, 40]
+          "Param": [
+            0.5562, 0.6798, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1620,7 +1653,10 @@
             "",
             ""
           ],
-          "Param": [0.597915, 0.730785, 12, 40]
+          "Param": [
+            0.597915, 0.730785, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1643,7 +1679,10 @@
             "",
             ""
           ],
-          "Param": [0.63963, 0.78177, 12, 40]
+          "Param": [
+            0.63963, 0.78177, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1666,7 +1705,10 @@
             "",
             ""
           ],
-          "Param": [0.69525, 0.84975, 12, 40]
+          "Param": [
+            0.69525, 0.84975, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1689,7 +1731,10 @@
             "",
             ""
           ],
-          "Param": [0.736965, 0.900735, 12, 40]
+          "Param": [
+            0.736965, 0.900735, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1712,7 +1757,10 @@
             "",
             ""
           ],
-          "Param": [0.77868, 0.95172, 12, 40]
+          "Param": [
+            0.77868, 0.95172, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1735,7 +1783,10 @@
             "",
             ""
           ],
-          "Param": [0.8343, 1.0197, 12, 40]
+          "Param": [
+            0.8343, 1.0197, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1758,7 +1809,10 @@
             "",
             ""
           ],
-          "Param": [0.88992, 1.08768, 12, 40]
+          "Param": [
+            0.88992, 1.08768, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1781,7 +1835,10 @@
             "",
             ""
           ],
-          "Param": [0.94554, 1.15566, 12, 40]
+          "Param": [
+            0.94554, 1.15566, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1804,7 +1861,10 @@
             "",
             ""
           ],
-          "Param": [1.00116, 1.22364, 12, 40]
+          "Param": [
+            1.00116, 1.22364, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1827,7 +1887,10 @@
             "",
             ""
           ],
-          "Param": [1.05678, 1.29162, 12, 40]
+          "Param": [
+            1.05678, 1.29162, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1850,7 +1913,10 @@
             "",
             ""
           ],
-          "Param": [1.1124, 1.3596, 12, 40]
+          "Param": [
+            1.1124, 1.3596, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1873,7 +1939,10 @@
             "",
             ""
           ],
-          "Param": [1.181925, 1.444575, 12, 40]
+          "Param": [
+            1.181925, 1.444575, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1896,7 +1965,10 @@
             "",
             ""
           ],
-          "Param": [1.25145, 1.52955, 12, 40]
+          "Param": [
+            1.25145, 1.52955, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1919,7 +1991,10 @@
             "",
             ""
           ],
-          "Param": [1.320975, 1.614525, 12, 40]
+          "Param": [
+            1.320975, 1.614525, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         }
       }
     }
@@ -1930,21 +2005,23 @@
       "Desc": "After Tighnari fires a <color=#FFD780FF>Wreath Arrow</color>, his Elemental Mastery is increased by 50 for 4s.",
       "Icon": "UI_Talent_S_Tighnari_05",
       "Unlock": 1,
-      "ParamList": [50, 4]
+      "ParamList": [50, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Scholarly Blade",
       "Desc": "For every point of Elemental Mastery Tighnari possesses, his Charged Attack and <color=#FFD780FF>Fashioner's Tanglevine Shaft</color> DMG are increased by 0.06%.\\nThe maximum DMG Bonus obtainable this way is 60%.",
       "Icon": "UI_Talent_S_Tighnari_06",
       "Unlock": 4,
-      "ParamList": [0.0006, 0.6]
+      "ParamList": [
+        0.0006, 0.6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Encyclopedic Knowledge",
       "Desc": "Displays the location of nearby <color=#FFD780FF>resources unique to Sumeru</color> on the mini-map.",
       "Icon": "UI_Talent_S_Tighnari_07",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Constellations": [
@@ -1952,37 +2029,37 @@
       "Name": "Beginnings Determined at the Roots",
       "Desc": "Tighnari's Charged Attack CRIT Rate is increased by 15%.",
       "Icon": "UI_Talent_S_Tighnari_01",
-      "ParamList": [0.15]
+      "ParamList": [0.15, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Origins Known From the Stem",
       "Desc": "When there are opponents within the Vijnana-Khanda Field created by <color=#FFD780FF>Vijnana-Phala Mine</color>, Tighnari gains 20% <color=#99FF88FF>Dendro DMG Bonus</color>.\\nThe effect will last up to 6s if the field's duration ends or if it no longer has opponents within it.",
       "Icon": "UI_Talent_S_Tighnari_02",
-      "ParamList": [0.2, 6]
+      "ParamList": [0.2, 6, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Fortunes Read Amongst the Branches",
       "Desc": "Increases the Level of <color=#FFD780FF>Fashioner's Tanglevine Shaft</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Tighnari_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Withering Glimpsed in the Leaves",
       "Desc": "When <color=#FFD780FF>Fashioner's Tanglevine Shaft</color> is unleashed, all nearby party members gain 60 Elemental Mastery for 8s. If the Fashioner's Tanglevine Shaft triggers a Burning, Bloom, Quicken, or Spread reaction, their Elemental Mastery will be further increased by 60. This latter case will also refresh the buff state's duration.",
       "Icon": "UI_Talent_S_Tighnari_03",
-      "ParamList": [60, 8]
+      "ParamList": [60, 8, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Comprehension Amidst the Flowers",
       "Desc": "Increases the Level of <color=#FFD780FF>Vijnana-Phala Mine</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Tighnari_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Karma Adjudged From the Leaden Fruit",
       "Desc": "<color=#FFD780FF>Wreath Arrow</color>'s charging time is decreased by 0.9s, and will produce 1 additional Clusterbloom Arrow upon hit. This arrow deals 150% of Tighnari's ATK as DMG.",
       "Icon": "UI_Talent_S_Tighnari_04",
-      "ParamList": [3, 1.5]
+      "ParamList": [3, 1.5, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -1995,7 +2072,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Nilotpala Lotus", "Id": 101215, "Count": 3, "Rank": 1 },
+          { "Name": "Nilotpala Lotus", "Id": 101215, "Count": 3, "Rank": 0 },
           { "Name": "Fungal Spores", "Id": 112059, "Count": 3, "Rank": 1 }
         ],
         "Cost": 20000
@@ -2014,7 +2091,7 @@
             "Count": 2,
             "Rank": 4
           },
-          { "Name": "Nilotpala Lotus", "Id": 101215, "Count": 10, "Rank": 1 },
+          { "Name": "Nilotpala Lotus", "Id": 101215, "Count": 10, "Rank": 0 },
           { "Name": "Fungal Spores", "Id": 112059, "Count": 15, "Rank": 1 }
         ],
         "Cost": 40000
@@ -2033,7 +2110,7 @@
             "Count": 4,
             "Rank": 4
           },
-          { "Name": "Nilotpala Lotus", "Id": 101215, "Count": 20, "Rank": 1 },
+          { "Name": "Nilotpala Lotus", "Id": 101215, "Count": 20, "Rank": 0 },
           { "Name": "Luminescent Pollen", "Id": 112060, "Count": 12, "Rank": 2 }
         ],
         "Cost": 60000
@@ -2052,7 +2129,7 @@
             "Count": 8,
             "Rank": 4
           },
-          { "Name": "Nilotpala Lotus", "Id": 101215, "Count": 30, "Rank": 1 },
+          { "Name": "Nilotpala Lotus", "Id": 101215, "Count": 30, "Rank": 0 },
           { "Name": "Luminescent Pollen", "Id": 112060, "Count": 18, "Rank": 2 }
         ],
         "Cost": 80000
@@ -2071,7 +2148,7 @@
             "Count": 12,
             "Rank": 4
           },
-          { "Name": "Nilotpala Lotus", "Id": 101215, "Count": 45, "Rank": 1 },
+          { "Name": "Nilotpala Lotus", "Id": 101215, "Count": 45, "Rank": 0 },
           {
             "Name": "Crystalline Cyst Dust",
             "Id": 112061,
@@ -2095,7 +2172,7 @@
             "Count": 20,
             "Rank": 4
           },
-          { "Name": "Nilotpala Lotus", "Id": 101215, "Count": 60, "Rank": 1 },
+          { "Name": "Nilotpala Lotus", "Id": 101215, "Count": 60, "Rank": 0 },
           {
             "Name": "Crystalline Cyst Dust",
             "Id": 112061,

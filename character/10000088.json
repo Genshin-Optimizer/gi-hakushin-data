@@ -386,6 +386,11 @@
         "Title": "Joining Party: III",
         "Text": "Nearer to the action is closer to the truth!",
         "Unlocked": []
+      },
+      {
+        "Title": "About Escoffier",
+        "Text": "I've tried so many amazing dishes thanks to her! Between her work, the other chefs at her Hotel, and her apprentices, I can almost call myself a food critic at this point. I feel a little bad, getting to eat the finest food in Fontaine for free... But, I'm not complaining, either!",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
       }
     ],
     "SpecialFood": {
@@ -407,7 +412,7 @@
         "Name": "\"All Is Overt Through My Lens\"",
         "Desc": "Charlotte's outfit. \"If your reporting isn't real enough, it's because you're not close enough.\" Charlotte often has this to say about journalism. Sometimes, however, she adds: \"But of course, maybe it's that the lens you're using just isn't that great.\"",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -786,7 +791,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Cool-Color Capture",
+      "Name": "Cool-Color Capture",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nTaking aim at targets using Monsieur Verite, her custom Kamera, Charlotte performs up to 3 consecutive attacks, dealing <color=#99FFFFFF>Cryo DMG</color>.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a fixed amount of Stamina, and after a moment's preparation, will deploy Monsieur Verite to deal <color=#99FFFFFF>AoE Cryo DMG</color>.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nGathering the power of Cryo, Charlotte plunges toward the ground, dealing DMG to all opponents in her path and dealing <color=#99FFFFFF>AoE Cryo DMG</color> upon landing.\\n\\n<color=#FFD780FF>Arkhe: Pneuma</color>\\nAt certain intervals, upon using a Charged Attack, Charlotte will cause a Spiritbreath Thorn to descend and pierce opponents, dealing Pneuma-aligned <color=#99FFFFFF>AoE Cryo DMG</color>.",
       "Promote": {
         "0": {
@@ -812,7 +817,7 @@
           ],
           "Param": [
             0.498456, 0.433752, 0.646008, 1.00512, 50, 0.568288, 1.136335,
-            1.419344, 0.11168, 6
+            1.419344, 0.11168, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -838,7 +843,7 @@
           ],
           "Param": [
             0.53584, 0.466283, 0.694459, 1.080504, 50, 0.614544, 1.228828,
-            1.534872, 0.120056, 6
+            1.534872, 0.120056, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -864,7 +869,7 @@
           ],
           "Param": [
             0.573224, 0.498815, 0.742909, 1.155888, 50, 0.6608, 1.32132, 1.6504,
-            0.128432, 6
+            0.128432, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -890,7 +895,7 @@
           ],
           "Param": [
             0.62307, 0.54219, 0.80751, 1.2564, 50, 0.72688, 1.453452, 1.81544,
-            0.1396, 6
+            0.1396, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -916,7 +921,7 @@
           ],
           "Param": [
             0.660454, 0.574721, 0.855961, 1.331784, 50, 0.773136, 1.545944,
-            1.930968, 0.147976, 6
+            1.930968, 0.147976, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -942,7 +947,7 @@
           ],
           "Param": [
             0.697838, 0.607253, 0.904411, 1.407168, 50, 0.826, 1.65165, 2.063,
-            0.156352, 6
+            0.156352, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -968,7 +973,7 @@
           ],
           "Param": [
             0.747684, 0.650628, 0.969012, 1.50768, 50, 0.898688, 1.796995,
-            2.244544, 0.16752, 6
+            2.244544, 0.16752, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -994,7 +999,7 @@
           ],
           "Param": [
             0.79753, 0.694003, 1.033613, 1.608192, 50, 0.971376, 1.94234,
-            2.426088, 0.178688, 6
+            2.426088, 0.178688, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1020,7 +1025,7 @@
           ],
           "Param": [
             0.847375, 0.737378, 1.098214, 1.708704, 50, 1.044064, 2.087686,
-            2.607632, 0.189856, 6
+            2.607632, 0.189856, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1046,7 +1051,7 @@
           ],
           "Param": [
             0.897221, 0.780754, 1.162814, 1.809216, 50, 1.12336, 2.246244,
-            2.80568, 0.201024, 6
+            2.80568, 0.201024, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1072,7 +1077,7 @@
           ],
           "Param": [
             0.947066, 0.824129, 1.227415, 1.909728, 50, 1.202656, 2.404802,
-            3.003728, 0.212192, 6
+            3.003728, 0.212192, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1098,7 +1103,7 @@
           ],
           "Param": [
             0.996912, 0.867504, 1.292016, 2.01024, 50, 1.281952, 2.563361,
-            3.201776, 0.22336, 6
+            3.201776, 0.22336, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1124,7 +1129,7 @@
           ],
           "Param": [
             1.059219, 0.921723, 1.372767, 2.13588, 50, 1.361248, 2.721919,
-            3.399824, 0.23732, 6
+            3.399824, 0.23732, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1150,7 +1155,7 @@
           ],
           "Param": [
             1.121526, 0.975942, 1.453518, 2.26152, 50, 1.440544, 2.880478,
-            3.597872, 0.25128, 6
+            3.597872, 0.25128, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1176,7 +1181,7 @@
           ],
           "Param": [
             1.183833, 1.030161, 1.534269, 2.38716, 50, 1.51984, 3.039036,
-            3.79592, 0.26524, 6
+            3.79592, 0.26524, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1206,7 +1211,10 @@
             "",
             ""
           ],
-          "Param": [0.672, 1.392, 0.392, 1.5, 6, 0.406, 1.5, 12, 12, 18]
+          "Param": [
+            0.672, 1.392, 0.392, 1.5, 6, 0.406, 1.5, 12, 12, 18, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1229,7 +1237,10 @@
             "",
             ""
           ],
-          "Param": [0.7224, 1.4964, 0.4214, 1.5, 6, 0.43645, 1.5, 12, 12, 18]
+          "Param": [
+            0.7224, 1.4964, 0.4214, 1.5, 6, 0.43645, 1.5, 12, 12, 18, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1252,7 +1263,10 @@
             "",
             ""
           ],
-          "Param": [0.7728, 1.6008, 0.4508, 1.5, 6, 0.4669, 1.5, 12, 12, 18]
+          "Param": [
+            0.7728, 1.6008, 0.4508, 1.5, 6, 0.4669, 1.5, 12, 12, 18, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1275,7 +1289,10 @@
             "",
             ""
           ],
-          "Param": [0.84, 1.74, 0.49, 1.5, 6, 0.5075, 1.5, 12, 12, 18]
+          "Param": [
+            0.84, 1.74, 0.49, 1.5, 6, 0.5075, 1.5, 12, 12, 18, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1298,7 +1315,10 @@
             "",
             ""
           ],
-          "Param": [0.8904, 1.8444, 0.5194, 1.5, 6, 0.53795, 1.5, 12, 12, 18]
+          "Param": [
+            0.8904, 1.8444, 0.5194, 1.5, 6, 0.53795, 1.5, 12, 12, 18, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1321,7 +1341,10 @@
             "",
             ""
           ],
-          "Param": [0.9408, 1.9488, 0.5488, 1.5, 6, 0.5684, 1.5, 12, 12, 18]
+          "Param": [
+            0.9408, 1.9488, 0.5488, 1.5, 6, 0.5684, 1.5, 12, 12, 18, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1344,7 +1367,10 @@
             "",
             ""
           ],
-          "Param": [1.008, 2.088, 0.588, 1.5, 6, 0.609, 1.5, 12, 12, 18]
+          "Param": [
+            1.008, 2.088, 0.588, 1.5, 6, 0.609, 1.5, 12, 12, 18, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1367,7 +1393,10 @@
             "",
             ""
           ],
-          "Param": [1.0752, 2.2272, 0.6272, 1.5, 6, 0.6496, 1.5, 12, 12, 18]
+          "Param": [
+            1.0752, 2.2272, 0.6272, 1.5, 6, 0.6496, 1.5, 12, 12, 18, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1390,7 +1419,10 @@
             "",
             ""
           ],
-          "Param": [1.1424, 2.3664, 0.6664, 1.5, 6, 0.6902, 1.5, 12, 12, 18]
+          "Param": [
+            1.1424, 2.3664, 0.6664, 1.5, 6, 0.6902, 1.5, 12, 12, 18, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1413,7 +1445,10 @@
             "",
             ""
           ],
-          "Param": [1.2096, 2.5056, 0.7056, 1.5, 6, 0.7308, 1.5, 12, 12, 18]
+          "Param": [
+            1.2096, 2.5056, 0.7056, 1.5, 6, 0.7308, 1.5, 12, 12, 18, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1436,7 +1471,10 @@
             "",
             ""
           ],
-          "Param": [1.2768, 2.6448, 0.7448, 1.5, 6, 0.7714, 1.5, 12, 12, 18]
+          "Param": [
+            1.2768, 2.6448, 0.7448, 1.5, 6, 0.7714, 1.5, 12, 12, 18, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1459,7 +1497,10 @@
             "",
             ""
           ],
-          "Param": [1.344, 2.784, 0.784, 1.5, 6, 0.812, 1.5, 12, 12, 18]
+          "Param": [
+            1.344, 2.784, 0.784, 1.5, 6, 0.812, 1.5, 12, 12, 18, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1482,7 +1523,10 @@
             "",
             ""
           ],
-          "Param": [1.428, 2.958, 0.833, 1.5, 6, 0.86275, 1.5, 12, 12, 18]
+          "Param": [
+            1.428, 2.958, 0.833, 1.5, 6, 0.86275, 1.5, 12, 12, 18, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1505,7 +1549,10 @@
             "",
             ""
           ],
-          "Param": [1.512, 3.132, 0.882, 1.5, 6, 0.9135, 1.5, 12, 12, 18]
+          "Param": [
+            1.512, 3.132, 0.882, 1.5, 6, 0.9135, 1.5, 12, 12, 18, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1528,7 +1575,10 @@
             "",
             ""
           ],
-          "Param": [1.596, 3.306, 0.931, 1.5, 6, 0.96425, 1.5, 12, 12, 18]
+          "Param": [
+            1.596, 3.306, 0.931, 1.5, 6, 0.96425, 1.5, 12, 12, 18, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         }
       }
     },
@@ -1558,7 +1608,8 @@
             ""
           ],
           "Param": [
-            2.565734, 1608.4863, 0.77616, 0.09216, 57.447098, 0.06468, 4, 20, 80
+            2.565734, 1608.4863, 0.77616, 0.09216, 57.447098, 0.06468, 4, 20,
+            80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -1584,7 +1635,7 @@
           ],
           "Param": [
             2.758164, 1769.3573, 0.834372, 0.099072, 63.192608, 0.069531, 4, 20,
-            80
+            80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -1610,7 +1661,7 @@
           ],
           "Param": [
             2.950595, 1943.6342, 0.892584, 0.105984, 69.41691, 0.074382, 4, 20,
-            80
+            80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -1635,7 +1686,8 @@
             ""
           ],
           "Param": [
-            3.207168, 2131.317, 0.9702, 0.1152, 76.12, 0.08085, 4, 20, 80
+            3.207168, 2131.317, 0.9702, 0.1152, 76.12, 0.08085, 4, 20, 80, 0, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -1661,7 +1713,7 @@
           ],
           "Param": [
             3.399598, 2332.4058, 1.028412, 0.122112, 83.30189, 0.085701, 4, 20,
-            80
+            80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -1687,7 +1739,7 @@
           ],
           "Param": [
             3.592028, 2546.9004, 1.086624, 0.129024, 90.96256, 0.090552, 4, 20,
-            80
+            80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -1712,7 +1764,8 @@
             ""
           ],
           "Param": [
-            3.848602, 2774.801, 1.16424, 0.13824, 99.102036, 0.09702, 4, 20, 80
+            3.848602, 2774.801, 1.16424, 0.13824, 99.102036, 0.09702, 4, 20, 80,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1738,7 +1791,7 @@
           ],
           "Param": [
             4.105175, 3016.1074, 1.241856, 0.147456, 107.7203, 0.103488, 4, 20,
-            80
+            80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1764,7 +1817,7 @@
           ],
           "Param": [
             4.361748, 3270.8198, 1.319472, 0.156672, 116.81735, 0.109956, 4, 20,
-            80
+            80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1790,7 +1843,7 @@
           ],
           "Param": [
             4.618322, 3538.9382, 1.397088, 0.165888, 126.393196, 0.116424, 4,
-            20, 80
+            20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1816,7 +1869,7 @@
           ],
           "Param": [
             4.874895, 3820.4624, 1.474704, 0.175104, 136.44783, 0.122892, 4, 20,
-            80
+            80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1841,7 +1894,8 @@
             ""
           ],
           "Param": [
-            5.131469, 4115.3926, 1.55232, 0.18432, 146.98126, 0.12936, 4, 20, 80
+            5.131469, 4115.3926, 1.55232, 0.18432, 146.98126, 0.12936, 4, 20,
+            80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1866,7 +1920,8 @@
             ""
           ],
           "Param": [
-            5.452186, 4423.7285, 1.64934, 0.19584, 157.9935, 0.137445, 4, 20, 80
+            5.452186, 4423.7285, 1.64934, 0.19584, 157.9935, 0.137445, 4, 20,
+            80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1891,7 +1946,8 @@
             ""
           ],
           "Param": [
-            5.772902, 4745.4707, 1.74636, 0.20736, 169.48451, 0.14553, 4, 20, 80
+            5.772902, 4745.4707, 1.74636, 0.20736, 169.48451, 0.14553, 4, 20,
+            80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1917,7 +1973,7 @@
           ],
           "Param": [
             6.093619, 5080.6187, 1.84338, 0.21888, 181.45432, 0.153615, 4, 20,
-            80
+            80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1929,21 +1985,23 @@
       "Desc": "When opponents marked by \"Focused Impression\" are defeated, <color=#FFD780FF>Framing: Freezing Point Composition</color>'s CD will be decreased by 2s. This CD decrease can be triggered 4 times every 12s.",
       "Icon": "UI_Talent_S_Charlotte_05",
       "Unlock": 1,
-      "ParamList": [2, 12, 4]
+      "ParamList": [2, 12, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Diversified Investigation",
       "Desc": "When the party contains 1/2/3 Fontainians other than herself, Charlotte gains a 5%/10%/15% Healing Bonus. When the party contains 1/2/3 non-Fontainians, Charlotte gains a 5%/10%/15% Cryo DMG Bonus.",
       "Icon": "UI_Talent_S_Charlotte_06",
       "Unlock": 4,
-      "ParamList": [0.05, 0.05]
+      "ParamList": [
+        0.05, 0.05, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "First-Person Shutter",
       "Desc": "After activating the Special Analysis Zoom Lens, Charlotte's \"Framing: Freezing Point Composition\" Hold Mode cannot trigger its original effects, but instead enables her to take photos in a rather unique manner...",
       "Icon": "UI_Talent_S_Charlotte_07",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Constellations": [
@@ -1951,37 +2009,37 @@
       "Name": "A Need to Verify Facts",
       "Desc": "After <color=#FFD780FF>Still Photo: Comprehensive Confirmation</color> heals a character, it will mark them with Verification, which will heal them once every 2s for 80% of Charlotte's ATK. This effect lasts 6s.",
       "Icon": "UI_Talent_S_Charlotte_01",
-      "ParamList": [2, 0.8, 6]
+      "ParamList": [2, 0.8, 6, 0, 0, 0, 0, 0]
     },
     {
       "Name": "A Duty to Pursue Truth",
       "Desc": "When using <color=#FFD780FF>Framing: Freezing Point Composition</color>, when Monsieur Verite hits 1/2/3 (or more) opponents, Charlotte's own ATK will be increased by 10%/20%/30% for 12s.",
       "Icon": "UI_Talent_S_Charlotte_02",
-      "ParamList": [0.1, 0.2, 0.3, 12]
+      "ParamList": [0.1, 0.2, 0.3, 12, 0, 0, 0, 0]
     },
     {
       "Name": "An Imperative to Independence",
       "Desc": "Increases the Level of <color=#FFD780FF>Still Photo: Comprehensive Confirmation</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Charlotte_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "A Responsibility to Oversee",
       "Desc": "When <color=#FFD780FF>Still Photo: Comprehensive Confirmation</color> hits an opponent marked by Snappy Silhouette or Focused Impression, it will deal 10% more DMG and restore 2 Energy to Charlotte. This restoration can be triggered 5 times every 20s.",
       "Icon": "UI_Talent_S_Charlotte_03",
-      "ParamList": [0.1, 2, 20, 5]
+      "ParamList": [0.1, 2, 20, 5, 0, 0, 0, 0]
     },
     {
       "Name": "A Principle of Conscience",
       "Desc": "Increases the Level of <color=#FFD780FF>Framing: Freezing Point Composition</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Charlotte_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "A Summation of Interest",
       "Desc": "When the active character's Normal and Charged Attacks hit an opponent marked by <color=#FFD780FF>Framing: Freezing Point Composition</color>'s Focused Impression, Monsieur Verite will initiate a coordinated attack that deals 180% of Charlotte's ATK as <color=#99FFFFFF>AoE Cryo DMG</color> and heals active character(s) within the AoE for 42% of Charlotte's ATK. This effect can be triggered once every 6s and both DMG and healing dealt in this way will be considered as having been done by Charlotte's Elemental Burst.",
       "Icon": "UI_Talent_S_Charlotte_04",
-      "ParamList": [1.8, 0.42, 6]
+      "ParamList": [1.8, 0.42, 6, 0, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -1994,7 +2052,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Beryl Conch", "Id": 101232, "Count": 3, "Rank": 1 },
+          { "Name": "Beryl Conch", "Id": 101232, "Count": 3, "Rank": 0 },
           { "Name": "Meshing Gear", "Id": 112083, "Count": 3, "Rank": 1 }
         ],
         "Cost": 20000
@@ -2013,7 +2071,7 @@
             "Count": 2,
             "Rank": 4
           },
-          { "Name": "Beryl Conch", "Id": 101232, "Count": 10, "Rank": 1 },
+          { "Name": "Beryl Conch", "Id": 101232, "Count": 10, "Rank": 0 },
           { "Name": "Meshing Gear", "Id": 112083, "Count": 15, "Rank": 1 }
         ],
         "Cost": 40000
@@ -2032,7 +2090,7 @@
             "Count": 4,
             "Rank": 4
           },
-          { "Name": "Beryl Conch", "Id": 101232, "Count": 20, "Rank": 1 },
+          { "Name": "Beryl Conch", "Id": 101232, "Count": 20, "Rank": 0 },
           {
             "Name": "Mechanical Spur Gear",
             "Id": 112084,
@@ -2051,7 +2109,7 @@
             "Count": 8,
             "Rank": 4
           },
-          { "Name": "Beryl Conch", "Id": 101232, "Count": 30, "Rank": 1 },
+          { "Name": "Beryl Conch", "Id": 101232, "Count": 30, "Rank": 0 },
           {
             "Name": "Mechanical Spur Gear",
             "Id": 112084,
@@ -2070,7 +2128,7 @@
             "Count": 12,
             "Rank": 4
           },
-          { "Name": "Beryl Conch", "Id": 101232, "Count": 45, "Rank": 1 },
+          { "Name": "Beryl Conch", "Id": 101232, "Count": 45, "Rank": 0 },
           {
             "Name": "Artificed Dynamic Gear",
             "Id": 112085,
@@ -2094,7 +2152,7 @@
             "Count": 20,
             "Rank": 4
           },
-          { "Name": "Beryl Conch", "Id": 101232, "Count": 60, "Rank": 1 },
+          { "Name": "Beryl Conch", "Id": 101232, "Count": 60, "Rank": 0 },
           {
             "Name": "Artificed Dynamic Gear",
             "Id": 112085,

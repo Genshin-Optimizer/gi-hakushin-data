@@ -6,25 +6,28 @@
   "Affix": [
     {
       "id": 210013,
+      "level": 0,
       "affixId": 2100130,
+      "paramList": [0, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "",
       "addProps": [
-        { "value": 0.2, "propType": "FIGHT_PROP_HEALED_ADD" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_HEALED_ADD", "value": 0.2 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Traveling Doctor",
       "Desc": "Increases incoming healing by 20%."
     },
     {
-      "level": 1,
-      "paramList": [0.2],
       "id": 210013,
-      "openConfig": "Relic_UltHealSelf",
+      "level": 1,
       "affixId": 2100131,
+      "paramList": [0.2, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "Relic_UltHealSelf",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Traveling Doctor",
       "Desc": "Using Elemental Burst restores 20% HP."

@@ -422,7 +422,7 @@
         "Name": "Dunkelnacht Sakrament",
         "Desc": "Fischl's outfit. The Prinzessin der Verurteilung's customary vestments during her sojourn upon this realm.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -801,7 +801,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Bolts of Downfall",
+      "Name": "Bolts of Downfall",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 5 consecutive shots with a bow.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nPerforms a more precise <color=#FFD780FF>Aimed Shot</color> with increased DMG.\\nWhile aiming, the dark lightning spirits of Immernachtreich shall heed the call of their Prinzessin and indwell the enchanted arrowhead. When fully indwelt, the Rachsüchtig Blitz shall deal immense <color=#FFACFFFF>Electro DMG</color>.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
       "Promote": {
         "0": {
@@ -827,7 +827,7 @@
           ],
           "Param": [
             0.44118, 0.46784, 0.58136, 0.57706, 0.72068, 0.4386, 1.24, 0.568288,
-            1.136335, 1.419344
+            1.136335, 1.419344, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -853,7 +853,7 @@
           ],
           "Param": [
             0.47709, 0.50592, 0.62868, 0.62403, 0.77934, 0.4743, 1.333,
-            0.614544, 1.228828, 1.534872
+            0.614544, 1.228828, 1.534872, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -879,7 +879,7 @@
           ],
           "Param": [
             0.513, 0.544, 0.676, 0.671, 0.838, 0.51, 1.426, 0.6608, 1.32132,
-            1.6504
+            1.6504, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -905,7 +905,7 @@
           ],
           "Param": [
             0.5643, 0.5984, 0.7436, 0.7381, 0.9218, 0.561, 1.55, 0.72688,
-            1.453452, 1.81544
+            1.453452, 1.81544, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -931,7 +931,7 @@
           ],
           "Param": [
             0.60021, 0.63648, 0.79092, 0.78507, 0.98046, 0.5967, 1.643,
-            0.773136, 1.545944, 1.930968
+            0.773136, 1.545944, 1.930968, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -957,7 +957,7 @@
           ],
           "Param": [
             0.64125, 0.68, 0.845, 0.83875, 1.0475, 0.6375, 1.736, 0.826,
-            1.65165, 2.063
+            1.65165, 2.063, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -983,7 +983,7 @@
           ],
           "Param": [
             0.69768, 0.73984, 0.91936, 0.91256, 1.13968, 0.6936, 1.86, 0.898688,
-            1.796995, 2.244544
+            1.796995, 2.244544, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1009,7 +1009,7 @@
           ],
           "Param": [
             0.75411, 0.79968, 0.99372, 0.98637, 1.23186, 0.7497, 1.984,
-            0.971376, 1.94234, 2.426088
+            0.971376, 1.94234, 2.426088, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1035,7 +1035,7 @@
           ],
           "Param": [
             0.81054, 0.85952, 1.06808, 1.06018, 1.32404, 0.8058, 2.108,
-            1.044064, 2.087686, 2.607632
+            1.044064, 2.087686, 2.607632, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1061,7 +1061,7 @@
           ],
           "Param": [
             0.8721, 0.9248, 1.1492, 1.1407, 1.4246, 0.867, 2.232, 1.12336,
-            2.246244, 2.80568
+            2.246244, 2.80568, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1087,7 +1087,7 @@
           ],
           "Param": [
             0.93366, 0.99008, 1.23032, 1.22122, 1.52516, 0.9282, 2.356,
-            1.202656, 2.404802, 3.003728
+            1.202656, 2.404802, 3.003728, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1113,7 +1113,7 @@
           ],
           "Param": [
             0.99522, 1.05536, 1.31144, 1.30174, 1.62572, 0.9894, 2.48, 1.281952,
-            2.563361, 3.201776
+            2.563361, 3.201776, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1139,7 +1139,7 @@
           ],
           "Param": [
             1.05678, 1.12064, 1.39256, 1.38226, 1.72628, 1.0506, 2.635,
-            1.361248, 2.721919, 3.399824
+            1.361248, 2.721919, 3.399824, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1165,7 +1165,7 @@
           ],
           "Param": [
             1.11834, 1.18592, 1.47368, 1.46278, 1.82684, 1.1118, 2.79, 1.440544,
-            2.880478, 3.597872
+            2.880478, 3.597872, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1191,7 +1191,7 @@
           ],
           "Param": [
             1.1799, 1.2512, 1.5548, 1.5433, 1.9274, 1.173, 2.945, 1.51984,
-            3.039036, 3.79592
+            3.039036, 3.79592, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1221,7 +1221,10 @@
             "",
             ""
           ],
-          "Param": [0.888, 1.1544, 10, 25, 8]
+          "Param": [
+            0.888, 1.1544, 0, 10, 25, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1244,7 +1247,10 @@
             "",
             ""
           ],
-          "Param": [0.9546, 1.24098, 10, 25, 8]
+          "Param": [
+            0.9546, 1.24098, 0, 10, 25, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1267,7 +1273,10 @@
             "",
             ""
           ],
-          "Param": [1.0212, 1.32756, 10, 25, 8]
+          "Param": [
+            1.0212, 1.32756, 0, 10, 25, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1290,7 +1299,9 @@
             "",
             ""
           ],
-          "Param": [1.11, 1.443, 10, 25, 8]
+          "Param": [
+            1.11, 1.443, 0, 10, 25, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1313,7 +1324,10 @@
             "",
             ""
           ],
-          "Param": [1.1766, 1.52958, 10, 25, 8]
+          "Param": [
+            1.1766, 1.52958, 0, 10, 25, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1336,7 +1350,10 @@
             "",
             ""
           ],
-          "Param": [1.2432, 1.61616, 10, 25, 8]
+          "Param": [
+            1.2432, 1.61616, 0, 10, 25, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1359,7 +1376,10 @@
             "",
             ""
           ],
-          "Param": [1.332, 1.7316, 10, 25, 8]
+          "Param": [
+            1.332, 1.7316, 0, 10, 25, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1382,7 +1402,10 @@
             "",
             ""
           ],
-          "Param": [1.4208, 1.84704, 10, 25, 8]
+          "Param": [
+            1.4208, 1.84704, 0, 10, 25, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1405,7 +1428,10 @@
             "",
             ""
           ],
-          "Param": [1.5096, 1.96248, 10, 25, 8]
+          "Param": [
+            1.5096, 1.96248, 0, 10, 25, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1428,7 +1454,10 @@
             "",
             ""
           ],
-          "Param": [1.5984, 2.07792, 10, 25, 8]
+          "Param": [
+            1.5984, 2.07792, 0, 10, 25, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1451,7 +1480,10 @@
             "",
             ""
           ],
-          "Param": [1.6872, 2.19336, 10, 25, 8]
+          "Param": [
+            1.6872, 2.19336, 0, 10, 25, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1474,7 +1506,10 @@
             "",
             ""
           ],
-          "Param": [1.776, 2.3088, 10, 25, 8]
+          "Param": [
+            1.776, 2.3088, 0, 10, 25, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1497,7 +1532,10 @@
             "",
             ""
           ],
-          "Param": [1.887, 2.4531, 10, 25, 8]
+          "Param": [
+            1.887, 2.4531, 0, 10, 25, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1520,7 +1558,10 @@
             "",
             ""
           ],
-          "Param": [1.998, 2.5974, 10, 25, 8]
+          "Param": [
+            1.998, 2.5974, 0, 10, 25, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1543,7 +1584,10 @@
             "",
             ""
           ],
-          "Param": [2.109, 2.7417, 10, 25, 8]
+          "Param": [
+            2.109, 2.7417, 0, 10, 25, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         }
       }
     },
@@ -1572,7 +1616,9 @@
             "",
             ""
           ],
-          "Param": [2.08, 15, 60]
+          "Param": [
+            2.08, 0, 0, 0, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1595,7 +1641,9 @@
             "",
             ""
           ],
-          "Param": [2.236, 15, 60]
+          "Param": [
+            2.236, 0, 0, 0, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1618,7 +1666,9 @@
             "",
             ""
           ],
-          "Param": [2.392, 15, 60]
+          "Param": [
+            2.392, 0, 0, 0, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1641,7 +1691,9 @@
             "",
             ""
           ],
-          "Param": [2.6, 15, 60]
+          "Param": [
+            2.6, 0, 0, 0, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1664,7 +1716,9 @@
             "",
             ""
           ],
-          "Param": [2.756, 15, 60]
+          "Param": [
+            2.756, 0, 0, 0, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1687,7 +1741,9 @@
             "",
             ""
           ],
-          "Param": [2.912, 15, 60]
+          "Param": [
+            2.912, 0, 0, 0, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1710,7 +1766,9 @@
             "",
             ""
           ],
-          "Param": [3.12, 15, 60]
+          "Param": [
+            3.12, 0, 0, 0, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1733,7 +1791,9 @@
             "",
             ""
           ],
-          "Param": [3.328, 15, 60]
+          "Param": [
+            3.328, 0, 0, 0, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1756,7 +1816,9 @@
             "",
             ""
           ],
-          "Param": [3.536, 15, 60]
+          "Param": [
+            3.536, 0, 0, 0, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1779,7 +1841,9 @@
             "",
             ""
           ],
-          "Param": [3.744, 15, 60]
+          "Param": [
+            3.744, 0, 0, 0, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1802,7 +1866,9 @@
             "",
             ""
           ],
-          "Param": [3.952, 15, 60]
+          "Param": [
+            3.952, 0, 0, 0, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1825,7 +1891,9 @@
             "",
             ""
           ],
-          "Param": [4.16, 15, 60]
+          "Param": [
+            4.16, 0, 0, 0, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1848,7 +1916,9 @@
             "",
             ""
           ],
-          "Param": [4.42, 15, 60]
+          "Param": [
+            4.42, 0, 0, 0, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1871,7 +1941,9 @@
             "",
             ""
           ],
-          "Param": [4.68, 15, 60]
+          "Param": [
+            4.68, 0, 0, 0, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1894,7 +1966,9 @@
             "",
             ""
           ],
-          "Param": [4.94, 15, 60]
+          "Param": [
+            4.94, 0, 0, 0, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         }
       }
     }
@@ -1905,21 +1979,25 @@
       "Desc": "When Fischl hits Oz with a fully-charged Aimed Shot, Oz brings down Thundering Retribution, dealing <color=#FFACFFFF>AoE Electro DMG</color> equal to 152.7% of the arrow's DMG.",
       "Icon": "UI_Talent_S_Fischl_05",
       "Unlock": 1,
-      "ParamList": [1.527]
+      "ParamList": [
+        1.527, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Undone Be Thy Sinful Hex",
       "Desc": "If your current active character triggers an <color=#FFACFFFF>Electro-related Elemental Reaction</color> when Oz is on the field, the opponent shall be stricken with Thundering Retribution that deals <color=#FFACFFFF>Electro DMG</color> equal to 80% of Fischl's ATK.",
       "Icon": "UI_Talent_S_Fischl_06",
       "Unlock": 4,
-      "ParamList": [0.8]
+      "ParamList": [
+        0.8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Mein Hausgarten",
       "Desc": "When dispatched on an expedition in Mondstadt, time consumed is reduced by 25%.",
       "Icon": "UI_Talent_Expedition_Mengde",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Constellations": [
@@ -1927,37 +2005,37 @@
       "Name": "Gaze of the Deep",
       "Desc": "Even when Oz is not present in combat, he can still watch over Fischl through his raven eyes. When Fischl performs a Normal Attack against an opponent, Oz fires a coordinated attack, dealing DMG equal to 22% of Fischl's ATK.",
       "Icon": "UI_Talent_S_Fischl_01",
-      "ParamList": [0.22]
+      "ParamList": [0.22, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Devourer of All Sins",
       "Desc": "When <color=#FFD780FF>Nightrider</color> is used, it deals an additional 200% ATK as DMG, and its AoE is increased by 50%.",
       "Icon": "UI_Talent_S_Fischl_02",
-      "ParamList": [2]
+      "ParamList": [2, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Wings of Nightmare",
       "Desc": "Increases the Level of <color=#FFD780FF>Nightrider</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Fischl_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Her Pilgrimage of Bleak",
       "Desc": "When <color=#FFD780FF>Midnight Phantasmagoria</color> is used, it deals 222% of ATK as <color=#FFACFFFF>Electro DMG</color> to surrounding opponents.\\nWhen the skill duration ends, Fischl regenerates 20% of her HP.",
       "Icon": "UI_Talent_S_Fischl_03",
-      "ParamList": [2.22, 0.2]
+      "ParamList": [2.22, 0.2, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Against the Fleeing Light",
       "Desc": "Increases the Level of <color=#FFD780FF>Midnight Phantasmagoria</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Fischl_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Evernight Raven",
       "Desc": "Extends the duration of Oz's presence on the field by 2s. Additionally, Oz performs coordinated attacks with your active character when present, dealing 30% of Fischl's ATK as <color=#FFACFFFF>Electro DMG</color>.",
       "Icon": "UI_Talent_S_Fischl_04",
-      "ParamList": [0.3, 2]
+      "ParamList": [0.3, 2, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -1970,7 +2048,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Small Lamp Grass", "Id": 100055, "Count": 3, "Rank": 1 },
+          { "Name": "Small Lamp Grass", "Id": 100055, "Count": 3, "Rank": 0 },
           { "Name": "Firm Arrowhead", "Id": 112011, "Count": 3, "Rank": 1 }
         ],
         "Cost": 20000
@@ -1984,7 +2062,7 @@
             "Rank": 3
           },
           { "Name": "Lightning Prism", "Id": 113002, "Count": 2, "Rank": 4 },
-          { "Name": "Small Lamp Grass", "Id": 100055, "Count": 10, "Rank": 1 },
+          { "Name": "Small Lamp Grass", "Id": 100055, "Count": 10, "Rank": 0 },
           { "Name": "Firm Arrowhead", "Id": 112011, "Count": 15, "Rank": 1 }
         ],
         "Cost": 40000
@@ -1998,7 +2076,7 @@
             "Rank": 3
           },
           { "Name": "Lightning Prism", "Id": 113002, "Count": 4, "Rank": 4 },
-          { "Name": "Small Lamp Grass", "Id": 100055, "Count": 20, "Rank": 1 },
+          { "Name": "Small Lamp Grass", "Id": 100055, "Count": 20, "Rank": 0 },
           { "Name": "Sharp Arrowhead", "Id": 112012, "Count": 12, "Rank": 2 }
         ],
         "Cost": 60000
@@ -2012,7 +2090,7 @@
             "Rank": 4
           },
           { "Name": "Lightning Prism", "Id": 113002, "Count": 8, "Rank": 4 },
-          { "Name": "Small Lamp Grass", "Id": 100055, "Count": 30, "Rank": 1 },
+          { "Name": "Small Lamp Grass", "Id": 100055, "Count": 30, "Rank": 0 },
           { "Name": "Sharp Arrowhead", "Id": 112012, "Count": 18, "Rank": 2 }
         ],
         "Cost": 80000
@@ -2026,7 +2104,7 @@
             "Rank": 4
           },
           { "Name": "Lightning Prism", "Id": 113002, "Count": 12, "Rank": 4 },
-          { "Name": "Small Lamp Grass", "Id": 100055, "Count": 45, "Rank": 1 },
+          { "Name": "Small Lamp Grass", "Id": 100055, "Count": 45, "Rank": 0 },
           {
             "Name": "Weathered Arrowhead",
             "Id": 112013,
@@ -2045,7 +2123,7 @@
             "Rank": 5
           },
           { "Name": "Lightning Prism", "Id": 113002, "Count": 20, "Rank": 4 },
-          { "Name": "Small Lamp Grass", "Id": 100055, "Count": 60, "Rank": 1 },
+          { "Name": "Small Lamp Grass", "Id": 100055, "Count": 60, "Rank": 0 },
           {
             "Name": "Weathered Arrowhead",
             "Id": 112013,

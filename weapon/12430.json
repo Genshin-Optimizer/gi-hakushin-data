@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_202",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 43.7349
+      "initValue": 43.7349,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_ATTACK_PERCENT",
-      "initValue": 0.06
+      "initValue": 0.06,
+      "propType": "FIGHT_PROP_ATTACK_PERCENT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "The Weight of Falling Branches",
       "Desc": "Increase Plunging Attack CRIT Rate by <color=#99FFFFFF>16%</color>; After a Plunging Attack hits an opponent, Normal, Charged, and Plunging Attack DMG increased by <color=#99FFFFFF>16%</color> for 10s.",
-      "ParamList": [0.16, 0.16, 10]
+      "ParamList": [0.16, 0.16, 10, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "The Weight of Falling Branches",
       "Desc": "Increase Plunging Attack CRIT Rate by <color=#99FFFFFF>20%</color>; After a Plunging Attack hits an opponent, Normal, Charged, and Plunging Attack DMG increased by <color=#99FFFFFF>20%</color> for 10s.",
-      "ParamList": [0.2, 0.2, 10]
+      "ParamList": [0.2, 0.2, 10, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "The Weight of Falling Branches",
       "Desc": "Increase Plunging Attack CRIT Rate by <color=#99FFFFFF>24%</color>; After a Plunging Attack hits an opponent, Normal, Charged, and Plunging Attack DMG increased by <color=#99FFFFFF>24%</color> for 10s.",
-      "ParamList": [0.24, 0.24, 10]
+      "ParamList": [0.24, 0.24, 10, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "The Weight of Falling Branches",
       "Desc": "Increase Plunging Attack CRIT Rate by <color=#99FFFFFF>28%</color>; After a Plunging Attack hits an opponent, Normal, Charged, and Plunging Attack DMG increased by <color=#99FFFFFF>28%</color> for 10s.",
-      "ParamList": [0.28, 0.28, 10]
+      "ParamList": [0.28, 0.28, 10, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "The Weight of Falling Branches",
       "Desc": "Increase Plunging Attack CRIT Rate by <color=#99FFFFFF>32%</color>; After a Plunging Attack hits an opponent, Normal, Charged, and Plunging Attack DMG increased by <color=#99FFFFFF>32%</color> for 10s.",
-      "ParamList": [0.32, 0.32, 10]
+      "ParamList": [0.32, 0.32, 10, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

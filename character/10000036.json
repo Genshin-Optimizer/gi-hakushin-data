@@ -400,7 +400,7 @@
         "Name": "Pure Spirit",
         "Desc": "Chongyun's outfit. A traditional thaumaturge's trappings.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -779,7 +779,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Demonbane",
+      "Name": "Demonbane",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 consecutive strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nDrains Stamina over time to perform continuous spinning attacks against all nearby opponents.\\nAt the end of the sequence, performs a more powerful slash. \\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
       "Promote": {
         "0": {
@@ -805,7 +805,7 @@
           ],
           "Param": [
             0.70004, 0.63124, 0.80324, 1.01222, 0.562853, 1.01781, 40, 5,
-            0.745878, 1.49144, 1.862889
+            0.745878, 1.49144, 1.862889, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -831,7 +831,7 @@
           ],
           "Param": [
             0.75702, 0.68262, 0.86862, 1.09461, 0.608666, 1.100655, 40, 5,
-            0.806589, 1.612836, 2.01452
+            0.806589, 1.612836, 2.01452, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -857,7 +857,7 @@
           ],
           "Param": [
             0.814, 0.734, 0.934, 1.177, 0.65448, 1.1835, 40, 5, 0.8673,
-            1.734233, 2.16615
+            1.734233, 2.16615, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -883,7 +883,7 @@
           ],
           "Param": [
             0.8954, 0.8074, 1.0274, 1.2947, 0.719928, 1.30185, 40, 5, 0.95403,
-            1.907656, 2.382765
+            1.907656, 2.382765, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -909,7 +909,7 @@
           ],
           "Param": [
             0.95238, 0.85878, 1.09278, 1.37709, 0.765742, 1.384695, 40, 5,
-            1.014741, 2.029052, 2.534396
+            1.014741, 2.029052, 2.534396, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -935,7 +935,7 @@
           ],
           "Param": [
             1.0175, 0.9175, 1.1675, 1.47125, 0.8181, 1.479375, 40, 5, 1.084125,
-            2.167791, 2.707688
+            2.167791, 2.707688, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -961,7 +961,7 @@
           ],
           "Param": [
             1.10704, 0.99824, 1.27024, 1.60072, 0.890093, 1.60956, 40, 5,
-            1.179528, 2.358556, 2.945964
+            1.179528, 2.358556, 2.945964, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -987,7 +987,7 @@
           ],
           "Param": [
             1.19658, 1.07898, 1.37298, 1.73019, 0.962086, 1.739745, 40, 5,
-            1.274931, 2.549322, 3.184241
+            1.274931, 2.549322, 3.184241, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1013,7 +1013,7 @@
           ],
           "Param": [
             1.28612, 1.15972, 1.47572, 1.85966, 1.034078, 1.86993, 40, 5,
-            1.370334, 2.740087, 3.422517
+            1.370334, 2.740087, 3.422517, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1039,7 +1039,7 @@
           ],
           "Param": [
             1.3838, 1.2478, 1.5878, 2.0009, 1.112616, 2.01195, 40, 5, 1.47441,
-            2.948195, 3.682455
+            2.948195, 3.682455, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1065,7 +1065,7 @@
           ],
           "Param": [
             1.48148, 1.33588, 1.69988, 2.14214, 1.191154, 2.15397, 40, 5,
-            1.578486, 3.156303, 3.942393
+            1.578486, 3.156303, 3.942393, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1091,7 +1091,7 @@
           ],
           "Param": [
             1.57916, 1.42396, 1.81196, 2.28338, 1.269691, 2.29599, 40, 5,
-            1.682562, 3.364411, 4.202331
+            1.682562, 3.364411, 4.202331, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1117,7 +1117,7 @@
           ],
           "Param": [
             1.67684, 1.51204, 1.92404, 2.42462, 1.348229, 2.43801, 40, 5,
-            1.786638, 3.572519, 4.462269
+            1.786638, 3.572519, 4.462269, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1143,7 +1143,7 @@
           ],
           "Param": [
             1.77452, 1.60012, 2.03612, 2.56586, 1.426766, 2.58003, 40, 5,
-            1.890714, 3.780627, 4.722207
+            1.890714, 3.780627, 4.722207, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1169,7 +1169,7 @@
           ],
           "Param": [
             1.8722, 1.6882, 2.1482, 2.7071, 1.505304, 2.72205, 40, 5, 1.99479,
-            3.988735, 4.982145
+            3.988735, 4.982145, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1199,7 +1199,9 @@
             "",
             ""
           ],
-          "Param": [1.7204, 2, 15, 10]
+          "Param": [
+            1.7204, 2, 15, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1222,7 +1224,9 @@
             "",
             ""
           ],
-          "Param": [1.84943, 2.1, 15, 10]
+          "Param": [
+            1.84943, 2.1, 15, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1245,7 +1249,9 @@
             "",
             ""
           ],
-          "Param": [1.97846, 2.2, 15, 10]
+          "Param": [
+            1.97846, 2.2, 15, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1268,7 +1274,9 @@
             "",
             ""
           ],
-          "Param": [2.1505, 2.3, 15, 10]
+          "Param": [
+            2.1505, 2.3, 15, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1291,7 +1299,9 @@
             "",
             ""
           ],
-          "Param": [2.27953, 2.4, 15, 10]
+          "Param": [
+            2.27953, 2.4, 15, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1314,7 +1324,9 @@
             "",
             ""
           ],
-          "Param": [2.40856, 2.5, 15, 10]
+          "Param": [
+            2.40856, 2.5, 15, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1337,7 +1349,9 @@
             "",
             ""
           ],
-          "Param": [2.5806, 2.6, 15, 10]
+          "Param": [
+            2.5806, 2.6, 15, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1360,7 +1374,9 @@
             "",
             ""
           ],
-          "Param": [2.75264, 2.7, 15, 10]
+          "Param": [
+            2.75264, 2.7, 15, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1383,7 +1399,9 @@
             "",
             ""
           ],
-          "Param": [2.92468, 2.8, 15, 10]
+          "Param": [
+            2.92468, 2.8, 15, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1406,7 +1424,9 @@
             "",
             ""
           ],
-          "Param": [3.09672, 2.9, 15, 10]
+          "Param": [
+            3.09672, 2.9, 15, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1429,7 +1449,9 @@
             "",
             ""
           ],
-          "Param": [3.26876, 3, 15, 10]
+          "Param": [
+            3.26876, 3, 15, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1452,7 +1474,9 @@
             "",
             ""
           ],
-          "Param": [3.4408, 3, 15, 10]
+          "Param": [
+            3.4408, 3, 15, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1475,7 +1499,9 @@
             "",
             ""
           ],
-          "Param": [3.65585, 3, 15, 10]
+          "Param": [
+            3.65585, 3, 15, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1498,7 +1524,9 @@
             "",
             ""
           ],
-          "Param": [3.8709, 3, 15, 10]
+          "Param": [
+            3.8709, 3, 15, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1521,7 +1549,9 @@
             "",
             ""
           ],
-          "Param": [4.08595, 3, 15, 10]
+          "Param": [
+            4.08595, 3, 15, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         }
       }
     },
@@ -1550,7 +1580,9 @@
             "",
             ""
           ],
-          "Param": [1.424, 12, 40]
+          "Param": [
+            1.424, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1573,7 +1605,9 @@
             "",
             ""
           ],
-          "Param": [1.5308, 12, 40]
+          "Param": [
+            1.5308, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1596,7 +1630,9 @@
             "",
             ""
           ],
-          "Param": [1.6376, 12, 40]
+          "Param": [
+            1.6376, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1619,7 +1655,9 @@
             "",
             ""
           ],
-          "Param": [1.78, 12, 40]
+          "Param": [
+            1.78, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1642,7 +1680,9 @@
             "",
             ""
           ],
-          "Param": [1.8868, 12, 40]
+          "Param": [
+            1.8868, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1665,7 +1705,9 @@
             "",
             ""
           ],
-          "Param": [1.9936, 12, 40]
+          "Param": [
+            1.9936, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1688,7 +1730,9 @@
             "",
             ""
           ],
-          "Param": [2.136, 12, 40]
+          "Param": [
+            2.136, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1711,7 +1755,9 @@
             "",
             ""
           ],
-          "Param": [2.2784, 12, 40]
+          "Param": [
+            2.2784, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1734,7 +1780,9 @@
             "",
             ""
           ],
-          "Param": [2.4208, 12, 40]
+          "Param": [
+            2.4208, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1757,7 +1805,9 @@
             "",
             ""
           ],
-          "Param": [2.5632, 12, 40]
+          "Param": [
+            2.5632, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1780,7 +1830,9 @@
             "",
             ""
           ],
-          "Param": [2.7056, 12, 40]
+          "Param": [
+            2.7056, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1803,7 +1855,9 @@
             "",
             ""
           ],
-          "Param": [2.848, 12, 40]
+          "Param": [
+            2.848, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1826,7 +1880,9 @@
             "",
             ""
           ],
-          "Param": [3.026, 12, 40]
+          "Param": [
+            3.026, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1849,7 +1905,9 @@
             "",
             ""
           ],
-          "Param": [3.204, 12, 40]
+          "Param": [
+            3.204, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1872,7 +1930,9 @@
             "",
             ""
           ],
-          "Param": [3.382, 12, 40]
+          "Param": [
+            3.382, 12, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         }
       }
     }
@@ -1883,21 +1943,25 @@
       "Desc": "Sword, Claymore, or Polearm-wielding characters within the field created by <color=#FFD780FF>Spirit Blade: Chonghua's Layered Frost</color> have their Normal ATK SPD increased by 8%.",
       "Icon": "UI_Talent_S_Chongyun_05",
       "Unlock": 1,
-      "ParamList": [0.08]
+      "ParamList": [
+        0.08, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Rimechaser Blade",
       "Desc": "When the field created by <color=#FFD780FF>Spirit Blade: Chonghua's Layered Frost</color> disappears, another spirit blade will be summoned to strike nearby opponents, dealing 100% of Chonghua's Layered Frost's Skill DMG as <color=#99FFFFFF>AoE Cryo DMG</color>. Opponents hit by this blade will have their <color=#99FFFFFF>Cryo RES</color> decreased by 10% for 8s.",
       "Icon": "UI_Talent_S_Chongyun_06",
       "Unlock": 4,
-      "ParamList": [1, -0.1, 8]
+      "ParamList": [
+        1, -0.1, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Gallant Journey",
       "Desc": "When dispatched on an expedition in Liyue, time consumed is reduced by 25%.",
       "Icon": "UI_Talent_Expedition_Liyue",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Constellations": [
@@ -1905,37 +1969,37 @@
       "Name": "Ice Unleashed",
       "Desc": "The last attack of Chongyun's Normal Attack combo releases 3 ice blades. Each blade deals 50% of Chongyun's ATK as <color=#99FFFFFF>Cryo DMG</color> to all opponents in its path.",
       "Icon": "UI_Talent_S_Chongyun_01",
-      "ParamList": [0.5]
+      "ParamList": [0.5, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Atmospheric Revolution",
       "Desc": "Elemental Skills and Elemental Bursts cast within the Frost Field created by <color=#FFD780FF>Spirit Blade: Chonghua's Layered Frost</color> have their CD time decreased by 15%.",
       "Icon": "UI_Talent_S_Chongyun_02",
-      "ParamList": [0.15]
+      "ParamList": [0.15, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Cloudburst",
       "Desc": "Increases the Level of <color=#FFD780FF>Spirit Blade: Cloud-Parting Star</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Chongyun_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Frozen Skies",
       "Desc": "Chongyun regenerates 1 Energy every time he hits an opponent affected by <color=#99FFFFFF>Cryo</color>.\\nThis effect can only occur once every 2s.",
       "Icon": "UI_Talent_S_Chongyun_03",
-      "ParamList": [1, 2]
+      "ParamList": [1, 2, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "The True Path",
       "Desc": "Increases the Level of <color=#FFD780FF>Spirit Blade: Chonghua's Layered Frost</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Chongyun_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Rally of Four Blades",
       "Desc": "<color=#FFD780FF>Spirit Blade: Cloud-Parting Star</color> deals 15% more DMG to opponents with a lower percentage of their Max HP remaining than Chongyun.\\nThis skill will also summon 1 additional spirit blade.",
       "Icon": "UI_Talent_S_Chongyun_04",
-      "ParamList": [0.15]
+      "ParamList": [0.15, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -1948,7 +2012,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Cor Lapis", "Id": 100058, "Count": 3, "Rank": 1 },
+          { "Name": "Cor Lapis", "Id": 100058, "Count": 3, "Rank": 0 },
           { "Name": "Damaged Mask", "Id": 112005, "Count": 3, "Rank": 1 }
         ],
         "Cost": 20000
@@ -1962,7 +2026,7 @@
             "Rank": 3
           },
           { "Name": "Hoarfrost Core", "Id": 113010, "Count": 2, "Rank": 4 },
-          { "Name": "Cor Lapis", "Id": 100058, "Count": 10, "Rank": 1 },
+          { "Name": "Cor Lapis", "Id": 100058, "Count": 10, "Rank": 0 },
           { "Name": "Damaged Mask", "Id": 112005, "Count": 15, "Rank": 1 }
         ],
         "Cost": 40000
@@ -1976,7 +2040,7 @@
             "Rank": 3
           },
           { "Name": "Hoarfrost Core", "Id": 113010, "Count": 4, "Rank": 4 },
-          { "Name": "Cor Lapis", "Id": 100058, "Count": 20, "Rank": 1 },
+          { "Name": "Cor Lapis", "Id": 100058, "Count": 20, "Rank": 0 },
           { "Name": "Stained Mask", "Id": 112006, "Count": 12, "Rank": 2 }
         ],
         "Cost": 60000
@@ -1985,7 +2049,7 @@
         "Mats": [
           { "Name": "Shivada Jade Chunk", "Id": 104163, "Count": 3, "Rank": 4 },
           { "Name": "Hoarfrost Core", "Id": 113010, "Count": 8, "Rank": 4 },
-          { "Name": "Cor Lapis", "Id": 100058, "Count": 30, "Rank": 1 },
+          { "Name": "Cor Lapis", "Id": 100058, "Count": 30, "Rank": 0 },
           { "Name": "Stained Mask", "Id": 112006, "Count": 18, "Rank": 2 }
         ],
         "Cost": 80000
@@ -1994,7 +2058,7 @@
         "Mats": [
           { "Name": "Shivada Jade Chunk", "Id": 104163, "Count": 6, "Rank": 4 },
           { "Name": "Hoarfrost Core", "Id": 113010, "Count": 12, "Rank": 4 },
-          { "Name": "Cor Lapis", "Id": 100058, "Count": 45, "Rank": 1 },
+          { "Name": "Cor Lapis", "Id": 100058, "Count": 45, "Rank": 0 },
           { "Name": "Ominous Mask", "Id": 112007, "Count": 12, "Rank": 3 }
         ],
         "Cost": 100000
@@ -2008,7 +2072,7 @@
             "Rank": 5
           },
           { "Name": "Hoarfrost Core", "Id": 113010, "Count": 20, "Rank": 4 },
-          { "Name": "Cor Lapis", "Id": 100058, "Count": 60, "Rank": 1 },
+          { "Name": "Cor Lapis", "Id": 100058, "Count": 60, "Rank": 0 },
           { "Name": "Ominous Mask", "Id": 112007, "Count": 24, "Rank": 3 }
         ],
         "Cost": 120000

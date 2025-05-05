@@ -5,14 +5,15 @@
   "Rank": [3, 4, 5],
   "Affix": [
     {
-      "paramList": [0.4],
       "id": 215012,
-      "openConfig": "Relic_WindResistance",
+      "level": 0,
       "affixId": 2150120,
+      "paramList": [0.4, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "Relic_WindResistance",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Prayers to the Firmament",
       "Desc": "Affected by Anemo for 40% less time."

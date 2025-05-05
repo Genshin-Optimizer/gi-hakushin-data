@@ -5,28 +5,29 @@
   "Rank": [4, 5],
   "Affix": [
     {
-      "paramList": [0.25],
       "id": 215039,
-      "openConfig": "Relic_FallingAttack_2",
+      "level": 0,
       "affixId": 2150390,
+      "paramList": [0.25, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "Relic_FallingAttack_2",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Long Night's Oath",
       "Desc": "Plunging Attack DMG increased by 25%."
     },
     {
-      "level": 1,
-      "paramList": [1, 2, 2, 0.15, 6, 1, 5],
       "id": 215039,
-      "openConfig": "Relic_FallingAttack_4",
+      "level": 1,
       "affixId": 2150391,
+      "paramList": [1, 2, 2, 0.15, 6, 1, 5, 0],
+      "openConfig": "Relic_FallingAttack_4",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Long Night's Oath",
       "Desc": "After the equipping character's Plunging Attack/Charged Attack/Elemental Skill hits an opponent, they will gain 1/2/2 stack(s) of \"Radiance Everlasting.\" Plunging Attacks, Charged Attacks, or Elemental Skills can each trigger this effect once every 1s. Radiance Everlasting: Plunging Attacks deal 15% increased DMG for 6s. Max 5 stacks. Each stack's duration is counted independently."

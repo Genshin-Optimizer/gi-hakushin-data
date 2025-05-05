@@ -5,28 +5,29 @@
   "Rank": [4, 5],
   "Affix": [
     {
-      "paramList": [0.15],
       "id": 215031,
-      "openConfig": "Relic_NorAndExtraAtkUp",
+      "level": 0,
       "affixId": 2150310,
+      "paramList": [0.15, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "Relic_NorAndExtraAtkUp",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Marechaussee Hunter",
       "Desc": "Normal and Charged Attack DMG +15%"
     },
     {
-      "level": 1,
-      "paramList": [0.12, 5, 3],
       "id": 215031,
-      "openConfig": "Relic_BuffWhenHPUpAndDown",
+      "level": 1,
       "affixId": 2150311,
+      "paramList": [0.12, 5, 3, 0, 0, 0, 0, 0],
+      "openConfig": "Relic_BuffWhenHPUpAndDown",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Marechaussee Hunter",
       "Desc": "When current HP increases or decreases, CRIT Rate will be increased by 12% for 5s. Max 3 stacks."

@@ -431,6 +431,14 @@
         "Title": "Joining Party: III",
         "Text": "Witness my magnificence!",
         "Unlocked": []
+      },
+      {
+        "Title": "About Escoffier",
+        "Text": "Oh? You've met my Patissiere Supreme? Thanks to Escoffier, I used to have my pick of delectable confections, even beyond Gateau Debord. Unfortunately, after everything that happened, I can no longer afford what the Palais Mermonia was paying her. Hm? Oh, don't worry, we're still in touch. I like to send her homemade dishes of my own. I even invented a new one not too long ago — \"Harra Fruit Fish Jelly Macaroni\"... Sounds good, right? I'll make it for you sometime.",
+        "Unlocked": [
+          "Unlocks at Friendship Lv. 4",
+          "Complete \"Masquerade of the Guilty\""
+        ]
       }
     ],
     "SpecialFood": {
@@ -452,7 +460,7 @@
         "Name": "Coronated Prima Donna",
         "Desc": "Furina's outfit. When the curtain rises, the star of the show is meant to shine bright on the stage, and even gorgeous costumes adorned with diamonds pale in comparison to her own dazzling brilliance.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -831,7 +839,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Soloist's Solicitation",
+      "Name": "Soloist's Solicitation",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 consecutive strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to unleash a solo dance, dealing Physical DMG to nearby opponents and changing her Arkhe alignment. If Salon Members or the Singer of Many Waters summoned by her Elemental Skill \"Salon Solitaire\" is present, their lineup will switch in response.\\n\\n<color=#FFD780FF>Arkhe: Seats Sacred and Secular</color>\\nAt intervals, when Furina's Normal Attacks hit, a Spiritbreath Thorn or a Surging Blade will descend based on her current Arkhe alignment, dealing Pneuma- or Ousia-aligned <color=#80C0FFFF>Hydro DMG</color>.\\nWhen Furina takes the field, her starting Arkhe alignment will be Ousia.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
       "Promote": {
         "0": {
@@ -857,7 +865,7 @@
           ],
           "Param": [
             0.483862, 0.437293, 0.5512, 0.732978, 0.74218, 20, 0.639324,
-            1.278377, 1.596762, 0.0946, 6, 6
+            1.278377, 1.596762, 0.0946, 6, 6, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -883,7 +891,7 @@
           ],
           "Param": [
             0.523246, 0.472886, 0.596065, 0.792639, 0.80259, 20, 0.691362,
-            1.382431, 1.726731, 0.1023, 6, 6
+            1.382431, 1.726731, 0.1023, 6, 6, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -909,7 +917,7 @@
           ],
           "Param": [
             0.56263, 0.50848, 0.64093, 0.8523, 0.863, 20, 0.7434, 1.486485,
-            1.8567, 0.11, 6, 6
+            1.8567, 0.11, 6, 6, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -935,7 +943,7 @@
           ],
           "Param": [
             0.618893, 0.559328, 0.705023, 0.93753, 0.9493, 20, 0.81774,
-            1.635134, 2.04237, 0.121, 6, 6
+            1.635134, 2.04237, 0.121, 6, 6, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -961,7 +969,7 @@
           ],
           "Param": [
             0.658277, 0.594922, 0.749888, 0.997191, 1.00971, 20, 0.869778,
-            1.739187, 2.172339, 0.1287, 6, 6
+            1.739187, 2.172339, 0.1287, 6, 6, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -987,7 +995,7 @@
           ],
           "Param": [
             0.703287, 0.6356, 0.801162, 1.065375, 1.07875, 20, 0.92925,
-            1.858106, 2.320875, 0.1375, 6, 6
+            1.858106, 2.320875, 0.1375, 6, 6, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -1013,7 +1021,7 @@
           ],
           "Param": [
             0.765177, 0.691533, 0.871665, 1.159128, 1.17368, 20, 1.011024,
-            2.02162, 2.525112, 0.1496, 6, 6
+            2.02162, 2.525112, 0.1496, 6, 6, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1039,7 +1047,7 @@
           ],
           "Param": [
             0.827066, 0.747466, 0.942167, 1.252881, 1.26861, 20, 1.092798,
-            2.185133, 2.729349, 0.1617, 6, 6
+            2.185133, 2.729349, 0.1617, 6, 6, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1065,7 +1073,7 @@
           ],
           "Param": [
             0.888955, 0.803398, 1.012669, 1.346634, 1.36354, 20, 1.174572,
-            2.348646, 2.933586, 0.1738, 6, 6
+            2.348646, 2.933586, 0.1738, 6, 6, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1091,7 +1099,7 @@
           ],
           "Param": [
             0.956471, 0.864416, 1.089581, 1.44891, 1.4671, 20, 1.26378,
-            2.527025, 3.15639, 0.187, 6, 6
+            2.527025, 3.15639, 0.187, 6, 6, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1117,7 +1125,7 @@
           ],
           "Param": [
             1.023987, 0.925434, 1.166493, 1.551186, 1.57066, 20, 1.352988,
-            2.705403, 3.379194, 0.2002, 6, 6
+            2.705403, 3.379194, 0.2002, 6, 6, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1143,7 +1151,7 @@
           ],
           "Param": [
             1.091502, 0.986451, 1.243404, 1.653462, 1.67422, 20, 1.442196,
-            2.883781, 3.601998, 0.2134, 6, 6
+            2.883781, 3.601998, 0.2134, 6, 6, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1169,7 +1177,7 @@
           ],
           "Param": [
             1.159018, 1.047469, 1.320316, 1.755738, 1.77778, 20, 1.531404,
-            3.062159, 3.824802, 0.2266, 6, 6
+            3.062159, 3.824802, 0.2266, 6, 6, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1195,7 +1203,7 @@
           ],
           "Param": [
             1.226533, 1.108486, 1.397227, 1.858014, 1.88134, 20, 1.620612,
-            3.240537, 4.047606, 0.2398, 6, 6
+            3.240537, 4.047606, 0.2398, 6, 6, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1221,7 +1229,7 @@
           ],
           "Param": [
             1.294049, 1.169504, 1.474139, 1.96029, 1.9849, 20, 1.70982,
-            3.418915, 4.27041, 0.253, 6, 6
+            3.418915, 4.27041, 0.253, 6, 6, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1253,7 +1261,7 @@
           ],
           "Param": [
             0.07864, 30, 0.0596, 0.03232, 0.08288, 0.024, 0.016, 0.036, 0.048,
-            462.2253, 20
+            462.2253, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -1279,7 +1287,7 @@
           ],
           "Param": [
             0.084538, 30, 0.06407, 0.034744, 0.089096, 0.024, 0.016, 0.036,
-            0.0516, 508.45425, 20
+            0.0516, 508.45425, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -1305,7 +1313,7 @@
           ],
           "Param": [
             0.090436, 30, 0.06854, 0.037168, 0.095312, 0.024, 0.016, 0.036,
-            0.0552, 558.53564, 20
+            0.0552, 558.53564, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -1331,7 +1339,7 @@
           ],
           "Param": [
             0.0983, 30, 0.0745, 0.0404, 0.1036, 0.024, 0.016, 0.036, 0.06,
-            612.4694, 20
+            612.4694, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -1357,7 +1365,7 @@
           ],
           "Param": [
             0.104198, 30, 0.07897, 0.042824, 0.109816, 0.024, 0.016, 0.036,
-            0.0636, 670.2556, 20
+            0.0636, 670.2556, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -1383,7 +1391,7 @@
           ],
           "Param": [
             0.110096, 30, 0.08344, 0.045248, 0.116032, 0.024, 0.016, 0.036,
-            0.0672, 731.8942, 20
+            0.0672, 731.8942, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -1409,7 +1417,7 @@
           ],
           "Param": [
             0.11796, 30, 0.0894, 0.04848, 0.12432, 0.024, 0.016, 0.036, 0.072,
-            797.3852, 20
+            797.3852, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1435,7 +1443,7 @@
           ],
           "Param": [
             0.125824, 30, 0.09536, 0.051712, 0.132608, 0.024, 0.016, 0.036,
-            0.0768, 866.72864, 20
+            0.0768, 866.72864, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1461,7 +1469,7 @@
           ],
           "Param": [
             0.133688, 30, 0.10132, 0.054944, 0.140896, 0.024, 0.016, 0.036,
-            0.0816, 939.9245, 20
+            0.0816, 939.9245, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1487,7 +1495,7 @@
           ],
           "Param": [
             0.141552, 30, 0.10728, 0.058176, 0.149184, 0.024, 0.016, 0.036,
-            0.0864, 1016.9728, 20
+            0.0864, 1016.9728, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1513,7 +1521,7 @@
           ],
           "Param": [
             0.149416, 30, 0.11324, 0.061408, 0.157472, 0.024, 0.016, 0.036,
-            0.0912, 1097.8734, 20
+            0.0912, 1097.8734, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1539,7 +1547,7 @@
           ],
           "Param": [
             0.15728, 30, 0.1192, 0.06464, 0.16576, 0.024, 0.016, 0.036, 0.096,
-            1182.6265, 20
+            1182.6265, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1565,7 +1573,7 @@
           ],
           "Param": [
             0.16711, 30, 0.12665, 0.06868, 0.17612, 0.024, 0.016, 0.036, 0.102,
-            1271.232, 20
+            1271.232, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1591,7 +1599,7 @@
           ],
           "Param": [
             0.17694, 30, 0.1341, 0.07272, 0.18648, 0.024, 0.016, 0.036, 0.108,
-            1363.69, 20
+            1363.69, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1617,7 +1625,7 @@
           ],
           "Param": [
             0.18677, 30, 0.14155, 0.07676, 0.19684, 0.024, 0.016, 0.036, 0.114,
-            1460.0002, 20
+            1460.0002, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1647,7 +1655,10 @@
             "",
             ""
           ],
-          "Param": [0.114064, 18, 0.01, 300, 0.0007, 0.0001, 15, 60]
+          "Param": [
+            0.114064, 18, 0.01, 300, 0.0007, 0.0001, 15, 60, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1670,7 +1681,10 @@
             "",
             ""
           ],
-          "Param": [0.122619, 18, 0.01, 300, 0.0009, 0.0002, 15, 60]
+          "Param": [
+            0.122619, 18, 0.01, 300, 0.0009, 0.0002, 15, 60, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1693,7 +1707,10 @@
             "",
             ""
           ],
-          "Param": [0.131174, 18, 0.01, 300, 0.0011, 0.0003, 15, 60]
+          "Param": [
+            0.131174, 18, 0.01, 300, 0.0011, 0.0003, 15, 60, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1716,7 +1733,10 @@
             "",
             ""
           ],
-          "Param": [0.14258, 18, 0.01, 300, 0.0013, 0.0004, 15, 60]
+          "Param": [
+            0.14258, 18, 0.01, 300, 0.0013, 0.0004, 15, 60, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1739,7 +1759,10 @@
             "",
             ""
           ],
-          "Param": [0.151135, 18, 0.01, 300, 0.0015, 0.0005, 15, 60]
+          "Param": [
+            0.151135, 18, 0.01, 300, 0.0015, 0.0005, 15, 60, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1762,7 +1785,10 @@
             "",
             ""
           ],
-          "Param": [0.15969, 18, 0.01, 300, 0.0017, 0.0006, 15, 60]
+          "Param": [
+            0.15969, 18, 0.01, 300, 0.0017, 0.0006, 15, 60, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1785,7 +1811,10 @@
             "",
             ""
           ],
-          "Param": [0.171096, 18, 0.01, 300, 0.0019, 0.0007, 15, 60]
+          "Param": [
+            0.171096, 18, 0.01, 300, 0.0019, 0.0007, 15, 60, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1808,7 +1837,10 @@
             "",
             ""
           ],
-          "Param": [0.182502, 18, 0.01, 300, 0.0021, 0.0008, 15, 60]
+          "Param": [
+            0.182502, 18, 0.01, 300, 0.0021, 0.0008, 15, 60, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1831,7 +1863,10 @@
             "",
             ""
           ],
-          "Param": [0.193909, 18, 0.01, 300, 0.0023, 0.0009, 15, 60]
+          "Param": [
+            0.193909, 18, 0.01, 300, 0.0023, 0.0009, 15, 60, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1854,7 +1889,10 @@
             "",
             ""
           ],
-          "Param": [0.205315, 18, 0.01, 300, 0.0025, 0.001, 15, 60]
+          "Param": [
+            0.205315, 18, 0.01, 300, 0.0025, 0.001, 15, 60, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1877,7 +1915,10 @@
             "",
             ""
           ],
-          "Param": [0.216722, 18, 0.01, 300, 0.0027, 0.0011, 15, 60]
+          "Param": [
+            0.216722, 18, 0.01, 300, 0.0027, 0.0011, 15, 60, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1900,7 +1941,10 @@
             "",
             ""
           ],
-          "Param": [0.228128, 18, 0.01, 300, 0.0029, 0.0012, 15, 60]
+          "Param": [
+            0.228128, 18, 0.01, 300, 0.0029, 0.0012, 15, 60, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1923,7 +1967,10 @@
             "",
             ""
           ],
-          "Param": [0.242386, 18, 0.01, 300, 0.0031, 0.0013, 15, 60]
+          "Param": [
+            0.242386, 18, 0.01, 300, 0.0031, 0.0013, 15, 60, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1946,7 +1993,10 @@
             "",
             ""
           ],
-          "Param": [0.256644, 18, 0.01, 300, 0.0033, 0.0014, 15, 60]
+          "Param": [
+            0.256644, 18, 0.01, 300, 0.0033, 0.0014, 15, 60, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1969,7 +2019,10 @@
             "",
             ""
           ],
-          "Param": [0.270902, 18, 0.01, 300, 0.0035, 0.0015, 15, 60]
+          "Param": [
+            0.270902, 18, 0.01, 300, 0.0035, 0.0015, 15, 60, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         }
       }
     }
@@ -1980,21 +2033,25 @@
       "Desc": "When the active character in your party receives healing, if the source of the healing is not Furina herself and the healing overflows, then Furina will heal nearby party members for 2% of their Max HP once every 2s for the next 4s.",
       "Icon": "UI_Talent_S_Furina_05",
       "Unlock": 1,
-      "ParamList": [4, 2, 0.02]
+      "ParamList": [
+        4, 2, 0.02, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Unheard Confession",
       "Desc": "Every 1,000 points of Furina's Max HP can buff the different Arkhe-aligned <color=#FFD780FF>Salon Solitaire</color> in the following ways:\\nWill increase Salon Members' DMG dealt by 0.7%, up to a maximum of 28%.\\nWill decrease the Singer of Many Waters' healing interval for nearby active characters by 0.4%, up to a maximum of 16%.",
       "Icon": "UI_Talent_S_Furina_06",
       "Unlock": 4,
-      "ParamList": [0.007, 0.28, 0.004, 0.16]
+      "ParamList": [
+        0.007, 0.28, 0.004, 0.16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "The Sea Is My Stage",
       "Desc": "Xenochromatic Fontemer Aberrant ability CD decreased by 30%.",
       "Icon": "UI_Talent_S_Furina_07",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Constellations": [
@@ -2002,31 +2059,31 @@
       "Name": "\"Love Is a Rebellious Bird That None Can Tame\"",
       "Desc": "When using <color=#FFD780FF>Let the People Rejoice</color>, Furina will gain 150 Fanfare.\\nAdditionally, Furina's Fanfare limit is increased by 100.",
       "Icon": "UI_Talent_S_Furina_01",
-      "ParamList": [150, 100]
+      "ParamList": [150, 100, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "\"A Woman Adapts Like Duckweed in Water\"",
       "Desc": "While <color=#FFD780FF>Let the People Rejoice</color> lasts, Furina's Fanfare gain from increases or decreases in nearby characters' HP is increased by 250%. Each point of Fanfare above the limit will increase Furina's Max HP by 0.35%. Her maximum Max HP increase is 140%.",
       "Icon": "UI_Talent_S_Furina_04",
-      "ParamList": [-0.714286, 0.0035, 400, 2.5, 1.4]
+      "ParamList": [-0.714286, 0.0035, 400, 2.5, 1.4, 0, 0, 0]
     },
     {
       "Name": "\"My Secret Is Hidden Within Me, No One Will Know My Name\"",
       "Desc": "Increases the Level of <color=#FFD780FF>Let the People Rejoice</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Furina_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "\"They Know Not Life, Who Dwelt in the Netherworld Not!\"",
       "Desc": "When the Salon Members from <color=#FFD780FF>Salon Solitaire</color> hit an opponent, or the Singer of Many Waters restores HP to nearby active characters, Furina will restore 4 Energy. This effect can be triggered once every 5s.",
       "Icon": "UI_Talent_S_Furina_03",
-      "ParamList": [4, 5]
+      "ParamList": [4, 5, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "\"His Name I Now Know, It Is...!\"",
       "Desc": "Increases the Level of <color=#FFD780FF>Salon Solitaire</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Furina_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "\"Hear Me — Let Us Raise the Chalice of Love!\"",
@@ -2045,7 +2102,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Lakelight Lily", "Id": 101238, "Count": 3, "Rank": 1 },
+          { "Name": "Lakelight Lily", "Id": 101238, "Count": 3, "Rank": 0 },
           {
             "Name": "Whopperflower Nectar",
             "Id": 112038,
@@ -2069,7 +2126,7 @@
             "Count": 2,
             "Rank": 4
           },
-          { "Name": "Lakelight Lily", "Id": 101238, "Count": 10, "Rank": 1 },
+          { "Name": "Lakelight Lily", "Id": 101238, "Count": 10, "Rank": 0 },
           {
             "Name": "Whopperflower Nectar",
             "Id": 112038,
@@ -2093,7 +2150,7 @@
             "Count": 4,
             "Rank": 4
           },
-          { "Name": "Lakelight Lily", "Id": 101238, "Count": 20, "Rank": 1 },
+          { "Name": "Lakelight Lily", "Id": 101238, "Count": 20, "Rank": 0 },
           { "Name": "Shimmering Nectar", "Id": 112039, "Count": 12, "Rank": 2 }
         ],
         "Cost": 60000
@@ -2112,7 +2169,7 @@
             "Count": 8,
             "Rank": 4
           },
-          { "Name": "Lakelight Lily", "Id": 101238, "Count": 30, "Rank": 1 },
+          { "Name": "Lakelight Lily", "Id": 101238, "Count": 30, "Rank": 0 },
           { "Name": "Shimmering Nectar", "Id": 112039, "Count": 18, "Rank": 2 }
         ],
         "Cost": 80000
@@ -2131,7 +2188,7 @@
             "Count": 12,
             "Rank": 4
           },
-          { "Name": "Lakelight Lily", "Id": 101238, "Count": 45, "Rank": 1 },
+          { "Name": "Lakelight Lily", "Id": 101238, "Count": 45, "Rank": 0 },
           { "Name": "Energy Nectar", "Id": 112040, "Count": 12, "Rank": 3 }
         ],
         "Cost": 100000
@@ -2150,7 +2207,7 @@
             "Count": 20,
             "Rank": 4
           },
-          { "Name": "Lakelight Lily", "Id": 101238, "Count": 60, "Rank": 1 },
+          { "Name": "Lakelight Lily", "Id": 101238, "Count": 60, "Rank": 0 },
           { "Name": "Energy Nectar", "Id": 112040, "Count": 24, "Rank": 3 }
         ],
         "Cost": 120000

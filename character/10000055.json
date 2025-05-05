@@ -406,7 +406,7 @@
         "Name": "Panoply of a Hundred Hunts",
         "Desc": "Gorou's outfit. This light armor is designed to allow the marksman-general Gorou to handle his bow with ease. The armoring at the shoulder and elbow is also designed with this in mind.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -785,7 +785,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Ripping Fang Fletching",
+      "Name": "Ripping Fang Fletching",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 consecutive shots with a bow.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nPerforms a more precise <color=#FFD780FF>Aimed Shot</color> with increased DMG.\\nWhile aiming, stone crystals will accumulate on the arrowhead. A fully charged crystalline arrow will deal <color=#FFE699FF>Geo DMG</color>.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
       "Promote": {
         "0": {
@@ -811,7 +811,7 @@
           ],
           "Param": [
             0.37754, 0.37152, 0.4945, 0.58996, 0.4386, 1.24, 0.568288, 1.136335,
-            1.419344
+            1.419344, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -837,7 +837,7 @@
           ],
           "Param": [
             0.40827, 0.40176, 0.53475, 0.63798, 0.4743, 1.333, 0.614544,
-            1.228828, 1.534872
+            1.228828, 1.534872, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -862,7 +862,8 @@
             ""
           ],
           "Param": [
-            0.439, 0.432, 0.575, 0.686, 0.51, 1.426, 0.6608, 1.32132, 1.6504
+            0.439, 0.432, 0.575, 0.686, 0.51, 1.426, 0.6608, 1.32132, 1.6504, 0,
+            0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -888,7 +889,7 @@
           ],
           "Param": [
             0.4829, 0.4752, 0.6325, 0.7546, 0.561, 1.55, 0.72688, 1.453452,
-            1.81544
+            1.81544, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -914,7 +915,7 @@
           ],
           "Param": [
             0.51363, 0.50544, 0.67275, 0.80262, 0.5967, 1.643, 0.773136,
-            1.545944, 1.930968
+            1.545944, 1.930968, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -939,7 +940,8 @@
             ""
           ],
           "Param": [
-            0.54875, 0.54, 0.71875, 0.8575, 0.6375, 1.736, 0.826, 1.65165, 2.063
+            0.54875, 0.54, 0.71875, 0.8575, 0.6375, 1.736, 0.826, 1.65165,
+            2.063, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -965,7 +967,7 @@
           ],
           "Param": [
             0.59704, 0.58752, 0.782, 0.93296, 0.6936, 1.86, 0.898688, 1.796995,
-            2.244544
+            2.244544, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -991,7 +993,7 @@
           ],
           "Param": [
             0.64533, 0.63504, 0.84525, 1.00842, 0.7497, 1.984, 0.971376,
-            1.94234, 2.426088
+            1.94234, 2.426088, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1017,7 +1019,7 @@
           ],
           "Param": [
             0.69362, 0.68256, 0.9085, 1.08388, 0.8058, 2.108, 1.044064,
-            2.087686, 2.607632
+            2.087686, 2.607632, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1043,7 +1045,7 @@
           ],
           "Param": [
             0.7463, 0.7344, 0.9775, 1.1662, 0.867, 2.232, 1.12336, 2.246244,
-            2.80568
+            2.80568, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1069,7 +1071,7 @@
           ],
           "Param": [
             0.79898, 0.78624, 1.0465, 1.24852, 0.9282, 2.356, 1.202656,
-            2.404802, 3.003728
+            2.404802, 3.003728, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1095,7 +1097,7 @@
           ],
           "Param": [
             0.85166, 0.83808, 1.1155, 1.33084, 0.9894, 2.48, 1.281952, 2.563361,
-            3.201776
+            3.201776, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1121,7 +1123,7 @@
           ],
           "Param": [
             0.90434, 0.88992, 1.1845, 1.41316, 1.0506, 2.635, 1.361248,
-            2.721919, 3.399824
+            2.721919, 3.399824, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1147,7 +1149,7 @@
           ],
           "Param": [
             0.95702, 0.94176, 1.2535, 1.49548, 1.1118, 2.79, 1.440544, 2.880478,
-            3.597872
+            3.597872, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1173,7 +1175,7 @@
           ],
           "Param": [
             1.0097, 0.9936, 1.3225, 1.5778, 1.173, 2.945, 1.51984, 3.039036,
-            3.79592
+            3.79592, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1203,7 +1205,10 @@
             "",
             ""
           ],
-          "Param": [1.072, 206.16, 0.15, 10, 10]
+          "Param": [
+            1.072, 206.16, 0.15, 10, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1226,7 +1231,10 @@
             "",
             ""
           ],
-          "Param": [1.1524, 221.622, 0.15, 10, 10]
+          "Param": [
+            1.1524, 221.622, 0.15, 10, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1249,7 +1257,10 @@
             "",
             ""
           ],
-          "Param": [1.2328, 237.084, 0.15, 10, 10]
+          "Param": [
+            1.2328, 237.084, 0.15, 10, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1272,7 +1283,10 @@
             "",
             ""
           ],
-          "Param": [1.34, 257.7, 0.15, 10, 10]
+          "Param": [
+            1.34, 257.7, 0.15, 10, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1295,7 +1309,10 @@
             "",
             ""
           ],
-          "Param": [1.4204, 273.162, 0.15, 10, 10]
+          "Param": [
+            1.4204, 273.162, 0.15, 10, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1318,7 +1335,10 @@
             "",
             ""
           ],
-          "Param": [1.5008, 288.624, 0.15, 10, 10]
+          "Param": [
+            1.5008, 288.624, 0.15, 10, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1341,7 +1361,10 @@
             "",
             ""
           ],
-          "Param": [1.608, 309.24, 0.15, 10, 10]
+          "Param": [
+            1.608, 309.24, 0.15, 10, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1364,7 +1387,10 @@
             "",
             ""
           ],
-          "Param": [1.7152, 329.856, 0.15, 10, 10]
+          "Param": [
+            1.7152, 329.856, 0.15, 10, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1387,7 +1413,10 @@
             "",
             ""
           ],
-          "Param": [1.8224, 350.472, 0.15, 10, 10]
+          "Param": [
+            1.8224, 350.472, 0.15, 10, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1410,7 +1439,10 @@
             "",
             ""
           ],
-          "Param": [1.9296, 371.088, 0.15, 10, 10]
+          "Param": [
+            1.9296, 371.088, 0.15, 10, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1433,7 +1465,10 @@
             "",
             ""
           ],
-          "Param": [2.0368, 391.704, 0.15, 10, 10]
+          "Param": [
+            2.0368, 391.704, 0.15, 10, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1456,7 +1491,10 @@
             "",
             ""
           ],
-          "Param": [2.144, 412.32, 0.15, 10, 10]
+          "Param": [
+            2.144, 412.32, 0.15, 10, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1479,7 +1517,10 @@
             "",
             ""
           ],
-          "Param": [2.278, 438.09, 0.15, 10, 10]
+          "Param": [
+            2.278, 438.09, 0.15, 10, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1502,7 +1543,10 @@
             "",
             ""
           ],
-          "Param": [2.412, 463.86, 0.15, 10, 10]
+          "Param": [
+            2.412, 463.86, 0.15, 10, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1525,7 +1569,10 @@
             "",
             ""
           ],
-          "Param": [2.546, 489.63, 0.15, 10, 10]
+          "Param": [
+            2.546, 489.63, 0.15, 10, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         }
       }
     },
@@ -1554,7 +1601,10 @@
             "",
             ""
           ],
-          "Param": [0.98216, 0.613, 9, 20, 80]
+          "Param": [
+            0.98216, 0.613, 9, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1577,7 +1627,10 @@
             "",
             ""
           ],
-          "Param": [1.055822, 0.658975, 9, 20, 80]
+          "Param": [
+            1.055822, 0.658975, 9, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1600,7 +1653,10 @@
             "",
             ""
           ],
-          "Param": [1.129484, 0.70495, 9, 20, 80]
+          "Param": [
+            1.129484, 0.70495, 9, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1623,7 +1679,10 @@
             "",
             ""
           ],
-          "Param": [1.2277, 0.76625, 9, 20, 80]
+          "Param": [
+            1.2277, 0.76625, 9, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1646,7 +1705,10 @@
             "",
             ""
           ],
-          "Param": [1.301362, 0.812225, 9, 20, 80]
+          "Param": [
+            1.301362, 0.812225, 9, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1669,7 +1731,10 @@
             "",
             ""
           ],
-          "Param": [1.375024, 0.8582, 9, 20, 80]
+          "Param": [
+            1.375024, 0.8582, 9, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1692,7 +1757,10 @@
             "",
             ""
           ],
-          "Param": [1.47324, 0.9195, 9, 20, 80]
+          "Param": [
+            1.47324, 0.9195, 9, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1715,7 +1783,10 @@
             "",
             ""
           ],
-          "Param": [1.571456, 0.9808, 9, 20, 80]
+          "Param": [
+            1.571456, 0.9808, 9, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1738,7 +1809,10 @@
             "",
             ""
           ],
-          "Param": [1.669672, 1.0421, 9, 20, 80]
+          "Param": [
+            1.669672, 1.0421, 9, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1761,7 +1835,10 @@
             "",
             ""
           ],
-          "Param": [1.767888, 1.1034, 9, 20, 80]
+          "Param": [
+            1.767888, 1.1034, 9, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1784,7 +1861,10 @@
             "",
             ""
           ],
-          "Param": [1.866104, 1.1647, 9, 20, 80]
+          "Param": [
+            1.866104, 1.1647, 9, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1807,7 +1887,10 @@
             "",
             ""
           ],
-          "Param": [1.96432, 1.226, 9, 20, 80]
+          "Param": [
+            1.96432, 1.226, 9, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1830,7 +1913,10 @@
             "",
             ""
           ],
-          "Param": [2.08709, 1.302625, 9, 20, 80]
+          "Param": [
+            2.08709, 1.302625, 9, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1853,7 +1939,10 @@
             "",
             ""
           ],
-          "Param": [2.20986, 1.37925, 9, 20, 80]
+          "Param": [
+            2.20986, 1.37925, 9, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1876,7 +1965,10 @@
             "",
             ""
           ],
-          "Param": [2.33263, 1.455875, 9, 20, 80]
+          "Param": [
+            2.33263, 1.455875, 9, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         }
       }
     }
@@ -1887,21 +1979,25 @@
       "Desc": "After using <color=#FFD780FF>Juuga: Forward Unto Victory</color>, all nearby party members' DEF is increased by 25% for 12s.",
       "Icon": "UI_Talent_S_Gorou_05",
       "Unlock": 1,
-      "ParamList": [0.25, 12]
+      "ParamList": [
+        0.25, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "A Favor Repaid",
       "Desc": "Gorou receives the following DMG Bonuses to his attacks based on his DEF:\\n· <color=#FFD780FF>Inuzaka All-Round Defense</color>: Skill DMG increased by 156% of DEF\\n· <color=#FFD780FF>Juuga: Forward Unto Victory</color>: Skill DMG and Crystal Collapse DMG increased by 15.6% of DEF",
       "Icon": "UI_Talent_S_Gorou_06",
       "Unlock": 4,
-      "ParamList": [1.56, 0.156]
+      "ParamList": [
+        1.56, 0.156, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Seeker of Shinies",
       "Desc": "Displays the location of nearby <color=#FFD780FF>resources unique to Inazuma</color> on the mini-map.",
       "Icon": "UI_Talent_S_Gorou_07",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Constellations": [
@@ -1909,37 +2005,37 @@
       "Name": "Rushing Hound: Swift as the Wind",
       "Desc": "When characters (other than Gorou) within the AoE of Gorou's <color=#FFD780FF>General's War Banner</color> or <color=#FFD780FF>General's Glory</color> deal Geo DMG to opponents, the CD of Gorou's <color=#FFD780FF>Inuzaka All-Round Defense</color> is decreased by 2s.\\nThis effect can occur once every 10s.",
       "Icon": "UI_Talent_S_Gorou_01",
-      "ParamList": [-2, 10]
+      "ParamList": [-2, 10, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Sitting Hound: Steady as a Clock",
       "Desc": "While <color=#FFD780FF>General's Glory</color> is in effect, its duration is extended by 1s when a nearby active character obtains an Elemental Shard from a Crystallize reaction. \\nThis effect can occur once every 0.1s. Max extension is 3s.",
       "Icon": "UI_Talent_S_Gorou_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Mauling Hound: Fierce as Fire",
       "Desc": "Increases the Level of <color=#FFD780FF>Inuzaka All-Round Defense</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Gorou_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Lapping Hound: Warm as Water",
       "Desc": "When <color=#FFD780FF>General's Glory</color> is in the \"Impregnable\" or \"Crunch\" states, it will also heal active characters within its AoE by 50% of Gorou's own DEF every 1.5s.",
       "Icon": "UI_Talent_S_Gorou_03",
-      "ParamList": [0.5]
+      "ParamList": [0.5, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Striking Hound: Thunderous Force",
       "Desc": "Increases the Level of <color=#FFD780FF>Juuga: Forward Unto Victory</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Gorou_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Valiant Hound: Mountainous Fealty",
       "Desc": "For 12s after using <color=#FFD780FF>Inuzaka All-Round Defense</color> or <color=#FFD780FF>Juuga: Forward Unto Victory</color>, increases the CRIT DMG of all nearby party members' <color=#FFE699FF>Geo DMG</color> based on the buff level of the skill's field at the time of use:\\n· \"Standing Firm\": +10%\\n· \"Impregnable\": +20%\\n· \"Crunch\": +40%\\n\\nThis effect cannot stack and will take reference from the last instance of the effect that is triggered.",
       "Icon": "UI_Talent_S_Gorou_04",
-      "ParamList": [0.1, 0.2, 0.4, 12]
+      "ParamList": [0.1, 0.2, 0.4, 12, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -1952,7 +2048,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Sango Pearl", "Id": 101207, "Count": 3, "Rank": 1 },
+          { "Name": "Sango Pearl", "Id": 101207, "Count": 3, "Rank": 0 },
           { "Name": "Spectral Husk", "Id": 112053, "Count": 3, "Rank": 1 }
         ],
         "Cost": 20000
@@ -1966,7 +2062,7 @@
             "Rank": 3
           },
           { "Name": "Perpetual Heart", "Id": 113023, "Count": 2, "Rank": 4 },
-          { "Name": "Sango Pearl", "Id": 101207, "Count": 10, "Rank": 1 },
+          { "Name": "Sango Pearl", "Id": 101207, "Count": 10, "Rank": 0 },
           { "Name": "Spectral Husk", "Id": 112053, "Count": 15, "Rank": 1 }
         ],
         "Cost": 40000
@@ -1980,7 +2076,7 @@
             "Rank": 3
           },
           { "Name": "Perpetual Heart", "Id": 113023, "Count": 4, "Rank": 4 },
-          { "Name": "Sango Pearl", "Id": 101207, "Count": 20, "Rank": 1 },
+          { "Name": "Sango Pearl", "Id": 101207, "Count": 20, "Rank": 0 },
           { "Name": "Spectral Heart", "Id": 112054, "Count": 12, "Rank": 2 }
         ],
         "Cost": 60000
@@ -1994,7 +2090,7 @@
             "Rank": 4
           },
           { "Name": "Perpetual Heart", "Id": 113023, "Count": 8, "Rank": 4 },
-          { "Name": "Sango Pearl", "Id": 101207, "Count": 30, "Rank": 1 },
+          { "Name": "Sango Pearl", "Id": 101207, "Count": 30, "Rank": 0 },
           { "Name": "Spectral Heart", "Id": 112054, "Count": 18, "Rank": 2 }
         ],
         "Cost": 80000
@@ -2008,7 +2104,7 @@
             "Rank": 4
           },
           { "Name": "Perpetual Heart", "Id": 113023, "Count": 12, "Rank": 4 },
-          { "Name": "Sango Pearl", "Id": 101207, "Count": 45, "Rank": 1 },
+          { "Name": "Sango Pearl", "Id": 101207, "Count": 45, "Rank": 0 },
           { "Name": "Spectral Nucleus", "Id": 112055, "Count": 12, "Rank": 3 }
         ],
         "Cost": 100000
@@ -2022,7 +2118,7 @@
             "Rank": 5
           },
           { "Name": "Perpetual Heart", "Id": 113023, "Count": 20, "Rank": 4 },
-          { "Name": "Sango Pearl", "Id": 101207, "Count": 60, "Rank": 1 },
+          { "Name": "Sango Pearl", "Id": 101207, "Count": 60, "Rank": 0 },
           { "Name": "Spectral Nucleus", "Id": 112055, "Count": 24, "Rank": 3 }
         ],
         "Cost": 120000

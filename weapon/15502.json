@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_301",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 45.9364
+      "initValue": 45.9364,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_301",
-      "propType": "FIGHT_PROP_ATTACK_PERCENT",
-      "initValue": 0.108
+      "initValue": 0.108,
+      "propType": "FIGHT_PROP_ATTACK_PERCENT"
     }
   ],
   "Rarity": 5,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Strong-Willed",
       "Desc": "Increases Normal and Charged Attack DMG by <color=#99FFFFFF>12%</color>. After a Normal or Charged Attack is fired, DMG dealt increases by a further <color=#99FFFFFF>8%</color> every 0.1s the arrow is in the air for up to 5 times.",
-      "ParamList": [0.12, 0.08]
+      "ParamList": [0.12, 0.08, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Strong-Willed",
       "Desc": "Increases Normal and Charged Attack DMG by <color=#99FFFFFF>15%</color>. After a Normal or Charged Attack is fired, DMG dealt increases by a further <color=#99FFFFFF>10%</color> every 0.1s the arrow is in the air for up to 5 times.",
-      "ParamList": [0.15, 0.1]
+      "ParamList": [0.15, 0.1, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Strong-Willed",
       "Desc": "Increases Normal and Charged Attack DMG by <color=#99FFFFFF>18%</color>. After a Normal or Charged Attack is fired, DMG dealt increases by a further <color=#99FFFFFF>12%</color> every 0.1s the arrow is in the air for up to 5 times.",
-      "ParamList": [0.18, 0.12]
+      "ParamList": [0.18, 0.12, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Strong-Willed",
       "Desc": "Increases Normal and Charged Attack DMG by <color=#99FFFFFF>21%</color>. After a Normal or Charged Attack is fired, DMG dealt increases by a further <color=#99FFFFFF>14%</color> every 0.1s the arrow is in the air for up to 5 times.",
-      "ParamList": [0.21, 0.14]
+      "ParamList": [0.21, 0.14, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Strong-Willed",
       "Desc": "Increases Normal and Charged Attack DMG by <color=#99FFFFFF>24%</color>. After a Normal or Charged Attack is fired, DMG dealt increases by a further <color=#99FFFFFF>16%</color> every 0.1s the arrow is in the air for up to 5 times.",
-      "ParamList": [0.24, 0.16]
+      "ParamList": [0.24, 0.16, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

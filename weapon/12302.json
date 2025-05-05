@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_104",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 37.6075
+      "initValue": 37.6075,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_101",
-      "propType": "FIGHT_PROP_ELEMENT_MASTERY",
-      "initValue": 40.8
+      "initValue": 40.8,
+      "propType": "FIGHT_PROP_ELEMENT_MASTERY"
     }
   ],
   "Rarity": 3,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Bane of Fire and Thunder",
       "Desc": "Increases DMG dealt against opponents affected by Pyro or Electro by <color=#99FFFFFF>12%</color>.",
-      "ParamList": [0.12]
+      "ParamList": [0.12, 0, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Bane of Fire and Thunder",
       "Desc": "Increases DMG dealt against opponents affected by Pyro or Electro by <color=#99FFFFFF>15%</color>.",
-      "ParamList": [0.15]
+      "ParamList": [0.15, 0, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Bane of Fire and Thunder",
       "Desc": "Increases DMG dealt against opponents affected by Pyro or Electro by <color=#99FFFFFF>18%</color>.",
-      "ParamList": [0.18]
+      "ParamList": [0.18, 0, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Bane of Fire and Thunder",
       "Desc": "Increases DMG dealt against opponents affected by Pyro or Electro by <color=#99FFFFFF>21%</color>.",
-      "ParamList": [0.21]
+      "ParamList": [0.21, 0, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Bane of Fire and Thunder",
       "Desc": "Increases DMG against opponents affected by Pyro or Electro by <color=#99FFFFFF>24%</color>.",
-      "ParamList": [0.24]
+      "ParamList": [0.24, 0, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

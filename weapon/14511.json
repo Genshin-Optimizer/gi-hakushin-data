@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_304",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 44.3358
+      "initValue": 44.3358,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_301",
-      "propType": "FIGHT_PROP_ELEMENT_MASTERY",
-      "initValue": 57.6
+      "initValue": 57.6,
+      "propType": "FIGHT_PROP_ELEMENT_MASTERY"
     }
   ],
   "Rarity": 5,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "A Thousand Nights' Dawnsong",
       "Desc": "Party members other than the equipping character will provide the equipping character with buffs based on whether their Elemental Type is the same as the latter or not. If their Elemental Types are the same, increase Elemental Mastery by <color=#99FFFFFF>32</color>. If not, increase the equipping character's DMG Bonus from their Elemental Type by <color=#99FFFFFF>10%</color>. Each of the aforementioned effects can have up to 3 stacks. Additionally, all nearby party members other than the equipping character will have their Elemental Mastery increased by <color=#99FFFFFF>40</color>. Multiple such effects from multiple such weapons can stack.",
-      "ParamList": [32, 0.1, 40]
+      "ParamList": [32, 0.1, 40, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "A Thousand Nights' Dawnsong",
       "Desc": "Party members other than the equipping character will provide the equipping character with buffs based on whether their Elemental Type is the same as the latter or not. If their Elemental Types are the same, increase Elemental Mastery by <color=#99FFFFFF>40</color>. If not, increase the equipping character's DMG Bonus from their Elemental Type by <color=#99FFFFFF>14%</color>. The aforementioned effects can have 3 stacks. Additionally, all nearby party members other than the equipping character will have their Elemental Mastery increased by <color=#99FFFFFF>42</color>. Multiple such effects from multiple such weapons can stack.",
-      "ParamList": [40, 0.14, 42]
+      "ParamList": [40, 0.14, 42, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "A Thousand Nights' Dawnsong",
       "Desc": "Party members other than the equipping character will provide the equipping character with buffs based on whether their Elemental Type is the same as the latter or not. If their Elemental Types are the same, increase Elemental Mastery by <color=#99FFFFFF>48</color>. If not, increase the equipping character's DMG Bonus from their Elemental Type by <color=#99FFFFFF>18%</color>. The aforementioned effects can have 3 stacks. Additionally, all nearby party members other than the equipping character will have their Elemental Mastery increased by <color=#99FFFFFF>44</color>. Multiple such effects from multiple such weapons can stack.",
-      "ParamList": [48, 0.18, 44]
+      "ParamList": [48, 0.18, 44, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "A Thousand Nights' Dawnsong",
       "Desc": "Party members other than the equipping character will provide the equipping character with buffs based on whether their Elemental Type is the same as the latter or not. If their Elemental Types are the same, increase Elemental Mastery by <color=#99FFFFFF>56</color>. If not, increase the equipping character's DMG Bonus from their Elemental Type by <color=#99FFFFFF>22%</color>. The aforementioned effects can have 3 stacks. Additionally, all nearby party members other than the equipping character will have their Elemental Mastery increased by <color=#99FFFFFF>46</color>. Multiple such effects from multiple such weapons can stack.",
-      "ParamList": [56, 0.22, 46]
+      "ParamList": [56, 0.22, 46, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "A Thousand Nights' Dawnsong",
       "Desc": "Party members other than the equipping character will provide the equipping character with buffs based on whether their Elemental Type is the same as the latter or not. If their Elemental Types are the same, increase Elemental Mastery by <color=#99FFFFFF>64</color>. If not, increase the equipping character's DMG Bonus from their Elemental Type by <color=#99FFFFFF>26%</color>. The aforementioned effects can have 3 stacks. Additionally, all nearby party members other than the equipping character will have their Elemental Mastery increased by <color=#99FFFFFF>48</color>. Multiple such effects from multiple such weapons can stack.",
-      "ParamList": [64, 0.26, 48]
+      "ParamList": [64, 0.26, 48, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

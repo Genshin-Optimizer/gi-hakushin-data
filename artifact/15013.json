@@ -5,14 +5,15 @@
   "Rank": [3, 4, 5],
   "Affix": [
     {
-      "paramList": [0.4],
       "id": 215013,
-      "openConfig": "Relic_IceResistance",
+      "level": 0,
       "affixId": 2150130,
+      "paramList": [0.4, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "Relic_IceResistance",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Prayers to Springtime",
       "Desc": "Affected by Cryo for 40% less time."

@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_202",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 43.7349
+      "initValue": 43.7349,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_ATTACK_PERCENT",
-      "initValue": 0.06
+      "initValue": 0.06,
+      "propType": "FIGHT_PROP_ATTACK_PERCENT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Lithic Axiom: Unity",
       "Desc": "For every character in the party who hails from Liyue, the character who equips this weapon gains a <color=#99FFFFFF>7%</color> ATK increase and a <color=#99FFFFFF>3%</color> CRIT Rate increase. This effect stacks up to 4 times.",
-      "ParamList": [0.07, 0.03, 4]
+      "ParamList": [0.07, 0.03, 4, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Lithic Axiom: Unity",
       "Desc": "For every character in the party who hails from Liyue, the character who equips this weapon gains a <color=#99FFFFFF>8%</color> ATK increase and a <color=#99FFFFFF>4%</color> CRIT Rate increase. This effect stacks up to 4 times.",
-      "ParamList": [0.08, 0.04, 4]
+      "ParamList": [0.08, 0.04, 4, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Lithic Axiom: Unity",
       "Desc": "For every character in the party who hails from Liyue, the character who equips this weapon gains a <color=#99FFFFFF>9%</color> ATK increase and a <color=#99FFFFFF>5%</color> CRIT Rate increase. This effect stacks up to 4 times.",
-      "ParamList": [0.09, 0.05, 4]
+      "ParamList": [0.09, 0.05, 4, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Lithic Axiom: Unity",
       "Desc": "For every character in the party who hails from Liyue, the character who equips this weapon gains a <color=#99FFFFFF>10%</color> ATK increase and a <color=#99FFFFFF>6%</color> CRIT Rate increase. This effect stacks up to 4 times.",
-      "ParamList": [0.1, 0.06, 4]
+      "ParamList": [0.1, 0.06, 4, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Lithic Axiom: Unity",
       "Desc": "For every character in the party who hails from Liyue, the character who equips this weapon gains a <color=#99FFFFFF>11%</color> ATK increase and a <color=#99FFFFFF>7%</color> CRIT Rate increase. This effect stacks up to 4 times.",
-      "ParamList": [0.11, 0.07, 4]
+      "ParamList": [0.11, 0.07, 4, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

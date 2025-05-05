@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_202",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 43.7349
+      "initValue": 43.7349,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_ATTACK_PERCENT",
-      "initValue": 0.06
+      "initValue": 0.06,
+      "propType": "FIGHT_PROP_ATTACK_PERCENT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Unfinished Masterpiece",
       "Desc": "When using an Elemental Skill, All Elemental DMG Bonus will be increased by <color=#99FFFFFF>8%</color> for 15s, and a Bond of Life worth 24% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, every 1,000 HP cleared in the process will provide <color=#99FFFFFF>2%</color> All Elemental DMG Bonus, up to a maximum of <color=#99FFFFFF>12%</color>. This effect lasts 15s.",
-      "ParamList": [0.08, 15, 0.24, 0.02, 0.12, 15, 10]
+      "ParamList": [0.08, 15, 0.24, 0.02, 0.12, 15, 10, 0]
     },
     "2": {
       "Name": "Unfinished Masterpiece",
       "Desc": "When using an Elemental Skill, All Elemental DMG Bonus will be increased by <color=#99FFFFFF>10%</color> for 15s, and a Bond of Life worth 24% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, every 1,000 HP cleared in the process will provide <color=#99FFFFFF>2.5%</color> All Elemental DMG Bonus, up to a maximum of <color=#99FFFFFF>15%</color>. This effect lasts 15s.",
-      "ParamList": [0.1, 15, 0.24, 0.025, 0.15, 15, 10]
+      "ParamList": [0.1, 15, 0.24, 0.025, 0.15, 15, 10, 0]
     },
     "3": {
       "Name": "Unfinished Masterpiece",
       "Desc": "When using an Elemental Skill, All Elemental DMG Bonus will be increased by <color=#99FFFFFF>12%</color> for 15s, and a Bond of Life worth 24% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, every 1,000 HP cleared in the process will provide <color=#99FFFFFF>3%</color> All Elemental DMG Bonus, up to a maximum of <color=#99FFFFFF>18%</color>. This effect lasts 15s.",
-      "ParamList": [0.12, 15, 0.24, 0.03, 0.18, 15, 10]
+      "ParamList": [0.12, 15, 0.24, 0.03, 0.18, 15, 10, 0]
     },
     "4": {
       "Name": "Unfinished Masterpiece",
       "Desc": "When using an Elemental Skill, All Elemental DMG Bonus will be increased by <color=#99FFFFFF>14%</color> for 15s, and a Bond of Life worth 24% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, every 1,000 HP cleared in the process will provide <color=#99FFFFFF>3.5%</color> All Elemental DMG Bonus, up to a maximum of <color=#99FFFFFF>21%</color>. This effect lasts 15s.",
-      "ParamList": [0.14, 15, 0.24, 0.035, 0.21, 15, 10]
+      "ParamList": [0.14, 15, 0.24, 0.035, 0.21, 15, 10, 0]
     },
     "5": {
       "Name": "Unfinished Masterpiece",
       "Desc": "When using an Elemental Skill, All Elemental DMG Bonus will be increased by <color=#99FFFFFF>16%</color> for 15s, and a Bond of Life worth 24% of Max HP will be granted. This effect can be triggered once every 10s. When the Bond of Life is cleared, every 1,000 HP cleared in the process will provide <color=#99FFFFFF>4%</color> All Elemental DMG Bonus, up to a maximum of <color=#99FFFFFF>24%</color>. This effect lasts 15s.",
-      "ParamList": [0.16, 15, 0.24, 0.04, 0.24, 15, 10]
+      "ParamList": [0.16, 15, 0.24, 0.04, 0.24, 15, 10, 0]
     }
   },
   "Materials": {

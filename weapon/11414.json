@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_204",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 41.0671
+      "initValue": 41.0671,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_ATTACK_PERCENT",
-      "initValue": 0.12
+      "initValue": 0.12,
+      "propType": "FIGHT_PROP_ATTACK_PERCENT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Iwakura Succession",
       "Desc": "After casting an Elemental Skill, gain 1 Succession Seed. This effect can be triggered once every 5s. The Succession Seed lasts for 30s. Up to 3 Succession Seeds may exist simultaneously. After using an Elemental Burst, all Succession Seeds are consumed and after 2s, the character regenerates <color=#99FFFFFF>6</color> Energy for each seed consumed.",
-      "ParamList": [30, 3, 5, 6]
+      "ParamList": [30, 3, 5, 6, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Iwakura Succession",
       "Desc": "After casting an Elemental Skill, gain 1 Succession Seed. This effect can be triggered once every 5s. The Succession Seed lasts for 30s. Up to 3 Succession Seeds may exist simultaneously. After using an Elemental Burst, all Succession Seeds are consumed and after 2s, the character regenerates <color=#99FFFFFF>7.5</color> Energy for each seed consumed.",
-      "ParamList": [30, 3, 5, 7.5]
+      "ParamList": [30, 3, 5, 7.5, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Iwakura Succession",
       "Desc": "After casting an Elemental Skill, gain 1 Succession Seed. This effect can be triggered once every 5s. The Succession Seed lasts for 30s. Up to 3 Succession Seeds may exist simultaneously. After using an Elemental Burst, all Succession Seeds are consumed and after 2s, the character regenerates <color=#99FFFFFF>9</color> Energy for each seed consumed.",
-      "ParamList": [30, 3, 5, 9]
+      "ParamList": [30, 3, 5, 9, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Iwakura Succession",
       "Desc": "After casting an Elemental Skill, gain 1 Succession Seed. This effect can be triggered once every 5s. The Succession Seed lasts for 30s. Up to 3 Succession Seeds may exist simultaneously. After using an Elemental Burst, all Succession Seeds are consumed and after 2s, the character regenerates <color=#99FFFFFF>10.5</color> Energy for each seed consumed.",
-      "ParamList": [30, 3, 5, 10.5]
+      "ParamList": [30, 3, 5, 10.5, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Iwakura Succession",
       "Desc": "After casting an Elemental Skill, gain 1 Succession Seed. This effect can be triggered once every 5s. The Succession Seed lasts for 30s. Up to 3 Succession Seeds may exist simultaneously. After using an Elemental Burst, all Succession Seeds are consumed and after 2s, the character regenerates <color=#99FFFFFF>12</color> Energy for each seed consumed.",
-      "ParamList": [30, 3, 5, 12]
+      "ParamList": [30, 3, 5, 12, 0, 0, 0, 0]
     }
   },
   "Materials": {

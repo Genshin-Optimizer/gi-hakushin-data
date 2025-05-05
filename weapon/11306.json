@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_104",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 37.6075
+      "initValue": 37.6075,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_101",
-      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
-      "initValue": 0.113333
+      "initValue": 0.113333,
+      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
     }
   ],
   "Rarity": 3,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Determination",
       "Desc": "Using an Elemental Burst grants a <color=#99FFFFFF>12%</color> increase in ATK and Movement SPD for 15s.",
-      "ParamList": [0.12, 15]
+      "ParamList": [0.12, 15, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Determination",
       "Desc": "Using an Elemental Burst grants a <color=#99FFFFFF>15%</color> increase in ATK and Movement SPD for 15s.",
-      "ParamList": [0.15, 15]
+      "ParamList": [0.15, 15, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Determination",
       "Desc": "Using an Elemental Burst grants a <color=#99FFFFFF>18%</color> increase in ATK and Movement SPD for 15s.",
-      "ParamList": [0.18, 15]
+      "ParamList": [0.18, 15, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Determination",
       "Desc": "Using an Elemental Burst grants a <color=#99FFFFFF>21%</color> increase in ATK and Movement SPD for 15s.",
-      "ParamList": [0.21, 15]
+      "ParamList": [0.21, 15, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Determination",
       "Desc": "Using an Elemental Burst grants a <color=#99FFFFFF>24%</color> increase in ATK and Movement SPD for 15s.",
-      "ParamList": [0.24, 15]
+      "ParamList": [0.24, 15, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

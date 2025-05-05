@@ -6,25 +6,28 @@
   "Affix": [
     {
       "id": 215019,
+      "level": 0,
       "affixId": 2150190,
+      "paramList": [0, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "",
       "addProps": [
-        { "value": 0.18, "propType": "FIGHT_PROP_ATTACK_PERCENT" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_ATTACK_PERCENT", "value": 0.18 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Shimenawa's Reminiscence",
       "Desc": "ATK +18%."
     },
     {
-      "level": 1,
-      "paramList": [15, 0.5, 10],
       "id": 215019,
-      "openConfig": "Relic_NormalDamageUpIfCostEnergy",
+      "level": 1,
       "affixId": 2150191,
+      "paramList": [15, 0.5, 10, 0, 0, 0, 0, 0],
+      "openConfig": "Relic_NormalDamageUpIfCostEnergy",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Shimenawa's Reminiscence",
       "Desc": "When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/Charged/Plunging Attack DMG is increased by 50% for 10s. This effect will not trigger again during that duration."

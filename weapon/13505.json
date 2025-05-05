@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_302",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 47.537
+      "initValue": 47.537,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_301",
-      "propType": "FIGHT_PROP_CRITICAL",
-      "initValue": 0.048
+      "initValue": 0.048,
+      "propType": "FIGHT_PROP_CRITICAL"
     }
   ],
   "Rarity": 5,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Eagle Spear of Justice",
       "Desc": "On hit, increases ATK by <color=#99FFFFFF>3.2%</color> for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by <color=#99FFFFFF>12%</color>.",
-      "ParamList": [0.032, 0.12]
+      "ParamList": [0.032, 0.12, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Eagle Spear of Justice",
       "Desc": "On hit, increases ATK by <color=#99FFFFFF>3.9%</color> for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by <color=#99FFFFFF>15%</color>.",
-      "ParamList": [0.039, 0.15]
+      "ParamList": [0.039, 0.15, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Eagle Spear of Justice",
       "Desc": "On hit, increases ATK by <color=#99FFFFFF>4.6%</color> for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by <color=#99FFFFFF>18%</color>.",
-      "ParamList": [0.046, 0.18]
+      "ParamList": [0.046, 0.18, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Eagle Spear of Justice",
       "Desc": "On hit, increases ATK by <color=#99FFFFFF>5.3%</color> for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by <color=#99FFFFFF>21%</color>.",
-      "ParamList": [0.053, 0.21]
+      "ParamList": [0.053, 0.21, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Eagle Spear of Justice",
       "Desc": "On hit, increases ATK by <color=#99FFFFFF>6%</color> for 6s. Max 7 stacks. This effect can only occur once every 0.3s. While in possession of the maximum possible stacks, DMG dealt is increased by <color=#99FFFFFF>24%</color>.",
-      "ParamList": [0.06, 0.24]
+      "ParamList": [0.06, 0.24, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

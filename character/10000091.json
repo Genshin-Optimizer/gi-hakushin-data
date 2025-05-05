@@ -448,6 +448,14 @@
         "Title": "Joining Party: III",
         "Text": "I'll take the lead today!",
         "Unlocked": []
+      },
+      {
+        "Title": "About Escoffier",
+        "Text": "My good friend Escoffier is finally out and about again... It's about time. Shutting herself away like that, all to try and surpass her own magnum opus, Gateau Debord. It's a wonder she can even stand the sunlight after all that time inside. You know what? We should all go for a picnic sometime! I'll make sure to bring her a pair of sunglasses and a parasol. Believe me, you're in for a treat! With Escoffier, even the simplest of outings feel like fine dining!",
+        "Unlocked": [
+          "Unlocks at Friendship Lv. 4",
+          "Complete \"Masquerade of the Guilty\""
+        ]
       }
     ],
     "SpecialFood": {
@@ -469,7 +477,7 @@
         "Name": "Yellow Velvet Salon",
         "Desc": "Navia's outfit. An elegant dress that cleaves perfectly to the image of a Fontainian lady, lending this adventurous, far-from-traditional young woman a fresh look indeed.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -848,7 +856,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Blunt Refusal",
+      "Name": "Blunt Refusal",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 consecutive strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nDrains Stamina over time to perform continuous spinning attacks against all nearby opponents.\\nAt the end of the sequence, performs a more powerful slash.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
       "Promote": {
         "0": {
@@ -874,7 +882,7 @@
           ],
           "Param": [
             0.93519, 0.865065, 0.348859, 1.334316, 0.62522, 1.1309, 40, 5,
-            0.745878, 1.49144, 1.862889
+            0.745878, 1.49144, 1.862889, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -900,7 +908,7 @@
           ],
           "Param": [
             1.01131, 0.935478, 0.377255, 1.442923, 0.67611, 1.22295, 40, 5,
-            0.806589, 1.612836, 2.01452
+            0.806589, 1.612836, 2.01452, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -926,7 +934,7 @@
           ],
           "Param": [
             1.08743, 1.00589, 0.40565, 1.55153, 0.727, 1.315, 40, 5, 0.8673,
-            1.734233, 2.16615
+            1.734233, 2.16615, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -952,7 +960,7 @@
           ],
           "Param": [
             1.196173, 1.106479, 0.446215, 1.706683, 0.7997, 1.4465, 40, 5,
-            0.95403, 1.907656, 2.382765
+            0.95403, 1.907656, 2.382765, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -978,7 +986,7 @@
           ],
           "Param": [
             1.272293, 1.176891, 0.47461, 1.81529, 0.85059, 1.53855, 40, 5,
-            1.014741, 2.029052, 2.534396
+            1.014741, 2.029052, 2.534396, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -1004,7 +1012,7 @@
           ],
           "Param": [
             1.359287, 1.257362, 0.507062, 1.939412, 0.90875, 1.64375, 40, 5,
-            1.084125, 2.167791, 2.707688
+            1.084125, 2.167791, 2.707688, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -1030,7 +1038,7 @@
           ],
           "Param": [
             1.478905, 1.36801, 0.551684, 2.110081, 0.98872, 1.7884, 40, 5,
-            1.179528, 2.358556, 2.945964
+            1.179528, 2.358556, 2.945964, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1056,7 +1064,7 @@
           ],
           "Param": [
             1.598522, 1.478658, 0.596306, 2.280749, 1.06869, 1.93305, 40, 5,
-            1.274931, 2.549322, 3.184241
+            1.274931, 2.549322, 3.184241, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1082,7 +1090,7 @@
           ],
           "Param": [
             1.718139, 1.589306, 0.640927, 2.451417, 1.14866, 2.0777, 40, 5,
-            1.370334, 2.740087, 3.422517
+            1.370334, 2.740087, 3.422517, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1108,7 +1116,7 @@
           ],
           "Param": [
             1.848631, 1.710013, 0.689605, 2.637601, 1.2359, 2.2355, 40, 5,
-            1.47441, 2.948195, 3.682455
+            1.47441, 2.948195, 3.682455, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1134,7 +1142,7 @@
           ],
           "Param": [
             1.979123, 1.83072, 0.738283, 2.823785, 1.32314, 2.3933, 40, 5,
-            1.578486, 3.156303, 3.942393
+            1.578486, 3.156303, 3.942393, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1160,7 +1168,7 @@
           ],
           "Param": [
             2.109614, 1.951427, 0.786961, 3.009968, 1.41038, 2.5511, 40, 5,
-            1.682562, 3.364411, 4.202331
+            1.682562, 3.364411, 4.202331, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1186,7 +1194,7 @@
           ],
           "Param": [
             2.240106, 2.072133, 0.835639, 3.196152, 1.49762, 2.7089, 40, 5,
-            1.786638, 3.572519, 4.462269
+            1.786638, 3.572519, 4.462269, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1212,7 +1220,7 @@
           ],
           "Param": [
             2.370597, 2.19284, 0.884317, 3.382335, 1.58486, 2.8667, 40, 5,
-            1.890714, 3.780627, 4.722207
+            1.890714, 3.780627, 4.722207, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1238,7 +1246,7 @@
           ],
           "Param": [
             2.501089, 2.313547, 0.932995, 3.568519, 1.6721, 3.0245, 40, 5,
-            1.99479, 3.988735, 4.982145
+            1.99479, 3.988735, 4.982145, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1268,7 +1276,10 @@
             "",
             ""
           ],
-          "Param": [3.948, 0.15, 300, 9, 0.36, 7]
+          "Param": [
+            3.948, 0.15, 300, 9, 0.36, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1291,7 +1302,10 @@
             "",
             ""
           ],
-          "Param": [4.2441, 0.15, 300, 9, 0.387, 7]
+          "Param": [
+            4.2441, 0.15, 300, 9, 0.387, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1314,7 +1328,10 @@
             "",
             ""
           ],
-          "Param": [4.5402, 0.15, 300, 9, 0.414, 7]
+          "Param": [
+            4.5402, 0.15, 300, 9, 0.414, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1337,7 +1354,10 @@
             "",
             ""
           ],
-          "Param": [4.935, 0.15, 300, 9, 0.45, 7]
+          "Param": [
+            4.935, 0.15, 300, 9, 0.45, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1360,7 +1380,10 @@
             "",
             ""
           ],
-          "Param": [5.2311, 0.15, 300, 9, 0.477, 7]
+          "Param": [
+            5.2311, 0.15, 300, 9, 0.477, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1383,7 +1406,10 @@
             "",
             ""
           ],
-          "Param": [5.5272, 0.15, 300, 9, 0.504, 7]
+          "Param": [
+            5.5272, 0.15, 300, 9, 0.504, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1406,7 +1432,10 @@
             "",
             ""
           ],
-          "Param": [5.922, 0.15, 300, 9, 0.54, 7]
+          "Param": [
+            5.922, 0.15, 300, 9, 0.54, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1429,7 +1458,10 @@
             "",
             ""
           ],
-          "Param": [6.3168, 0.15, 300, 9, 0.576, 7]
+          "Param": [
+            6.3168, 0.15, 300, 9, 0.576, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1452,7 +1484,10 @@
             "",
             ""
           ],
-          "Param": [6.7116, 0.15, 300, 9, 0.612, 7]
+          "Param": [
+            6.7116, 0.15, 300, 9, 0.612, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1475,7 +1510,10 @@
             "",
             ""
           ],
-          "Param": [7.1064, 0.15, 300, 9, 0.648, 7]
+          "Param": [
+            7.1064, 0.15, 300, 9, 0.648, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1498,7 +1536,10 @@
             "",
             ""
           ],
-          "Param": [7.5012, 0.15, 300, 9, 0.684, 7]
+          "Param": [
+            7.5012, 0.15, 300, 9, 0.684, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1521,7 +1562,10 @@
             "",
             ""
           ],
-          "Param": [7.896, 0.15, 300, 9, 0.72, 7]
+          "Param": [
+            7.896, 0.15, 300, 9, 0.72, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1544,7 +1588,10 @@
             "",
             ""
           ],
-          "Param": [8.3895, 0.15, 300, 9, 0.765, 7]
+          "Param": [
+            8.3895, 0.15, 300, 9, 0.765, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1567,7 +1614,10 @@
             "",
             ""
           ],
-          "Param": [8.883, 0.15, 300, 9, 0.81, 7]
+          "Param": [
+            8.883, 0.15, 300, 9, 0.81, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1590,7 +1640,10 @@
             "",
             ""
           ],
-          "Param": [9.3765, 0.15, 300, 9, 0.855, 7]
+          "Param": [
+            9.3765, 0.15, 300, 9, 0.855, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         }
       }
     },
@@ -1619,7 +1672,10 @@
             "",
             ""
           ],
-          "Param": [0.752, 0.4315, 12, 15, 60, 2.4]
+          "Param": [
+            0.752, 0.4315, 12, 15, 60, 2.4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1642,7 +1698,10 @@
             "",
             ""
           ],
-          "Param": [0.8084, 0.463863, 12, 15, 60, 2.4]
+          "Param": [
+            0.8084, 0.463863, 12, 15, 60, 2.4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1665,7 +1724,10 @@
             "",
             ""
           ],
-          "Param": [0.8648, 0.496225, 12, 15, 60, 2.4]
+          "Param": [
+            0.8648, 0.496225, 12, 15, 60, 2.4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1688,7 +1750,10 @@
             "",
             ""
           ],
-          "Param": [0.94, 0.539375, 12, 15, 60, 2.4]
+          "Param": [
+            0.94, 0.539375, 12, 15, 60, 2.4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1711,7 +1776,10 @@
             "",
             ""
           ],
-          "Param": [0.9964, 0.571738, 12, 15, 60, 2.4]
+          "Param": [
+            0.9964, 0.571738, 12, 15, 60, 2.4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1734,7 +1802,10 @@
             "",
             ""
           ],
-          "Param": [1.0528, 0.6041, 12, 15, 60, 2.4]
+          "Param": [
+            1.0528, 0.6041, 12, 15, 60, 2.4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1757,7 +1828,10 @@
             "",
             ""
           ],
-          "Param": [1.128, 0.64725, 12, 15, 60, 2.4]
+          "Param": [
+            1.128, 0.64725, 12, 15, 60, 2.4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1780,7 +1854,10 @@
             "",
             ""
           ],
-          "Param": [1.2032, 0.6904, 12, 15, 60, 2.4]
+          "Param": [
+            1.2032, 0.6904, 12, 15, 60, 2.4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1803,7 +1880,10 @@
             "",
             ""
           ],
-          "Param": [1.2784, 0.73355, 12, 15, 60, 2.4]
+          "Param": [
+            1.2784, 0.73355, 12, 15, 60, 2.4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1826,7 +1906,10 @@
             "",
             ""
           ],
-          "Param": [1.3536, 0.7767, 12, 15, 60, 2.4]
+          "Param": [
+            1.3536, 0.7767, 12, 15, 60, 2.4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1849,7 +1932,10 @@
             "",
             ""
           ],
-          "Param": [1.4288, 0.81985, 12, 15, 60, 2.4]
+          "Param": [
+            1.4288, 0.81985, 12, 15, 60, 2.4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1872,7 +1958,10 @@
             "",
             ""
           ],
-          "Param": [1.504, 0.863, 12, 15, 60, 2.4]
+          "Param": [
+            1.504, 0.863, 12, 15, 60, 2.4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1895,7 +1984,10 @@
             "",
             ""
           ],
-          "Param": [1.598, 0.916938, 12, 15, 60, 2.4]
+          "Param": [
+            1.598, 0.916938, 12, 15, 60, 2.4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1918,7 +2010,10 @@
             "",
             ""
           ],
-          "Param": [1.692, 0.970875, 12, 15, 60, 2.4]
+          "Param": [
+            1.692, 0.970875, 12, 15, 60, 2.4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1941,7 +2036,10 @@
             "",
             ""
           ],
-          "Param": [1.786, 1.024813, 12, 15, 60, 2.4]
+          "Param": [
+            1.786, 1.024813, 12, 15, 60, 2.4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         }
       }
     }
@@ -1952,21 +2050,25 @@
       "Desc": "For 4s after using <color=#FFD780FF>Ceremonial Crystalshot</color>, the DMG dealt by Navia's Normal Attacks, Charged Attacks, and Plunging Attacks will be converted into <color=#FFE699FF>Geo DMG</color> which cannot be overridden by other Elemental infusions, and the DMG dealt by Navia's Normal Attacks, Charged Attacks, and Plunging Attacks will be increased by 40%.",
       "Icon": "UI_Talent_S_Navia_05",
       "Unlock": 1,
-      "ParamList": [0.4, 4]
+      "ParamList": [
+        0.4, 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Mutual Assistance Network",
       "Desc": "For each <color=#FF9999FF>Pyro</color>/<color=#FFACFFFF>Electro</color>/<color=#99FFFFFF>Cryo</color>/<color=#80C0FFFF>Hydro</color> party member, Navia gains 20% increased ATK. This effect can stack up to 2 times.",
       "Icon": "UI_Talent_S_Navia_06",
       "Unlock": 4,
-      "ParamList": [0.2]
+      "ParamList": [
+        0.2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Painstaking Transaction",
       "Desc": "Gains 25% more rewards when dispatched on a Fontaine Expedition for 20 hours.",
       "Icon": "UI_Talent_S_Navia_07",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Constellations": [
@@ -1974,37 +2076,37 @@
       "Name": "A Lady's Rules for Keeping a Courteous Distance",
       "Desc": "Each stack of Crystal Shrapnel consumed when Navia uses <color=#FFD780FF>Ceremonial Crystalshot</color> will restore 3 Energy to her and decrease the CD of <color=#FFD780FF>As the Sunlit Sky's Singing Salute</color> by 1s. Up to 9 Energy can be gained this way, and the CD of \"As the Sunlit Sky's Singing Salute\" can be decreased by up to 3s.",
       "Icon": "UI_Talent_S_Navia_01",
-      "ParamList": [3, 1]
+      "ParamList": [3, 1, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "The President's Pursuit of Victory",
       "Desc": "Each stack of Crystal Shrapnel consumed will increase the CRIT Rate of this <color=#FFD780FF>Ceremonial Crystalshot</color> instance by 12%. CRIT Rate can be increased by up to 36% in this way.\\nIn addition, when Ceremonial Crystalshot hits an opponent, one Cannon Fire Support shot from <color=#FFD780FF>As the Sunlit Sky's Singing Salute</color> will strike near the location of the hit. Up to one instance of Cannon Fire Support can be triggered each time Ceremonial Crystalshot is used, and DMG dealt by said Cannon Fire Support this way is considered Elemental Burst DMG.",
       "Icon": "UI_Talent_S_Navia_02",
-      "ParamList": [0.12]
+      "ParamList": [0.12, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Businesswoman's Broad Vision",
       "Desc": "Increases the Level of <color=#FFD780FF>Ceremonial Crystalshot</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Navia_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "The Oathsworn Never Capitulate",
       "Desc": "When <color=#FFD780FF>As the Sunlit Sky's Singing Salute</color> hits an opponent, that opponent's <color=#FFE699FF>Geo RES</color> will be decreased by 20% for 8s.",
       "Icon": "UI_Talent_S_Navia_03",
-      "ParamList": [0.2, 8]
+      "ParamList": [0.2, 8, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Negotiator's Resolute Negotiations",
       "Desc": "Increases the Level of <color=#FFD780FF>As the Sunlit Sky's Singing Salute</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Navia_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "The Flexible Finesse of the Spina's President",
       "Desc": "If more than 3 stacks of Crystal Shrapnel are consumed when using <color=#FFD780FF>Ceremonial Crystalshot</color>, each stack consumed beyond the first 3 increases the CRIT DMG of that Ceremonial Crystalshot by 45%, and any stacks consumed beyond the first 3 are returned to Navia.",
       "Icon": "UI_Talent_S_Navia_04",
-      "ParamList": [0.45]
+      "ParamList": [0.45, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -2021,7 +2123,7 @@
             "Name": "Spring of the First Dewdrop",
             "Id": 101240,
             "Count": 3,
-            "Rank": 1
+            "Rank": 0
           },
           { "Name": "Transoceanic Pearl", "Id": 112080, "Count": 3, "Rank": 1 }
         ],
@@ -2045,7 +2147,7 @@
             "Name": "Spring of the First Dewdrop",
             "Id": 101240,
             "Count": 10,
-            "Rank": 1
+            "Rank": 0
           },
           { "Name": "Transoceanic Pearl", "Id": 112080, "Count": 15, "Rank": 1 }
         ],
@@ -2069,7 +2171,7 @@
             "Name": "Spring of the First Dewdrop",
             "Id": 101240,
             "Count": 20,
-            "Rank": 1
+            "Rank": 0
           },
           { "Name": "Transoceanic Chunk", "Id": 112081, "Count": 12, "Rank": 2 }
         ],
@@ -2093,7 +2195,7 @@
             "Name": "Spring of the First Dewdrop",
             "Id": 101240,
             "Count": 30,
-            "Rank": 1
+            "Rank": 0
           },
           { "Name": "Transoceanic Chunk", "Id": 112081, "Count": 18, "Rank": 2 }
         ],
@@ -2117,7 +2219,7 @@
             "Name": "Spring of the First Dewdrop",
             "Id": 101240,
             "Count": 45,
-            "Rank": 1
+            "Rank": 0
           },
           {
             "Name": "Xenochromatic Crystal",
@@ -2146,7 +2248,7 @@
             "Name": "Spring of the First Dewdrop",
             "Id": 101240,
             "Count": 60,
-            "Rank": 1
+            "Rank": 0
           },
           {
             "Name": "Xenochromatic Crystal",

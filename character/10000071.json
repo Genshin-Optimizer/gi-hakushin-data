@@ -448,7 +448,7 @@
         "Name": "Heart of the Scales",
         "Desc": "Cyno's outfit. This garb displays the General Mahamatra's dignity and the just principles he sticks by. It was a rather complicated piece to commission due to Cyno's request for the custom-made head ornaments and requires regular maintenance.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -827,7 +827,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Invoker's Spear",
+      "Name": "Invoker's Spear",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 consecutive spear strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
       "Promote": {
         "0": {
@@ -853,7 +853,7 @@
           ],
           "Param": [
             0.492574, 0.479209, 0.293062, 0.293062, 0.758907, 1.22378, 25,
-            0.639324, 1.278377, 1.596762
+            0.639324, 1.278377, 1.596762, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -879,7 +879,7 @@
           ],
           "Param": [
             0.532667, 0.518215, 0.316916, 0.316916, 0.820679, 1.32339, 25,
-            0.691362, 1.382431, 1.726731
+            0.691362, 1.382431, 1.726731, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -905,7 +905,7 @@
           ],
           "Param": [
             0.57276, 0.55722, 0.34077, 0.34077, 0.88245, 1.423, 25, 0.7434,
-            1.486485, 1.8567
+            1.486485, 1.8567, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -931,7 +931,7 @@
           ],
           "Param": [
             0.630036, 0.612942, 0.374847, 0.374847, 0.970695, 1.5653, 25,
-            0.81774, 1.635134, 2.04237
+            0.81774, 1.635134, 2.04237, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -957,7 +957,7 @@
           ],
           "Param": [
             0.670129, 0.651947, 0.398701, 0.398701, 1.032466, 1.66491, 25,
-            0.869778, 1.739187, 2.172339
+            0.869778, 1.739187, 2.172339, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -983,7 +983,7 @@
           ],
           "Param": [
             0.71595, 0.696525, 0.425963, 0.425963, 1.103063, 1.77875, 25,
-            0.92925, 1.858106, 2.320875
+            0.92925, 1.858106, 2.320875, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -1009,7 +1009,7 @@
           ],
           "Param": [
             0.778954, 0.757819, 0.463447, 0.463447, 1.200132, 1.93528, 25,
-            1.011024, 2.02162, 2.525112
+            1.011024, 2.02162, 2.525112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1035,7 +1035,7 @@
           ],
           "Param": [
             0.841957, 0.819113, 0.500932, 0.500932, 1.297202, 2.09181, 25,
-            1.092798, 2.185133, 2.729349
+            1.092798, 2.185133, 2.729349, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1061,7 +1061,7 @@
           ],
           "Param": [
             0.904961, 0.880408, 0.538417, 0.538417, 1.394271, 2.24834, 25,
-            1.174572, 2.348646, 2.933586
+            1.174572, 2.348646, 2.933586, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1087,7 +1087,7 @@
           ],
           "Param": [
             0.973692, 0.947274, 0.579309, 0.579309, 1.500165, 2.4191, 25,
-            1.26378, 2.527025, 3.15639
+            1.26378, 2.527025, 3.15639, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1113,7 +1113,7 @@
           ],
           "Param": [
             1.042423, 1.01414, 0.620201, 0.620201, 1.606059, 2.58986, 25,
-            1.352988, 2.705403, 3.379194
+            1.352988, 2.705403, 3.379194, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1139,7 +1139,7 @@
           ],
           "Param": [
             1.111154, 1.081007, 0.661094, 0.661094, 1.711953, 2.76062, 25,
-            1.442196, 2.883781, 3.601998
+            1.442196, 2.883781, 3.601998, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1165,7 +1165,7 @@
           ],
           "Param": [
             1.179886, 1.147873, 0.701986, 0.701986, 1.817847, 2.93138, 25,
-            1.531404, 3.062159, 3.824802
+            1.531404, 3.062159, 3.824802, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1191,7 +1191,7 @@
           ],
           "Param": [
             1.248617, 1.21474, 0.742879, 0.742879, 1.923741, 3.10214, 25,
-            1.620612, 3.240537, 4.047606
+            1.620612, 3.240537, 4.047606, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1217,7 +1217,7 @@
           ],
           "Param": [
             1.317348, 1.281606, 0.783771, 0.783771, 2.029635, 3.2729, 25,
-            1.70982, 3.418915, 4.27041
+            1.70982, 3.418915, 4.27041, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1247,7 +1247,9 @@
             "",
             ""
           ],
-          "Param": [1.304, 1.568, 4, 7.5, 3]
+          "Param": [
+            1.304, 1.568, 4, 7.5, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1270,7 +1272,10 @@
             "",
             ""
           ],
-          "Param": [1.4018, 1.6856, 4, 7.5, 3]
+          "Param": [
+            1.4018, 1.6856, 4, 7.5, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1293,7 +1298,10 @@
             "",
             ""
           ],
-          "Param": [1.4996, 1.8032, 4, 7.5, 3]
+          "Param": [
+            1.4996, 1.8032, 4, 7.5, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1316,7 +1324,9 @@
             "",
             ""
           ],
-          "Param": [1.63, 1.96, 4, 7.5, 3]
+          "Param": [
+            1.63, 1.96, 4, 7.5, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1339,7 +1349,10 @@
             "",
             ""
           ],
-          "Param": [1.7278, 2.0776, 4, 7.5, 3]
+          "Param": [
+            1.7278, 2.0776, 4, 7.5, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1362,7 +1375,10 @@
             "",
             ""
           ],
-          "Param": [1.8256, 2.1952, 4, 7.5, 3]
+          "Param": [
+            1.8256, 2.1952, 4, 7.5, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1385,7 +1401,9 @@
             "",
             ""
           ],
-          "Param": [1.956, 2.352, 4, 7.5, 3]
+          "Param": [
+            1.956, 2.352, 4, 7.5, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1408,7 +1426,10 @@
             "",
             ""
           ],
-          "Param": [2.0864, 2.5088, 4, 7.5, 3]
+          "Param": [
+            2.0864, 2.5088, 4, 7.5, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1431,7 +1452,10 @@
             "",
             ""
           ],
-          "Param": [2.2168, 2.6656, 4, 7.5, 3]
+          "Param": [
+            2.2168, 2.6656, 4, 7.5, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1454,7 +1478,10 @@
             "",
             ""
           ],
-          "Param": [2.3472, 2.8224, 4, 7.5, 3]
+          "Param": [
+            2.3472, 2.8224, 4, 7.5, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1477,7 +1504,10 @@
             "",
             ""
           ],
-          "Param": [2.4776, 2.9792, 4, 7.5, 3]
+          "Param": [
+            2.4776, 2.9792, 4, 7.5, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1500,7 +1530,9 @@
             "",
             ""
           ],
-          "Param": [2.608, 3.136, 4, 7.5, 3]
+          "Param": [
+            2.608, 3.136, 4, 7.5, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1523,7 +1555,9 @@
             "",
             ""
           ],
-          "Param": [2.771, 3.332, 4, 7.5, 3]
+          "Param": [
+            2.771, 3.332, 4, 7.5, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1546,7 +1580,9 @@
             "",
             ""
           ],
-          "Param": [2.934, 3.528, 4, 7.5, 3]
+          "Param": [
+            2.934, 3.528, 4, 7.5, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1569,7 +1605,9 @@
             "",
             ""
           ],
-          "Param": [3.097, 3.724, 4, 7.5, 3]
+          "Param": [
+            3.097, 3.724, 4, 7.5, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         }
       }
     },
@@ -1600,7 +1638,7 @@
           ],
           "Param": [
             0.782832, 0.824688, 1.046336, 0.516942, 0.516942, 1.308447, 1.0105,
-            25, 0.639324, 1.278377, 1.596762, 100, 10, 20, 80
+            25, 0.639324, 1.278377, 1.596762, 100, 10, 20, 80, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -1626,7 +1664,7 @@
           ],
           "Param": [
             0.846551, 0.891814, 1.131503, 0.559018, 0.559018, 1.414948, 1.09275,
-            25, 0.691362, 1.382431, 1.726731, 100, 10, 20, 80
+            25, 0.691362, 1.382431, 1.726731, 100, 10, 20, 80, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -1652,7 +1690,7 @@
           ],
           "Param": [
             0.91027, 0.95894, 1.21667, 0.601095, 0.601095, 1.52145, 1.175, 25,
-            0.7434, 1.486485, 1.8567, 100, 10, 20, 80
+            0.7434, 1.486485, 1.8567, 100, 10, 20, 80, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -1678,7 +1716,7 @@
           ],
           "Param": [
             1.001297, 1.054834, 1.338337, 0.661205, 0.661205, 1.673595, 1.2925,
-            25, 0.81774, 1.635134, 2.04237, 100, 10, 20, 80
+            25, 0.81774, 1.635134, 2.04237, 100, 10, 20, 80, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -1704,7 +1742,7 @@
           ],
           "Param": [
             1.065016, 1.12196, 1.423504, 0.703281, 0.703281, 1.780096, 1.37475,
-            25, 0.869778, 1.739187, 2.172339, 100, 10, 20, 80
+            25, 0.869778, 1.739187, 2.172339, 100, 10, 20, 80, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -1730,7 +1768,7 @@
           ],
           "Param": [
             1.137838, 1.198675, 1.520837, 0.751369, 0.751369, 1.901812, 1.46875,
-            25, 0.92925, 1.858106, 2.320875, 100, 10, 20, 80
+            25, 0.92925, 1.858106, 2.320875, 100, 10, 20, 80, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -1756,7 +1794,7 @@
           ],
           "Param": [
             1.237967, 1.304158, 1.654671, 0.817489, 0.817489, 2.069172, 1.598,
-            25, 1.011024, 2.02162, 2.525112, 100, 10, 20, 80
+            25, 1.011024, 2.02162, 2.525112, 100, 10, 20, 80, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1782,7 +1820,7 @@
           ],
           "Param": [
             1.338097, 1.409642, 1.788505, 0.88361, 0.88361, 2.236531, 1.72725,
-            25, 1.092798, 2.185133, 2.729349, 100, 10, 20, 80
+            25, 1.092798, 2.185133, 2.729349, 100, 10, 20, 80, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1808,7 +1846,7 @@
           ],
           "Param": [
             1.438227, 1.515125, 1.922339, 0.94973, 0.94973, 2.403891, 1.8565,
-            25, 1.174572, 2.348646, 2.933586, 100, 10, 20, 80
+            25, 1.174572, 2.348646, 2.933586, 100, 10, 20, 80, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1834,7 +1872,7 @@
           ],
           "Param": [
             1.547459, 1.630198, 2.068339, 1.021861, 1.021861, 2.586465, 1.9975,
-            25, 1.26378, 2.527025, 3.15639, 100, 10, 20, 80
+            25, 1.26378, 2.527025, 3.15639, 100, 10, 20, 80, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1860,7 +1898,7 @@
           ],
           "Param": [
             1.656691, 1.745271, 2.214339, 1.093993, 1.093993, 2.769039, 2.1385,
-            25, 1.352988, 2.705403, 3.379194, 100, 10, 20, 80
+            25, 1.352988, 2.705403, 3.379194, 100, 10, 20, 80, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1886,7 +1924,7 @@
           ],
           "Param": [
             1.765924, 1.860344, 2.36034, 1.166124, 1.166124, 2.951613, 2.2795,
-            25, 1.442196, 2.883781, 3.601998, 100, 10, 20, 80
+            25, 1.442196, 2.883781, 3.601998, 100, 10, 20, 80, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1912,7 +1950,7 @@
           ],
           "Param": [
             1.875156, 1.975416, 2.50634, 1.238256, 1.238256, 3.134187, 2.4205,
-            25, 1.531404, 3.062159, 3.824802, 100, 10, 20, 80
+            25, 1.531404, 3.062159, 3.824802, 100, 10, 20, 80, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1938,7 +1976,7 @@
           ],
           "Param": [
             1.984389, 2.090489, 2.652341, 1.310387, 1.310387, 3.316761, 2.5615,
-            25, 1.620612, 3.240537, 4.047606, 100, 10, 20, 80
+            25, 1.620612, 3.240537, 4.047606, 100, 10, 20, 80, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1964,7 +2002,7 @@
           ],
           "Param": [
             2.093621, 2.205562, 2.798341, 1.382518, 1.382518, 3.499335, 2.7025,
-            25, 1.70982, 3.418915, 4.27041, 100, 10, 20, 80
+            25, 1.70982, 3.418915, 4.27041, 100, 10, 20, 80, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1976,21 +2014,25 @@
       "Desc": "When Cyno is in the Pactsworn Pathclearer state activated by <color=#FFD780FF>Sacred Rite: Wolf's Swiftness</color>, Cyno will enter the Endseer stance at intervals. If he activates <color=#FFD780FF>Secret Rite: Chasmic Soulfarer</color> while affected by this stance, he will activate the Judication effect, increasing the DMG of this Secret Rite: Chasmic Soulfarer by 35%, and firing off 3 Duststalker Bolts that deal 100% of Cyno's ATK as <color=#FFACFFFF>Electro DMG.</color>\\nDuststalker Bolt DMG is considered Elemental Skill DMG.",
       "Icon": "UI_Talent_S_Cyno_05",
       "Unlock": 1,
-      "ParamList": [0.35, 1]
+      "ParamList": [
+        0.35, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Authority Over the Nine Bows",
       "Desc": "Cyno's DMG values will be increased based on his Elemental Mastery as follows:\\n·Pactsworn Pathclearer's Normal Attack DMG is increased by 150% of his Elemental Mastery.\\n·Duststalker Bolt DMG from his Passive Talent Featherfall Judgment is increased by 250% of his Elemental Mastery.",
       "Icon": "UI_Talent_S_Cyno_06",
       "Unlock": 4,
-      "ParamList": [1.5, 2.5]
+      "ParamList": [
+        1.5, 2.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "The Gift of Silence",
       "Desc": "Gains 25% more rewards when dispatched on a Sumeru Expedition for 20 hours.",
       "Icon": "UI_Talent_S_Cyno_07",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Constellations": [
@@ -1998,37 +2040,37 @@
       "Name": "Ordinance: Unceasing Vigil",
       "Desc": "After using <color=#FFD780FF>Sacred Rite: Wolf's Swiftness</color>, Cyno's Normal Attack SPD will be increased by 20% for 10s. If the Judication effect of his Passive Talent Featherfall Judgment is triggered during <color=#FFD780FF>Secret Rite: Chasmic Soulfarer</color>, the duration of this increase will be refreshed.\\nYou need to unlock the Passive Talent \"Featherfall Judgment.\"",
       "Icon": "UI_Talent_S_Cyno_01",
-      "ParamList": [0.2, 10]
+      "ParamList": [0.2, 10, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Ceremony: Homecoming of Spirits",
       "Desc": "When Cyno's Normal Attacks hit opponents, his <color=#FFACFFFF>Electro DMG Bonus</color> will increase by 10% for 4s. This effect can be triggered once every 0.1s. Max 5 stacks.",
       "Icon": "UI_Talent_S_Cyno_02",
-      "ParamList": [0.1, 4, 5, 0.1]
+      "ParamList": [0.1, 4, 5, 0.1, 0, 0, 0, 0]
     },
     {
       "Name": "Precept: Lawful Enforcer",
       "Desc": "Increases the Level of <color=#FFD780FF>Sacred Rite: Wolf's Swiftness</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Cyno_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Austerity: Forbidding Guard",
       "Desc": "When Cyno is in the Pactsworn Pathclearer state triggered by <color=#FFD780FF>Sacred Rite: Wolf's Swiftness</color>, after he triggers Electro-Charged, Superconduct, Overloaded, Quicken, Aggravate, Hyperbloom, or an Electro Swirl reaction, he will restore 3 Elemental Energy for all nearby party members (except himself.)\\nThis effect can occur 5 times within one use of <color=#FFD780FF>Sacred Rite: Wolf's Swiftness</color>.",
       "Icon": "UI_Talent_S_Cyno_03",
-      "ParamList": [3, 5]
+      "ParamList": [3, 5, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Funerary Rite: The Passing of Starlight",
       "Desc": "Increases the Level of <color=#FFD780FF>Secret Rite: Chasmic Soulfarer</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Cyno_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Raiment: Just Scales",
       "Desc": "After using <color=#FFD780FF>Sacred Rite: Wolf's Swiftness</color> or triggering the Judication effect of the Passive Talent \"Featherfall Judgment,\" Cyno will gain 4 stacks of the \"Day of the Jackal\" effect. When he hits opponents with Normal Attacks, he will consume 1 stack of \"Day of the Jackal\" to fire off one Duststalker Bolt.\\n\"Day of the Jackal\" lasts for 8s. Max 8 stacks. It will be canceled once Pactsworn Pathclearer ends.\\nA maximum of 1 Duststalker Bolt can be unleashed this way every 0.4s.\\nYou must first unlock the Passive Talent \"Featherfall Judgment.\"",
       "Icon": "UI_Talent_S_Cyno_04",
-      "ParamList": [4, 8, 8, 0.4]
+      "ParamList": [4, 8, 8, 0.4, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -2041,7 +2083,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Scarab", "Id": 101225, "Count": 3, "Rank": 1 },
+          { "Name": "Scarab", "Id": 101225, "Count": 3, "Rank": 0 },
           { "Name": "Divining Scroll", "Id": 112008, "Count": 3, "Rank": 1 }
         ],
         "Cost": 20000
@@ -2060,7 +2102,7 @@
             "Count": 2,
             "Rank": 4
           },
-          { "Name": "Scarab", "Id": 101225, "Count": 10, "Rank": 1 },
+          { "Name": "Scarab", "Id": 101225, "Count": 10, "Rank": 0 },
           { "Name": "Divining Scroll", "Id": 112008, "Count": 15, "Rank": 1 }
         ],
         "Cost": 40000
@@ -2079,7 +2121,7 @@
             "Count": 4,
             "Rank": 4
           },
-          { "Name": "Scarab", "Id": 101225, "Count": 20, "Rank": 1 },
+          { "Name": "Scarab", "Id": 101225, "Count": 20, "Rank": 0 },
           { "Name": "Sealed Scroll", "Id": 112009, "Count": 12, "Rank": 2 }
         ],
         "Cost": 60000
@@ -2098,7 +2140,7 @@
             "Count": 8,
             "Rank": 4
           },
-          { "Name": "Scarab", "Id": 101225, "Count": 30, "Rank": 1 },
+          { "Name": "Scarab", "Id": 101225, "Count": 30, "Rank": 0 },
           { "Name": "Sealed Scroll", "Id": 112009, "Count": 18, "Rank": 2 }
         ],
         "Cost": 80000
@@ -2117,7 +2159,7 @@
             "Count": 12,
             "Rank": 4
           },
-          { "Name": "Scarab", "Id": 101225, "Count": 45, "Rank": 1 },
+          { "Name": "Scarab", "Id": 101225, "Count": 45, "Rank": 0 },
           {
             "Name": "Forbidden Curse Scroll",
             "Id": 112010,
@@ -2141,7 +2183,7 @@
             "Count": 20,
             "Rank": 4
           },
-          { "Name": "Scarab", "Id": 101225, "Count": 60, "Rank": 1 },
+          { "Name": "Scarab", "Id": 101225, "Count": 60, "Rank": 0 },
           {
             "Name": "Forbidden Curse Scroll",
             "Id": 112010,

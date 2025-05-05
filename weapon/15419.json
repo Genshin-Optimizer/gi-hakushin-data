@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_202",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 43.7349
+      "initValue": 43.7349,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_ATTACK_PERCENT",
-      "initValue": 0.06
+      "initValue": 0.06,
+      "propType": "FIGHT_PROP_ATTACK_PERCENT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Secret Wisdom's Favor",
       "Desc": "The character's Elemental Mastery will increase by <color=#99FFFFFF>40</color> within 6s after Charged Attacks hit opponents. Max 2 stacks. This effect can be triggered once every 0.5s.",
-      "ParamList": [40, 6, 2, 0.5]
+      "ParamList": [40, 6, 2, 0.5, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Secret Wisdom's Favor",
       "Desc": "The character's Elemental Mastery will increase by <color=#99FFFFFF>50</color> within 6s after Charged Attacks hit opponents. Max 2 stacks. This effect can be triggered once every 0.5s.",
-      "ParamList": [50, 6, 2, 0.5]
+      "ParamList": [50, 6, 2, 0.5, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Secret Wisdom's Favor",
       "Desc": "The character's Elemental Mastery will increase by <color=#99FFFFFF>60</color> within 6s after Charged Attacks hit opponents. Max 2 stacks. This effect can be triggered once every 0.5s.",
-      "ParamList": [60, 6, 2, 0.5]
+      "ParamList": [60, 6, 2, 0.5, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Secret Wisdom's Favor",
       "Desc": "The character's Elemental Mastery will increase by <color=#99FFFFFF>70</color> within 6s after Charged Attacks hit opponents. Max 2 stacks. This effect can be triggered once every 0.5s.",
-      "ParamList": [70, 6, 2, 0.5]
+      "ParamList": [70, 6, 2, 0.5, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Secret Wisdom's Favor",
       "Desc": "The character's Elemental Mastery will increase by <color=#99FFFFFF>80</color> within 6s after Charged Attacks hit opponents. Max 2 stacks. This effect can be triggered once every 0.5s.",
-      "ParamList": [80, 6, 2, 0.5]
+      "ParamList": [80, 6, 2, 0.5, 0, 0, 0, 0]
     }
   },
   "Materials": {

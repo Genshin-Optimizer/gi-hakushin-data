@@ -6,25 +6,28 @@
   "Affix": [
     {
       "id": 210009,
+      "level": 0,
       "affixId": 2100090,
+      "paramList": [0, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "",
       "addProps": [
-        { "value": 0.2, "propType": "FIGHT_PROP_CHARGE_EFFICIENCY" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_CHARGE_EFFICIENCY", "value": 0.2 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "The Exile",
       "Desc": "Energy Recharge +20%"
     },
     {
-      "level": 1,
-      "paramList": [2, 6],
       "id": 210009,
-      "openConfig": "Relic_UltGainEnergyForTeam",
+      "level": 1,
       "affixId": 2100091,
+      "paramList": [2, 6, 0, 0, 0, 0, 0, 0],
+      "openConfig": "Relic_UltGainEnergyForTeam",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "The Exile",
       "Desc": "Using an Elemental Burst regenerates 2 Energy for all party members (excluding the wearer) every 2s for 6s. This effect cannot stack."

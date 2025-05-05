@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_201",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 42.401
+      "initValue": 42.401,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_ELEMENT_MASTERY",
-      "initValue": 36
+      "initValue": 36,
+      "propType": "FIGHT_PROP_ELEMENT_MASTERY"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Crag-Chiseled Forge",
       "Desc": "After Elemental Energy is decreased, the equipping character's Elemental Mastery will increase by <color=#99FFFFFF>40</color> for 18s. Max 2 stacks.",
-      "ParamList": [40, 18]
+      "ParamList": [40, 18, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Crag-Chiseled Forge",
       "Desc": "After Elemental Energy is decreased, the equipping character's Elemental Mastery will increase by <color=#99FFFFFF>50</color> for 18s. Max 2 stacks.",
-      "ParamList": [50, 18]
+      "ParamList": [50, 18, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Crag-Chiseled Forge",
       "Desc": "After Elemental Energy is decreased, the equipping character's Elemental Mastery will increase by <color=#99FFFFFF>60</color> for 18s. Max 2 stacks.",
-      "ParamList": [60, 18]
+      "ParamList": [60, 18, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Crag-Chiseled Forge",
       "Desc": "After Elemental Energy is decreased, the equipping character's Elemental Mastery will increase by <color=#99FFFFFF>70</color> for 18s. Max 2 stacks.",
-      "ParamList": [70, 18]
+      "ParamList": [70, 18, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Crag-Chiseled Forge",
       "Desc": "After Elemental Energy is decreased, the equipping character's Elemental Mastery will increase by <color=#99FFFFFF>80</color> for 18s. Max 2 stacks.",
-      "ParamList": [80, 18]
+      "ParamList": [80, 18, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

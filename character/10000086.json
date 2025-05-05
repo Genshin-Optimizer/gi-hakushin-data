@@ -19,7 +19,7 @@
     "Stories": [
       {
         "Title": "Character Details",
-        "Text": "To the great relief of the Maison Ordalie, most Fontainians are law-abiding citizens. As such, the Fortress of Meropide is not a place that they will ever visit in their lives.\\nAt the same time, there is an easily understood yet rather tragic truth, which is that those who have served time often find it difficult to reintegrate back into the \"overworld,\" and few will actively speak of their experiences in the \"underworld.\"\\nRather than a specific place, the Fortress is more like an idea, a warning, a symbol of misfortune and castigation — a byword amongst Fontainians. As for who controls this idea, that is unimportant.\\nThanks to this state of affairs, Wriothesley has been able to lead a secluded and private existence, living and traveling in Fontaine in a manner quite unbefitting of his status as the \"Duke.\"\\nIndeed, even as pedestrians are saying things like \"fool around any further, and I'll punch you straight into the Fortress of Meropide,\" or \"this job is garbage, I'd rather be tightening screws at the bottom of the sea,\" this administrator of said underwater fortress might be walking the same stone-paved road to the café, on his way to grab some takeout for his afternoon tea.",
+        "Text": "To the great relief of the Maison Ordalie, most Fontainians are law-abiding citizens. As such, the Fortress of Meropide is not a place that they will ever visit in their lives.\\nAt the same time, there is an easily understood yet rather tragic truth, which is that those who have served time often find it difficult to reintegrate back into the \"overworld,\" and few will actively speak of their experiences in the \"underworld.\"\\nRather than a specific place, the Fortress is more like an idea, a warning, a symbol of misfortune and castigation ��� a byword amongst Fontainians. As for who controls this idea, that is unimportant.\\nThanks to this state of affairs, Wriothesley has been able to lead a secluded and private existence, living and traveling in Fontaine in a manner quite unbefitting of his status as the \"Duke.\"\\nIndeed, even as pedestrians are saying things like \"fool around any further, and I'll punch you straight into the Fortress of Meropide,\" or \"this job is garbage, I'd rather be tightening screws at the bottom of the sea,\" this administrator of said underwater fortress might be walking the same stone-paved road to the café, on his way to grab some takeout for his afternoon tea.",
         "Unlock": []
       },
       {
@@ -425,7 +425,7 @@
         "Name": "Night's Chilling Howl",
         "Desc": "Wriothesley's outfit. It radiates both dignity and strength, with the rugged gray wolf chain serving as the mark of his rulership over the Fortress of Meropide.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -804,7 +804,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Forceful Fists of Frost",
+      "Name": "Forceful Fists of Frost",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nCoalescing frost about his fist, Wriothesley will unleash powerful <color=#FFD780FF>Repelling Fists</color>, performing up to 5 rapid attacks that deal <color=#99FFFFFF>Cryo DMG</color>.\\nApart from this, Normal Attack combo count will not reset for a short time after using Icefang Rush or sprinting.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a fixed amount of Stamina to leap and unleash a <color=#FFD780FF>Vaulting Fist</color>, dealing <color=#99FFFFFF>AoE Cryo DMG</color>.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing <color=#99FFFFFF>AoE Cryo DMG</color> upon impact.",
       "Promote": {
         "0": {
@@ -830,7 +830,7 @@
           ],
           "Param": [
             0.533596, 0.517987, 0.672228, 0.379041, 0.379041, 0.90742, 1.5296,
-            50, 0.568288, 1.136335, 1.419344
+            50, 0.568288, 1.136335, 1.419344, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -856,7 +856,7 @@
           ],
           "Param": [
             0.577028, 0.560148, 0.726944, 0.409893, 0.409893, 0.98128, 1.64432,
-            50, 0.614544, 1.228828, 1.534872
+            50, 0.614544, 1.228828, 1.534872, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -882,7 +882,7 @@
           ],
           "Param": [
             0.62046, 0.60231, 0.78166, 0.440745, 0.440745, 1.05514, 1.75904, 50,
-            0.6608, 1.32132, 1.6504
+            0.6608, 1.32132, 1.6504, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -908,7 +908,7 @@
           ],
           "Param": [
             0.682506, 0.662541, 0.859826, 0.48482, 0.48482, 1.160654, 1.912, 50,
-            0.72688, 1.453452, 1.81544
+            0.72688, 1.453452, 1.81544, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -934,7 +934,7 @@
           ],
           "Param": [
             0.725938, 0.704703, 0.914542, 0.515672, 0.515672, 1.234514, 2.02672,
-            50, 0.773136, 1.545944, 1.930968
+            50, 0.773136, 1.545944, 1.930968, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -960,7 +960,7 @@
           ],
           "Param": [
             0.775575, 0.752888, 0.977075, 0.550931, 0.550931, 1.318925, 2.14144,
-            50, 0.826, 1.65165, 2.063
+            50, 0.826, 1.65165, 2.063, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -986,7 +986,7 @@
           ],
           "Param": [
             0.843826, 0.819142, 1.063058, 0.599413, 0.599413, 1.43499, 2.2944,
-            50, 0.898688, 1.796995, 2.244544
+            50, 0.898688, 1.796995, 2.244544, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1012,7 +1012,7 @@
           ],
           "Param": [
             0.912076, 0.885396, 1.14904, 0.647895, 0.647895, 1.551056, 2.44736,
-            50, 0.971376, 1.94234, 2.426088
+            50, 0.971376, 1.94234, 2.426088, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1038,7 +1038,7 @@
           ],
           "Param": [
             0.980327, 0.95165, 1.235023, 0.696377, 0.696377, 1.667121, 2.60032,
-            50, 1.044064, 2.087686, 2.607632
+            50, 1.044064, 2.087686, 2.607632, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1064,7 +1064,7 @@
           ],
           "Param": [
             1.054782, 1.023927, 1.328822, 0.749266, 0.749266, 1.793738, 2.75328,
-            50, 1.12336, 2.246244, 2.80568
+            50, 1.12336, 2.246244, 2.80568, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1090,7 +1090,7 @@
           ],
           "Param": [
             1.129237, 1.096204, 1.422621, 0.802156, 0.802156, 1.920355, 2.90624,
-            50, 1.202656, 2.404802, 3.003728
+            50, 1.202656, 2.404802, 3.003728, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1116,7 +1116,7 @@
           ],
           "Param": [
             1.203692, 1.168481, 1.51642, 0.855045, 0.855045, 2.046972, 3.0592,
-            50, 1.281952, 2.563361, 3.201776
+            50, 1.281952, 2.563361, 3.201776, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1142,7 +1142,7 @@
           ],
           "Param": [
             1.278148, 1.240759, 1.61022, 0.907935, 0.907935, 2.173588, 3.2504,
-            50, 1.361248, 2.721919, 3.399824
+            50, 1.361248, 2.721919, 3.399824, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1168,7 +1168,7 @@
           ],
           "Param": [
             1.352603, 1.313036, 1.704019, 0.960824, 0.960824, 2.300205, 3.4416,
-            50, 1.440544, 2.880478, 3.597872
+            50, 1.440544, 2.880478, 3.597872, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1194,7 +1194,7 @@
           ],
           "Param": [
             1.427058, 1.385313, 1.797818, 1.013713, 1.013713, 2.426822, 3.6328,
-            50, 1.51984, 3.039036, 3.79592
+            50, 1.51984, 3.039036, 3.79592, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1224,7 +1224,10 @@
             "",
             ""
           ],
-          "Param": [1.431695, 0.045, 10, 16, 0.431695]
+          "Param": [
+            1.431695, 0.045, 10, 16, 0, 0, 0, 0.431695, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1247,7 +1250,10 @@
             "",
             ""
           ],
-          "Param": [1.457545, 0.045, 10, 16, 0.457545]
+          "Param": [
+            1.457545, 0.045, 10, 16, 0, 0, 0, 0.457545, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1270,7 +1276,10 @@
             "",
             ""
           ],
-          "Param": [1.483395, 0.045, 10, 16, 0.483395]
+          "Param": [
+            1.483395, 0.045, 10, 16, 0, 0, 0, 0.483395, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1293,7 +1302,10 @@
             "",
             ""
           ],
-          "Param": [1.517, 0.045, 10, 16, 0.517]
+          "Param": [
+            1.517, 0.045, 10, 16, 0, 0, 0, 0.517, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1316,7 +1328,10 @@
             "",
             ""
           ],
-          "Param": [1.54285, 0.045, 10, 16, 0.54285]
+          "Param": [
+            1.54285, 0.045, 10, 16, 0, 0, 0, 0.54285, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1339,7 +1354,10 @@
             "",
             ""
           ],
-          "Param": [1.5687, 0.045, 10, 16, 0.5687]
+          "Param": [
+            1.5687, 0.045, 10, 16, 0, 0, 0, 0.5687, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1362,7 +1380,10 @@
             "",
             ""
           ],
-          "Param": [1.602305, 0.045, 10, 16, 0.602305]
+          "Param": [
+            1.602305, 0.045, 10, 16, 0, 0, 0, 0.602305, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1385,7 +1406,10 @@
             "",
             ""
           ],
-          "Param": [1.63591, 0.045, 10, 16, 0.63591]
+          "Param": [
+            1.63591, 0.045, 10, 16, 0, 0, 0, 0.63591, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1408,7 +1432,10 @@
             "",
             ""
           ],
-          "Param": [1.669515, 0.045, 10, 16, 0.669515]
+          "Param": [
+            1.669515, 0.045, 10, 16, 0, 0, 0, 0.669515, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1431,7 +1458,10 @@
             "",
             ""
           ],
-          "Param": [1.70312, 0.045, 10, 16, 0.70312]
+          "Param": [
+            1.70312, 0.045, 10, 16, 0, 0, 0, 0.70312, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1454,7 +1484,10 @@
             "",
             ""
           ],
-          "Param": [1.736725, 0.045, 10, 16, 0.736725]
+          "Param": [
+            1.736725, 0.045, 10, 16, 0, 0, 0, 0.736725, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1477,7 +1510,10 @@
             "",
             ""
           ],
-          "Param": [1.77033, 0.045, 10, 16, 0.77033]
+          "Param": [
+            1.77033, 0.045, 10, 16, 0, 0, 0, 0.77033, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1500,7 +1536,10 @@
             "",
             ""
           ],
-          "Param": [1.803935, 0.045, 10, 16, 0.803935]
+          "Param": [
+            1.803935, 0.045, 10, 16, 0, 0, 0, 0.803935, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1523,7 +1562,10 @@
             "",
             ""
           ],
-          "Param": [1.83754, 0.045, 10, 16, 0.83754]
+          "Param": [
+            1.83754, 0.045, 10, 16, 0, 0, 0, 0.83754, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1546,7 +1588,10 @@
             "",
             ""
           ],
-          "Param": [1.871145, 0.045, 10, 16, 0.871145]
+          "Param": [
+            1.871145, 0.045, 10, 16, 0, 0, 0, 0.871145, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         }
       }
     },
@@ -1575,7 +1620,10 @@
             "",
             ""
           ],
-          "Param": [1.272, 0.424, 15, 60, 10]
+          "Param": [
+            1.272, 0.424, 15, 60, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1598,7 +1646,10 @@
             "",
             ""
           ],
-          "Param": [1.3674, 0.4558, 15, 60, 10]
+          "Param": [
+            1.3674, 0.4558, 15, 60, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1621,7 +1672,10 @@
             "",
             ""
           ],
-          "Param": [1.4628, 0.4876, 15, 60, 10]
+          "Param": [
+            1.4628, 0.4876, 15, 60, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1644,7 +1698,9 @@
             "",
             ""
           ],
-          "Param": [1.59, 0.53, 15, 60, 10]
+          "Param": [
+            1.59, 0.53, 15, 60, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1667,7 +1723,10 @@
             "",
             ""
           ],
-          "Param": [1.6854, 0.5618, 15, 60, 10]
+          "Param": [
+            1.6854, 0.5618, 15, 60, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1690,7 +1749,10 @@
             "",
             ""
           ],
-          "Param": [1.7808, 0.5936, 15, 60, 10]
+          "Param": [
+            1.7808, 0.5936, 15, 60, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1713,7 +1775,10 @@
             "",
             ""
           ],
-          "Param": [1.908, 0.636, 15, 60, 10]
+          "Param": [
+            1.908, 0.636, 15, 60, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1736,7 +1801,10 @@
             "",
             ""
           ],
-          "Param": [2.0352, 0.6784, 15, 60, 10]
+          "Param": [
+            2.0352, 0.6784, 15, 60, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1759,7 +1827,10 @@
             "",
             ""
           ],
-          "Param": [2.1624, 0.7208, 15, 60, 10]
+          "Param": [
+            2.1624, 0.7208, 15, 60, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1782,7 +1853,10 @@
             "",
             ""
           ],
-          "Param": [2.2896, 0.7632, 15, 60, 10]
+          "Param": [
+            2.2896, 0.7632, 15, 60, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1805,7 +1879,10 @@
             "",
             ""
           ],
-          "Param": [2.4168, 0.8056, 15, 60, 10]
+          "Param": [
+            2.4168, 0.8056, 15, 60, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1828,7 +1905,10 @@
             "",
             ""
           ],
-          "Param": [2.544, 0.848, 15, 60, 10]
+          "Param": [
+            2.544, 0.848, 15, 60, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1851,7 +1931,10 @@
             "",
             ""
           ],
-          "Param": [2.703, 0.901, 15, 60, 10]
+          "Param": [
+            2.703, 0.901, 15, 60, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1874,7 +1957,10 @@
             "",
             ""
           ],
-          "Param": [2.862, 0.954, 15, 60, 10]
+          "Param": [
+            2.862, 0.954, 15, 60, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1897,7 +1983,10 @@
             "",
             ""
           ],
-          "Param": [3.021, 1.007, 15, 60, 10]
+          "Param": [
+            3.021, 1.007, 15, 60, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         }
       }
     }
@@ -1908,21 +1997,25 @@
       "Desc": "When Wriothesley's HP is less than 60%, he will obtain a Gracious Rebuke. The next Charged Attack of his <color=#FFD780FF>Normal Attack: Forceful Fists of Frost</color> will be enhanced to become Rebuke: Vaulting Fist. It will not consume Stamina, will deal 50% increased DMG, and after hitting will restore HP for Wriothesley equal to 30% of his Max HP.\\nYou can gain a Gracious Rebuke this way once every 5s.",
       "Icon": "UI_Talent_S_Wriothesley_05",
       "Unlock": 1,
-      "ParamList": [0.6, 0.5, 0.3, 5]
+      "ParamList": [
+        0.6, 0.5, 0.3, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "There Shall Be a Reckoning for Sin",
       "Desc": "When Wriothesley's current HP increases or decreases, if he is in the Chilling Penalty state conferred by <color=#FFD780FF>Icefang Rush</color>, Chilling Penalty will gain one stack of Prosecution Edict. Max 5 stacks. Each stack will increase Wriothesley's ATK by 6%.",
       "Icon": "UI_Talent_S_Wriothesley_06",
       "Unlock": 4,
-      "ParamList": [0.06, 5]
+      "ParamList": [
+        0.06, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "The Duke's Grace",
       "Desc": "When Wriothesley crafts Weapon Ascension Materials, he has a 10% chance to receive double the product.",
       "Icon": "UI_Talent_Combine_Weapon_Double",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Constellations": [
@@ -1930,37 +2023,37 @@
       "Name": "Terror for the Evildoers",
       "Desc": "The Gracious Rebuke from the Passive Talent \"There Shall Be a Plea for Justice\" is changed to this:\\nWhen Wriothesley's HP is less than 60% or while he is in the Chilling Penalty state caused by <color=#FFD780FF>Icefang Rush</color>, when the fifth attack of Repelling Fists hits, it will create a Gracious Rebuke. 1 Gracious Rebuke effect can be obtained every 2.5s.\\n\\nAdditionally, Rebuke: Vaulting Fist will obtain the following enhancement:\\n·The DMG Bonus gained will be further increased to 200%.\\n·When it hits while Wriothesley is in the Chilling Penalty state, that state's duration is extended by 4s. 1 such extension can occur per 1 Chilling Penalty duration.\\n\\nYou must first unlock the Passive Talent \"There Shall Be a Plea for Justice.\"",
       "Icon": "UI_Talent_S_Wriothesley_01",
-      "ParamList": [2.5, 1.5, 4]
+      "ParamList": [2.5, 1.5, 4, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Shackles for the Arrogant",
       "Desc": "When using <color=#FFD780FF>Darkgold Wolfbite</color>, each Prosecution Edict stack from the Passive Talent \"There Shall Be a Reckoning for Sin\" will increase said ability's DMG dealt by 40%.\\nYou must first unlock the Passive Talent \"There Shall Be a Reckoning for Sin.\"",
       "Icon": "UI_Talent_S_Wriothesley_02",
-      "ParamList": [0.4]
+      "ParamList": [0.4, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Punishment for the Frauds",
       "Desc": "Increases the Level of <color=#FFD780FF>Normal Attack: Forceful Fists of Frost</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Wriothesley_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Redemption for the Suffering",
       "Desc": "The HP restored to Wriothesley through Rebuke: Vaulting Fist will be increased to 50% of his Max HP. You must first unlock the Passive Talent \"There Shall Be a Plea for Justice.\"\\nAdditionally, when Wriothesley is healed, if the amount of healing overflows, the following effects will occur depending on whether he is on the field or not. If he is on the field, his ATK SPD will be increased by 20% for 4s. If he is off-field, all of your own party members' ATK SPD will be increased by 10% for 6s. These two methods of increasing ATK SPD cannot stack.",
       "Icon": "UI_Talent_S_Wriothesley_03",
-      "ParamList": [0.2, 4, 0.1, 6, 0.2]
+      "ParamList": [0.2, 4, 0.1, 6, 0.2, 0, 0, 0]
     },
     {
       "Name": "Mercy for the Wronged",
       "Desc": "Increases the Level of <color=#FFD780FF>Darkgold Wolfbite</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Wriothesley_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Esteem for the Innocent",
       "Desc": "The CRIT Rate of Rebuke: Vaulting Fist will be increased by 10%, and its CRIT DMG by 80%. When unleashed, it will also create an additional icicle that deals 100% of Rebuke: Vaulting Fist's Base DMG as <color=#99FFFFFF>Cryo DMG</color>. DMG dealt this way is regarded as Charged Attack DMG.\\nYou must first unlock the Passive Talent \"There Shall Be a Plea for Justice.\"",
       "Icon": "UI_Talent_S_Wriothesley_04",
-      "ParamList": [0.1, 0.8, 1]
+      "ParamList": [0.1, 0.8, 1, 0, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -1973,7 +2066,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Subdetection Unit", "Id": 101239, "Count": 3, "Rank": 1 },
+          { "Name": "Subdetection Unit", "Id": 101239, "Count": 3, "Rank": 0 },
           { "Name": "Meshing Gear", "Id": 112083, "Count": 3, "Rank": 1 }
         ],
         "Cost": 20000
@@ -1992,7 +2085,7 @@
             "Count": 2,
             "Rank": 4
           },
-          { "Name": "Subdetection Unit", "Id": 101239, "Count": 10, "Rank": 1 },
+          { "Name": "Subdetection Unit", "Id": 101239, "Count": 10, "Rank": 0 },
           { "Name": "Meshing Gear", "Id": 112083, "Count": 15, "Rank": 1 }
         ],
         "Cost": 40000
@@ -2011,7 +2104,7 @@
             "Count": 4,
             "Rank": 4
           },
-          { "Name": "Subdetection Unit", "Id": 101239, "Count": 20, "Rank": 1 },
+          { "Name": "Subdetection Unit", "Id": 101239, "Count": 20, "Rank": 0 },
           {
             "Name": "Mechanical Spur Gear",
             "Id": 112084,
@@ -2030,7 +2123,7 @@
             "Count": 8,
             "Rank": 4
           },
-          { "Name": "Subdetection Unit", "Id": 101239, "Count": 30, "Rank": 1 },
+          { "Name": "Subdetection Unit", "Id": 101239, "Count": 30, "Rank": 0 },
           {
             "Name": "Mechanical Spur Gear",
             "Id": 112084,
@@ -2049,7 +2142,7 @@
             "Count": 12,
             "Rank": 4
           },
-          { "Name": "Subdetection Unit", "Id": 101239, "Count": 45, "Rank": 1 },
+          { "Name": "Subdetection Unit", "Id": 101239, "Count": 45, "Rank": 0 },
           {
             "Name": "Artificed Dynamic Gear",
             "Id": 112085,
@@ -2073,7 +2166,7 @@
             "Count": 20,
             "Rank": 4
           },
-          { "Name": "Subdetection Unit", "Id": 101239, "Count": 60, "Rank": 1 },
+          { "Name": "Subdetection Unit", "Id": 101239, "Count": 60, "Rank": 0 },
           {
             "Name": "Artificed Dynamic Gear",
             "Id": 112085,

@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_201",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 42.401
+      "initValue": 42.401,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_CRITICAL",
-      "initValue": 0.06
+      "initValue": 0.06,
+      "propType": "FIGHT_PROP_CRITICAL"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Tales of the Tundra",
       "Desc": "When there are at least 3 different Elemental Types in your party, Elemental Mastery will be increased by <color=#99FFFFFF>120.</color>",
-      "ParamList": [120]
+      "ParamList": [120, 0, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Tales of the Tundra",
       "Desc": "When there are at least 3 different Elemental Types in your party, Elemental Mastery will be increased by <color=#99FFFFFF>150.</color>",
-      "ParamList": [150]
+      "ParamList": [150, 0, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Tales of the Tundra",
       "Desc": "When there are at least 3 different Elemental Types in your party, Elemental Mastery will be increased by <color=#99FFFFFF>180.</color>",
-      "ParamList": [180]
+      "ParamList": [180, 0, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Tales of the Tundra",
       "Desc": "When there are at least 3 different Elemental Types in your party, Elemental Mastery will be increased by <color=#99FFFFFF>210.</color>",
-      "ParamList": [210]
+      "ParamList": [210, 0, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Tales of the Tundra",
       "Desc": "When there are at least 3 different Elemental Types in your party, Elemental Mastery will be increased by <color=#99FFFFFF>240.</color>",
-      "ParamList": [240]
+      "ParamList": [240, 0, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

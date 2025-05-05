@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_302",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 47.537
+      "initValue": 47.537,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_301",
-      "propType": "FIGHT_PROP_CRITICAL",
-      "initValue": 0.048
+      "initValue": 0.048,
+      "propType": "FIGHT_PROP_CRITICAL"
     }
   ],
   "Rarity": 5,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Golden Blood-Tide",
       "Desc": "ATK is increased by <color=#99FFFFFF>16%</color>. When current HP increases or decreases, Normal Attack DMG will be increased by <color=#99FFFFFF>16%</color> and Charged Attack DMG will be increased by <color=#99FFFFFF>14%</color> for 4s. Max 3 stacks. This effect can be triggered once every 0.3s. When the wielder has 3 stacks, ATK SPD will be increased by <color=#99FFFFFF>8%</color>.",
-      "ParamList": [4, 0.3, 0.16, 0.14, 0.08]
+      "ParamList": [4, 0.3, 0.16, 0.14, 0.08, 0, 0, 0]
     },
     "2": {
       "Name": "Golden Blood-Tide",
       "Desc": "ATK is increased by <color=#99FFFFFF>20%</color>. When current HP increases or decreases, Normal Attack DMG will be increased by <color=#99FFFFFF>20%</color> and Charged Attack DMG will be increased by <color=#99FFFFFF>17.5%</color> for 4s. Max 3 stacks. This effect can be triggered once every 0.3s. When the wielder has 3 stacks, ATK SPD will be increased by <color=#99FFFFFF>10%</color>.",
-      "ParamList": [4, 0.3, 0.2, 0.175, 0.1]
+      "ParamList": [4, 0.3, 0.2, 0.175, 0.1, 0, 0, 0]
     },
     "3": {
       "Name": "Golden Blood-Tide",
       "Desc": "ATK is increased by <color=#99FFFFFF>24%</color>. When current HP increases or decreases, Normal Attack DMG will be increased by <color=#99FFFFFF>24%</color> and Charged Attack DMG will be increased by <color=#99FFFFFF>21%</color> for 4s. Max 3 stacks. This effect can be triggered once every 0.3s. When the wielder has 3 stacks, ATK SPD will be increased by <color=#99FFFFFF>12%</color>.",
-      "ParamList": [4, 0.3, 0.24, 0.21, 0.12]
+      "ParamList": [4, 0.3, 0.24, 0.21, 0.12, 0, 0, 0]
     },
     "4": {
       "Name": "Golden Blood-Tide",
       "Desc": "ATK is increased by <color=#99FFFFFF>28%</color>. When current HP increases or decreases, Normal Attack DMG will be increased by <color=#99FFFFFF>28%</color> and Charged Attack DMG will be increased by <color=#99FFFFFF>24.5%</color> for 4s. Max 3 stacks. This effect can be triggered once every 0.3s. When the wielder has 3 stacks, ATK SPD will be increased by <color=#99FFFFFF>14%</color>.",
-      "ParamList": [4, 0.3, 0.28, 0.245, 0.14]
+      "ParamList": [4, 0.3, 0.28, 0.245, 0.14, 0, 0, 0]
     },
     "5": {
       "Name": "Golden Blood-Tide",
       "Desc": "ATK is increased by <color=#99FFFFFF>32%</color>. When current HP increases or decreases, Normal Attack DMG will be increased by <color=#99FFFFFF>32%</color> and Charged Attack DMG will be increased by <color=#99FFFFFF>28%</color> for 4s. Max 3 stacks. This effect can be triggered once every 0.3s. When the wielder has 3 stacks, ATK SPD will be increased by <color=#99FFFFFF>16%</color>.",
-      "ParamList": [4, 0.3, 0.32, 0.28, 0.16]
+      "ParamList": [4, 0.3, 0.32, 0.28, 0.16, 0, 0, 0]
     }
   },
   "Materials": {

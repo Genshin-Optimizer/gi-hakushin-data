@@ -418,7 +418,7 @@
         "Name": "The Lioness and the Blazing Sun",
         "Desc": "Dehya's outfit. It is said when the lion roars, even the scorching sun will quiver. Though Dehya is long past the age of believing in such stories, it doesn't stop her from gazing upon the sun sinking below the sands, reminiscing about the tales and storytellers of her childhood.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": [
@@ -804,7 +804,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Sandstorm Assault",
+      "Name": "Sandstorm Assault",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 consecutive strikes using her Claymore and her martial arts.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nDrains Stamina over time to perform continuous slashes.\\nAt the end of the sequence, performs a more powerful slash.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground, damaging opponents along the path and dealing AoE DMG upon impact.",
       "Promote": {
         "0": {
@@ -830,7 +830,7 @@
           ],
           "Param": [
             0.621178, 0.617102, 0.766312, 0.952914, 0.5633, 1.01824, 40, 5,
-            0.745878, 1.49144, 1.862889
+            0.745878, 1.49144, 1.862889, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -856,7 +856,7 @@
           ],
           "Param": [
             0.671739, 0.667331, 0.828686, 1.030477, 0.60915, 1.10112, 40, 5,
-            0.806589, 1.612836, 2.01452
+            0.806589, 1.612836, 2.01452, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -882,7 +882,7 @@
           ],
           "Param": [
             0.7223, 0.71756, 0.89106, 1.10804, 0.655, 1.184, 40, 5, 0.8673,
-            1.734233, 2.16615
+            1.734233, 2.16615, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -908,7 +908,7 @@
           ],
           "Param": [
             0.79453, 0.789316, 0.980166, 1.218844, 0.7205, 1.3024, 40, 5,
-            0.95403, 1.907656, 2.382765
+            0.95403, 1.907656, 2.382765, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -934,7 +934,7 @@
           ],
           "Param": [
             0.845091, 0.839545, 1.04254, 1.296407, 0.76635, 1.38528, 40, 5,
-            1.014741, 2.029052, 2.534396
+            1.014741, 2.029052, 2.534396, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -960,7 +960,7 @@
           ],
           "Param": [
             0.902875, 0.89695, 1.113825, 1.38505, 0.81875, 1.48, 40, 5,
-            1.084125, 2.167791, 2.707688
+            1.084125, 2.167791, 2.707688, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -986,7 +986,7 @@
           ],
           "Param": [
             0.982328, 0.975882, 1.211842, 1.506934, 0.8908, 1.61024, 40, 5,
-            1.179528, 2.358556, 2.945964
+            1.179528, 2.358556, 2.945964, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1012,7 +1012,7 @@
           ],
           "Param": [
             1.061781, 1.054813, 1.309858, 1.628819, 0.96285, 1.74048, 40, 5,
-            1.274931, 2.549322, 3.184241
+            1.274931, 2.549322, 3.184241, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1038,7 +1038,7 @@
           ],
           "Param": [
             1.141234, 1.133745, 1.407875, 1.750703, 1.0349, 1.87072, 40, 5,
-            1.370334, 2.740087, 3.422517
+            1.370334, 2.740087, 3.422517, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1064,7 +1064,7 @@
           ],
           "Param": [
             1.22791, 1.219852, 1.514802, 1.883668, 1.1135, 2.0128, 40, 5,
-            1.47441, 2.948195, 3.682455
+            1.47441, 2.948195, 3.682455, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1090,7 +1090,7 @@
           ],
           "Param": [
             1.314586, 1.305959, 1.621729, 2.016633, 1.1921, 2.15488, 40, 5,
-            1.578486, 3.156303, 3.942393
+            1.578486, 3.156303, 3.942393, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1116,7 +1116,7 @@
           ],
           "Param": [
             1.401262, 1.392066, 1.728656, 2.149598, 1.2707, 2.29696, 40, 5,
-            1.682562, 3.364411, 4.202331
+            1.682562, 3.364411, 4.202331, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1142,7 +1142,7 @@
           ],
           "Param": [
             1.487938, 1.478174, 1.835584, 2.282562, 1.3493, 2.43904, 40, 5,
-            1.786638, 3.572519, 4.462269
+            1.786638, 3.572519, 4.462269, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1168,7 +1168,7 @@
           ],
           "Param": [
             1.574614, 1.564281, 1.942511, 2.415527, 1.4279, 2.58112, 40, 5,
-            1.890714, 3.780627, 4.722207
+            1.890714, 3.780627, 4.722207, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1194,7 +1194,7 @@
           ],
           "Param": [
             1.66129, 1.650388, 2.049438, 2.548492, 1.5065, 2.7232, 40, 5,
-            1.99479, 3.988735, 4.982145
+            1.99479, 3.988735, 4.982145, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1224,7 +1224,10 @@
             "",
             ""
           ],
-          "Param": [1.1288, 1.328, 0.602, 0.01032, 0.32, 2, 12, 20]
+          "Param": [
+            1.1288, 1.328, 0.602, 0.01032, 0.32, 2, 12, 20, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1247,7 +1250,10 @@
             "",
             ""
           ],
-          "Param": [1.21346, 1.4276, 0.64715, 0.011094, 0.34, 2, 12, 20]
+          "Param": [
+            1.21346, 1.4276, 0.64715, 0.011094, 0.34, 2, 12, 20, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1270,7 +1276,10 @@
             "",
             ""
           ],
-          "Param": [1.29812, 1.5272, 0.6923, 0.011868, 0.36, 2, 12, 20]
+          "Param": [
+            1.29812, 1.5272, 0.6923, 0.011868, 0.36, 2, 12, 20, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1293,7 +1302,10 @@
             "",
             ""
           ],
-          "Param": [1.411, 1.66, 0.7525, 0.0129, 0.38, 2, 12, 20]
+          "Param": [
+            1.411, 1.66, 0.7525, 0.0129, 0.38, 2, 12, 20, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1316,7 +1328,10 @@
             "",
             ""
           ],
-          "Param": [1.49566, 1.7596, 0.79765, 0.013674, 0.4, 2, 12, 20]
+          "Param": [
+            1.49566, 1.7596, 0.79765, 0.013674, 0.4, 2, 12, 20, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1339,7 +1354,10 @@
             "",
             ""
           ],
-          "Param": [1.58032, 1.8592, 0.8428, 0.014448, 0.42, 2, 12, 20]
+          "Param": [
+            1.58032, 1.8592, 0.8428, 0.014448, 0.42, 2, 12, 20, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1362,7 +1380,10 @@
             "",
             ""
           ],
-          "Param": [1.6932, 1.992, 0.903, 0.01548, 0.44, 2, 12, 20]
+          "Param": [
+            1.6932, 1.992, 0.903, 0.01548, 0.44, 2, 12, 20, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1385,7 +1406,10 @@
             "",
             ""
           ],
-          "Param": [1.80608, 2.1248, 0.9632, 0.016512, 0.46, 2, 12, 20]
+          "Param": [
+            1.80608, 2.1248, 0.9632, 0.016512, 0.46, 2, 12, 20, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1408,7 +1432,10 @@
             "",
             ""
           ],
-          "Param": [1.91896, 2.2576, 1.0234, 0.017544, 0.48, 2, 12, 20]
+          "Param": [
+            1.91896, 2.2576, 1.0234, 0.017544, 0.48, 2, 12, 20, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1431,7 +1458,10 @@
             "",
             ""
           ],
-          "Param": [2.03184, 2.3904, 1.0836, 0.018576, 0.5, 2, 12, 20]
+          "Param": [
+            2.03184, 2.3904, 1.0836, 0.018576, 0.5, 2, 12, 20, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1454,7 +1484,10 @@
             "",
             ""
           ],
-          "Param": [2.14472, 2.5232, 1.1438, 0.019608, 0.52, 2, 12, 20]
+          "Param": [
+            2.14472, 2.5232, 1.1438, 0.019608, 0.52, 2, 12, 20, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1477,7 +1510,10 @@
             "",
             ""
           ],
-          "Param": [2.2576, 2.656, 1.204, 0.02064, 0.54, 2, 12, 20]
+          "Param": [
+            2.2576, 2.656, 1.204, 0.02064, 0.54, 2, 12, 20, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1500,7 +1536,10 @@
             "",
             ""
           ],
-          "Param": [2.3987, 2.822, 1.27925, 0.02193, 0.56, 2, 12, 20]
+          "Param": [
+            2.3987, 2.822, 1.27925, 0.02193, 0.56, 2, 12, 20, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1523,7 +1562,10 @@
             "",
             ""
           ],
-          "Param": [2.5398, 2.988, 1.3545, 0.02322, 0.56, 2, 12, 20]
+          "Param": [
+            2.5398, 2.988, 1.3545, 0.02322, 0.56, 2, 12, 20, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1546,7 +1588,10 @@
             "",
             ""
           ],
-          "Param": [2.6809, 3.154, 1.42975, 0.02451, 0.56, 2, 12, 20]
+          "Param": [
+            2.6809, 3.154, 1.42975, 0.02451, 0.56, 2, 12, 20, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         }
       }
     },
@@ -1575,7 +1620,10 @@
             "",
             ""
           ],
-          "Param": [0.987, 0.01692, 1.393, 0.02388, 4, 18, 70]
+          "Param": [
+            0.987, 0.01692, 1.393, 0.02388, 4, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1598,7 +1646,10 @@
             "",
             ""
           ],
-          "Param": [1.061025, 0.018189, 1.497475, 0.025671, 4, 18, 70]
+          "Param": [
+            1.061025, 0.018189, 1.497475, 0.025671, 4, 18, 70, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1621,7 +1672,10 @@
             "",
             ""
           ],
-          "Param": [1.13505, 0.019458, 1.60195, 0.027462, 4, 18, 70]
+          "Param": [
+            1.13505, 0.019458, 1.60195, 0.027462, 4, 18, 70, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1644,7 +1698,10 @@
             "",
             ""
           ],
-          "Param": [1.23375, 0.02115, 1.74125, 0.02985, 4, 18, 70]
+          "Param": [
+            1.23375, 0.02115, 1.74125, 0.02985, 4, 18, 70, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1667,7 +1724,10 @@
             "",
             ""
           ],
-          "Param": [1.307775, 0.022419, 1.845725, 0.031641, 4, 18, 70]
+          "Param": [
+            1.307775, 0.022419, 1.845725, 0.031641, 4, 18, 70, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1690,7 +1750,10 @@
             "",
             ""
           ],
-          "Param": [1.3818, 0.023688, 1.9502, 0.033432, 4, 18, 70]
+          "Param": [
+            1.3818, 0.023688, 1.9502, 0.033432, 4, 18, 70, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1713,7 +1776,10 @@
             "",
             ""
           ],
-          "Param": [1.4805, 0.02538, 2.0895, 0.03582, 4, 18, 70]
+          "Param": [
+            1.4805, 0.02538, 2.0895, 0.03582, 4, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1736,7 +1802,10 @@
             "",
             ""
           ],
-          "Param": [1.5792, 0.027072, 2.2288, 0.038208, 4, 18, 70]
+          "Param": [
+            1.5792, 0.027072, 2.2288, 0.038208, 4, 18, 70, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1759,7 +1828,10 @@
             "",
             ""
           ],
-          "Param": [1.6779, 0.028764, 2.3681, 0.040596, 4, 18, 70]
+          "Param": [
+            1.6779, 0.028764, 2.3681, 0.040596, 4, 18, 70, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1782,7 +1854,10 @@
             "",
             ""
           ],
-          "Param": [1.7766, 0.030456, 2.5074, 0.042984, 4, 18, 70]
+          "Param": [
+            1.7766, 0.030456, 2.5074, 0.042984, 4, 18, 70, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1805,7 +1880,10 @@
             "",
             ""
           ],
-          "Param": [1.8753, 0.032148, 2.6467, 0.045372, 4, 18, 70]
+          "Param": [
+            1.8753, 0.032148, 2.6467, 0.045372, 4, 18, 70, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1828,7 +1906,10 @@
             "",
             ""
           ],
-          "Param": [1.974, 0.03384, 2.786, 0.04776, 4, 18, 70]
+          "Param": [
+            1.974, 0.03384, 2.786, 0.04776, 4, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1851,7 +1932,10 @@
             "",
             ""
           ],
-          "Param": [2.097375, 0.035955, 2.960125, 0.050745, 4, 18, 70]
+          "Param": [
+            2.097375, 0.035955, 2.960125, 0.050745, 4, 18, 70, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1874,7 +1958,10 @@
             "",
             ""
           ],
-          "Param": [2.22075, 0.03807, 3.13425, 0.05373, 4, 18, 70]
+          "Param": [
+            2.22075, 0.03807, 3.13425, 0.05373, 4, 18, 70, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1897,7 +1984,10 @@
             "",
             ""
           ],
-          "Param": [2.344125, 0.040185, 3.308375, 0.056715, 4, 18, 70]
+          "Param": [
+            2.344125, 0.040185, 3.308375, 0.056715, 4, 18, 70, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         }
       }
     }
@@ -1908,21 +1998,27 @@
       "Desc": "Within 6 seconds after Dehya retrieves the Fiery Sanctum field through <color=#FFD780FF>Molten Inferno: Ranging Flame</color> or <color=#FFD780FF>Leonine Bite</color>, she will take 60% less DMG when receiving DMG from Redmane's Blood. This effect can be triggered once every 2s.\\nAdditionally, within 9s after Dehya unleashes <color=#FFD780FF>Molten Inferno: Indomitable Flame</color>, she will grant all party members the Gold-Forged Form state. This state will further increase a character's resistance to interruption when they are within the Fiery Sanctum field. Gold-Forged Form can be activated once every 18s.",
       "Icon": "UI_Talent_S_Dehya_05",
       "Unlock": 1,
-      "ParamList": [0.6, 6, 2, 9, 18]
+      "ParamList": [
+        0.6, 6, 2, 9, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Stalwart and True",
       "Desc": "When her HP is less than 40%, Dehya will recover 20% of her Max HP and will restore 6% of her Max HP every 2s for the next 10s. This effect can be triggered once every 20s.",
       "Icon": "UI_Talent_S_Dehya_06",
       "Unlock": 4,
-      "ParamList": [0.4, 0.2, 0.06, 2, 10, 20]
+      "ParamList": [
+        0.4, 0.2, 0.06, 2, 10, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "The Sunlit Way",
       "Desc": "During the day (06:00 – 18:00), your party members gain the Swift Stride effect: Movement SPD increased by 10%.\\nDoes not take effect in Domains, Trounce Domains, or Spiral Abyss. Swift Stride does not stack.",
       "Icon": "UI_Talent_S_Dehya_07",
       "Unlock": 0,
-      "ParamList": [0.1]
+      "ParamList": [
+        0.1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     }
   ],
   "Constellations": [
@@ -1930,37 +2026,37 @@
       "Name": "The Flame Incandescent",
       "Desc": "Dehya's Max HP is increased by 20%, and she deals bonus DMG based on her Max HP when using the following attacks:\\n·<color=#FFD780FF>Molten Inferno</color>'s DMG will be increased by 3.6% of her Max HP.\\n·<color=#FFD780FF>Leonine Bite</color>'s DMG will be increased by 6% of her Max HP.",
       "Icon": "UI_Talent_S_Dehya_01",
-      "ParamList": [0.2, 0.036, 0.06]
+      "ParamList": [0.2, 0.036, 0.06, 0, 0, 0, 0, 0]
     },
     {
       "Name": "The Sand-Blades Glittering",
       "Desc": "When Dehya uses <color=#FFD780FF>Molten Inferno: Ranging Flame</color>, the duration of the recreated Fiery Sanctum field will be increased by 6s.\\nAdditionally, when a Fiery Sanctum exists on the field, DMG dealt by its next coordinated attack will be increased by 50% when active character(s) within the Fiery Sanctum field are attacked.",
       "Icon": "UI_Talent_S_Dehya_02",
-      "ParamList": [6, 0.5]
+      "ParamList": [6, 0.5, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "A Rage Swift as Fire",
       "Desc": "Increases the Level of <color=#FFD780FF>Leonine Bite</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Dehya_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "An Oath Abiding",
       "Desc": "When Flame-Mane's Fist and Incineration Drive attacks unleashed during <color=#FFD780FF>Leonine Bite</color> hit opponents, they will restore 1.5 Energy for Dehya and 2.5% of her Max HP. This effect can be triggered once every 0.2s.",
       "Icon": "UI_Talent_S_Dehya_03",
-      "ParamList": [1.5, 0.025, 0.2]
+      "ParamList": [1.5, 0.025, 0.2, 0, 0, 0, 0, 0]
     },
     {
       "Name": "The Alpha Unleashed",
       "Desc": "Increases the Level of <color=#FFD780FF>Molten Inferno</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Dehya_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "The Burning Claws Cleaving",
       "Desc": "The CRIT Rate of <color=#FFD780FF>Leonine Bite</color> is increased by 10%.\\nAdditionally, after a Flame-Mane's Fist attack hits an opponent and deals CRIT Hits during a single Blazing Lioness state, it will cause the CRIT DMG of Leonine Bite to increase by 15% for the rest of Blazing Lioness's duration and extend that duration by 0.5s. This effect can be triggered every 0.2s. The duration can be extended for a maximum of 2s and CRIT DMG can be increased by a maximum of 60% this way.",
       "Icon": "UI_Talent_S_Dehya_04",
-      "ParamList": [0.1, 0.15, 0.5, 4]
+      "ParamList": [0.1, 0.15, 0.5, 4, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -1973,7 +2069,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Sand Grease Pupa", "Id": 101222, "Count": 3, "Rank": 1 },
+          { "Name": "Sand Grease Pupa", "Id": 101222, "Count": 3, "Rank": 0 },
           { "Name": "Faded Red Satin", "Id": 112065, "Count": 3, "Rank": 1 }
         ],
         "Cost": 20000
@@ -1992,7 +2088,7 @@
             "Count": 2,
             "Rank": 4
           },
-          { "Name": "Sand Grease Pupa", "Id": 101222, "Count": 10, "Rank": 1 },
+          { "Name": "Sand Grease Pupa", "Id": 101222, "Count": 10, "Rank": 0 },
           { "Name": "Faded Red Satin", "Id": 112065, "Count": 15, "Rank": 1 }
         ],
         "Cost": 40000
@@ -2011,7 +2107,7 @@
             "Count": 4,
             "Rank": 4
           },
-          { "Name": "Sand Grease Pupa", "Id": 101222, "Count": 20, "Rank": 1 },
+          { "Name": "Sand Grease Pupa", "Id": 101222, "Count": 20, "Rank": 0 },
           { "Name": "Trimmed Red Silk", "Id": 112066, "Count": 12, "Rank": 2 }
         ],
         "Cost": 60000
@@ -2030,7 +2126,7 @@
             "Count": 8,
             "Rank": 4
           },
-          { "Name": "Sand Grease Pupa", "Id": 101222, "Count": 30, "Rank": 1 },
+          { "Name": "Sand Grease Pupa", "Id": 101222, "Count": 30, "Rank": 0 },
           { "Name": "Trimmed Red Silk", "Id": 112066, "Count": 18, "Rank": 2 }
         ],
         "Cost": 80000
@@ -2049,7 +2145,7 @@
             "Count": 12,
             "Rank": 4
           },
-          { "Name": "Sand Grease Pupa", "Id": 101222, "Count": 45, "Rank": 1 },
+          { "Name": "Sand Grease Pupa", "Id": 101222, "Count": 45, "Rank": 0 },
           { "Name": "Rich Red Brocade", "Id": 112067, "Count": 12, "Rank": 3 }
         ],
         "Cost": 100000
@@ -2068,7 +2164,7 @@
             "Count": 20,
             "Rank": 4
           },
-          { "Name": "Sand Grease Pupa", "Id": 101222, "Count": 60, "Rank": 1 },
+          { "Name": "Sand Grease Pupa", "Id": 101222, "Count": 60, "Rank": 0 },
           { "Name": "Rich Red Brocade", "Id": 112067, "Count": 24, "Rank": 3 }
         ],
         "Cost": 120000

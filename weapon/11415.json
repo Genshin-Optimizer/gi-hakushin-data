@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_204",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 41.0671
+      "initValue": 41.0671,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_DEFENSE_PERCENT",
-      "initValue": 0.150133
+      "initValue": 0.150133,
+      "propType": "FIGHT_PROP_DEFENSE_PERCENT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Spotless Heart",
       "Desc": "Elemental Skill DMG is increased by <color=#99FFFFFF>40%</color> of DEF. The effect will be triggered no more than once every 1.5s and will be cleared 0.1s after the Elemental Skill deals DMG.",
-      "ParamList": [0.4, 4000, 1.5, 0.1]
+      "ParamList": [0.4, 4000, 1.5, 0.1, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Spotless Heart",
       "Desc": "Elemental Skill DMG is increased by <color=#99FFFFFF>50%</color> of DEF. The effect will be triggered no more than once every 1.5s and will be cleared 0.1s after the Elemental Skill deals DMG.",
-      "ParamList": [0.5, 5000, 1.5, 0.1]
+      "ParamList": [0.5, 5000, 1.5, 0.1, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Spotless Heart",
       "Desc": "Elemental Skill DMG is increased by <color=#99FFFFFF>60%</color> of DEF. The effect will be triggered no more than once every 1.5s and will be cleared 0.1s after the Elemental Skill deals DMG.",
-      "ParamList": [0.6, 6000, 1.5, 0.1]
+      "ParamList": [0.6, 6000, 1.5, 0.1, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Spotless Heart",
       "Desc": "Elemental Skill DMG is increased by <color=#99FFFFFF>70%</color> of DEF. The effect will be triggered no more than once every 1.5s and will be cleared 0.1s after the Elemental Skill deals DMG.",
-      "ParamList": [0.7, 7000, 1.5, 0.1]
+      "ParamList": [0.7, 7000, 1.5, 0.1, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Spotless Heart",
       "Desc": "Elemental Skill DMG is increased by <color=#99FFFFFF>80%</color> of DEF. The effect will be triggered no more than once every 1.5s and will be cleared 0.1s after the Elemental Skill deals DMG.",
-      "ParamList": [0.8, 8000, 1.5, 0.1]
+      "ParamList": [0.8, 8000, 1.5, 0.1, 0, 0, 0, 0]
     }
   },
   "Materials": {

@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_302",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 47.537
+      "initValue": 47.537,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_301",
-      "propType": "FIGHT_PROP_CRITICAL_HURT",
-      "initValue": 0.096
+      "initValue": 0.096,
+      "propType": "FIGHT_PROP_CRITICAL_HURT"
     }
   ],
   "Rarity": 5,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Deathly Pact",
       "Desc": "CRIT DMG increased by <color=#99FFFFFF>20%</color>. Increasing the value of a Bond of Life increases the DMG the equipping character deals by <color=#99FFFFFF>16%</color> for 6s. Max 3 stacks.",
-      "ParamList": [0.2, 0.16, 6]
+      "ParamList": [0.2, 0.16, 6, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Deathly Pact",
       "Desc": "CRIT DMG increased by <color=#99FFFFFF>25%</color>. Increasing the value of a Bond of Life increases the DMG the equipping character deals by <color=#99FFFFFF>20%</color> for 6s. Max 3 stacks.",
-      "ParamList": [0.25, 0.2, 6]
+      "ParamList": [0.25, 0.2, 6, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Deathly Pact",
       "Desc": "CRIT DMG increased by <color=#99FFFFFF>30%</color>. Increasing the value of a Bond of Life increases the DMG the equipping character deals by <color=#99FFFFFF>24%</color> for 6s. Max 3 stacks.",
-      "ParamList": [0.3, 0.24, 6]
+      "ParamList": [0.3, 0.24, 6, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Deathly Pact",
       "Desc": "CRIT DMG increased by <color=#99FFFFFF>35%</color>. Increasing the value of a Bond of Life increases the DMG the equipping character deals by <color=#99FFFFFF>28%</color> for 6s. Max 3 stacks.",
-      "ParamList": [0.35, 0.28, 6]
+      "ParamList": [0.35, 0.28, 6, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Deathly Pact",
       "Desc": "CRIT DMG increased by <color=#99FFFFFF>40%</color>. Increasing the value of a Bond of Life increases the DMG the equipping character deals by <color=#99FFFFFF>32%</color> for 6s. Max 3 stacks.",
-      "ParamList": [0.4, 0.32, 6]
+      "ParamList": [0.4, 0.32, 6, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

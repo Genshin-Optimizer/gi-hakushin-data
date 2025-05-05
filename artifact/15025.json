@@ -5,27 +5,29 @@
   "Rank": [4, 5],
   "Affix": [
     {
-      "paramList": [0.15],
       "id": 215025,
+      "level": 0,
       "affixId": 2150250,
+      "paramList": [0.15, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "",
       "addProps": [
-        { "value": 0.15, "propType": "FIGHT_PROP_GRASS_ADD_HURT" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_GRASS_ADD_HURT", "value": 0.15 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Deepwood Memories",
       "Desc": "Dendro DMG Bonus +15%."
     },
     {
-      "level": 1,
-      "paramList": [0.3, 8],
       "id": 215025,
-      "openConfig": "Relic_ReactionGrassEnhance",
+      "level": 1,
       "affixId": 2150251,
+      "paramList": [0.3, 8, 0, 0, 0, 0, 0, 0],
+      "openConfig": "Relic_ReactionGrassEnhance",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Deepwood Memories",
       "Desc": "After Elemental Skills or Bursts hit opponents, the targets' Dendro RES will be decreased by 30% for 8s. This effect can be triggered even if the equipping character is not on the field."

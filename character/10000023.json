@@ -399,6 +399,11 @@
         "Title": "About Lan Yan",
         "Text": "Guoba loves Lan Yan! They spent soooooo long shaking hands when they first met, it was like they'd known each other forever, haha. Lan Yan actually promised to take me foraging for wild mushrooms and insects... Hehe, once my new dish is ready, you've gotta come try it!",
         "Unlocked": ["Unlocks at Friendship Lv. 4"]
+      },
+      {
+        "Title": "About Escoffier",
+        "Text": "Oh! You mean that chef from Fontaine, right? She's great! I got to try a bunch of her new dishes the other day. They were all so... what's the word... precise! It was like she took all the flavors and ingredients in her dishes and transformed them into art! I was amazed at how meticulous everything was — every measurement, every technique executed to perfection! I kinda want Shenhe to ask Aunty Xianyun to make me a precision cooking machine of my own, so I can try out Escoffier's style of cooking!",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
       }
     ],
     "SpecialFood": {
@@ -427,7 +432,7 @@
         "Name": "Red Pepper and Turmeric",
         "Desc": "Xiangling's outfit. Light and comfortable clothing brimming with fiery passion.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -806,7 +811,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Dough-Fu",
+      "Name": "Dough-Fu",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 5 consecutive spear strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
       "Promote": {
         "0": {
@@ -832,7 +837,7 @@
           ],
           "Param": [
             0.42054, 0.4214, 0.26058, 0.14104, 0.71036, 1.2169, 25, 0.639324,
-            1.278377, 1.596762
+            1.278377, 1.596762, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -858,7 +863,7 @@
           ],
           "Param": [
             0.45477, 0.4557, 0.28179, 0.15252, 0.76818, 1.31595, 25, 0.691362,
-            1.382431, 1.726731
+            1.382431, 1.726731, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -884,7 +889,7 @@
           ],
           "Param": [
             0.489, 0.49, 0.303, 0.164, 0.826, 1.415, 25, 0.7434, 1.486485,
-            1.8567
+            1.8567, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -910,7 +915,7 @@
           ],
           "Param": [
             0.5379, 0.539, 0.3333, 0.1804, 0.9086, 1.5565, 25, 0.81774,
-            1.635134, 2.04237
+            1.635134, 2.04237, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -936,7 +941,7 @@
           ],
           "Param": [
             0.57213, 0.5733, 0.35451, 0.19188, 0.96642, 1.65555, 25, 0.869778,
-            1.739187, 2.172339
+            1.739187, 2.172339, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -962,7 +967,7 @@
           ],
           "Param": [
             0.61125, 0.6125, 0.37875, 0.205, 1.0325, 1.76875, 25, 0.92925,
-            1.858106, 2.320875
+            1.858106, 2.320875, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -988,7 +993,7 @@
           ],
           "Param": [
             0.66504, 0.6664, 0.41208, 0.22304, 1.12336, 1.9244, 25, 1.011024,
-            2.02162, 2.525112
+            2.02162, 2.525112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1014,7 +1019,7 @@
           ],
           "Param": [
             0.71883, 0.7203, 0.44541, 0.24108, 1.21422, 2.08005, 25, 1.092798,
-            2.185133, 2.729349
+            2.185133, 2.729349, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1040,7 +1045,7 @@
           ],
           "Param": [
             0.77262, 0.7742, 0.47874, 0.25912, 1.30508, 2.2357, 25, 1.174572,
-            2.348646, 2.933586
+            2.348646, 2.933586, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1066,7 +1071,7 @@
           ],
           "Param": [
             0.8313, 0.833, 0.5151, 0.2788, 1.4042, 2.4055, 25, 1.26378,
-            2.527025, 3.15639
+            2.527025, 3.15639, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1092,7 +1097,7 @@
           ],
           "Param": [
             0.898537, 0.900375, 0.556762, 0.30135, 1.517775, 2.600062, 25,
-            1.352988, 2.705403, 3.379194
+            1.352988, 2.705403, 3.379194, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1118,7 +1123,7 @@
           ],
           "Param": [
             0.977609, 0.979608, 0.605758, 0.327869, 1.651339, 2.828868, 25,
-            1.442196, 2.883781, 3.601998
+            1.442196, 2.883781, 3.601998, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1144,7 +1149,7 @@
           ],
           "Param": [
             1.05668, 1.058841, 0.654753, 0.354388, 1.784903, 3.057673, 25,
-            1.531404, 3.062159, 3.824802
+            1.531404, 3.062159, 3.824802, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1170,7 +1175,7 @@
           ],
           "Param": [
             1.135751, 1.138074, 0.703748, 0.380906, 1.918468, 3.286479, 25,
-            1.620612, 3.240537, 4.047606
+            1.620612, 3.240537, 4.047606, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1196,7 +1201,7 @@
           ],
           "Param": [
             1.222011, 1.22451, 0.757197, 0.409836, 2.064174, 3.536085, 25,
-            1.70982, 3.418915, 4.27041
+            1.70982, 3.418915, 4.27041, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1226,7 +1231,9 @@
             "",
             ""
           ],
-          "Param": [1.1128, 12]
+          "Param": [
+            1.1128, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1249,7 +1256,9 @@
             "",
             ""
           ],
-          "Param": [1.19626, 12]
+          "Param": [
+            1.19626, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1272,7 +1281,9 @@
             "",
             ""
           ],
-          "Param": [1.27972, 12]
+          "Param": [
+            1.27972, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1295,7 +1306,9 @@
             "",
             ""
           ],
-          "Param": [1.391, 12]
+          "Param": [
+            1.391, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1318,7 +1331,9 @@
             "",
             ""
           ],
-          "Param": [1.47446, 12]
+          "Param": [
+            1.47446, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1341,7 +1356,9 @@
             "",
             ""
           ],
-          "Param": [1.55792, 12]
+          "Param": [
+            1.55792, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1364,7 +1381,9 @@
             "",
             ""
           ],
-          "Param": [1.6692, 12]
+          "Param": [
+            1.6692, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1387,7 +1406,9 @@
             "",
             ""
           ],
-          "Param": [1.78048, 12]
+          "Param": [
+            1.78048, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1410,7 +1431,9 @@
             "",
             ""
           ],
-          "Param": [1.89176, 12]
+          "Param": [
+            1.89176, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1433,7 +1456,9 @@
             "",
             ""
           ],
-          "Param": [2.00304, 12]
+          "Param": [
+            2.00304, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1456,7 +1481,9 @@
             "",
             ""
           ],
-          "Param": [2.11432, 12]
+          "Param": [
+            2.11432, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1479,7 +1506,9 @@
             "",
             ""
           ],
-          "Param": [2.2256, 12]
+          "Param": [
+            2.2256, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1502,7 +1531,9 @@
             "",
             ""
           ],
-          "Param": [2.3647, 12]
+          "Param": [
+            2.3647, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1525,7 +1556,9 @@
             "",
             ""
           ],
-          "Param": [2.5038, 12]
+          "Param": [
+            2.5038, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1548,7 +1581,9 @@
             "",
             ""
           ],
-          "Param": [2.6429, 12]
+          "Param": [
+            2.6429, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         }
       }
     },
@@ -1577,7 +1612,10 @@
             "",
             ""
           ],
-          "Param": [0.72, 0.88, 1.096, 1.12, 10, 20, 80]
+          "Param": [
+            0.72, 0.88, 1.096, 1.12, 10, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1600,7 +1638,10 @@
             "",
             ""
           ],
-          "Param": [0.774, 0.946, 1.1782, 1.204, 10, 20, 80]
+          "Param": [
+            0.774, 0.946, 1.1782, 1.204, 10, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1623,7 +1664,10 @@
             "",
             ""
           ],
-          "Param": [0.828, 1.012, 1.2604, 1.288, 10, 20, 80]
+          "Param": [
+            0.828, 1.012, 1.2604, 1.288, 10, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1646,7 +1690,10 @@
             "",
             ""
           ],
-          "Param": [0.9, 1.1, 1.37, 1.4, 10, 20, 80]
+          "Param": [
+            0.9, 1.1, 1.37, 1.4, 10, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1669,7 +1716,10 @@
             "",
             ""
           ],
-          "Param": [0.954, 1.166, 1.4522, 1.484, 10, 20, 80]
+          "Param": [
+            0.954, 1.166, 1.4522, 1.484, 10, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1692,7 +1742,10 @@
             "",
             ""
           ],
-          "Param": [1.008, 1.232, 1.5344, 1.568, 10, 20, 80]
+          "Param": [
+            1.008, 1.232, 1.5344, 1.568, 10, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1715,7 +1768,10 @@
             "",
             ""
           ],
-          "Param": [1.08, 1.32, 1.644, 1.68, 10, 20, 80]
+          "Param": [
+            1.08, 1.32, 1.644, 1.68, 10, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1738,7 +1794,10 @@
             "",
             ""
           ],
-          "Param": [1.152, 1.408, 1.7536, 1.792, 10, 20, 80]
+          "Param": [
+            1.152, 1.408, 1.7536, 1.792, 10, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1761,7 +1820,10 @@
             "",
             ""
           ],
-          "Param": [1.224, 1.496, 1.8632, 1.904, 10, 20, 80]
+          "Param": [
+            1.224, 1.496, 1.8632, 1.904, 10, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1784,7 +1846,10 @@
             "",
             ""
           ],
-          "Param": [1.296, 1.584, 1.9728, 2.016, 10, 20, 80]
+          "Param": [
+            1.296, 1.584, 1.9728, 2.016, 10, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1807,7 +1872,10 @@
             "",
             ""
           ],
-          "Param": [1.368, 1.672, 2.0824, 2.128, 10, 20, 80]
+          "Param": [
+            1.368, 1.672, 2.0824, 2.128, 10, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1830,7 +1898,10 @@
             "",
             ""
           ],
-          "Param": [1.44, 1.76, 2.192, 2.24, 10, 20, 80]
+          "Param": [
+            1.44, 1.76, 2.192, 2.24, 10, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1853,7 +1924,10 @@
             "",
             ""
           ],
-          "Param": [1.53, 1.87, 2.329, 2.38, 10, 20, 80]
+          "Param": [
+            1.53, 1.87, 2.329, 2.38, 10, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1876,7 +1950,10 @@
             "",
             ""
           ],
-          "Param": [1.62, 1.98, 2.466, 2.52, 10, 20, 80]
+          "Param": [
+            1.62, 1.98, 2.466, 2.52, 10, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1899,7 +1976,10 @@
             "",
             ""
           ],
-          "Param": [1.71, 2.09, 2.603, 2.66, 10, 20, 80]
+          "Param": [
+            1.71, 2.09, 2.603, 2.66, 10, 20, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         }
       }
     }
@@ -1910,21 +1990,25 @@
       "Desc": "Increases the flame range of Guoba by 20%.",
       "Icon": "UI_Talent_S_Xiangling_05",
       "Unlock": 1,
-      "ParamList": [0.2]
+      "ParamList": [
+        0.2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Beware, It's Super Hot!",
       "Desc": "When <color=#FFD780FF>Guoba Attack</color>'s effect ends, Guoba leaves a chili pepper on the spot where it disappeared. Picking up a chili pepper increases ATK by 10% for 10s.",
       "Icon": "UI_Talent_S_Xiangling_06",
       "Unlock": 4,
-      "ParamList": [0.1, 10]
+      "ParamList": [
+        0.1, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Chef de Cuisine",
       "Desc": "When Xiangling cooks an ATK-boosting dish perfectly, she has a 12% chance to receive double the product.",
       "Icon": "UI_Talent_Cook_Attack",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Constellations": [
@@ -1932,37 +2016,37 @@
       "Name": "Crispy Outside, Tender Inside",
       "Desc": "Opponents hit by Guoba's attacks have their <color=#FF9999FF>Pyro RES</color> reduced by 15% for 6s.",
       "Icon": "UI_Talent_S_Xiangling_01",
-      "ParamList": [0.15, 6]
+      "ParamList": [0.15, 6, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Oil Meets Fire",
       "Desc": "The last attack in a Normal Attack sequence applies the Implode status onto the opponent for 2s. An explosion will occur once this duration ends, dealing 75% of Xiangling's ATK as <color=#FF9999FF>AoE Pyro DMG</color>.",
       "Icon": "UI_Talent_S_Xiangling_02",
-      "ParamList": [2, 2, 0.75]
+      "ParamList": [2, 2, 0.75, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Deepfry",
       "Desc": "Increases the Level of <color=#FFD780FF>Pyronado</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Xiangling_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Slowbake",
       "Desc": "<color=#FFD780FF>Pyronado</color>'s duration is increased by 40%.",
       "Icon": "UI_Talent_S_Xiangling_03",
-      "ParamList": [0.4]
+      "ParamList": [0.4, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Guoba Mad",
       "Desc": "Increases the Level of <color=#FFD780FF>Guoba Attack</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Xiangling_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Condensed Pyronado",
       "Desc": "For the duration of <color=#FFD780FF>Pyronado</color>, all party members receive a 15% <color=#FF9999FF>Pyro DMG Bonus</color>.",
       "Icon": "UI_Talent_S_Xiangling_04",
-      "ParamList": [0.15]
+      "ParamList": [0.15, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -1975,7 +2059,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Jueyun Chili", "Id": 100027, "Count": 3, "Rank": 1 },
+          { "Name": "Jueyun Chili", "Id": 100027, "Count": 3, "Rank": 0 },
           { "Name": "Slime Condensate", "Id": 112002, "Count": 3, "Rank": 1 }
         ],
         "Cost": 20000
@@ -1989,7 +2073,7 @@
             "Rank": 3
           },
           { "Name": "Everflame Seed", "Id": 113011, "Count": 2, "Rank": 4 },
-          { "Name": "Jueyun Chili", "Id": 100027, "Count": 10, "Rank": 1 },
+          { "Name": "Jueyun Chili", "Id": 100027, "Count": 10, "Rank": 0 },
           { "Name": "Slime Condensate", "Id": 112002, "Count": 15, "Rank": 1 }
         ],
         "Cost": 40000
@@ -2003,7 +2087,7 @@
             "Rank": 3
           },
           { "Name": "Everflame Seed", "Id": 113011, "Count": 4, "Rank": 4 },
-          { "Name": "Jueyun Chili", "Id": 100027, "Count": 20, "Rank": 1 },
+          { "Name": "Jueyun Chili", "Id": 100027, "Count": 20, "Rank": 0 },
           { "Name": "Slime Secretions", "Id": 112003, "Count": 12, "Rank": 2 }
         ],
         "Cost": 60000
@@ -2017,7 +2101,7 @@
             "Rank": 4
           },
           { "Name": "Everflame Seed", "Id": 113011, "Count": 8, "Rank": 4 },
-          { "Name": "Jueyun Chili", "Id": 100027, "Count": 30, "Rank": 1 },
+          { "Name": "Jueyun Chili", "Id": 100027, "Count": 30, "Rank": 0 },
           { "Name": "Slime Secretions", "Id": 112003, "Count": 18, "Rank": 2 }
         ],
         "Cost": 80000
@@ -2031,7 +2115,7 @@
             "Rank": 4
           },
           { "Name": "Everflame Seed", "Id": 113011, "Count": 12, "Rank": 4 },
-          { "Name": "Jueyun Chili", "Id": 100027, "Count": 45, "Rank": 1 },
+          { "Name": "Jueyun Chili", "Id": 100027, "Count": 45, "Rank": 0 },
           { "Name": "Slime Concentrate", "Id": 112004, "Count": 12, "Rank": 3 }
         ],
         "Cost": 100000
@@ -2045,7 +2129,7 @@
             "Rank": 5
           },
           { "Name": "Everflame Seed", "Id": 113011, "Count": 20, "Rank": 4 },
-          { "Name": "Jueyun Chili", "Id": 100027, "Count": 60, "Rank": 1 },
+          { "Name": "Jueyun Chili", "Id": 100027, "Count": 60, "Rank": 0 },
           { "Name": "Slime Concentrate", "Id": 112004, "Count": 24, "Rank": 3 }
         ],
         "Cost": 120000

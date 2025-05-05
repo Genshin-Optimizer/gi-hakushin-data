@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_201",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 42.401
+      "initValue": 42.401,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_CRITICAL_HURT",
-      "initValue": 0.12
+      "initValue": 0.12,
+      "propType": "FIGHT_PROP_CRITICAL_HURT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Press the Advantage",
       "Desc": "After defeating an enemy, ATK is increased by <color=#99FFFFFF>12%</color> for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others.",
-      "ParamList": [0.12, 30]
+      "ParamList": [0.12, 30, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Press the Advantage",
       "Desc": "After defeating an enemy, ATK is increased by <color=#99FFFFFF>15%</color> for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others.",
-      "ParamList": [0.15, 30]
+      "ParamList": [0.15, 30, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Press the Advantage",
       "Desc": "After defeating an enemy, ATK is increased by <color=#99FFFFFF>18%</color> for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others.",
-      "ParamList": [0.18, 30]
+      "ParamList": [0.18, 30, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Press the Advantage",
       "Desc": "After defeating an enemy, ATK is increased by <color=#99FFFFFF>21%</color> for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others.",
-      "ParamList": [0.21, 30]
+      "ParamList": [0.21, 30, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Press the Advantage",
       "Desc": "After defeating an enemy, ATK is increased by <color=#99FFFFFF>24%</color> for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others.",
-      "ParamList": [0.24, 30]
+      "ParamList": [0.24, 30, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

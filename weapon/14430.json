@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_204",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 41.0671
+      "initValue": 41.0671,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
-      "initValue": 0.133333
+      "initValue": 0.133333,
+      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Fangs Flying To and Fro",
       "Desc": "Decreases Swimming Stamina consumption by 15%. In addition, for 10s after using an Elemental Skill, Max HP is increased by <color=#99FFFFFF>20%</color>. For every Hydro Elemental Type character in the party, Max HP is increased by another <color=#99FFFFFF>12%</color>, and the maximum increase that can be achieved in this way is <color=#99FFFFFF>24%</color>. Can be triggered once every 15s.",
-      "ParamList": [0.15, 0.2, 10, 15, 0.12, 2]
+      "ParamList": [0.15, 0.2, 10, 15, 0.12, 2, 0, 0]
     },
     "2": {
       "Name": "Fangs Flying To and Fro",
       "Desc": "Decreases Swimming Stamina consumption by 15%. In addition, for 10s after using an Elemental Skill, Max HP is increased by <color=#99FFFFFF>25%</color>. For every Hydro Elemental Type character in the party, Max HP is increased by another <color=#99FFFFFF>15%</color>, and the maximum increase that can be achieved in this way is <color=#99FFFFFF>30%</color>. Can be triggered once every 15s.",
-      "ParamList": [0.15, 0.25, 10, 15, 0.15, 2]
+      "ParamList": [0.15, 0.25, 10, 15, 0.15, 2, 0, 0]
     },
     "3": {
       "Name": "Fangs Flying To and Fro",
       "Desc": "Decreases Swimming Stamina consumption by 15%. In addition, for 10s after using an Elemental Skill, Max HP is increased by <color=#99FFFFFF>30%</color>. For every Hydro Elemental Type character in the party, Max HP is increased by another <color=#99FFFFFF>18%</color>, and the maximum increase that can be achieved in this way is <color=#99FFFFFF>36%</color>. Can be triggered once every 15s.",
-      "ParamList": [0.15, 0.3, 10, 15, 0.18, 2]
+      "ParamList": [0.15, 0.3, 10, 15, 0.18, 2, 0, 0]
     },
     "4": {
       "Name": "Fangs Flying To and Fro",
       "Desc": "Decreases Swimming Stamina consumption by 15%. In addition, for 10s after using an Elemental Skill, Max HP is increased by <color=#99FFFFFF>35%</color>. For every Hydro Elemental Type character in the party, Max HP is increased by another <color=#99FFFFFF>21%</color>, and the maximum increase that can be achieved in this way is <color=#99FFFFFF>42%</color>. Can be triggered once every 15s.",
-      "ParamList": [0.15, 0.35, 10, 15, 0.21, 2]
+      "ParamList": [0.15, 0.35, 10, 15, 0.21, 2, 0, 0]
     },
     "5": {
       "Name": "Fangs Flying To and Fro",
       "Desc": "Decreases Swimming Stamina consumption by 15%. In addition, for 10s after using an Elemental Skill, Max HP is increased by <color=#99FFFFFF>40%</color>. For every Hydro Elemental Type character in the party, Max HP is increased by another <color=#99FFFFFF>24%</color>, and the maximum increase that can be achieved in this way is <color=#99FFFFFF>48%</color>. Can be triggered once every 15s.",
-      "ParamList": [0.15, 0.4, 10, 15, 0.24, 2]
+      "ParamList": [0.15, 0.4, 10, 15, 0.24, 2, 0, 0]
     }
   },
   "Materials": {

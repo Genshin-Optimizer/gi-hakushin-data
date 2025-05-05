@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_204",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 41.0671
+      "initValue": 41.0671,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_ELEMENT_MASTERY",
-      "initValue": 48
+      "initValue": 48,
+      "propType": "FIGHT_PROP_ELEMENT_MASTERY"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Bane of Flame and Water",
       "Desc": "Increases DMG against opponents affected by Hydro or Pyro by <color=#99FFFFFF>20%</color>.",
-      "ParamList": [0.2]
+      "ParamList": [0.2, 0, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Bane of Flame and Water",
       "Desc": "Increases DMG against opponents affected by Hydro or Pyro by <color=#99FFFFFF>24%</color>.",
-      "ParamList": [0.24]
+      "ParamList": [0.24, 0, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Bane of Flame and Water",
       "Desc": "Increases DMG against opponents affected by Hydro or Pyro by <color=#99FFFFFF>28%</color>.",
-      "ParamList": [0.28]
+      "ParamList": [0.28, 0, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Bane of Flame and Water",
       "Desc": "Increases DMG against opponents affected by Hydro or Pyro by <color=#99FFFFFF>32%</color>.",
-      "ParamList": [0.32]
+      "ParamList": [0.32, 0, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Bane of Flame and Water",
       "Desc": "Increases DMG against opponents affected by Hydro or Pyro by <color=#99FFFFFF>36%</color>.",
-      "ParamList": [0.36]
+      "ParamList": [0.36, 0, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

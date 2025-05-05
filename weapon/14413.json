@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_204",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 41.0671
+      "initValue": 41.0671,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_ATTACK_PERCENT",
-      "initValue": 0.12
+      "initValue": 0.12,
+      "propType": "FIGHT_PROP_ATTACK_PERCENT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Dodoventure!",
       "Desc": "Normal Attack hits on opponents increase Charged Attack DMG by <color=#99FFFFFF>16%</color> for 6s. Charged Attack hits on opponents increase ATK by <color=#99FFFFFF>8%</color> for 6s.",
-      "ParamList": [0.16, 6, 0.08, 6]
+      "ParamList": [0.16, 6, 0.08, 6, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Dodoventure!",
       "Desc": "Normal Attack hits on opponents increase Charged Attack DMG by <color=#99FFFFFF>20%</color> for 6s. Charged Attack hits on opponents increase ATK by <color=#99FFFFFF>10%</color> for 6s.",
-      "ParamList": [0.2, 6, 0.1, 6]
+      "ParamList": [0.2, 6, 0.1, 6, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Dodoventure!",
       "Desc": "Normal Attack hits on opponents increase Charged Attack DMG by <color=#99FFFFFF>24%</color> for 6s. Charged Attack hits on opponents increase ATK by <color=#99FFFFFF>12%</color> for 6s.",
-      "ParamList": [0.24, 6, 0.12, 6]
+      "ParamList": [0.24, 6, 0.12, 6, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Dodoventure!",
       "Desc": "Normal Attack hits on opponents increase Charged Attack DMG by <color=#99FFFFFF>28%</color> for 6s. Charged Attack hits on opponents increase ATK by <color=#99FFFFFF>14%</color> for 6s.",
-      "ParamList": [0.28, 6, 0.14, 6]
+      "ParamList": [0.28, 6, 0.14, 6, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Dodoventure!",
       "Desc": "Normal Attack hits on opponents increase Charged Attack DMG by <color=#99FFFFFF>32%</color> for 6s. Charged Attack hits on opponents increase ATK by <color=#99FFFFFF>16%</color> for 6s.",
-      "ParamList": [0.32, 6, 0.16, 6]
+      "ParamList": [0.32, 6, 0.16, 6, 0, 0, 0, 0]
     }
   },
   "Materials": {

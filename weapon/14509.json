@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_301",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 45.9364
+      "initValue": 45.9364,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_301",
-      "propType": "FIGHT_PROP_CRITICAL_HURT",
-      "initValue": 0.144
+      "initValue": 0.144,
+      "propType": "FIGHT_PROP_CRITICAL_HURT"
     }
   ],
   "Rarity": 5,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Kagura Dance of the Sacred Sakura",
       "Desc": "Gains the Kagura Dance effect when using an Elemental Skill, causing the Elemental Skill DMG of the character wielding this weapon to increase by <color=#99FFFFFF>12%</color> for 16s. Max 3 stacks. This character will gain <color=#99FFFFFF>12%</color> All Elemental DMG Bonus when they possess 3 stacks.",
-      "ParamList": [0.12, 16, 0.12]
+      "ParamList": [0.12, 16, 0.12, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Kagura Dance of the Sacred Sakura",
       "Desc": "Gains the Kagura Dance effect when using an Elemental Skill, causing the Elemental Skill DMG of the character wielding this weapon to increase by <color=#99FFFFFF>15%</color> for 16s. Max 3 stacks. This character will gain <color=#99FFFFFF>15%</color> All Elemental DMG Bonus when they possess 3 stacks.",
-      "ParamList": [0.15, 16, 0.15]
+      "ParamList": [0.15, 16, 0.15, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Kagura Dance of the Sacred Sakura",
       "Desc": "Gains the Kagura Dance effect when using an Elemental Skill, causing the Elemental Skill DMG of the character wielding this weapon to increase by <color=#99FFFFFF>18%</color> for 16s. Max 3 stacks. This character will gain <color=#99FFFFFF>18%</color> All Elemental DMG Bonus when they possess 3 stacks.",
-      "ParamList": [0.18, 16, 0.18]
+      "ParamList": [0.18, 16, 0.18, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Kagura Dance of the Sacred Sakura",
       "Desc": "Gains the Kagura Dance effect when using an Elemental Skill, causing the Elemental Skill DMG of the character wielding this weapon to increase by <color=#99FFFFFF>21%</color> for 16s. Max 3 stacks. This character will gain <color=#99FFFFFF>21%</color> All Elemental DMG Bonus when they possess 3 stacks.",
-      "ParamList": [0.21, 16, 0.21]
+      "ParamList": [0.21, 16, 0.21, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Kagura Dance of the Sacred Sakura",
       "Desc": "Gains the Kagura Dance effect when using an Elemental Skill, causing the Elemental Skill DMG of the character wielding this weapon to increase by <color=#99FFFFFF>24%</color> for 16s. Max 3 stacks. This character will gain <color=#99FFFFFF>24%</color> All Elemental DMG Bonus when they possess 3 stacks.",
-      "ParamList": [0.24, 16, 0.24]
+      "ParamList": [0.24, 16, 0.24, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_302",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 47.537
+      "initValue": 47.537,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_301",
-      "propType": "FIGHT_PROP_CRITICAL",
-      "initValue": 0.048
+      "initValue": 0.048,
+      "propType": "FIGHT_PROP_CRITICAL"
     }
   ],
   "Rarity": 5,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Ashen Sun's Shadow",
       "Desc": "Grants a Bond of Life equal to 25% of Max HP when a Charged Attack hits an opponent. This effect can be triggered up to once every 14s. In addition, when the equipping character has a Bond of Life, they gain a <color=#99FFFFFF>12%</color> DMG Bonus; if the value of the Bond of Life is greater than or equal to 30% of Max HP, then gain an additional <color=#99FFFFFF>24%</color> DMG Bonus.",
-      "ParamList": [0.25, 14, 0.12, 0.3, 0.24]
+      "ParamList": [0.25, 14, 0.12, 0.3, 0.24, 0, 0, 0]
     },
     "2": {
       "Name": "Ashen Sun's Shadow",
       "Desc": "Grants a Bond of Life equal to 25% of Max HP when a Charged Attack hits an opponent. This effect can be triggered up to once every 14s. In addition, when the equipping character has a Bond of Life, they gain a <color=#99FFFFFF>16%</color> DMG Bonus; if the value of the Bond of Life is greater than or equal to 30% of Max HP, then gain an additional <color=#99FFFFFF>32%</color> DMG Bonus.",
-      "ParamList": [0.25, 14, 0.16, 0.3, 0.32]
+      "ParamList": [0.25, 14, 0.16, 0.3, 0.32, 0, 0, 0]
     },
     "3": {
       "Name": "Ashen Sun's Shadow",
       "Desc": "Grants a Bond of Life equal to 25% of Max HP when a Charged Attack hits an opponent. This effect can be triggered up to once every 14s. In addition, when the equipping character has a Bond of Life, they gain a <color=#99FFFFFF>20%</color> DMG Bonus; if the value of the Bond of Life is greater than or equal to 30% of Max HP, then gain an additional <color=#99FFFFFF>40%</color> DMG Bonus.",
-      "ParamList": [0.25, 14, 0.2, 0.3, 0.4]
+      "ParamList": [0.25, 14, 0.2, 0.3, 0.4, 0, 0, 0]
     },
     "4": {
       "Name": "Ashen Sun's Shadow",
       "Desc": "Grants a Bond of Life equal to 25% of Max HP when a Charged Attack hits an opponent. This effect can be triggered up to once every 14s. In addition, when the equipping character has a Bond of Life, they gain a <color=#99FFFFFF>24%</color> DMG Bonus; if the value of the Bond of Life is greater than or equal to 30% of Max HP, then gain an additional <color=#99FFFFFF>48%</color> DMG Bonus.",
-      "ParamList": [0.25, 14, 0.24, 0.3, 0.48]
+      "ParamList": [0.25, 14, 0.24, 0.3, 0.48, 0, 0, 0]
     },
     "5": {
       "Name": "Ashen Sun's Shadow",
       "Desc": "Grants a Bond of Life equal to 25% of Max HP when a Charged Attack hits an opponent. This effect can be triggered up to once every 14s. In addition, when the equipping character has a Bond of Life, they gain a <color=#99FFFFFF>28%</color> DMG Bonus; if the value of the Bond of Life is greater than or equal to 30% of Max HP, then gain an additional <color=#99FFFFFF>56%</color> DMG Bonus.",
-      "ParamList": [0.25, 14, 0.28, 0.3, 0.56]
+      "ParamList": [0.25, 14, 0.28, 0.3, 0.56, 0, 0, 0]
     }
   },
   "Materials": {

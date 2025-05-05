@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_302",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 47.537
+      "initValue": 47.537,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_301",
-      "propType": "FIGHT_PROP_CRITICAL",
-      "initValue": 0.048
+      "initValue": 0.048,
+      "propType": "FIGHT_PROP_CRITICAL"
     }
   ],
   "Rarity": 5,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Echoing Ballad",
       "Desc": "Increases CRIT DMG by <color=#99FFFFFF>20%</color>. Hits have a <color=#99FFFFFF>60%</color> chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every <color=#99FFFFFF>4</color>s.",
-      "ParamList": [0.2, 0.6, 1.25, 4]
+      "ParamList": [0.2, 0.6, 1.25, 4, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Echoing Ballad",
       "Desc": "Increases CRIT DMG by <color=#99FFFFFF>25%</color>. Hits have a <color=#99FFFFFF>70%</color> chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every <color=#99FFFFFF>3.5</color>s.",
-      "ParamList": [0.25, 0.7, 1.25, 3.5]
+      "ParamList": [0.25, 0.7, 1.25, 3.5, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Echoing Ballad",
       "Desc": "Increases CRIT DMG by <color=#99FFFFFF>30%</color>. Hits have a <color=#99FFFFFF>80%</color> chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every <color=#99FFFFFF>3</color>s.",
-      "ParamList": [0.3, 0.8, 1.25, 3]
+      "ParamList": [0.3, 0.8, 1.25, 3, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Echoing Ballad",
       "Desc": "Increases CRIT DMG by <color=#99FFFFFF>35%</color>. Hits have a <color=#99FFFFFF>90%</color> chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every <color=#99FFFFFF>2.5</color>s.",
-      "ParamList": [0.35, 0.9, 1.25, 2.5]
+      "ParamList": [0.35, 0.9, 1.25, 2.5, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Echoing Ballad",
       "Desc": "Increases CRIT DMG by <color=#99FFFFFF>40%</color>. Hits have a <color=#99FFFFFF>100%</color> chance to inflict a small AoE attack, dealing 125% Physical ATK DMG. Can only occur once every <color=#99FFFFFF>2</color>s.",
-      "ParamList": [0.4, 1, 1.25, 2]
+      "ParamList": [0.4, 1, 1.25, 2, 0, 0, 0, 0]
     }
   },
   "Materials": {

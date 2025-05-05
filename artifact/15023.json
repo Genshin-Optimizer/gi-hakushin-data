@@ -5,27 +5,29 @@
   "Rank": [4, 5],
   "Affix": [
     {
-      "paramList": [0.18],
       "id": 215023,
+      "level": 0,
       "affixId": 2150230,
+      "paramList": [0.18, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "",
       "addProps": [
-        { "value": 0.18, "propType": "FIGHT_PROP_ATTACK_PERCENT" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_ATTACK_PERCENT", "value": 0.18 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Vermillion Hereafter",
       "Desc": "ATK +18%."
     },
     {
-      "level": 1,
-      "paramList": [16, 0.08, 0.1, 4, 0.8],
       "id": 215023,
-      "openConfig": "Relic_AttackUpWhenHPdown",
+      "level": 1,
       "affixId": 2150231,
+      "paramList": [16, 0.08, 0.1, 4, 0.8, 0, 0, 0],
+      "openConfig": "Relic_AttackUpWhenHPdown",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Vermillion Hereafter",
       "Desc": "After using an Elemental Burst, this character will gain the Nascent Light effect, increasing their ATK by 8% for 16s. When the character's HP decreases, their ATK will further increase by 10%. This further increase can occur this way a maximum of 4 times. This effect can be triggered once every 0.8s. Nascent Light will be dispelled when the character leaves the field. If an Elemental Burst is used again during the duration of Nascent Light, the original Nascent Light will be dispelled."

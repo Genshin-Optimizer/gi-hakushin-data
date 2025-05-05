@@ -6,25 +6,28 @@
   "Affix": [
     {
       "id": 214001,
+      "level": 0,
       "affixId": 2140010,
+      "paramList": [0, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "",
       "addProps": [
-        { "value": 0.15, "propType": "FIGHT_PROP_ICE_ADD_HURT" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_ICE_ADD_HURT", "value": 0.15 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Blizzard Strayer",
       "Desc": "Cryo DMG Bonus +15%"
     },
     {
-      "level": 1,
-      "paramList": [0.2, 0.2],
       "id": 214001,
-      "openConfig": "Relic_CriticUpAgainstIceAndFrozen",
+      "level": 1,
       "affixId": 2140011,
+      "paramList": [0.2, 0.2, 0, 0, 0, 0, 0, 0],
+      "openConfig": "Relic_CriticUpAgainstIceAndFrozen",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Blizzard Strayer",
       "Desc": "When a character attacks an opponent affected by Cryo, their CRIT Rate is increased by 20%. If the opponent is Frozen, CRIT Rate is increased by an additional 20%."

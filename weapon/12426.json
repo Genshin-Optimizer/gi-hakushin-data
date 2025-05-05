@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_202",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 43.7349
+      "initValue": 43.7349,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
-      "initValue": 0.066667
+      "initValue": 0.066667,
+      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Melussistance!",
       "Desc": "ATK increased by <color=#99FFFFFF>12%</color>. That's not all! The support from all Melusines you've helped in Merusea Village fills you with strength! Based on the number of them you've helped, your ATK is increased by up to an additional <color=#99FFFFFF>12%</color>.",
-      "ParamList": [0.12, 0.02, 0.12]
+      "ParamList": [0.12, 0.02, 0.12, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Melussistance!",
       "Desc": "ATK increased by <color=#99FFFFFF>15%</color>. That's not all! The support from all Melusines you've helped in Merusea Village fills you with strength! Based on the number of them you've helped, your ATK is increased by up to an additional <color=#99FFFFFF>15%</color>.",
-      "ParamList": [0.15, 0.025, 0.15]
+      "ParamList": [0.15, 0.025, 0.15, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Melussistance!",
       "Desc": "ATK increased by <color=#99FFFFFF>18%</color>. That's not all! The support from all Melusines you've helped in Merusea Village fills you with strength! Based on the number of them you've helped, your ATK is increased by up to an additional <color=#99FFFFFF>18%</color>.",
-      "ParamList": [0.18, 0.03, 0.18]
+      "ParamList": [0.18, 0.03, 0.18, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Melussistance!",
       "Desc": "ATK increased by <color=#99FFFFFF>21%</color>. That's not all! The support from all Melusines you've helped in Merusea Village fills you with strength! Based on the number of them you've helped, your ATK is increased by up to an additional <color=#99FFFFFF>21%</color>.",
-      "ParamList": [0.21, 0.035, 0.21]
+      "ParamList": [0.21, 0.035, 0.21, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Melussistance!",
       "Desc": "ATK increased by <color=#99FFFFFF>24%</color>. That's not all! The support from all Melusines you've helped in Merusea Village fills you with strength! Based on the number of them you've helped, your ATK is increased by up to an additional <color=#99FFFFFF>24%</color>.",
-      "ParamList": [0.24, 0.04, 0.24]
+      "ParamList": [0.24, 0.04, 0.24, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

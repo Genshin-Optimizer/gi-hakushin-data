@@ -419,7 +419,7 @@
         "Name": "Falling Leaves",
         "Desc": "Kaedehara Kazuha's outfit. The maple leaf patterns are the hallmark of this wandering samurai's clothes.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": [
@@ -805,7 +805,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Garyuu Bladework",
+      "Name": "Garyuu Bladework",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 5 rapid strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact. If this Plunging Attack is triggered by Chihayaburu, it will be converted to Plunging Attack: Midare Ranzan.\\n\\n<color=#FFD780FF>Plunging Attack: Midare Ranzan</color>\\nWhen a Plunging Attack is performed using the effects of the Elemental Skill Chihayaburu, Plunging Attack DMG is converted to <color=#80FFD7FF>Anemo DMG</color> and will create a small wind tunnel via a secret blade technique that pulls in nearby objects and opponents.",
       "Promote": {
         "0": {
@@ -831,7 +831,7 @@
           ],
           "Param": [
             0.44978, 0.45236, 0.258, 0.3096, 0.60716, 0.2537, 0.43, 0.74648, 20,
-            0.818335, 1.636323, 2.043855
+            0.818335, 1.636323, 2.043855, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -857,7 +857,7 @@
           ],
           "Param": [
             0.48639, 0.48918, 0.279, 0.3348, 0.65658, 0.27435, 0.465, 0.80724,
-            20, 0.884943, 1.769512, 2.210216
+            20, 0.884943, 1.769512, 2.210216, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -883,7 +883,7 @@
           ],
           "Param": [
             0.523, 0.526, 0.3, 0.36, 0.706, 0.295, 0.5, 0.868, 20, 0.951552,
-            1.902701, 2.376576
+            1.902701, 2.376576, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -909,7 +909,7 @@
           ],
           "Param": [
             0.5753, 0.5786, 0.33, 0.396, 0.7766, 0.3245, 0.55, 0.9548, 20,
-            1.046707, 2.092971, 2.614234
+            1.046707, 2.092971, 2.614234, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -935,7 +935,7 @@
           ],
           "Param": [
             0.61191, 0.61542, 0.351, 0.4212, 0.82602, 0.34515, 0.585, 1.01556,
-            20, 1.113316, 2.22616, 2.780594
+            20, 1.113316, 2.22616, 2.780594, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -961,7 +961,7 @@
           ],
           "Param": [
             0.65375, 0.6575, 0.375, 0.45, 0.8825, 0.36875, 0.625, 1.085, 20,
-            1.18944, 2.378376, 2.97072
+            1.18944, 2.378376, 2.97072, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -987,7 +987,7 @@
           ],
           "Param": [
             0.71128, 0.71536, 0.408, 0.4896, 0.96016, 0.4012, 0.68, 1.18048, 20,
-            1.294111, 2.587673, 3.232143
+            1.294111, 2.587673, 3.232143, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1013,7 +1013,7 @@
           ],
           "Param": [
             0.76881, 0.77322, 0.441, 0.5292, 1.03782, 0.43365, 0.735, 1.27596,
-            20, 1.398781, 2.79697, 3.493567
+            20, 1.398781, 2.79697, 3.493567, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1039,7 +1039,7 @@
           ],
           "Param": [
             0.82634, 0.83108, 0.474, 0.5688, 1.11548, 0.4661, 0.79, 1.37144, 20,
-            1.503452, 3.006267, 3.75499
+            1.503452, 3.006267, 3.75499, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1065,7 +1065,7 @@
           ],
           "Param": [
             0.8891, 0.8942, 0.51, 0.612, 1.2002, 0.5015, 0.85, 1.4756, 20,
-            1.617638, 3.234591, 4.040179
+            1.617638, 3.234591, 4.040179, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1091,7 +1091,7 @@
           ],
           "Param": [
             0.961013, 0.966525, 0.55125, 0.6615, 1.297275, 0.542063, 0.91875,
-            1.59495, 20, 1.731825, 3.462915, 4.325368
+            1.59495, 20, 1.731825, 3.462915, 4.325368, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1117,7 +1117,7 @@
           ],
           "Param": [
             1.045582, 1.051579, 0.59976, 0.719712, 1.411435, 0.589764, 0.9996,
-            1.735306, 20, 1.846011, 3.69124, 4.610557
+            1.735306, 20, 1.846011, 3.69124, 4.610557, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1143,7 +1143,7 @@
           ],
           "Param": [
             1.130151, 1.136633, 0.64827, 0.777924, 1.525595, 0.637465, 1.08045,
-            1.875661, 20, 1.960197, 3.919564, 4.895747
+            1.875661, 20, 1.960197, 3.919564, 4.895747, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1169,7 +1169,7 @@
           ],
           "Param": [
             1.21472, 1.221688, 0.69678, 0.836136, 1.639756, 0.685167, 1.1613,
-            2.016017, 20, 2.074383, 4.147888, 5.180936
+            2.016017, 20, 2.074383, 4.147888, 5.180936, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1195,7 +1195,7 @@
           ],
           "Param": [
             1.306977, 1.314474, 0.7497, 0.89964, 1.764294, 0.737205, 1.2495,
-            2.169132, 20, 2.18857, 4.376212, 5.466125
+            2.169132, 20, 2.18857, 4.376212, 5.466125, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1225,7 +1225,9 @@
             "",
             ""
           ],
-          "Param": [1.92, 6, 2.608, 9]
+          "Param": [
+            1.92, 6, 2.608, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1248,7 +1250,9 @@
             "",
             ""
           ],
-          "Param": [2.064, 6, 2.8036, 9]
+          "Param": [
+            2.064, 6, 2.8036, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1271,7 +1275,9 @@
             "",
             ""
           ],
-          "Param": [2.208, 6, 2.9992, 9]
+          "Param": [
+            2.208, 6, 2.9992, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1294,7 +1300,9 @@
             "",
             ""
           ],
-          "Param": [2.4, 6, 3.26, 9]
+          "Param": [
+            2.4, 6, 3.26, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1317,7 +1325,9 @@
             "",
             ""
           ],
-          "Param": [2.544, 6, 3.4556, 9]
+          "Param": [
+            2.544, 6, 3.4556, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1340,7 +1350,9 @@
             "",
             ""
           ],
-          "Param": [2.688, 6, 3.6512, 9]
+          "Param": [
+            2.688, 6, 3.6512, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1363,7 +1375,9 @@
             "",
             ""
           ],
-          "Param": [2.88, 6, 3.912, 9]
+          "Param": [
+            2.88, 6, 3.912, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1386,7 +1400,9 @@
             "",
             ""
           ],
-          "Param": [3.072, 6, 4.1728, 9]
+          "Param": [
+            3.072, 6, 4.1728, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1409,7 +1425,9 @@
             "",
             ""
           ],
-          "Param": [3.264, 6, 4.4336, 9]
+          "Param": [
+            3.264, 6, 4.4336, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1432,7 +1450,9 @@
             "",
             ""
           ],
-          "Param": [3.456, 6, 4.6944, 9]
+          "Param": [
+            3.456, 6, 4.6944, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1455,7 +1475,9 @@
             "",
             ""
           ],
-          "Param": [3.648, 6, 4.9552, 9]
+          "Param": [
+            3.648, 6, 4.9552, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1478,7 +1500,9 @@
             "",
             ""
           ],
-          "Param": [3.84, 6, 5.216, 9]
+          "Param": [
+            3.84, 6, 5.216, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1501,7 +1525,9 @@
             "",
             ""
           ],
-          "Param": [4.08, 6, 5.542, 9]
+          "Param": [
+            4.08, 6, 5.542, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1524,7 +1550,9 @@
             "",
             ""
           ],
-          "Param": [4.32, 6, 5.868, 9]
+          "Param": [
+            4.32, 6, 5.868, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1547,7 +1575,9 @@
             "",
             ""
           ],
-          "Param": [4.56, 6, 6.194, 9]
+          "Param": [
+            4.56, 6, 6.194, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         }
       }
     },
@@ -1576,7 +1606,10 @@
             "",
             ""
           ],
-          "Param": [2.624, 1.2, 0.36, 8, 15, 60]
+          "Param": [
+            2.624, 1.2, 0.36, 8, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1599,7 +1632,10 @@
             "",
             ""
           ],
-          "Param": [2.8208, 1.29, 0.387, 8, 15, 60]
+          "Param": [
+            2.8208, 1.29, 0.387, 8, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1622,7 +1658,10 @@
             "",
             ""
           ],
-          "Param": [3.0176, 1.38, 0.414, 8, 15, 60]
+          "Param": [
+            3.0176, 1.38, 0.414, 8, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1645,7 +1684,9 @@
             "",
             ""
           ],
-          "Param": [3.28, 1.5, 0.45, 8, 15, 60]
+          "Param": [
+            3.28, 1.5, 0.45, 8, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1668,7 +1709,10 @@
             "",
             ""
           ],
-          "Param": [3.4768, 1.59, 0.477, 8, 15, 60]
+          "Param": [
+            3.4768, 1.59, 0.477, 8, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1691,7 +1735,10 @@
             "",
             ""
           ],
-          "Param": [3.6736, 1.68, 0.504, 8, 15, 60]
+          "Param": [
+            3.6736, 1.68, 0.504, 8, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1714,7 +1761,10 @@
             "",
             ""
           ],
-          "Param": [3.936, 1.8, 0.54, 8, 15, 60]
+          "Param": [
+            3.936, 1.8, 0.54, 8, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1737,7 +1787,10 @@
             "",
             ""
           ],
-          "Param": [4.1984, 1.92, 0.576, 8, 15, 60]
+          "Param": [
+            4.1984, 1.92, 0.576, 8, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1760,7 +1813,10 @@
             "",
             ""
           ],
-          "Param": [4.4608, 2.04, 0.612, 8, 15, 60]
+          "Param": [
+            4.4608, 2.04, 0.612, 8, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1783,7 +1839,10 @@
             "",
             ""
           ],
-          "Param": [4.7232, 2.16, 0.648, 8, 15, 60]
+          "Param": [
+            4.7232, 2.16, 0.648, 8, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1806,7 +1865,10 @@
             "",
             ""
           ],
-          "Param": [4.9856, 2.28, 0.684, 8, 15, 60]
+          "Param": [
+            4.9856, 2.28, 0.684, 8, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1829,7 +1891,10 @@
             "",
             ""
           ],
-          "Param": [5.248, 2.4, 0.72, 8, 15, 60]
+          "Param": [
+            5.248, 2.4, 0.72, 8, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1852,7 +1917,10 @@
             "",
             ""
           ],
-          "Param": [5.576, 2.55, 0.765, 8, 15, 60]
+          "Param": [
+            5.576, 2.55, 0.765, 8, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1875,7 +1943,10 @@
             "",
             ""
           ],
-          "Param": [5.904, 2.7, 0.81, 8, 15, 60]
+          "Param": [
+            5.904, 2.7, 0.81, 8, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1898,7 +1969,10 @@
             "",
             ""
           ],
-          "Param": [6.232, 2.85, 0.855, 8, 15, 60]
+          "Param": [
+            6.232, 2.85, 0.855, 8, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         }
       }
     }
@@ -1909,21 +1983,23 @@
       "Desc": "If <color=#FFD780FF>Chihayaburu</color> comes into contact with <color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro</color>/<color=#99FFFFFF>Cryo</color>/<color=#FFACFFFF>Electro</color> when cast, this <color=#FFD780FF>Chihayaburu</color> will absorb that element and if Plunging Attack: Midare Ranzan is used before the effect expires, it will deal an additional 200% ATK of the absorbed elemental type as DMG. This will be considered Plunging Attack DMG.\\nElemental Absorption may only occur once per use of <color=#FFD780FF>Chihayaburu</color>.",
       "Icon": "UI_Talent_S_Kazuha_05",
       "Unlock": 1,
-      "ParamList": [2]
+      "ParamList": [2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Poetics of Fuubutsu",
       "Desc": "Upon triggering a Swirl reaction, Kaedehara Kazuha will grant all party members a 0.04% Elemental DMG Bonus to the element absorbed by Swirl for every point of Elemental Mastery he has for 8s. Bonuses for different elements obtained through this method can co-exist.",
       "Icon": "UI_Talent_S_Kazuha_06",
       "Unlock": 4,
-      "ParamList": [0.0004, 8]
+      "ParamList": [
+        0.0004, 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Cloud Strider",
       "Desc": "Decreases sprinting Stamina consumption for your own party members by 20%.\\nNot stackable with Passive Talents that provide the exact same effects.",
       "Icon": "UI_Talent_Explosion_Sprint",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Constellations": [
@@ -1931,37 +2007,37 @@
       "Name": "Scarlet Hills",
       "Desc": "Decreases <color=#FFD780FF>Chihayaburu</color>'s CD by 10%.\\nUsing <color=#FFD780FF>Kazuha Slash</color> resets the CD of <color=#FFD780FF>Chihayaburu</color>.",
       "Icon": "UI_Talent_S_Kazuha_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Yamaarashi Tailwind",
       "Desc": "The Autumn Whirlwind field created by <color=#FFD780FF>Kazuha Slash</color> has the following effects:\\n· Increases Kaedehara Kazuha's own Elemental Mastery by 200 for its duration.\\n· Increases the Elemental Mastery of characters within the field by 200.\\n\\nThe Elemental Mastery-increasing effects of this Constellation do not stack.",
       "Icon": "UI_Talent_S_Kazuha_02",
-      "ParamList": [200]
+      "ParamList": [200, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Maple Monogatari",
       "Desc": "Increases the Level of <color=#FFD780FF>Chihayaburu</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Kazuha_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Oozora Genpou",
       "Desc": "#When Kaedehara Kazuha's Energy is lower than 45, he obtains the following effects:\\n·{LAYOUT_MOBILE#Tapping}{LAYOUT_PC#Pressing}{LAYOUT_PS#Pressing} or Holding <color=#FFD780FF>Chihayaburu</color> regenerates 3 or 4 Energy for Kaedehara Kazuha, respectively.\\n·When gliding, Kaedehara Kazuha regenerates 2 Energy per second.",
       "Icon": "UI_Talent_S_Kazuha_03",
-      "ParamList": [3, 4, 2, 0.75]
+      "ParamList": [3, 4, 2, 0.75, 0, 0, 0, 0]
     },
     {
       "Name": "Wisdom of Bansei",
       "Desc": "Increases the Level of <color=#FFD780FF>Kazuha Slash</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Kazuha_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Crimson Momiji",
       "Desc": "After using <color=#FFD780FF>Chihayaburu</color> or <color=#FFD780FF>Kazuha Slash</color>, Kaedehara Kazuha gains an <color=#80FFD7FF>Anemo Infusion</color> for 5s. Additionally, each point of Elemental Mastery will increase the DMG dealt by Kaedehara Kazuha's Normal, Charged, and Plunging Attacks by 0.2%.",
       "Icon": "UI_Talent_S_Kazuha_04",
-      "ParamList": [0.002, 5]
+      "ParamList": [0.002, 5, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -1974,7 +2050,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Sea Ganoderma", "Id": 101206, "Count": 3, "Rank": 1 },
+          { "Name": "Sea Ganoderma", "Id": 101206, "Count": 3, "Rank": 0 },
           {
             "Name": "Treasure Hoarder Insignia",
             "Id": 112035,
@@ -1993,7 +2069,7 @@
             "Rank": 3
           },
           { "Name": "Marionette Core", "Id": 113022, "Count": 2, "Rank": 4 },
-          { "Name": "Sea Ganoderma", "Id": 101206, "Count": 10, "Rank": 1 },
+          { "Name": "Sea Ganoderma", "Id": 101206, "Count": 10, "Rank": 0 },
           {
             "Name": "Treasure Hoarder Insignia",
             "Id": 112035,
@@ -2012,7 +2088,7 @@
             "Rank": 3
           },
           { "Name": "Marionette Core", "Id": 113022, "Count": 4, "Rank": 4 },
-          { "Name": "Sea Ganoderma", "Id": 101206, "Count": 20, "Rank": 1 },
+          { "Name": "Sea Ganoderma", "Id": 101206, "Count": 20, "Rank": 0 },
           {
             "Name": "Silver Raven Insignia",
             "Id": 112036,
@@ -2031,7 +2107,7 @@
             "Rank": 4
           },
           { "Name": "Marionette Core", "Id": 113022, "Count": 8, "Rank": 4 },
-          { "Name": "Sea Ganoderma", "Id": 101206, "Count": 30, "Rank": 1 },
+          { "Name": "Sea Ganoderma", "Id": 101206, "Count": 30, "Rank": 0 },
           {
             "Name": "Silver Raven Insignia",
             "Id": 112036,
@@ -2050,7 +2126,7 @@
             "Rank": 4
           },
           { "Name": "Marionette Core", "Id": 113022, "Count": 12, "Rank": 4 },
-          { "Name": "Sea Ganoderma", "Id": 101206, "Count": 45, "Rank": 1 },
+          { "Name": "Sea Ganoderma", "Id": 101206, "Count": 45, "Rank": 0 },
           {
             "Name": "Golden Raven Insignia",
             "Id": 112037,
@@ -2069,7 +2145,7 @@
             "Rank": 5
           },
           { "Name": "Marionette Core", "Id": 113022, "Count": 20, "Rank": 4 },
-          { "Name": "Sea Ganoderma", "Id": 101206, "Count": 60, "Rank": 1 },
+          { "Name": "Sea Ganoderma", "Id": 101206, "Count": 60, "Rank": 0 },
           {
             "Name": "Golden Raven Insignia",
             "Id": 112037,

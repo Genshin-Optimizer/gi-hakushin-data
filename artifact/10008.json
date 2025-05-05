@@ -5,28 +5,29 @@
   "Rank": [2, 3, 4, 5],
   "Affix": [
     {
-      "paramList": [0.2],
       "id": 210008,
-      "openConfig": "Relic_SkillDamageUp",
+      "level": 0,
       "affixId": 2100080,
+      "paramList": [0.2, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "Relic_SkillDamageUp",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Gambler",
       "Desc": "Increases Elemental Skill DMG by 20%."
     },
     {
-      "level": 1,
-      "paramList": [15, 1],
       "id": 210008,
-      "openConfig": "Relic_KillingRefreshSkill",
+      "level": 1,
       "affixId": 2100081,
+      "paramList": [15, 1, 0, 0, 0, 0, 0, 0],
+      "openConfig": "Relic_KillingRefreshSkill",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Gambler",
       "Desc": "Defeating an opponent has a 100% chance to remove Elemental Skill CD. Can only occur once every 15s."

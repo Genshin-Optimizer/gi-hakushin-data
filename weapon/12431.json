@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_202",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 43.7349
+      "initValue": 43.7349,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_ATTACK_PERCENT",
-      "initValue": 0.06
+      "initValue": 0.06,
+      "propType": "FIGHT_PROP_ATTACK_PERCENT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Oath of Qhapaq Nan",
       "Desc": "After a party member triggers a Pyro-related reaction, the equipping character's Elemental Skill DMG is increased by <color=#99FFFFFF>16%</color> for 8s. This effect can be triggered even when the triggering party member is not on the field.",
-      "ParamList": [0.16, 8]
+      "ParamList": [0.16, 8, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Oath of Qhapaq Nan",
       "Desc": "After a party member triggers a Pyro-related reaction, the equipping character's Elemental Skill DMG is increased by <color=#99FFFFFF>20%</color> for 8s. This effect can be triggered even when the triggering party member is not on the field.",
-      "ParamList": [0.2, 8]
+      "ParamList": [0.2, 8, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Oath of Qhapaq Nan",
       "Desc": "After a party member triggers a Pyro-related reaction, the equipping character's Elemental Skill DMG is increased by <color=#99FFFFFF>24%</color> for 8s. This effect can be triggered even when the triggering party member is not on the field.",
-      "ParamList": [0.24, 8]
+      "ParamList": [0.24, 8, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Oath of Qhapaq Nan",
       "Desc": "After a party member triggers a Pyro-related reaction, the equipping character's Elemental Skill DMG is increased by <color=#99FFFFFF>28%</color> for 8s. This effect can be triggered even when the triggering party member is not on the field.",
-      "ParamList": [0.28, 8]
+      "ParamList": [0.28, 8, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Oath of Qhapaq Nan",
       "Desc": "After a party member triggers a Pyro-related reaction, the equipping character's Elemental Skill DMG is increased by <color=#99FFFFFF>32%</color> for 8s. This effect can be triggered even when the triggering party member is not on the field.",
-      "ParamList": [0.32, 8]
+      "ParamList": [0.32, 8, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

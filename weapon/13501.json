@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_301",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 45.9364
+      "initValue": 45.9364,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_301",
-      "propType": "FIGHT_PROP_CRITICAL_HURT",
-      "initValue": 0.144
+      "initValue": 0.144,
+      "propType": "FIGHT_PROP_CRITICAL_HURT"
     }
   ],
   "Rarity": 5,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Reckless Cinnabar",
       "Desc": "HP increased by <color=#99FFFFFF>20%</color>. Additionally, provides an ATK Bonus based on <color=#99FFFFFF>0.8%</color> of the wielder's Max HP. When the wielder's HP is less than 50%, this ATK Bonus is increased by an additional <color=#99FFFFFF>1%</color> of Max HP.",
-      "ParamList": [0.2, 0.008, 0.01]
+      "ParamList": [0.2, 0.008, 0.01, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Reckless Cinnabar",
       "Desc": "HP increased by <color=#99FFFFFF>25%</color>. Additionally, provides an ATK Bonus based on <color=#99FFFFFF>1%</color> of the wielder's Max HP. When the wielder's HP is less than 50%, this ATK Bonus is increased by an additional <color=#99FFFFFF>1.2%</color> of Max HP.",
-      "ParamList": [0.25, 0.01, 0.012]
+      "ParamList": [0.25, 0.01, 0.012, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Reckless Cinnabar",
       "Desc": "HP increased by <color=#99FFFFFF>30%</color>. Additionally, provides an ATK Bonus based on <color=#99FFFFFF>1.2%</color> of the wielder's Max HP. When the wielder's HP is less than 50%, this ATK Bonus is increased by an additional <color=#99FFFFFF>1.4%</color> of Max HP.",
-      "ParamList": [0.3, 0.012, 0.014]
+      "ParamList": [0.3, 0.012, 0.014, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Reckless Cinnabar",
       "Desc": "HP increased by <color=#99FFFFFF>35%</color>. Additionally, provides an ATK Bonus based on <color=#99FFFFFF>1.4%</color> of the wielder's Max HP. When the wielder's HP is less than 50%, this ATK Bonus is increased by an additional <color=#99FFFFFF>1.6%</color> of Max HP.",
-      "ParamList": [0.35, 0.014, 0.016]
+      "ParamList": [0.35, 0.014, 0.016, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Reckless Cinnabar",
       "Desc": "HP increased by <color=#99FFFFFF>40%</color>. Additionally, provides an ATK Bonus based on <color=#99FFFFFF>1.6%</color> of the wielder's Max HP. When the wielder's HP is less than 50%, this ATK Bonus is increased by an additional <color=#99FFFFFF>1.8%</color> of Max HP.",
-      "ParamList": [0.4, 0.016, 0.018]
+      "ParamList": [0.4, 0.016, 0.018, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

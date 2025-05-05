@@ -6,25 +6,28 @@
   "Affix": [
     {
       "id": 215003,
+      "level": 0,
       "affixId": 2150030,
+      "paramList": [0, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "",
       "addProps": [
-        { "value": 80, "propType": "FIGHT_PROP_ELEMENT_MASTERY" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_ELEMENT_MASTERY", "value": 80 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Wanderer's Troupe",
       "Desc": "Increases Elemental Mastery by 80."
     },
     {
-      "level": 1,
-      "paramList": [0.35],
       "id": 215003,
-      "openConfig": "Relci_RangerAttackUp",
+      "level": 1,
       "affixId": 2150031,
+      "paramList": [0.35, 0, 0, 0, 0, 0, 0, 0],
+      "openConfig": "Relci_RangerAttackUp",
       "addProps": [
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" },
-        { "propType": "FIGHT_PROP_NONE" }
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 },
+        { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
       "Name": "Wanderer's Troupe",
       "Desc": "Increases Charged Attack DMG by 35% if the character uses a Catalyst or a Bow."

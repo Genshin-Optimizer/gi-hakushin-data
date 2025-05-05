@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_202",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 43.7349
+      "initValue": 43.7349,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_CRITICAL",
-      "initValue": 0.04
+      "initValue": 0.04,
+      "propType": "FIGHT_PROP_CRITICAL"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "\"The Silver Tongue\"",
       "Desc": "ATK will be increased by <color=#99FFFFFF>16%</color> for 15s after being affected by Pyro. This effect can be triggered once every 12s. All Elemental DMG Bonus will be increased by <color=#99FFFFFF>12%</color> for 15s after being affected by Hydro, Cryo, Electro, or Dendro. This effect can be triggered once every 12s.",
-      "ParamList": [12, 12, 15, 15, 0.16, 0.12]
+      "ParamList": [12, 12, 15, 15, 0.16, 0.12, 0, 0]
     },
     "2": {
       "Name": "\"The Silver Tongue\"",
       "Desc": "ATK will be increased by <color=#99FFFFFF>20%</color> for 15s after being affected by Pyro. This effect can be triggered once every 12s. All Elemental DMG Bonus will be increased by <color=#99FFFFFF>15%</color> for 15s after being affected by Hydro, Cryo, Electro, or Dendro. This effect can be triggered once every 12s.",
-      "ParamList": [12, 12, 15, 15, 0.2, 0.15]
+      "ParamList": [12, 12, 15, 15, 0.2, 0.15, 0, 0]
     },
     "3": {
       "Name": "\"The Silver Tongue\"",
       "Desc": "ATK will be increased by <color=#99FFFFFF>24%</color> for 15s after being affected by Pyro. This effect can be triggered once every 12s. All Elemental DMG Bonus will be increased by <color=#99FFFFFF>18%</color> for 15s after being affected by Hydro, Cryo, Electro, or Dendro. This effect can be triggered once every 12s.",
-      "ParamList": [12, 12, 15, 15, 0.24, 0.18]
+      "ParamList": [12, 12, 15, 15, 0.24, 0.18, 0, 0]
     },
     "4": {
       "Name": "\"The Silver Tongue\"",
       "Desc": "ATK will be increased by <color=#99FFFFFF>28%</color> for 15s after being affected by Pyro. This effect can be triggered once every 12s. All Elemental DMG Bonus will be increased by <color=#99FFFFFF>21%</color> for 15s after being affected by Hydro, Cryo, Electro, or Dendro. This effect can be triggered once every 12s.",
-      "ParamList": [12, 12, 15, 15, 0.28, 0.21]
+      "ParamList": [12, 12, 15, 15, 0.28, 0.21, 0, 0]
     },
     "5": {
       "Name": "\"The Silver Tongue\"",
       "Desc": "ATK will be increased by <color=#99FFFFFF>32%</color> for 15s after being affected by Pyro. This effect can be triggered once every 12s. All Elemental DMG Bonus will be increased by <color=#99FFFFFF>24%</color> for 15s after being affected by Hydro, Cryo, Electro, or Dendro. This effect can be triggered once every 12s.",
-      "ParamList": [12, 12, 15, 15, 0.32, 0.24]
+      "ParamList": [12, 12, 15, 15, 0.32, 0.24, 0, 0]
     }
   },
   "Materials": {

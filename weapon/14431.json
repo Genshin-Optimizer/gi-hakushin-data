@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_201",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 42.401
+      "initValue": 42.401,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_HP_PERCENT",
-      "initValue": 0.09
+      "initValue": 0.09,
+      "propType": "FIGHT_PROP_HP_PERCENT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Echoes of the Plentiful Land",
       "Desc": "Using an Elemental Skill grants the Jade-Forged Crown effect: Every 1,000 Max HP will increase the Normal Attack DMG dealt by the equipping character by <color=#99FFFFFF>0.6%</color> for 10s. Normal Attack DMG can be increased this way by a maximum of <color=#99FFFFFF>16%</color>.",
-      "ParamList": [0.006, 0.16, 10]
+      "ParamList": [0.006, 0.16, 10, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Echoes of the Plentiful Land",
       "Desc": "Using an Elemental Skill grants the Jade-Forged Crown effect: Every 1,000 Max HP will increase the Normal Attack DMG dealt by the equipping character by <color=#99FFFFFF>0.7%</color> for 10s. Normal Attack DMG can be increased this way by a maximum of <color=#99FFFFFF>20%</color>.",
-      "ParamList": [0.007, 0.2, 10]
+      "ParamList": [0.007, 0.2, 10, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Echoes of the Plentiful Land",
       "Desc": "Using an Elemental Skill grants the Jade-Forged Crown effect: Every 1,000 Max HP will increase the Normal Attack DMG dealt by the equipping character by <color=#99FFFFFF>0.8%</color> for 10s. Normal Attack DMG can be increased this way by a maximum of <color=#99FFFFFF>24%</color>.",
-      "ParamList": [0.008, 0.24, 10]
+      "ParamList": [0.008, 0.24, 10, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Echoes of the Plentiful Land",
       "Desc": "Using an Elemental Skill grants the Jade-Forged Crown effect: Every 1,000 Max HP will increase the Normal Attack DMG dealt by the equipping character by <color=#99FFFFFF>0.9%</color> for 10s. Normal Attack DMG can be increased this way by a maximum of <color=#99FFFFFF>28%</color>.",
-      "ParamList": [0.009, 0.28, 10]
+      "ParamList": [0.009, 0.28, 10, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Echoes of the Plentiful Land",
       "Desc": "Using an Elemental Skill grants the Jade-Forged Crown effect: Every 1,000 Max HP will increase the Normal Attack DMG dealt by the equipping character by <color=#99FFFFFF>1%</color> for 10s. Normal Attack DMG can be increased this way by a maximum of <color=#99FFFFFF>32%</color>.",
-      "ParamList": [0.01, 0.32, 10]
+      "ParamList": [0.01, 0.32, 10, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

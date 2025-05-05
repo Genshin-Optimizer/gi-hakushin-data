@@ -933,7 +933,7 @@
     "element": "Hydro",
     "KR": "느비예트",
     "CHS": "那维莱特",
-    "JP": "ヌヴィレット"
+    "JP": "ヌヴィレッ��"
   },
   "10000088": {
     "birth": [4, 10],
@@ -1246,6 +1246,32 @@
     "KR": "바레사",
     "CHS": "瓦雷莎",
     "JP": "ヴァレサ"
+  },
+  "10000112": {
+    "birth": [6, 8],
+    "icon": "UI_AvatarIcon_Escoffier",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_POLE",
+    "release": "2025-05-06 00:00:00",
+    "EN": "Escoffier",
+    "desc": "The ex-head chef of Hotel Debord, renowned throughout Fontaine as the Patissiere Supreme and vanguard of precision gastronomy. Has incomparably strict standards when it comes to cooking.",
+    "element": "Cryo",
+    "KR": "에스코피에",
+    "CHS": "爱可菲",
+    "JP": "エスコフィエ"
+  },
+  "10000113": {
+    "birth": [3, 23],
+    "icon": "UI_AvatarIcon_Ifa",
+    "rank": "QUALITY_PURPLE",
+    "weapon": "WEAPON_CATALYST",
+    "release": "2025-05-06 00:00:00",
+    "EN": "Ifa",
+    "desc": "A vet from the Flower-Feather Clan who cherishes the life he leads alongside all manner of living things — people, animals, you name it.",
+    "element": "Anemo",
+    "KR": "이파",
+    "CHS": "伊法",
+    "JP": "イファ"
   },
   "10000007-2": {
     "birth": [1, 1],

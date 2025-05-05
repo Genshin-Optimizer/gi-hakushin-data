@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_102",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 39.8751
+      "initValue": 39.8751,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_101",
-      "propType": "FIGHT_PROP_CRITICAL",
-      "initValue": 0.034
+      "initValue": 0.034,
+      "propType": "FIGHT_PROP_CRITICAL"
     }
   ],
   "Rarity": 3,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Guerilla Tactics",
       "Desc": "Defeating an opponent increases Movement SPD and ATK by <color=#99FFFFFF>12%</color> for 15s.",
-      "ParamList": [0.12, 15]
+      "ParamList": [0.12, 15, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Guerilla Tactics",
       "Desc": "Defeating an opponent increases Movement SPD and ATK by <color=#99FFFFFF>14%</color> for 15s.",
-      "ParamList": [0.14, 15]
+      "ParamList": [0.14, 15, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Guerilla Tactics",
       "Desc": "Defeating an opponent increases Movement SPD and ATK by <color=#99FFFFFF>16%</color> for 15s.",
-      "ParamList": [0.16, 15]
+      "ParamList": [0.16, 15, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Guerilla Tactics",
       "Desc": "Defeating an opponent increases Movement SPD and ATK by <color=#99FFFFFF>18%</color> for 15s.",
-      "ParamList": [0.18, 15]
+      "ParamList": [0.18, 15, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Guerilla Tactics",
       "Desc": "Defeating an opponent increases Movement SPD and ATK by <color=#99FFFFFF>20%</color> for 15s.",
-      "ParamList": [0.2, 15]
+      "ParamList": [0.2, 15, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

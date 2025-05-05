@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_202",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 43.7349
+      "initValue": 43.7349,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_ELEMENT_MASTERY",
-      "initValue": 24
+      "initValue": 24,
+      "propType": "FIGHT_PROP_ELEMENT_MASTERY"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Infusion Scroll",
       "Desc": "Triggering an Elemental reaction grants a <color=#99FFFFFF>8%</color> Elemental DMG Bonus for 10s. Max 2 stacks.",
-      "ParamList": [0.08]
+      "ParamList": [0.08, 0, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Infusion Scroll",
       "Desc": "Triggering an Elemental reaction grants a <color=#99FFFFFF>10%</color> Elemental DMG Bonus for 10s. Max 2 stacks.",
-      "ParamList": [0.1]
+      "ParamList": [0.1, 0, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Infusion Scroll",
       "Desc": "Triggering an Elemental reaction grants a <color=#99FFFFFF>12%</color> Elemental DMG Bonus for 10s. Max 2 stacks.",
-      "ParamList": [0.12]
+      "ParamList": [0.12, 0, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Infusion Scroll",
       "Desc": "Triggering an Elemental reaction grants a <color=#99FFFFFF>14%</color> Elemental DMG Bonus for 10s. Max 2 stacks.",
-      "ParamList": [0.14]
+      "ParamList": [0.14, 0, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Infusion Scroll",
       "Desc": "Triggering an Elemental reaction grants a <color=#99FFFFFF>16%</color> Elemental DMG Bonus for 10s. Max 2 stacks.",
-      "ParamList": [0.16]
+      "ParamList": [0.16, 0, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_204",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 41.0671
+      "initValue": 41.0671,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_ATTACK_PERCENT",
-      "initValue": 0.12
+      "initValue": 0.12,
+      "propType": "FIGHT_PROP_ATTACK_PERCENT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Full Draw",
       "Desc": "Increases Normal Attack DMG by <color=#99FFFFFF>16%</color> and Charged Attack DMG by <color=#99FFFFFF>12%</color>. When the equipping character's Energy reaches 100%, this effect is increased by 100%.",
-      "ParamList": [0.16, 0.12, 1]
+      "ParamList": [0.16, 0.12, 1, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Full Draw",
       "Desc": "Increases Normal Attack DMG by <color=#99FFFFFF>20%</color> and Charged Attack DMG by <color=#99FFFFFF>15%</color>. When the equipping character's Energy reaches 100%, this effect is increased by 100%.",
-      "ParamList": [0.2, 0.15, 1]
+      "ParamList": [0.2, 0.15, 1, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Full Draw",
       "Desc": "Increases Normal Attack DMG by <color=#99FFFFFF>24%</color> and Charged Attack DMG by <color=#99FFFFFF>18%</color>. When the equipping character's Energy reaches 100%, this effect is increased by 100%.",
-      "ParamList": [0.24, 0.18, 1]
+      "ParamList": [0.24, 0.18, 1, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Full Draw",
       "Desc": "Increases Normal Attack DMG by <color=#99FFFFFF>28%</color> and Charged Attack DMG by <color=#99FFFFFF>21%</color>. When the equipping character's Energy reaches 100%, this effect is increased by 100%.",
-      "ParamList": [0.28, 0.21, 1]
+      "ParamList": [0.28, 0.21, 1, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Full Draw",
       "Desc": "Increases Normal Attack DMG by <color=#99FFFFFF>32%</color> and Charged Attack DMG by <color=#99FFFFFF>24%</color>. When the equipping character's Energy reaches 100%, this effect is increased by 100%.",
-      "ParamList": [0.32, 0.24, 1]
+      "ParamList": [0.32, 0.24, 1, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

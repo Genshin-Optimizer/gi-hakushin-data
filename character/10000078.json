@@ -385,7 +385,7 @@
         "Name": "The Rational",
         "Desc": "Alhaitham's outfit. \"Don't bother the Scribe with trivialities... What do you think those soundproofers of his are for, anyway?\"\\nSo observed an experienced staff member at the Temple of Silence.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -764,7 +764,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Abductive Reasoning",
+      "Name": "Abductive Reasoning",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 5 rapid strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
       "Promote": {
         "0": {
@@ -790,7 +790,7 @@
           ],
           "Param": [
             0.495257, 0.507495, 0.341785, 0.341785, 0.667678, 0.838509, 0.55255,
-            0.55255, 20, 0.639324, 1.278377, 1.596762
+            0.55255, 20, 0.639324, 1.278377, 1.596762, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -816,7 +816,8 @@
           ],
           "Param": [
             0.535568, 0.548802, 0.369605, 0.369605, 0.722024, 0.906759,
-            0.597525, 0.597525, 20, 0.691362, 1.382431, 1.726731
+            0.597525, 0.597525, 20, 0.691362, 1.382431, 1.726731, 0, 0, 0, 0, 0,
+            0, 0, 0
           ]
         },
         "2": {
@@ -842,7 +843,7 @@
           ],
           "Param": [
             0.57588, 0.59011, 0.397425, 0.397425, 0.77637, 0.97501, 0.6425,
-            0.6425, 20, 0.7434, 1.486485, 1.8567
+            0.6425, 20, 0.7434, 1.486485, 1.8567, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -868,7 +869,7 @@
           ],
           "Param": [
             0.633468, 0.649121, 0.437167, 0.437167, 0.854007, 1.072511, 0.70675,
-            0.70675, 20, 0.81774, 1.635134, 2.04237
+            0.70675, 20, 0.81774, 1.635134, 2.04237, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -894,7 +895,7 @@
           ],
           "Param": [
             0.67378, 0.690429, 0.464987, 0.464987, 0.908353, 1.140762, 0.751725,
-            0.751725, 20, 0.869778, 1.739187, 2.172339
+            0.751725, 20, 0.869778, 1.739187, 2.172339, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -920,7 +921,7 @@
           ],
           "Param": [
             0.71985, 0.737638, 0.496781, 0.496781, 0.970463, 1.218762, 0.803125,
-            0.803125, 20, 0.92925, 1.858106, 2.320875
+            0.803125, 20, 0.92925, 1.858106, 2.320875, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -946,7 +947,7 @@
           ],
           "Param": [
             0.783197, 0.80255, 0.540498, 0.540498, 1.055863, 1.326014, 0.8738,
-            0.8738, 20, 1.011024, 2.02162, 2.525112
+            0.8738, 20, 1.011024, 2.02162, 2.525112, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -972,7 +973,8 @@
           ],
           "Param": [
             0.846544, 0.867462, 0.584215, 0.584215, 1.141264, 1.433265,
-            0.944475, 0.944475, 20, 1.092798, 2.185133, 2.729349
+            0.944475, 0.944475, 20, 1.092798, 2.185133, 2.729349, 0, 0, 0, 0, 0,
+            0, 0, 0
           ]
         },
         "8": {
@@ -998,7 +1000,7 @@
           ],
           "Param": [
             0.90989, 0.932374, 0.627931, 0.627931, 1.226665, 1.540516, 1.01515,
-            1.01515, 20, 1.174572, 2.348646, 2.933586
+            1.01515, 20, 1.174572, 2.348646, 2.933586, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1024,7 +1026,7 @@
           ],
           "Param": [
             0.978996, 1.003187, 0.675622, 0.675622, 1.319829, 1.657517, 1.09225,
-            1.09225, 20, 1.26378, 2.527025, 3.15639
+            1.09225, 20, 1.26378, 2.527025, 3.15639, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1050,7 +1052,7 @@
           ],
           "Param": [
             1.048102, 1.074, 0.723313, 0.723313, 1.412993, 1.774518, 1.16935,
-            1.16935, 20, 1.352988, 2.705403, 3.379194
+            1.16935, 20, 1.352988, 2.705403, 3.379194, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1076,7 +1078,7 @@
           ],
           "Param": [
             1.117207, 1.144813, 0.771004, 0.771004, 1.506158, 1.891519, 1.24645,
-            1.24645, 20, 1.442196, 2.883781, 3.601998
+            1.24645, 20, 1.442196, 2.883781, 3.601998, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1102,7 +1104,7 @@
           ],
           "Param": [
             1.186313, 1.215627, 0.818696, 0.818696, 1.599322, 2.008521, 1.32355,
-            1.32355, 20, 1.531404, 3.062159, 3.824802
+            1.32355, 20, 1.531404, 3.062159, 3.824802, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1128,7 +1130,7 @@
           ],
           "Param": [
             1.255418, 1.28644, 0.866387, 0.866387, 1.692487, 2.125522, 1.40065,
-            1.40065, 20, 1.620612, 3.240537, 4.047606
+            1.40065, 20, 1.620612, 3.240537, 4.047606, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1154,7 +1156,7 @@
           ],
           "Param": [
             1.324524, 1.357253, 0.914077, 0.914077, 1.785651, 2.242523, 1.47775,
-            1.47775, 20, 1.70982, 3.418915, 4.27041
+            1.47775, 20, 1.70982, 3.418915, 4.27041, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1185,7 +1187,8 @@
             ""
           ],
           "Param": [
-            1.936, 1.5488, 1.6, 0.672, 1.344, 0.672, 1.344, 0.672, 1.344, 4, 18
+            1.936, 1.5488, 1.6, 0.672, 1.344, 0.672, 1.344, 0.672, 1.344, 4, 18,
+            0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -1211,7 +1214,7 @@
           ],
           "Param": [
             2.0812, 1.66496, 1.6, 0.7224, 1.4448, 0.7224, 1.4448, 0.7224,
-            1.4448, 4, 18
+            1.4448, 4, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -1237,7 +1240,7 @@
           ],
           "Param": [
             2.2264, 1.78112, 1.6, 0.7728, 1.5456, 0.7728, 1.5456, 0.7728,
-            1.5456, 4, 18
+            1.5456, 4, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -1261,7 +1264,10 @@
             "",
             ""
           ],
-          "Param": [2.42, 1.936, 1.6, 0.84, 1.68, 0.84, 1.68, 0.84, 1.68, 4, 18]
+          "Param": [
+            2.42, 1.936, 1.6, 0.84, 1.68, 0.84, 1.68, 0.84, 1.68, 4, 18, 0, 0,
+            0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1286,7 +1292,7 @@
           ],
           "Param": [
             2.5652, 2.05216, 1.6, 0.8904, 1.7808, 0.8904, 1.7808, 0.8904,
-            1.7808, 4, 18
+            1.7808, 4, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -1312,7 +1318,7 @@
           ],
           "Param": [
             2.7104, 2.16832, 1.6, 0.9408, 1.8816, 0.9408, 1.8816, 0.9408,
-            1.8816, 4, 18
+            1.8816, 4, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -1337,7 +1343,8 @@
             ""
           ],
           "Param": [
-            2.904, 2.3232, 1.6, 1.008, 2.016, 1.008, 2.016, 1.008, 2.016, 4, 18
+            2.904, 2.3232, 1.6, 1.008, 2.016, 1.008, 2.016, 1.008, 2.016, 4, 18,
+            0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1363,7 +1370,7 @@
           ],
           "Param": [
             3.0976, 2.47808, 1.6, 1.0752, 2.1504, 1.0752, 2.1504, 1.0752,
-            2.1504, 4, 18
+            2.1504, 4, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1389,7 +1396,7 @@
           ],
           "Param": [
             3.2912, 2.63296, 1.6, 1.1424, 2.2848, 1.1424, 2.2848, 1.1424,
-            2.2848, 4, 18
+            2.2848, 4, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1415,7 +1422,7 @@
           ],
           "Param": [
             3.4848, 2.78784, 1.6, 1.2096, 2.4192, 1.2096, 2.4192, 1.2096,
-            2.4192, 4, 18
+            2.4192, 4, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1441,7 +1448,7 @@
           ],
           "Param": [
             3.6784, 2.94272, 1.6, 1.2768, 2.5536, 1.2768, 2.5536, 1.2768,
-            2.5536, 4, 18
+            2.5536, 4, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1466,7 +1473,8 @@
             ""
           ],
           "Param": [
-            3.872, 3.0976, 1.6, 1.344, 2.688, 1.344, 2.688, 1.344, 2.688, 4, 18
+            3.872, 3.0976, 1.6, 1.344, 2.688, 1.344, 2.688, 1.344, 2.688, 4, 18,
+            0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1491,7 +1499,8 @@
             ""
           ],
           "Param": [
-            4.114, 3.2912, 1.6, 1.428, 2.856, 1.428, 2.856, 1.428, 2.856, 4, 18
+            4.114, 3.2912, 1.6, 1.428, 2.856, 1.428, 2.856, 1.428, 2.856, 4, 18,
+            0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1516,7 +1525,8 @@
             ""
           ],
           "Param": [
-            4.356, 3.4848, 1.6, 1.512, 3.024, 1.512, 3.024, 1.512, 3.024, 4, 18
+            4.356, 3.4848, 1.6, 1.512, 3.024, 1.512, 3.024, 1.512, 3.024, 4, 18,
+            0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1541,7 +1551,8 @@
             ""
           ],
           "Param": [
-            4.598, 3.6784, 1.6, 1.596, 3.192, 1.596, 3.192, 1.596, 3.192, 4, 18
+            4.598, 3.6784, 1.6, 1.596, 3.192, 1.596, 3.192, 1.596, 3.192, 4, 18,
+            0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1571,7 +1582,10 @@
             "",
             ""
           ],
-          "Param": [1.216, 0.9728, 4, 6, 8, 10, 18, 70]
+          "Param": [
+            1.216, 0.9728, 4, 6, 8, 10, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1594,7 +1608,10 @@
             "",
             ""
           ],
-          "Param": [1.3072, 1.04576, 4, 6, 8, 10, 18, 70]
+          "Param": [
+            1.3072, 1.04576, 4, 6, 8, 10, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1617,7 +1634,10 @@
             "",
             ""
           ],
-          "Param": [1.3984, 1.11872, 4, 6, 8, 10, 18, 70]
+          "Param": [
+            1.3984, 1.11872, 4, 6, 8, 10, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1640,7 +1660,9 @@
             "",
             ""
           ],
-          "Param": [1.52, 1.216, 4, 6, 8, 10, 18, 70]
+          "Param": [
+            1.52, 1.216, 4, 6, 8, 10, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1663,7 +1685,10 @@
             "",
             ""
           ],
-          "Param": [1.6112, 1.28896, 4, 6, 8, 10, 18, 70]
+          "Param": [
+            1.6112, 1.28896, 4, 6, 8, 10, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1686,7 +1711,10 @@
             "",
             ""
           ],
-          "Param": [1.7024, 1.36192, 4, 6, 8, 10, 18, 70]
+          "Param": [
+            1.7024, 1.36192, 4, 6, 8, 10, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1709,7 +1737,10 @@
             "",
             ""
           ],
-          "Param": [1.824, 1.4592, 4, 6, 8, 10, 18, 70]
+          "Param": [
+            1.824, 1.4592, 4, 6, 8, 10, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1732,7 +1763,10 @@
             "",
             ""
           ],
-          "Param": [1.9456, 1.55648, 4, 6, 8, 10, 18, 70]
+          "Param": [
+            1.9456, 1.55648, 4, 6, 8, 10, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1755,7 +1789,10 @@
             "",
             ""
           ],
-          "Param": [2.0672, 1.65376, 4, 6, 8, 10, 18, 70]
+          "Param": [
+            2.0672, 1.65376, 4, 6, 8, 10, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1778,7 +1815,10 @@
             "",
             ""
           ],
-          "Param": [2.1888, 1.75104, 4, 6, 8, 10, 18, 70]
+          "Param": [
+            2.1888, 1.75104, 4, 6, 8, 10, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1801,7 +1841,10 @@
             "",
             ""
           ],
-          "Param": [2.3104, 1.84832, 4, 6, 8, 10, 18, 70]
+          "Param": [
+            2.3104, 1.84832, 4, 6, 8, 10, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1824,7 +1867,10 @@
             "",
             ""
           ],
-          "Param": [2.432, 1.9456, 4, 6, 8, 10, 18, 70]
+          "Param": [
+            2.432, 1.9456, 4, 6, 8, 10, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1847,7 +1893,10 @@
             "",
             ""
           ],
-          "Param": [2.584, 2.0672, 4, 6, 8, 10, 18, 70]
+          "Param": [
+            2.584, 2.0672, 4, 6, 8, 10, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1870,7 +1919,10 @@
             "",
             ""
           ],
-          "Param": [2.736, 2.1888, 4, 6, 8, 10, 18, 70]
+          "Param": [
+            2.736, 2.1888, 4, 6, 8, 10, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1893,7 +1945,10 @@
             "",
             ""
           ],
-          "Param": [2.888, 2.3104, 4, 6, 8, 10, 18, 70]
+          "Param": [
+            2.888, 2.3104, 4, 6, 8, 10, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         }
       }
     }
@@ -1904,21 +1959,23 @@
       "Desc": "When Alhaitham's Charged or Plunging Attacks hit opponents, they will generate 1 Chisel-Light Mirror. This effect can be triggered once every 12s.",
       "Icon": "UI_Talent_S_Alhatham_05",
       "Unlock": 1,
-      "ParamList": [12]
+      "ParamList": [12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Mysteries Laid Bare",
       "Desc": "Each point of Alhaitham's Elemental Mastery will increase the DMG dealt by Projection Attacks and <color=#FFD780FF>Particular Field: Fetters of Phenomena</color> by 0.1%.\\nThe DMG of both aforementioned abilities can be increased by a maximum of 100% this way.",
       "Icon": "UI_Talent_S_Alhatham_06",
       "Unlock": 4,
-      "ParamList": [0.001, 1]
+      "ParamList": [
+        0.001, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Law of Reductive Overdetermination",
       "Desc": "When Alhaitham crafts Weapon Ascension Materials, he has a 10% chance to receive double the product.",
       "Icon": "UI_Talent_S_Alhatham_07",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Constellations": [
@@ -1926,37 +1983,37 @@
       "Name": "Intuition",
       "Desc": "When a Projection Attack hits an opponent, <color=#FFD780FF>Universality: An Elaboration on Form</color>'s CD is decreased by 1.2s. This effect can be triggered once every 1s.",
       "Icon": "UI_Talent_S_Alhatham_02",
-      "ParamList": [1.2, 1]
+      "ParamList": [1.2, 1, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Debate",
       "Desc": "When Alhaitham generates a Chisel-Light Mirror, his Elemental Mastery will be increased by 50 for 8 seconds, max 4 stacks. Each stack's duration is counted independently. This effect can be triggered even when the maximum number of Chisel-Light Mirrors has been reached.",
       "Icon": "UI_Talent_S_Alhatham_01",
-      "ParamList": [50, 8, 4]
+      "ParamList": [50, 8, 4, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Negation",
       "Desc": "Increases the Level of <color=#FFD780FF>Universality: An Elaboration on Form</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Alhatham_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Elucidation",
       "Desc": "When <color=#FFD780FF>Particular Field: Fetters of Phenomena</color> is unleashed, the following effects will become active based on the number of Chisel-Light Mirrors consumed and created this time around:\\n·Each Mirror consumed will increase the Elemental Mastery of all other nearby party members by 30 for 15s.\\n·Each Mirror generated will grant Alhaitham a 10% <color=#99FF88FF>Dendro DMG Bonus</color> for 15s.\\n\\nThe pre-existing duration of the aforementioned effects will be cleared if you use Particular Field: Fetters of Phenomena again while they are in effect.",
       "Icon": "UI_Talent_S_Alhatham_03",
-      "ParamList": [30, 15, 0.1, 15]
+      "ParamList": [30, 15, 0.1, 15, 0, 0, 0, 0]
     },
     {
       "Name": "Sagacity",
       "Desc": "Increases the Level of <color=#FFD780FF>Particular Field: Fetters of Phenomena</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Alhatham_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Structuration",
       "Desc": "Alhaitham gains the following effects:\\n· 2 seconds after <color=#FFD780FF>Particular Field: Fetters of Phenomena</color> is unleashed, he will generate 3 Chisel-Light Mirrors regardless of the number of mirrors consumed.\\n· If Alhaitham generates Chisel-Light Mirrors when their numbers have already maxed out, his CRIT Rate and CRIT DMG will increase by 10% and 70% respectively for 6s. If this effect is triggered again during its initial duration, the duration remaining will be increased by 6s.",
       "Icon": "UI_Talent_S_Alhatham_04",
-      "ParamList": [0.1, 0.7, 6]
+      "ParamList": [0.1, 0.7, 6, 0, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -1969,7 +2026,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Sand Grease Pupa", "Id": 101222, "Count": 3, "Rank": 1 },
+          { "Name": "Sand Grease Pupa", "Id": 101222, "Count": 3, "Rank": 0 },
           { "Name": "Faded Red Satin", "Id": 112065, "Count": 3, "Rank": 1 }
         ],
         "Cost": 20000
@@ -1983,7 +2040,7 @@
             "Rank": 3
           },
           { "Name": "Pseudo-Stamens", "Id": 113044, "Count": 2, "Rank": 4 },
-          { "Name": "Sand Grease Pupa", "Id": 101222, "Count": 10, "Rank": 1 },
+          { "Name": "Sand Grease Pupa", "Id": 101222, "Count": 10, "Rank": 0 },
           { "Name": "Faded Red Satin", "Id": 112065, "Count": 15, "Rank": 1 }
         ],
         "Cost": 40000
@@ -1997,7 +2054,7 @@
             "Rank": 3
           },
           { "Name": "Pseudo-Stamens", "Id": 113044, "Count": 4, "Rank": 4 },
-          { "Name": "Sand Grease Pupa", "Id": 101222, "Count": 20, "Rank": 1 },
+          { "Name": "Sand Grease Pupa", "Id": 101222, "Count": 20, "Rank": 0 },
           { "Name": "Trimmed Red Silk", "Id": 112066, "Count": 12, "Rank": 2 }
         ],
         "Cost": 60000
@@ -2011,7 +2068,7 @@
             "Rank": 4
           },
           { "Name": "Pseudo-Stamens", "Id": 113044, "Count": 8, "Rank": 4 },
-          { "Name": "Sand Grease Pupa", "Id": 101222, "Count": 30, "Rank": 1 },
+          { "Name": "Sand Grease Pupa", "Id": 101222, "Count": 30, "Rank": 0 },
           { "Name": "Trimmed Red Silk", "Id": 112066, "Count": 18, "Rank": 2 }
         ],
         "Cost": 80000
@@ -2025,7 +2082,7 @@
             "Rank": 4
           },
           { "Name": "Pseudo-Stamens", "Id": 113044, "Count": 12, "Rank": 4 },
-          { "Name": "Sand Grease Pupa", "Id": 101222, "Count": 45, "Rank": 1 },
+          { "Name": "Sand Grease Pupa", "Id": 101222, "Count": 45, "Rank": 0 },
           { "Name": "Rich Red Brocade", "Id": 112067, "Count": 12, "Rank": 3 }
         ],
         "Cost": 100000
@@ -2039,7 +2096,7 @@
             "Rank": 5
           },
           { "Name": "Pseudo-Stamens", "Id": 113044, "Count": 20, "Rank": 4 },
-          { "Name": "Sand Grease Pupa", "Id": 101222, "Count": 60, "Rank": 1 },
+          { "Name": "Sand Grease Pupa", "Id": 101222, "Count": 60, "Rank": 0 },
           { "Name": "Rich Red Brocade", "Id": 112067, "Count": 24, "Rank": 3 }
         ],
         "Cost": 120000

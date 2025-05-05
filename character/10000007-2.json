@@ -1160,7 +1160,7 @@
         "Name": "Rising Star",
         "Desc": "The Traveler's outfit. A practical set of clothing to wear during a long journey.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -1539,7 +1539,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Foreign Blaze",
+      "Name": "Foreign Blaze",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 5 rapid strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
       "Promote": {
         "0": {
@@ -1565,7 +1565,7 @@
           ],
           "Param": [
             0.44462, 0.4343, 0.52976, 0.58308, 0.70778, 0.559, 0.7224, 20,
-            0.639324, 1.278377, 1.596762
+            0.639324, 1.278377, 1.596762, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -1591,7 +1591,7 @@
           ],
           "Param": [
             0.48081, 0.46965, 0.57288, 0.63054, 0.76539, 0.6045, 0.7812, 20,
-            0.691362, 1.382431, 1.726731
+            0.691362, 1.382431, 1.726731, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -1617,7 +1617,7 @@
           ],
           "Param": [
             0.517, 0.505, 0.616, 0.678, 0.823, 0.65, 0.84, 20, 0.7434, 1.486485,
-            1.8567
+            1.8567, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -1643,7 +1643,7 @@
           ],
           "Param": [
             0.5687, 0.5555, 0.6776, 0.7458, 0.9053, 0.715, 0.924, 20, 0.81774,
-            1.635134, 2.04237
+            1.635134, 2.04237, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -1669,7 +1669,7 @@
           ],
           "Param": [
             0.60489, 0.59085, 0.72072, 0.79326, 0.96291, 0.7605, 0.9828, 20,
-            0.869778, 1.739187, 2.172339
+            0.869778, 1.739187, 2.172339, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -1695,7 +1695,7 @@
           ],
           "Param": [
             0.64625, 0.63125, 0.77, 0.8475, 1.02875, 0.8125, 1.05, 20, 0.92925,
-            1.858106, 2.320875
+            1.858106, 2.320875, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -1721,7 +1721,7 @@
           ],
           "Param": [
             0.70312, 0.6868, 0.83776, 0.92208, 1.11928, 0.884, 1.1424, 20,
-            1.011024, 2.02162, 2.525112
+            1.011024, 2.02162, 2.525112, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1747,7 +1747,7 @@
           ],
           "Param": [
             0.75999, 0.74235, 0.90552, 0.99666, 1.20981, 0.9555, 1.2348, 20,
-            1.092798, 2.185133, 2.729349
+            1.092798, 2.185133, 2.729349, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1773,7 +1773,7 @@
           ],
           "Param": [
             0.81686, 0.7979, 0.97328, 1.07124, 1.30034, 1.027, 1.3272, 20,
-            1.174572, 2.348646, 2.933586
+            1.174572, 2.348646, 2.933586, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1799,7 +1799,7 @@
           ],
           "Param": [
             0.8789, 0.8585, 1.0472, 1.1526, 1.3991, 1.105, 1.428, 20, 1.26378,
-            2.527025, 3.15639
+            2.527025, 3.15639, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1825,7 +1825,7 @@
           ],
           "Param": [
             0.94094, 0.9191, 1.12112, 1.23396, 1.49786, 1.183, 1.5288, 20,
-            1.352988, 2.705403, 3.379194
+            1.352988, 2.705403, 3.379194, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1851,7 +1851,7 @@
           ],
           "Param": [
             1.00298, 0.9797, 1.19504, 1.31532, 1.59662, 1.261, 1.6296, 20,
-            1.442196, 2.883781, 3.601998
+            1.442196, 2.883781, 3.601998, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1877,7 +1877,7 @@
           ],
           "Param": [
             1.06502, 1.0403, 1.26896, 1.39668, 1.69538, 1.339, 1.7304, 20,
-            1.531404, 3.062159, 3.824802
+            1.531404, 3.062159, 3.824802, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1903,7 +1903,7 @@
           ],
           "Param": [
             1.12706, 1.1009, 1.34288, 1.47804, 1.79414, 1.417, 1.8312, 20,
-            1.620612, 3.240537, 4.047606
+            1.620612, 3.240537, 4.047606, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1929,7 +1929,7 @@
           ],
           "Param": [
             1.1891, 1.1615, 1.4168, 1.5594, 1.8929, 1.495, 1.932, 20, 1.70982,
-            3.418915, 4.27041
+            3.418915, 4.27041, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1959,7 +1959,10 @@
             "",
             ""
           ],
-          "Param": [0.2808, 0.988, 0.8144, 80, 18]
+          "Param": [
+            0.2808, 0.988, 0.8144, 80, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1982,7 +1985,10 @@
             "",
             ""
           ],
-          "Param": [0.30186, 1.0621, 0.87548, 80, 18]
+          "Param": [
+            0.30186, 1.0621, 0.87548, 80, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -2005,7 +2011,10 @@
             "",
             ""
           ],
-          "Param": [0.32292, 1.1362, 0.93656, 80, 18]
+          "Param": [
+            0.32292, 1.1362, 0.93656, 80, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -2028,7 +2037,10 @@
             "",
             ""
           ],
-          "Param": [0.351, 1.235, 1.018, 80, 18]
+          "Param": [
+            0.351, 1.235, 1.018, 80, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -2051,7 +2063,10 @@
             "",
             ""
           ],
-          "Param": [0.37206, 1.3091, 1.07908, 80, 18]
+          "Param": [
+            0.37206, 1.3091, 1.07908, 80, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -2074,7 +2089,10 @@
             "",
             ""
           ],
-          "Param": [0.39312, 1.3832, 1.14016, 80, 18]
+          "Param": [
+            0.39312, 1.3832, 1.14016, 80, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -2097,7 +2115,10 @@
             "",
             ""
           ],
-          "Param": [0.4212, 1.482, 1.2216, 80, 18]
+          "Param": [
+            0.4212, 1.482, 1.2216, 80, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -2120,7 +2141,10 @@
             "",
             ""
           ],
-          "Param": [0.44928, 1.5808, 1.30304, 80, 18]
+          "Param": [
+            0.44928, 1.5808, 1.30304, 80, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -2143,7 +2167,10 @@
             "",
             ""
           ],
-          "Param": [0.47736, 1.6796, 1.38448, 80, 18]
+          "Param": [
+            0.47736, 1.6796, 1.38448, 80, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -2166,7 +2193,10 @@
             "",
             ""
           ],
-          "Param": [0.50544, 1.7784, 1.46592, 80, 18]
+          "Param": [
+            0.50544, 1.7784, 1.46592, 80, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -2189,7 +2219,10 @@
             "",
             ""
           ],
-          "Param": [0.53352, 1.8772, 1.54736, 80, 18]
+          "Param": [
+            0.53352, 1.8772, 1.54736, 80, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -2212,7 +2245,10 @@
             "",
             ""
           ],
-          "Param": [0.5616, 1.976, 1.6288, 80, 18]
+          "Param": [
+            0.5616, 1.976, 1.6288, 80, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -2235,7 +2271,10 @@
             "",
             ""
           ],
-          "Param": [0.5967, 2.0995, 1.7306, 80, 18]
+          "Param": [
+            0.5967, 2.0995, 1.7306, 80, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -2258,7 +2297,10 @@
             "",
             ""
           ],
-          "Param": [0.6318, 2.223, 1.8324, 80, 18]
+          "Param": [
+            0.6318, 2.223, 1.8324, 80, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -2281,7 +2323,10 @@
             "",
             ""
           ],
-          "Param": [0.6669, 2.3465, 1.9342, 80, 18]
+          "Param": [
+            0.6669, 2.3465, 1.9342, 80, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         }
       }
     },
@@ -2310,7 +2355,9 @@
             "",
             ""
           ],
-          "Param": [4.272, 18, 70]
+          "Param": [
+            4.272, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -2333,7 +2380,9 @@
             "",
             ""
           ],
-          "Param": [4.5924, 18, 70]
+          "Param": [
+            4.5924, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -2356,7 +2405,9 @@
             "",
             ""
           ],
-          "Param": [4.9128, 18, 70]
+          "Param": [
+            4.9128, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -2379,7 +2430,9 @@
             "",
             ""
           ],
-          "Param": [5.34, 18, 70]
+          "Param": [
+            5.34, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -2402,7 +2455,9 @@
             "",
             ""
           ],
-          "Param": [5.6604, 18, 70]
+          "Param": [
+            5.6604, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -2425,7 +2480,9 @@
             "",
             ""
           ],
-          "Param": [5.9808, 18, 70]
+          "Param": [
+            5.9808, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -2448,7 +2505,9 @@
             "",
             ""
           ],
-          "Param": [6.408, 18, 70]
+          "Param": [
+            6.408, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -2471,7 +2530,9 @@
             "",
             ""
           ],
-          "Param": [6.8352, 18, 70]
+          "Param": [
+            6.8352, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -2494,7 +2555,9 @@
             "",
             ""
           ],
-          "Param": [7.2624, 18, 70]
+          "Param": [
+            7.2624, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -2517,7 +2580,9 @@
             "",
             ""
           ],
-          "Param": [7.6896, 18, 70]
+          "Param": [
+            7.6896, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -2540,7 +2605,9 @@
             "",
             ""
           ],
-          "Param": [8.1168, 18, 70]
+          "Param": [
+            8.1168, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -2563,7 +2630,9 @@
             "",
             ""
           ],
-          "Param": [8.544, 18, 70]
+          "Param": [
+            8.544, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -2586,7 +2655,9 @@
             "",
             ""
           ],
-          "Param": [9.078, 18, 70]
+          "Param": [
+            9.078, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -2609,7 +2680,9 @@
             "",
             ""
           ],
-          "Param": [9.612, 18, 70]
+          "Param": [
+            9.612, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -2632,7 +2705,9 @@
             "",
             ""
           ],
-          "Param": [10.146, 18, 70]
+          "Param": [
+            10.146, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         }
       }
     }
@@ -2643,14 +2718,14 @@
       "Desc": "When the Traveler has over 20 Nightsoul points, the attack AoE of the Blazing and Scorching Thresholds from the Elemental Skill <color=#FFD780FF>Flowfire Blade</color> after they hit opponents is increased.",
       "Icon": "UI_Talent_S_PlayerFire_05",
       "Unlock": 1,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Embers Unspent",
       "Desc": "After the current active character inside a <color=#FFD780FF>Blazing Threshold</color> or <color=#FFD780FF>Scorching Threshold</color> triggers a <color=#FF9999FF>Pyro-related reaction</color>, the Traveler will regain 5 Energy. This can occur once every 12s. Additionally, when a nearby party member triggers a Nightsoul Burst, the Traveler will regain 4 Energy.",
       "Icon": "UI_Talent_S_PlayerFire_06",
       "Unlock": 4,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Constellations": [
@@ -2658,37 +2733,37 @@
       "Name": "Starfire's Flowing Light",
       "Desc": "While <color=#FFD780FF>Blazing Threshold</color> or <color=#FFD780FF>Scorching Threshold</color> are active, the current active character deals 6% increased DMG. If said character is in the Nightsoul's Blessing state, they will deal an additional 9% DMG.",
       "Icon": "UI_Talent_S_PlayerFire_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Ever-Lit Candle",
       "Desc": "Within 12s of using the Elemental Skill <color=#FFD780FF>Flowfire Blade</color>, after nearby party members trigger a <color=#FF9999FF>Pyro-related reaction</color> on an opponent, the Traveler will regain 14 Nightsoul points. Each use of <color=#FFD780FF>Flowfire Blade</color> will restore at most 28 Nightsoul points in this way.",
       "Icon": "UI_Talent_S_PlayerFire_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Relayed Beacon",
       "Desc": "Increases the Level of <color=#FFD780FF>Flowfire Blade</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_PlayerFire_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Ravaging Flame",
       "Desc": "After using the Elemental Burst <color=#FFD780FF>Plains Scorcher</color>, the Traveler gains 20% <color=#FF9999FF>Pyro DMG Bonus</color> for 9s.",
       "Icon": "UI_Talent_S_PlayerFire_03",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "The Fire Inextinguishable",
       "Desc": "Increases the Level of <color=#FFD780FF>Plains Scorcher</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_PlayerFire_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "The Sacred Flame Imperishable",
       "Desc": "While in the Nightsoul's Blessing state, the Traveler's Normal, Charged, and Plunging Attacks will be converted to Nightsoul-aligned <color=#FF9999FF>Pyro DMG</color> that cannot be overridden, and the CRIT DMG of these attacks is increased by 40%.",
       "Icon": "UI_Talent_S_PlayerFire_04",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -2701,7 +2776,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Windwheel Aster", "Id": 100024, "Count": 3, "Rank": 1 },
+          { "Name": "Windwheel Aster", "Id": 100024, "Count": 3, "Rank": 0 },
           { "Name": "Damaged Mask", "Id": 112005, "Count": 3, "Rank": 1 }
         ],
         "Cost": 20000
@@ -2714,7 +2789,7 @@
             "Count": 3,
             "Rank": 3
           },
-          { "Name": "Windwheel Aster", "Id": 100024, "Count": 10, "Rank": 1 },
+          { "Name": "Windwheel Aster", "Id": 100024, "Count": 10, "Rank": 0 },
           { "Name": "Damaged Mask", "Id": 112005, "Count": 15, "Rank": 1 }
         ],
         "Cost": 40000
@@ -2727,7 +2802,7 @@
             "Count": 6,
             "Rank": 3
           },
-          { "Name": "Windwheel Aster", "Id": 100024, "Count": 20, "Rank": 1 },
+          { "Name": "Windwheel Aster", "Id": 100024, "Count": 20, "Rank": 0 },
           { "Name": "Stained Mask", "Id": 112006, "Count": 12, "Rank": 2 }
         ],
         "Cost": 60000
@@ -2740,7 +2815,7 @@
             "Count": 3,
             "Rank": 4
           },
-          { "Name": "Windwheel Aster", "Id": 100024, "Count": 30, "Rank": 1 },
+          { "Name": "Windwheel Aster", "Id": 100024, "Count": 30, "Rank": 0 },
           { "Name": "Stained Mask", "Id": 112006, "Count": 18, "Rank": 2 }
         ],
         "Cost": 80000
@@ -2753,7 +2828,7 @@
             "Count": 6,
             "Rank": 4
           },
-          { "Name": "Windwheel Aster", "Id": 100024, "Count": 45, "Rank": 1 },
+          { "Name": "Windwheel Aster", "Id": 100024, "Count": 45, "Rank": 0 },
           { "Name": "Ominous Mask", "Id": 112007, "Count": 12, "Rank": 3 }
         ],
         "Cost": 100000
@@ -2766,7 +2841,7 @@
             "Count": 6,
             "Rank": 5
           },
-          { "Name": "Windwheel Aster", "Id": 100024, "Count": 60, "Rank": 1 },
+          { "Name": "Windwheel Aster", "Id": 100024, "Count": 60, "Rank": 0 },
           { "Name": "Ominous Mask", "Id": 112007, "Count": 24, "Rank": 3 }
         ],
         "Cost": 120000

@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_201",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 42.401
+      "initValue": 42.401,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_DEFENSE_PERCENT",
-      "initValue": 0.1126
+      "initValue": 0.1126,
+      "propType": "FIGHT_PROP_DEFENSE_PERCENT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Pact of Flowing Springs",
       "Desc": "Using an Elemental Skill increases DEF by <color=#99FFFFFF>16%</color> for 15s.",
-      "ParamList": [0.16, 15]
+      "ParamList": [0.16, 15, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Pact of Flowing Springs",
       "Desc": "Using an Elemental Skill increases DEF by <color=#99FFFFFF>20%</color> for 15s.",
-      "ParamList": [0.2, 15]
+      "ParamList": [0.2, 15, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Pact of Flowing Springs",
       "Desc": "Using an Elemental Skill increases DEF by <color=#99FFFFFF>24%</color> for 15s.",
-      "ParamList": [0.24, 15]
+      "ParamList": [0.24, 15, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Pact of Flowing Springs",
       "Desc": "Using an Elemental Skill increases DEF by <color=#99FFFFFF>28%</color> for 15s.",
-      "ParamList": [0.28, 15]
+      "ParamList": [0.28, 15, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Pact of Flowing Springs",
       "Desc": "Using an Elemental Skill increases DEF by <color=#99FFFFFF>32%</color> for 15s.",
-      "ParamList": [0.32, 15]
+      "ParamList": [0.32, 15, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

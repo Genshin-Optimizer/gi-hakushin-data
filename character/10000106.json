@@ -484,7 +484,7 @@
         "Name": "Undying Sun",
         "Desc": "Mavuika's outfit. She is the sun that walks among us, the beacon that shines through every night, and the spark by which all kindling is ignited, bestowing courage upon us all. Such is her radiance that it shall never fade away.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -863,7 +863,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Flames Weave Life",
+      "Name": "Flames Weave Life",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 consecutive claymore strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to perform an especially powerful Severing Splendor strike toward the front.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
       "Promote": {
         "0": {
@@ -889,7 +889,7 @@
           ],
           "Param": [
             0.80035, 0.364799, 0.332232, 1.161929, 1.93844, 50, 0.745878,
-            1.49144, 1.862889
+            1.49144, 1.862889, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -915,7 +915,7 @@
           ],
           "Param": [
             0.865495, 0.394492, 0.359274, 1.256504, 2.09622, 50, 0.806589,
-            1.612836, 2.01452
+            1.612836, 2.01452, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -941,7 +941,7 @@
           ],
           "Param": [
             0.93064, 0.424185, 0.386317, 1.35108, 2.254, 50, 0.8673, 1.734233,
-            2.16615
+            2.16615, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -967,7 +967,7 @@
           ],
           "Param": [
             1.023704, 0.466604, 0.424948, 1.486188, 2.4794, 50, 0.95403,
-            1.907656, 2.382765
+            1.907656, 2.382765, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -993,7 +993,7 @@
           ],
           "Param": [
             1.088849, 0.496296, 0.45199, 1.580764, 2.63718, 50, 1.014741,
-            2.029052, 2.534396
+            2.029052, 2.534396, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -1019,7 +1019,7 @@
           ],
           "Param": [
             1.1633, 0.530231, 0.482896, 1.68885, 2.8175, 50, 1.084125, 2.167791,
-            2.707688
+            2.707688, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -1045,7 +1045,7 @@
           ],
           "Param": [
             1.26567, 0.576892, 0.525391, 1.837469, 3.06544, 50, 1.179528,
-            2.358556, 2.945964
+            2.358556, 2.945964, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1071,7 +1071,7 @@
           ],
           "Param": [
             1.368041, 0.623552, 0.567885, 1.986088, 3.31338, 50, 1.274931,
-            2.549322, 3.184241
+            2.549322, 3.184241, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1097,7 +1097,7 @@
           ],
           "Param": [
             1.470411, 0.670212, 0.61038, 2.134706, 3.56132, 50, 1.370334,
-            2.740087, 3.422517
+            2.740087, 3.422517, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1123,7 +1123,7 @@
           ],
           "Param": [
             1.582088, 0.721114, 0.656738, 2.296836, 3.8318, 50, 1.47441,
-            2.948195, 3.682455
+            2.948195, 3.682455, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1149,7 +1149,7 @@
           ],
           "Param": [
             1.693765, 0.772017, 0.703096, 2.458966, 4.10228, 50, 1.578486,
-            3.156303, 3.942393
+            3.156303, 3.942393, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1175,7 +1175,7 @@
           ],
           "Param": [
             1.805442, 0.822919, 0.749454, 2.621095, 4.37276, 50, 1.682562,
-            3.364411, 4.202331
+            3.364411, 4.202331, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1201,7 +1201,7 @@
           ],
           "Param": [
             1.917118, 0.873821, 0.795812, 2.783225, 4.64324, 50, 1.786638,
-            3.572519, 4.462269
+            3.572519, 4.462269, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1227,7 +1227,7 @@
           ],
           "Param": [
             2.028795, 0.924723, 0.84217, 2.945354, 4.91372, 50, 1.890714,
-            3.780627, 4.722207
+            3.780627, 4.722207, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1253,7 +1253,7 @@
           ],
           "Param": [
             2.140472, 0.975625, 0.888528, 3.107484, 5.1842, 50, 1.99479,
-            3.988735, 4.982145
+            3.988735, 4.982145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1285,7 +1285,7 @@
           ],
           "Param": [
             0.744, 1.28, 2, 0.572648, 0.591327, 0.699868, 0.697047, 0.910035,
-            0.8084, 0.989, 1.376, 1.5996, 80, 15
+            0.8084, 0.989, 1.376, 1.5996, 80, 15, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -1311,7 +1311,7 @@
           ],
           "Param": [
             0.7998, 1.376, 2, 0.619259, 0.639459, 0.756834, 0.753784, 0.984107,
-            0.8742, 1.0695, 1.488, 1.7298, 80, 15
+            0.8742, 1.0695, 1.488, 1.7298, 80, 15, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -1337,7 +1337,7 @@
           ],
           "Param": [
             0.8556, 1.472, 2, 0.66587, 0.68759, 0.8138, 0.81052, 1.05818, 0.94,
-            1.15, 1.6, 1.86, 80, 15
+            1.15, 1.6, 1.86, 80, 15, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -1363,7 +1363,7 @@
           ],
           "Param": [
             0.93, 1.6, 2, 0.732457, 0.756349, 0.89518, 0.891572, 1.163998,
-            1.034, 1.265, 1.76, 2.046, 80, 15
+            1.034, 1.265, 1.76, 2.046, 80, 15, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -1389,7 +1389,7 @@
           ],
           "Param": [
             0.9858, 1.696, 2, 0.779068, 0.80448, 0.952146, 0.948308, 1.238071,
-            1.0998, 1.3455, 1.872, 2.1762, 80, 15
+            1.0998, 1.3455, 1.872, 2.1762, 80, 15, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -1415,7 +1415,7 @@
           ],
           "Param": [
             1.0416, 1.792, 2, 0.832337, 0.859488, 1.01725, 1.01315, 1.322725,
-            1.175, 1.4375, 2, 2.325, 80, 15
+            1.175, 1.4375, 2, 2.325, 80, 15, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -1441,7 +1441,7 @@
           ],
           "Param": [
             1.116, 1.92, 2, 0.905583, 0.935122, 1.106768, 1.102307, 1.439125,
-            1.2784, 1.564, 2.176, 2.5296, 80, 15
+            1.2784, 1.564, 2.176, 2.5296, 80, 15, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1467,7 +1467,7 @@
           ],
           "Param": [
             1.1904, 2.048, 2, 0.978829, 1.010757, 1.196286, 1.191464, 1.555525,
-            1.3818, 1.6905, 2.352, 2.7342, 80, 15
+            1.3818, 1.6905, 2.352, 2.7342, 80, 15, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1493,7 +1493,7 @@
           ],
           "Param": [
             1.2648, 2.176, 2, 1.052075, 1.086392, 1.285804, 1.280622, 1.671924,
-            1.4852, 1.817, 2.528, 2.9388, 80, 15
+            1.4852, 1.817, 2.528, 2.9388, 80, 15, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1519,7 +1519,7 @@
           ],
           "Param": [
             1.3392, 2.304, 2, 1.131979, 1.168903, 1.38346, 1.377884, 1.798906,
-            1.598, 1.955, 2.72, 3.162, 80, 15
+            1.598, 1.955, 2.72, 3.162, 80, 15, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1545,7 +1545,7 @@
           ],
           "Param": [
             1.4136, 2.432, 2, 1.211883, 1.251414, 1.481116, 1.475146, 1.925888,
-            1.7108, 2.093, 2.912, 3.3852, 80, 15
+            1.7108, 2.093, 2.912, 3.3852, 80, 15, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1571,7 +1571,7 @@
           ],
           "Param": [
             1.488, 2.56, 2, 1.291788, 1.333925, 1.578772, 1.572409, 2.052869,
-            1.8236, 2.231, 3.104, 3.6084, 80, 15
+            1.8236, 2.231, 3.104, 3.6084, 80, 15, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1597,7 +1597,7 @@
           ],
           "Param": [
             1.581, 2.72, 2, 1.371692, 1.416435, 1.676428, 1.669671, 2.179851,
-            1.9364, 2.369, 3.296, 3.8316, 80, 15
+            1.9364, 2.369, 3.296, 3.8316, 80, 15, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1623,7 +1623,7 @@
           ],
           "Param": [
             1.674, 2.88, 2, 1.451597, 1.498946, 1.774084, 1.766934, 2.306832,
-            2.0492, 2.507, 3.488, 4.0548, 80, 15
+            2.0492, 2.507, 3.488, 4.0548, 80, 15, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1649,7 +1649,7 @@
           ],
           "Param": [
             1.767, 3.04, 2, 1.531501, 1.581457, 1.87174, 1.864196, 2.433814,
-            2.162, 2.645, 3.68, 4.278, 80, 15
+            2.162, 2.645, 3.68, 4.278, 80, 15, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1679,7 +1679,10 @@
             "",
             ""
           ],
-          "Param": [4.448, 7, 0.016, 0.00258, 0.00516, 1, 1.5, 18, 200]
+          "Param": [
+            4.448, 7, 0.016, 0.00258, 0.00516, 1, 1.5, 18, 200, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1702,7 +1705,10 @@
             "",
             ""
           ],
-          "Param": [4.7816, 7, 0.0172, 0.00279, 0.00558, 1, 1.5, 18, 200]
+          "Param": [
+            4.7816, 7, 0.0172, 0.00279, 0.00558, 1, 1.5, 18, 200, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1725,7 +1731,10 @@
             "",
             ""
           ],
-          "Param": [5.1152, 7, 0.0184, 0.003, 0.006, 1, 1.5, 18, 200]
+          "Param": [
+            5.1152, 7, 0.0184, 0.003, 0.006, 1, 1.5, 18, 200, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1748,7 +1757,10 @@
             "",
             ""
           ],
-          "Param": [5.56, 7, 0.02, 0.0033, 0.0066, 1, 1.5, 18, 200]
+          "Param": [
+            5.56, 7, 0.02, 0.0033, 0.0066, 1, 1.5, 18, 200, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1771,7 +1783,10 @@
             "",
             ""
           ],
-          "Param": [5.8936, 7, 0.0212, 0.00351, 0.00702, 1, 1.5, 18, 200]
+          "Param": [
+            5.8936, 7, 0.0212, 0.00351, 0.00702, 1, 1.5, 18, 200, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1794,7 +1809,10 @@
             "",
             ""
           ],
-          "Param": [6.2272, 7, 0.0224, 0.00375, 0.0075, 1, 1.5, 18, 200]
+          "Param": [
+            6.2272, 7, 0.0224, 0.00375, 0.0075, 1, 1.5, 18, 200, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1817,7 +1835,10 @@
             "",
             ""
           ],
-          "Param": [6.672, 7, 0.024, 0.00408, 0.00816, 1, 1.5, 18, 200]
+          "Param": [
+            6.672, 7, 0.024, 0.00408, 0.00816, 1, 1.5, 18, 200, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1840,7 +1861,10 @@
             "",
             ""
           ],
-          "Param": [7.1168, 7, 0.0256, 0.00441, 0.00882, 1, 1.5, 18, 200]
+          "Param": [
+            7.1168, 7, 0.0256, 0.00441, 0.00882, 1, 1.5, 18, 200, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1863,7 +1887,10 @@
             "",
             ""
           ],
-          "Param": [7.5616, 7, 0.0272, 0.00474, 0.00948, 1, 1.5, 18, 200]
+          "Param": [
+            7.5616, 7, 0.0272, 0.00474, 0.00948, 1, 1.5, 18, 200, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1886,7 +1913,10 @@
             "",
             ""
           ],
-          "Param": [8.0064, 7, 0.0288, 0.0051, 0.0102, 1, 1.5, 18, 200]
+          "Param": [
+            8.0064, 7, 0.0288, 0.0051, 0.0102, 1, 1.5, 18, 200, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1909,7 +1939,10 @@
             "",
             ""
           ],
-          "Param": [8.4512, 7, 0.0304, 0.00546, 0.01092, 1, 1.5, 18, 200]
+          "Param": [
+            8.4512, 7, 0.0304, 0.00546, 0.01092, 1, 1.5, 18, 200, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1932,7 +1965,10 @@
             "",
             ""
           ],
-          "Param": [8.896, 7, 0.032, 0.00582, 0.01164, 1, 1.5, 18, 200]
+          "Param": [
+            8.896, 7, 0.032, 0.00582, 0.01164, 1, 1.5, 18, 200, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1955,7 +1991,10 @@
             "",
             ""
           ],
-          "Param": [9.452, 7, 0.034, 0.00618, 0.01236, 1, 1.5, 18, 200]
+          "Param": [
+            9.452, 7, 0.034, 0.00618, 0.01236, 1, 1.5, 18, 200, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1978,7 +2017,10 @@
             "",
             ""
           ],
-          "Param": [10.008, 7, 0.036, 0.00654, 0.01308, 1, 1.5, 18, 200]
+          "Param": [
+            10.008, 7, 0.036, 0.00654, 0.01308, 1, 1.5, 18, 200, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -2001,7 +2043,10 @@
             "",
             ""
           ],
-          "Param": [10.564, 7, 0.038, 0.0069, 0.0138, 1, 1.5, 18, 200]
+          "Param": [
+            10.564, 7, 0.038, 0.0069, 0.0138, 1, 1.5, 18, 200, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         }
       }
     }
@@ -2012,28 +2057,32 @@
       "Desc": "When a nearby party member triggers a Nightsoul Burst, Mavuika's ATK increases by 30% for 10s.",
       "Icon": "UI_Talent_S_Mavuika_05",
       "Unlock": 1,
-      "ParamList": [0.3, 10]
+      "ParamList": [
+        0.3, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "\"Kiongozi\"",
       "Desc": "After using her Elemental Burst, <color=#FFD780FF>Hour of Burning Skies</color>, every point of Fighting Spirit present when it is used increases the DMG that the current active party member deals by 0.2%. The maximum increase obtainable this way is 40%, and this effect lasts 20s, decaying over this duration until it reaches 0.",
       "Icon": "UI_Talent_S_Mavuika_06",
       "Unlock": 4,
-      "ParamList": [0.0001, 20, 200]
+      "ParamList": [
+        0.0001, 20, 200, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Night Realm's Gift: Exhaust Mode",
       "Desc": "After Nightsoul points have been fully depleted, Mavuika will switch to using Phlogiston to maintain the All-Fire Armaments' Flamestrider form.\\nWhile in an area with Phlogiston Mechanics within Natlan, Nightsoul Transmission: Mavuika can be used. When the current active character is sprinting, climbing, swimming, in movement modes caused by certain Talents, or at a certain height in the air, switching to Mavuika will trigger the following: Mavuika enters the Nightsoul's Blessing state and obtains 50% of her maximum Nightsoul points. Nightsoul Transmission can be triggered once every 10s by your own party.",
       "Icon": "UI_Talent_S_Mavuika_07",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Night-Shattering Radiance",
       "Desc": "The party's Nightsoul Transmission CD is decreased by 20%.",
       "Icon": "UI_Talent_S_Citlali_07",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Constellations": [
@@ -2041,37 +2090,37 @@
       "Name": "The Night-Lord's Explication",
       "Desc": "Mavuika's maximum Nightsoul points are increased to 120, and she gains Fighting Spirit 25% more efficiently.\\nAdditionally, she gains 40% ATK for 8s after gaining Fighting Spirit.",
       "Icon": "UI_Talent_S_Mavuika_01",
-      "ParamList": [40, 0.25, 0.4, 8]
+      "ParamList": [40, 0.25, 0.4, 8, 0, 0, 0, 0]
     },
     {
       "Name": "The Ashen Price",
       "Desc": "When in the Nightsoul's Blessing State, Mavuika's Base ATK is increased by 200, and she obtains the following effects based on All-Fire Armaments' form:\\n· Ring of Searing Radiance: Nearby opponents' DEF is decreased by 20%.\\n· Flamestrider: Mavuika's Normal Attacks, Charged Attacks, and her Sunfell Slice from the Elemental Burst <color=#FFD780FF>Hour of Burning Skies</color> deal 60%, 90%, and 120% of her ATK as increased DMG respectively.",
       "Icon": "UI_Talent_S_Mavuika_02",
-      "ParamList": [200, 0.2, 0.6, 0.9, 1.2]
+      "ParamList": [200, 0.2, 0.6, 0.9, 1.2, 0, 0, 0]
     },
     {
       "Name": "The Burning Sun",
       "Desc": "Increases the Level of <color=#FFD780FF>Hour of Burning Skies</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Mavuika_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "The Leader's Resolve",
       "Desc": "Enhances the effects of the Passive Talent \"Kiongozi\":\\nThe DMG increase gained after using the Elemental Burst <color=#FFD780FF>Hour of Burning Skies</color> will not decay over time, and an additional 10% DMG Bonus will be gained.\\nYou must first unlock the Passive Talent \"Kiongozi.\"",
       "Icon": "UI_Talent_S_Mavuika_03",
-      "ParamList": [0.1]
+      "ParamList": [0.1, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "The Meaning of Truth",
       "Desc": "Increases the Level of <color=#FFD780FF>The Named Moment</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Mavuika_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "\"Humanity's Name\" Unfettered",
       "Desc": "The All-Fire Armaments from the Elemental Skill <color=#FFD780FF>The Named Moment</color> receive all-round improvements:\\n· Ring of Searing Radiance: When the Ring's attacks hit opponents, a Flamestrider will crash into the struck opponent, dealing 200% of ATK as Nightsoul-aligned <color=#FF9999FF>AoE Pyro DMG</color>.\\n· Flamestrider: When Mavuika is riding the Flamestrider, she will also summon a Scorching Ring of Searing Radiance to follow her, which will decrease nearby opponents' DEF by 20% and deal 500% of ATK as Nightsoul-aligned <color=#FF9999FF>AoE Pyro DMG</color> to nearby opponents once every 3s. Mavuika's terrain-crossing abilities will also be further improved.\\n\\nAdditionally, when Mavuika is riding her Flamestrider and is not in combat, when her Nightsoul points drop to 5, she will gain 80 Nightsoul points. This effect can trigger once every 15s.",
       "Icon": "UI_Talent_S_Mavuika_04",
-      "ParamList": [2, 5, 3, 80, 15]
+      "ParamList": [2, 5, 3, 80, 15, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -2088,7 +2137,7 @@
             "Name": "Withering Purpurbloom",
             "Id": 101253,
             "Count": 3,
-            "Rank": 1
+            "Rank": 0
           },
           {
             "Name": "Sentry's Wooden Whistle",
@@ -2117,7 +2166,7 @@
             "Name": "Withering Purpurbloom",
             "Id": 101253,
             "Count": 10,
-            "Rank": 1
+            "Rank": 0
           },
           {
             "Name": "Sentry's Wooden Whistle",
@@ -2146,7 +2195,7 @@
             "Name": "Withering Purpurbloom",
             "Id": 101253,
             "Count": 20,
-            "Rank": 1
+            "Rank": 0
           },
           {
             "Name": "Warrior's Metal Whistle",
@@ -2175,7 +2224,7 @@
             "Name": "Withering Purpurbloom",
             "Id": 101253,
             "Count": 30,
-            "Rank": 1
+            "Rank": 0
           },
           {
             "Name": "Warrior's Metal Whistle",
@@ -2204,7 +2253,7 @@
             "Name": "Withering Purpurbloom",
             "Id": 101253,
             "Count": 45,
-            "Rank": 1
+            "Rank": 0
           },
           {
             "Name": "Saurian-Crowned Warrior's Golden Whistle",
@@ -2233,7 +2282,7 @@
             "Name": "Withering Purpurbloom",
             "Id": 101253,
             "Count": 60,
-            "Rank": 1
+            "Rank": 0
           },
           {
             "Name": "Saurian-Crowned Warrior's Golden Whistle",

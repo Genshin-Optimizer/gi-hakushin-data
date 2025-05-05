@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_201",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 42.401
+      "initValue": 42.401,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_HP_PERCENT",
-      "initValue": 0.09
+      "initValue": 0.09,
+      "propType": "FIGHT_PROP_HP_PERCENT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Tupac's Grip",
       "Desc": "When an attack hits an opponent, deal AoE DMG equal to <color=#99FFFFFF>40%</color> of Max HP at the target location. This effect can be triggered once every 15s.",
-      "ParamList": [0.4, 15]
+      "ParamList": [0.4, 15, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Tupac's Grip",
       "Desc": "When an attack hits an opponent, deal AoE DMG equal to <color=#99FFFFFF>50%</color> of Max HP at the target's location. This effect can be triggered once every 15s.",
-      "ParamList": [0.5, 15]
+      "ParamList": [0.5, 15, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Tupac's Grip",
       "Desc": "When an attack hits an opponent, deal AoE DMG equal to <color=#99FFFFFF>60%</color> of Max HP at the target's location. This effect can be triggered once every 15s.",
-      "ParamList": [0.6, 15]
+      "ParamList": [0.6, 15, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Tupac's Grip",
       "Desc": "When an attack hits an opponent, deal AoE DMG equal to <color=#99FFFFFF>70%</color> of Max HP at the target's location. This effect can be triggered once every 15s.",
-      "ParamList": [0.7, 15]
+      "ParamList": [0.7, 15, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Tupac's Grip",
       "Desc": "When an attack hits an opponent, deal AoE DMG equal to <color=#99FFFFFF>80%</color> of Max HP at the target's location. This effect can be triggered once every 15s.",
-      "ParamList": [0.8, 15]
+      "ParamList": [0.8, 15, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

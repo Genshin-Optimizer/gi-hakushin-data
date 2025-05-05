@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_204",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 41.0671
+      "initValue": 41.0671,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_ELEMENT_MASTERY",
-      "initValue": 48
+      "initValue": 48,
+      "propType": "FIGHT_PROP_ELEMENT_MASTERY"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Composed",
       "Desc": "After damaging an opponent with an Elemental Skill, the skill has a <color=#99FFFFFF>40%</color> chance to end its own CD. Can only occur once every <color=#99FFFFFF>30</color>s.",
-      "ParamList": [0.4, 30]
+      "ParamList": [0.4, 30, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Composed",
       "Desc": "After damaging an opponent with an Elemental Skill, the skill has a <color=#99FFFFFF>50%</color> chance to end its own CD. Can only occur once every <color=#99FFFFFF>26</color>s.",
-      "ParamList": [0.5, 26]
+      "ParamList": [0.5, 26, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Composed",
       "Desc": "After damaging an opponent with an Elemental Skill, the skill has a <color=#99FFFFFF>60%</color> chance to end its own CD. Can only occur once every <color=#99FFFFFF>22s</color>.",
-      "ParamList": [0.6, 22]
+      "ParamList": [0.6, 22, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Composed",
       "Desc": "After damaging an opponent with an Elemental Skill, the skill has a <color=#99FFFFFF>70%</color> chance to end its own CD. Can only occur once every <color=#99FFFFFF>19</color>s.",
-      "ParamList": [0.7, 19]
+      "ParamList": [0.7, 19, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Composed",
       "Desc": "After damaging an opponent with an Elemental Skill, the skill has a <color=#99FFFFFF>80%</color> chance to end its own CD. Can only occur once every <color=#99FFFFFF>16s</color>.",
-      "ParamList": [0.8, 16]
+      "ParamList": [0.8, 16, 0, 0, 0, 0, 0, 0]
     }
   },
   "Materials": {

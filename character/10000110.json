@@ -413,7 +413,7 @@
         "Name": "Warrior's Bonegarb",
         "Desc": "Iansan's outfit. Adorned with a patterned skull that has become something of an icon for Iansan. Her trainees initially believed that their coach wore it to commemorate the tragic passing of her Tatankasaur, until they realized it was still alive and well.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -792,7 +792,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Weighted Spike",
+      "Name": "Weighted Spike",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 3 consecutive spear strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.\\n\\n<color=#FFD780FF>Nightsoul State: Swift Stormflight</color>\\nWhile in the Nightsoul's Blessing state: Iansan's Charged Attack will be transformed into the formidable Swift Stormflight, consuming a certain amount of Stamina to stomp fiercely down, dealing Nightsoul-aligned <color=#FFACFFFF>AoE Electro DMG</color>.",
       "Promote": {
         "0": {
@@ -818,7 +818,7 @@
           ],
           "Param": [
             0.469758, 0.427644, 0.643882, 1.00276, 0.84194, 25, 0.639324,
-            1.278377, 1.596762
+            1.278377, 1.596762, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -844,7 +844,7 @@
           ],
           "Param": [
             0.507994, 0.462452, 0.696291, 1.08438, 0.91047, 25, 0.691362,
-            1.382431, 1.726731
+            1.382431, 1.726731, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -869,7 +869,8 @@
             ""
           ],
           "Param": [
-            0.54623, 0.49726, 0.7487, 1.166, 0.979, 25, 0.7434, 1.486485, 1.8567
+            0.54623, 0.49726, 0.7487, 1.166, 0.979, 25, 0.7434, 1.486485,
+            1.8567, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -895,7 +896,7 @@
           ],
           "Param": [
             0.600853, 0.546986, 0.82357, 1.2826, 1.0769, 25, 0.81774, 1.635134,
-            2.04237
+            2.04237, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -921,7 +922,7 @@
           ],
           "Param": [
             0.639089, 0.581794, 0.875979, 1.36422, 1.14543, 25, 0.869778,
-            1.739187, 2.172339
+            1.739187, 2.172339, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -947,7 +948,7 @@
           ],
           "Param": [
             0.682787, 0.621575, 0.935875, 1.4575, 1.22375, 25, 0.92925,
-            1.858106, 2.320875
+            1.858106, 2.320875, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -973,7 +974,7 @@
           ],
           "Param": [
             0.742873, 0.676274, 1.018232, 1.58576, 1.33144, 25, 1.011024,
-            2.02162, 2.525112
+            2.02162, 2.525112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -999,7 +1000,7 @@
           ],
           "Param": [
             0.802958, 0.730972, 1.100589, 1.71402, 1.43913, 25, 1.092798,
-            2.185133, 2.729349
+            2.185133, 2.729349, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1025,7 +1026,7 @@
           ],
           "Param": [
             0.863043, 0.785671, 1.182946, 1.84228, 1.54682, 25, 1.174572,
-            2.348646, 2.933586
+            2.348646, 2.933586, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1051,7 +1052,7 @@
           ],
           "Param": [
             0.928591, 0.845342, 1.27279, 1.9822, 1.6643, 25, 1.26378, 2.527025,
-            3.15639
+            3.15639, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1077,7 +1078,7 @@
           ],
           "Param": [
             0.994139, 0.905013, 1.362634, 2.12212, 1.78178, 25, 1.352988,
-            2.705403, 3.379194
+            2.705403, 3.379194, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1103,7 +1104,7 @@
           ],
           "Param": [
             1.059686, 0.964684, 1.452478, 2.26204, 1.89926, 25, 1.442196,
-            2.883781, 3.601998
+            2.883781, 3.601998, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1129,7 +1130,7 @@
           ],
           "Param": [
             1.125234, 1.024356, 1.542322, 2.40196, 2.01674, 25, 1.531404,
-            3.062159, 3.824802
+            3.062159, 3.824802, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1155,7 +1156,7 @@
           ],
           "Param": [
             1.190781, 1.084027, 1.632166, 2.54188, 2.13422, 25, 1.620612,
-            3.240537, 4.047606
+            3.240537, 4.047606, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1181,7 +1182,7 @@
           ],
           "Param": [
             1.256329, 1.143698, 1.72201, 2.6818, 2.2517, 25, 1.70982, 3.418915,
-            4.27041
+            4.27041, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1211,7 +1212,9 @@
             "",
             ""
           ],
-          "Param": [2.864, 54, 16]
+          "Param": [
+            2.864, 54, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1234,7 +1237,9 @@
             "",
             ""
           ],
-          "Param": [3.0788, 54, 16]
+          "Param": [
+            3.0788, 54, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1257,7 +1262,9 @@
             "",
             ""
           ],
-          "Param": [3.2936, 54, 16]
+          "Param": [
+            3.2936, 54, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1280,7 +1287,9 @@
             "",
             ""
           ],
-          "Param": [3.58, 54, 16]
+          "Param": [
+            3.58, 54, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1303,7 +1312,9 @@
             "",
             ""
           ],
-          "Param": [3.7948, 54, 16]
+          "Param": [
+            3.7948, 54, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1326,7 +1337,9 @@
             "",
             ""
           ],
-          "Param": [4.0096, 54, 16]
+          "Param": [
+            4.0096, 54, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1349,7 +1362,9 @@
             "",
             ""
           ],
-          "Param": [4.296, 54, 16]
+          "Param": [
+            4.296, 54, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1372,7 +1387,9 @@
             "",
             ""
           ],
-          "Param": [4.5824, 54, 16]
+          "Param": [
+            4.5824, 54, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1395,7 +1412,9 @@
             "",
             ""
           ],
-          "Param": [4.8688, 54, 16]
+          "Param": [
+            4.8688, 54, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1418,7 +1437,9 @@
             "",
             ""
           ],
-          "Param": [5.1552, 54, 16]
+          "Param": [
+            5.1552, 54, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1441,7 +1462,9 @@
             "",
             ""
           ],
-          "Param": [5.4416, 54, 16]
+          "Param": [
+            5.4416, 54, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1464,7 +1487,9 @@
             "",
             ""
           ],
-          "Param": [5.728, 54, 16]
+          "Param": [
+            5.728, 54, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1487,7 +1512,9 @@
             "",
             ""
           ],
-          "Param": [6.086, 54, 16]
+          "Param": [
+            6.086, 54, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1510,7 +1537,9 @@
             "",
             ""
           ],
-          "Param": [6.444, 54, 16]
+          "Param": [
+            6.444, 54, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1533,7 +1562,9 @@
             "",
             ""
           ],
-          "Param": [6.802, 54, 16]
+          "Param": [
+            6.802, 54, 16, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         }
       }
     },
@@ -1562,7 +1593,10 @@
             "",
             ""
           ],
-          "Param": [4.304, 0.27, 0.005, 330, 1, 12, 18, 70]
+          "Param": [
+            4.304, 0.27, 0.005, 330, 1, 12, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1585,7 +1619,10 @@
             "",
             ""
           ],
-          "Param": [4.6268, 0.27, 0.005, 370, 1, 12, 18, 70]
+          "Param": [
+            4.6268, 0.27, 0.005, 370, 1, 12, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1608,7 +1645,10 @@
             "",
             ""
           ],
-          "Param": [4.9496, 0.27, 0.005, 410, 1, 12, 18, 70]
+          "Param": [
+            4.9496, 0.27, 0.005, 410, 1, 12, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1631,7 +1671,10 @@
             "",
             ""
           ],
-          "Param": [5.38, 0.27, 0.005, 450, 1, 12, 18, 70]
+          "Param": [
+            5.38, 0.27, 0.005, 450, 1, 12, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1654,7 +1697,10 @@
             "",
             ""
           ],
-          "Param": [5.7028, 0.27, 0.005, 490, 1, 12, 18, 70]
+          "Param": [
+            5.7028, 0.27, 0.005, 490, 1, 12, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1677,7 +1723,10 @@
             "",
             ""
           ],
-          "Param": [6.0256, 0.27, 0.005, 530, 1, 12, 18, 70]
+          "Param": [
+            6.0256, 0.27, 0.005, 530, 1, 12, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1700,7 +1749,10 @@
             "",
             ""
           ],
-          "Param": [6.456, 0.27, 0.005, 570, 1, 12, 18, 70]
+          "Param": [
+            6.456, 0.27, 0.005, 570, 1, 12, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1723,7 +1775,10 @@
             "",
             ""
           ],
-          "Param": [6.8864, 0.27, 0.005, 610, 1, 12, 18, 70]
+          "Param": [
+            6.8864, 0.27, 0.005, 610, 1, 12, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1746,7 +1801,10 @@
             "",
             ""
           ],
-          "Param": [7.3168, 0.27, 0.005, 650, 1, 12, 18, 70]
+          "Param": [
+            7.3168, 0.27, 0.005, 650, 1, 12, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1769,7 +1827,10 @@
             "",
             ""
           ],
-          "Param": [7.7472, 0.27, 0.005, 690, 1, 12, 18, 70]
+          "Param": [
+            7.7472, 0.27, 0.005, 690, 1, 12, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1792,7 +1853,10 @@
             "",
             ""
           ],
-          "Param": [8.1776, 0.27, 0.005, 730, 1, 12, 18, 70]
+          "Param": [
+            8.1776, 0.27, 0.005, 730, 1, 12, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1815,7 +1879,10 @@
             "",
             ""
           ],
-          "Param": [8.608, 0.27, 0.005, 770, 1, 12, 18, 70]
+          "Param": [
+            8.608, 0.27, 0.005, 770, 1, 12, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1838,7 +1905,10 @@
             "",
             ""
           ],
-          "Param": [9.146, 0.27, 0.005, 810, 1, 12, 18, 70]
+          "Param": [
+            9.146, 0.27, 0.005, 810, 1, 12, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1861,7 +1931,10 @@
             "",
             ""
           ],
-          "Param": [9.684, 0.27, 0.005, 850, 1, 12, 18, 70]
+          "Param": [
+            9.684, 0.27, 0.005, 850, 1, 12, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1884,7 +1957,10 @@
             "",
             ""
           ],
-          "Param": [10.222, 0.27, 0.005, 890, 1, 12, 18, 70]
+          "Param": [
+            10.222, 0.27, 0.005, 890, 1, 12, 18, 70, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0
+          ]
         }
       }
     }
@@ -1895,28 +1971,34 @@
       "Desc": "After Swift Stormflight hits opponents, Iansan will gain the Precise Movement effect for 15s.\\nDuring this time, her ATK is increased by 20%, and whenever she regains Nightsoul points through the Kinetic Energy Scale in her Elemental Burst, <color=#FFD780FF>The Three Principles of Power</color>, she will gain 1 extra Nightsoul point. Additionally, when your current active party member consumes or restores Nightsoul points, the extra Nightsoul points Iansan gains the next time she restores Nightsoul points via the Scale will be increased to 4. This effect can occur once every 2.8s.\\n\"Precise Movement\" will expire when Iansan's Nightsoul's Blessing state ends.",
       "Icon": "UI_Talent_S_Iansan_05",
       "Unlock": 1,
-      "ParamList": [0.2, 1, 15, 3, 2.8]
+      "ParamList": [
+        0.2, 1, 15, 3, 2.8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Kinetic Energy Gradient Test",
       "Desc": "When a nearby party member triggers a Nightsoul Burst, Iansan will obtain the Warming Up effect for 10s.\\nDuring this time, when Iansan restores at least 1 Nightsoul point, she will heal your current active character for 60% of her ATK. This effect can be triggered once every 2.8s.",
       "Icon": "UI_Talent_S_Iansan_06",
       "Unlock": 4,
-      "ParamList": [10, 0.6, 2.8]
+      "ParamList": [
+        10, 0.6, 2.8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Night Realm's Gift: Hard Work and Drive",
       "Desc": "After Nightsoul points have been fully depleted and Iansan is on the field, she will switch to using Phlogiston to maintain her Nightsoul's Blessing.\\nWhile in an area with Phlogiston Mechanics within Natlan, Nightsoul Transmission: Iansan can be used. When the current active character is sprinting or in movement modes caused by certain Talents, or at a certain height in the air, switching to Iansan will trigger the following: Iansan enters the Nightsoul's Blessing state and obtains 25 Nightsoul points. Nightsoul Transmission can be triggered once every 10s by your own party.\\nWhile in an area with Phlogiston Mechanics within Natlan, Iansan will not take fall DMG when using terrain differences to make leaps.",
       "Icon": "UI_Talent_S_Varesa_07",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Caloric Balancing Plan",
       "Desc": "While in an area with Phlogiston Mechanics within Natlan, regain 10 Phlogiston when Phlogiston levels drop below 50%. This can occur once every 10s.",
       "Icon": "UI_Talent_S_Iansan_08",
       "Unlock": 0,
-      "ParamList": [0.5, 10, 10]
+      "ParamList": [
+        0.5, 10, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     }
   ],
   "Constellations": [
@@ -1924,37 +2006,37 @@
       "Name": "Starting's Never Easy",
       "Desc": "When Iansan is in combat and is in the Nightsoul's Blessing state, she will restore 15 Elemental Energy for every 6 Nightsoul points she consumes. This effect can trigger once every 18s.",
       "Icon": "UI_Talent_S_Iansan_01",
-      "ParamList": [6, 15, 18]
+      "ParamList": [6, 15, 18, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Laziness is the Enemy!",
       "Desc": "When using the Elemental Burst <color=#FFD780FF>The Three Principles of Power</color>, Iansan will also gain the Precise Movement effect from her Passive Talent \"Enhanced Resistance Training\" for 15s. Additionally, if Iansan is off-field while Precise Movement is active, she will also increase your current active character's ATK by 30%. You must first unlock the Passive Talent \"Enhanced Resistance Training\" to access the above effect.",
       "Icon": "UI_Talent_S_Iansan_02",
-      "ParamList": [0.3]
+      "ParamList": [0.3, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Scientific Diet Planning",
       "Desc": "Increases the Level of <color=#FFD780FF>Thunderbolt Rush</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Iansan_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Slow and Steady Wins the Race",
       "Desc": "When the Kinetic Energy Scale is present, Iansan will gain 2 stacks of Surging Force after your current active character (excluding herself) uses their Elemental Burst. The stacks last until the Scale leaves the field, and Surging Force can be gained once per Scale summoning. Whenever Iansan restores Nightsoul points via the Scale, she will consume 1 Surging Force stack and restore 4 additional Nightsoul points.\\nAdditionally, if her Nightsoul restoration from the Scale overflows, Iansan will gain 50% of the overflow the next time she restores Nightsoul points via the Scale.",
       "Icon": "UI_Talent_S_Iansan_03",
-      "ParamList": [4, 0.5]
+      "ParamList": [4, 0.5, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "We Can Push It Further!",
       "Desc": "Increases the Level of <color=#FFD780FF>The Three Principles of Power</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Iansan_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Teachings of the Collective of Plenty",
       "Desc": "The Kinetic Energy Scale's duration is increased by 3s.\\nAdditionally, when Iansan triggers Nightsoul point restoration, if there is any overflow, she will gain the Extreme Force effect, which increases the DMG dealt by your current active character by 25% for 3s.",
       "Icon": "UI_Talent_S_Iansan_04",
-      "ParamList": [3, 3, 0.25]
+      "ParamList": [3, 3, 0.25, 0, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -1967,7 +2049,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Dracolite", "Id": 101255, "Count": 3, "Rank": 1 },
+          { "Name": "Dracolite", "Id": 101255, "Count": 3, "Rank": 0 },
           {
             "Name": "Sentry's Wooden Whistle",
             "Id": 112104,
@@ -1986,7 +2068,7 @@
             "Rank": 3
           },
           { "Name": "Ensnaring Gaze", "Id": 113067, "Count": 2, "Rank": 4 },
-          { "Name": "Dracolite", "Id": 101255, "Count": 10, "Rank": 1 },
+          { "Name": "Dracolite", "Id": 101255, "Count": 10, "Rank": 0 },
           {
             "Name": "Sentry's Wooden Whistle",
             "Id": 112104,
@@ -2005,7 +2087,7 @@
             "Rank": 3
           },
           { "Name": "Ensnaring Gaze", "Id": 113067, "Count": 4, "Rank": 4 },
-          { "Name": "Dracolite", "Id": 101255, "Count": 20, "Rank": 1 },
+          { "Name": "Dracolite", "Id": 101255, "Count": 20, "Rank": 0 },
           {
             "Name": "Warrior's Metal Whistle",
             "Id": 112105,
@@ -2024,7 +2106,7 @@
             "Rank": 4
           },
           { "Name": "Ensnaring Gaze", "Id": 113067, "Count": 8, "Rank": 4 },
-          { "Name": "Dracolite", "Id": 101255, "Count": 30, "Rank": 1 },
+          { "Name": "Dracolite", "Id": 101255, "Count": 30, "Rank": 0 },
           {
             "Name": "Warrior's Metal Whistle",
             "Id": 112105,
@@ -2043,7 +2125,7 @@
             "Rank": 4
           },
           { "Name": "Ensnaring Gaze", "Id": 113067, "Count": 12, "Rank": 4 },
-          { "Name": "Dracolite", "Id": 101255, "Count": 45, "Rank": 1 },
+          { "Name": "Dracolite", "Id": 101255, "Count": 45, "Rank": 0 },
           {
             "Name": "Saurian-Crowned Warrior's Golden Whistle",
             "Id": 112106,
@@ -2062,7 +2144,7 @@
             "Rank": 5
           },
           { "Name": "Ensnaring Gaze", "Id": 113067, "Count": 20, "Rank": 4 },
-          { "Name": "Dracolite", "Id": 101255, "Count": 60, "Rank": 1 },
+          { "Name": "Dracolite", "Id": 101255, "Count": 60, "Rank": 0 },
           {
             "Name": "Saurian-Crowned Warrior's Golden Whistle",
             "Id": 112106,

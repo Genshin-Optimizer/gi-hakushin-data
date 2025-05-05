@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_201",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 42.401
+      "initValue": 42.401,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_CRITICAL",
-      "initValue": 0.06
+      "initValue": 0.06,
+      "propType": "FIGHT_PROP_CRITICAL"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Justice",
       "Desc": "Increases DMG dealt by Normal and Charged Attacks by <color=#99FFFFFF>20%</color>. Additionally, regenerates <color=#99FFFFFF>60%</color> of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s.",
-      "ParamList": [0.2, 0.6, 5, 1]
+      "ParamList": [0.2, 0.6, 5, 1, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Justice",
       "Desc": "Increases DMG dealt by Normal and Charged Attacks by <color=#99FFFFFF>25%</color>. Additionally, regenerates <color=#99FFFFFF>70%</color> of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s.",
-      "ParamList": [0.25, 0.7, 5, 1]
+      "ParamList": [0.25, 0.7, 5, 1, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Justice",
       "Desc": "Increases DMG dealt by Normal and Charged Attacks by <color=#99FFFFFF>30%</color>. Additionally, regenerates <color=#99FFFFFF>80%</color> of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s.",
-      "ParamList": [0.3, 0.8, 5, 1]
+      "ParamList": [0.3, 0.8, 5, 1, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Justice",
       "Desc": "Increases DMG dealt by Normal and Charged Attacks by <color=#99FFFFFF>35%</color>. Additionally, regenerates <color=#99FFFFFF>90%</color> of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s.",
-      "ParamList": [0.35, 0.9, 5, 1]
+      "ParamList": [0.35, 0.9, 5, 1, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Justice",
       "Desc": "Increases DMG dealt by Normal and Charged Attacks by <color=#99FFFFFF>40%</color>. Additionally, regenerates <color=#99FFFFFF>100%</color> of ATK as HP when Normal and Charged Attacks score a CRIT Hit. This effect can occur once every 5s.",
-      "ParamList": [0.4, 1, 5, 1]
+      "ParamList": [0.4, 1, 5, 1, 0, 0, 0, 0]
     }
   },
   "Materials": {

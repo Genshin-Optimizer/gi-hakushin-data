@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_202",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 43.7349
+      "initValue": 43.7349,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
-      "initValue": 0.066667
+      "initValue": 0.066667,
+      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Ever-Changing",
       "Desc": "Hitting an opponent with a Normal Attack decreases the Stamina consumption of Sprint or Alternate Sprint by <color=#99FFFFFF>14%</color> for 5s. Additionally, using a Sprint or Alternate Sprint ability increases ATK by <color=#99FFFFFF>20%</color> for 5s.",
-      "ParamList": [0.2, 5, 0.14, 5]
+      "ParamList": [0.2, 5, 0.14, 5, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Ever-Changing",
       "Desc": "Hitting an opponent with a Normal Attack decreases the Stamina consumption of Sprint or Alternate Sprint by <color=#99FFFFFF>16%</color> for 5s. Additionally, using a Sprint or Alternate Sprint ability increases ATK by <color=#99FFFFFF>25%</color> for 5s.",
-      "ParamList": [0.25, 5, 0.16, 5]
+      "ParamList": [0.25, 5, 0.16, 5, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Ever-Changing",
       "Desc": "Hitting an opponent with a Normal Attack decreases the Stamina consumption of Sprint or Alternate Sprint by <color=#99FFFFFF>18%</color> for 5s. Additionally, using a Sprint or Alternate Sprint ability increases ATK by <color=#99FFFFFF>30%</color> for 5s.",
-      "ParamList": [0.3, 5, 0.18, 5]
+      "ParamList": [0.3, 5, 0.18, 5, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Ever-Changing",
       "Desc": "Hitting an opponent with a Normal Attack decreases the Stamina consumption of Sprint or Alternate Sprint by <color=#99FFFFFF>20%</color> for 5s. Additionally, using a Sprint or Alternate Sprint ability increases ATK by <color=#99FFFFFF>35%</color> for 5s.",
-      "ParamList": [0.35, 5, 0.2, 5]
+      "ParamList": [0.35, 5, 0.2, 5, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Ever-Changing",
       "Desc": "Hitting an opponent with a Normal Attack decreases the Stamina consumption of Sprint or Alternate Sprint by <color=#99FFFFFF>22%</color> for 5s. Additionally, using a Sprint or Alternate Sprint ability increases ATK by <color=#99FFFFFF>40%</color> for 5s.",
-      "ParamList": [0.4, 5, 0.22, 5]
+      "ParamList": [0.4, 5, 0.22, 5, 0, 0, 0, 0]
     }
   },
   "Materials": {

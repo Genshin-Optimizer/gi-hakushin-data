@@ -441,7 +441,7 @@
         "Name": "Fantasticat",
         "Desc": "Lyney's outfit. Cats only stretch in front of those they trust completely. Otherwise, they merely hide their claws behind a smile — intimate yet reserved, just like the sweet words of this magician.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -820,7 +820,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Card Force Translocation",
+      "Name": "Card Force Translocation",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 consecutive shots with a bow.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nPerforms a more precise <color=#FFD780FF>Aimed Shot</color> with increased DMG.\\nWhile aiming, flames will run across the arrowhead before being fired. Different effects will occur based on the time spent charging.\\n·Charge Level 1: Fires off a Pyro-infused arrow, dealing <color=#FF9999FF>Pyro DMG</color>.\\n·Charge Level 2: Fires off a Prop Arrow that deals <color=#FF9999FF>Pyro DMG</color>, and upon hit, it will summon a Grin-Malkin Hat.\\nWhen firing the Prop Arrow, and when Lyney has more than 60% HP, he will consume a portion of his HP to obtain 1 Prop Surplus stack. Max 5 stacks. The effect will be removed after the character spends 30s out of combat.\\nThe lowest Lyney can drop to through this method is 60% of his Max HP.\\n\\n<color=#FFD780FF>Grin-Malkin Hat</color>\\n·Can taunt nearby opponents and attract their attacks. Each opponent can only be taunted by the Hat once every 5s.\\n·The Hat will inherit a percentage of Lyney's Max HP.\\n·If destroyed, or if its duration expires, it will fire off a <color=#FFD780FF>Pyrotechnic Strike</color> at 1 nearby opponent, dealing <color=#FF9999FF>Pyro DMG</color>.\\nOnly 1 Hat can exist at any given time.\\n\\n<color=#FFD780FF>Arkhe: Pneuma</color>\\nAt certain intervals, the Prop Arrow will cause a Spiritbreath Thorn to descend upon its hit location, dealing Pneuma-aligned <color=#FF9999FF>Pyro DMG</color>.",
       "Promote": {
         "0": {
@@ -846,7 +846,8 @@
           ],
           "Param": [
             0.38786, 0.38012, 0.27262, 0.27262, 0.56932, 0.568288, 1.136335,
-            1.419344, 0.4386, 1.24, 1.728, 0.2, 0.64, 4, 2.12, 0.27552, 6
+            1.419344, 0.4386, 1.24, 1.728, 0.2, 0.64, 4, 2.12, 0.27552, 6, 0, 0,
+            0
           ]
         },
         "1": {
@@ -872,7 +873,8 @@
           ],
           "Param": [
             0.41943, 0.41106, 0.29481, 0.29481, 0.61566, 0.614544, 1.228828,
-            1.534872, 0.4743, 1.333, 1.8576, 0.2, 0.688, 4, 2.279, 0.296184, 6
+            1.534872, 0.4743, 1.333, 1.8576, 0.2, 0.688, 4, 2.279, 0.296184, 6,
+            0, 0, 0
           ]
         },
         "2": {
@@ -898,7 +900,7 @@
           ],
           "Param": [
             0.451, 0.442, 0.317, 0.317, 0.662, 0.6608, 1.32132, 1.6504, 0.51,
-            1.426, 1.9872, 0.2, 0.736, 4, 2.438, 0.316848, 6
+            1.426, 1.9872, 0.2, 0.736, 4, 2.438, 0.316848, 6, 0, 0, 0
           ]
         },
         "3": {
@@ -924,7 +926,7 @@
           ],
           "Param": [
             0.4961, 0.4862, 0.3487, 0.3487, 0.7282, 0.72688, 1.453452, 1.81544,
-            0.561, 1.55, 2.16, 0.2, 0.8, 4, 2.65, 0.3444, 6
+            0.561, 1.55, 2.16, 0.2, 0.8, 4, 2.65, 0.3444, 6, 0, 0, 0
           ]
         },
         "4": {
@@ -950,7 +952,8 @@
           ],
           "Param": [
             0.52767, 0.51714, 0.37089, 0.37089, 0.77454, 0.773136, 1.545944,
-            1.930968, 0.5967, 1.643, 2.2896, 0.2, 0.848, 4, 2.809, 0.365064, 6
+            1.930968, 0.5967, 1.643, 2.2896, 0.2, 0.848, 4, 2.809, 0.365064, 6,
+            0, 0, 0
           ]
         },
         "5": {
@@ -976,7 +979,7 @@
           ],
           "Param": [
             0.56375, 0.5525, 0.39625, 0.39625, 0.8275, 0.826, 1.65165, 2.063,
-            0.6375, 1.736, 2.4192, 0.2, 0.896, 4, 2.968, 0.385728, 6
+            0.6375, 1.736, 2.4192, 0.2, 0.896, 4, 2.968, 0.385728, 6, 0, 0, 0
           ]
         },
         "6": {
@@ -1002,7 +1005,8 @@
           ],
           "Param": [
             0.61336, 0.60112, 0.43112, 0.43112, 0.90032, 0.898688, 1.796995,
-            2.244544, 0.6936, 1.86, 2.592, 0.2, 0.96, 4, 3.18, 0.41328, 6
+            2.244544, 0.6936, 1.86, 2.592, 0.2, 0.96, 4, 3.18, 0.41328, 6, 0, 0,
+            0
           ]
         },
         "7": {
@@ -1028,7 +1032,8 @@
           ],
           "Param": [
             0.66297, 0.64974, 0.46599, 0.46599, 0.97314, 0.971376, 1.94234,
-            2.426088, 0.7497, 1.984, 2.7648, 0.2, 1.024, 4, 3.392, 0.440832, 6
+            2.426088, 0.7497, 1.984, 2.7648, 0.2, 1.024, 4, 3.392, 0.440832, 6,
+            0, 0, 0
           ]
         },
         "8": {
@@ -1054,7 +1059,8 @@
           ],
           "Param": [
             0.71258, 0.69836, 0.50086, 0.50086, 1.04596, 1.044064, 2.087686,
-            2.607632, 0.8058, 2.108, 2.9376, 0.2, 1.088, 4, 3.604, 0.468384, 6
+            2.607632, 0.8058, 2.108, 2.9376, 0.2, 1.088, 4, 3.604, 0.468384, 6,
+            0, 0, 0
           ]
         },
         "9": {
@@ -1080,7 +1086,7 @@
           ],
           "Param": [
             0.7667, 0.7514, 0.5389, 0.5389, 1.1254, 1.12336, 2.246244, 2.80568,
-            0.867, 2.232, 3.1104, 0.2, 1.152, 4, 3.816, 0.495936, 6
+            0.867, 2.232, 3.1104, 0.2, 1.152, 4, 3.816, 0.495936, 6, 0, 0, 0
           ]
         },
         "10": {
@@ -1106,7 +1112,8 @@
           ],
           "Param": [
             0.82082, 0.80444, 0.57694, 0.57694, 1.20484, 1.202656, 2.404802,
-            3.003728, 0.9282, 2.356, 3.2832, 0.2, 1.216, 4, 4.028, 0.523488, 6
+            3.003728, 0.9282, 2.356, 3.2832, 0.2, 1.216, 4, 4.028, 0.523488, 6,
+            0, 0, 0
           ]
         },
         "11": {
@@ -1132,7 +1139,8 @@
           ],
           "Param": [
             0.87494, 0.85748, 0.61498, 0.61498, 1.28428, 1.281952, 2.563361,
-            3.201776, 0.9894, 2.48, 3.456, 0.2, 1.28, 4, 4.24, 0.55104, 6
+            3.201776, 0.9894, 2.48, 3.456, 0.2, 1.28, 4, 4.24, 0.55104, 6, 0, 0,
+            0
           ]
         },
         "12": {
@@ -1158,7 +1166,8 @@
           ],
           "Param": [
             0.92906, 0.91052, 0.65302, 0.65302, 1.36372, 1.361248, 2.721919,
-            3.399824, 1.0506, 2.635, 3.672, 0.2, 1.36, 4, 4.505, 0.58548, 6
+            3.399824, 1.0506, 2.635, 3.672, 0.2, 1.36, 4, 4.505, 0.58548, 6, 0,
+            0, 0
           ]
         },
         "13": {
@@ -1184,7 +1193,8 @@
           ],
           "Param": [
             0.98318, 0.96356, 0.69106, 0.69106, 1.44316, 1.440544, 2.880478,
-            3.597872, 1.1118, 2.79, 3.888, 0.2, 1.44, 4, 4.77, 0.61992, 6
+            3.597872, 1.1118, 2.79, 3.888, 0.2, 1.44, 4, 4.77, 0.61992, 6, 0, 0,
+            0
           ]
         },
         "14": {
@@ -1210,7 +1220,7 @@
           ],
           "Param": [
             1.0373, 1.0166, 0.7291, 0.7291, 1.5226, 1.51984, 3.039036, 3.79592,
-            1.173, 2.945, 4.104, 0.2, 1.52, 4, 5.035, 0.65436, 6
+            1.173, 2.945, 4.104, 0.2, 1.52, 4, 5.035, 0.65436, 6, 0, 0, 0
           ]
         }
       }
@@ -1240,7 +1250,10 @@
             "",
             ""
           ],
-          "Param": [1.672, 0.532, 0.2, 15, 0.6, 5, 5]
+          "Param": [
+            1.672, 0.532, 0.2, 0, 15, 0.6, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1263,7 +1276,10 @@
             "",
             ""
           ],
-          "Param": [1.7974, 0.5719, 0.2, 15, 0.6, 5, 5]
+          "Param": [
+            1.7974, 0.5719, 0.2, 0, 15, 0.6, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1286,7 +1302,10 @@
             "",
             ""
           ],
-          "Param": [1.9228, 0.6118, 0.2, 15, 0.6, 5, 5]
+          "Param": [
+            1.9228, 0.6118, 0.2, 0, 15, 0.6, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1309,7 +1328,10 @@
             "",
             ""
           ],
-          "Param": [2.09, 0.665, 0.2, 15, 0.6, 5, 5]
+          "Param": [
+            2.09, 0.665, 0.2, 0, 15, 0.6, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1332,7 +1354,10 @@
             "",
             ""
           ],
-          "Param": [2.2154, 0.7049, 0.2, 15, 0.6, 5, 5]
+          "Param": [
+            2.2154, 0.7049, 0.2, 0, 15, 0.6, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1355,7 +1380,10 @@
             "",
             ""
           ],
-          "Param": [2.3408, 0.7448, 0.2, 15, 0.6, 5, 5]
+          "Param": [
+            2.3408, 0.7448, 0.2, 0, 15, 0.6, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1378,7 +1406,10 @@
             "",
             ""
           ],
-          "Param": [2.508, 0.798, 0.2, 15, 0.6, 5, 5]
+          "Param": [
+            2.508, 0.798, 0.2, 0, 15, 0.6, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1401,7 +1432,10 @@
             "",
             ""
           ],
-          "Param": [2.6752, 0.8512, 0.2, 15, 0.6, 5, 5]
+          "Param": [
+            2.6752, 0.8512, 0.2, 0, 15, 0.6, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1424,7 +1458,10 @@
             "",
             ""
           ],
-          "Param": [2.8424, 0.9044, 0.2, 15, 0.6, 5, 5]
+          "Param": [
+            2.8424, 0.9044, 0.2, 0, 15, 0.6, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1447,7 +1484,10 @@
             "",
             ""
           ],
-          "Param": [3.0096, 0.9576, 0.2, 15, 0.6, 5, 5]
+          "Param": [
+            3.0096, 0.9576, 0.2, 0, 15, 0.6, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1470,7 +1510,10 @@
             "",
             ""
           ],
-          "Param": [3.1768, 1.0108, 0.2, 15, 0.6, 5, 5]
+          "Param": [
+            3.1768, 1.0108, 0.2, 0, 15, 0.6, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1493,7 +1536,10 @@
             "",
             ""
           ],
-          "Param": [3.344, 1.064, 0.2, 15, 0.6, 5, 5]
+          "Param": [
+            3.344, 1.064, 0.2, 0, 15, 0.6, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1516,7 +1562,10 @@
             "",
             ""
           ],
-          "Param": [3.553, 1.1305, 0.2, 15, 0.6, 5, 5]
+          "Param": [
+            3.553, 1.1305, 0.2, 0, 15, 0.6, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1539,7 +1588,10 @@
             "",
             ""
           ],
-          "Param": [3.762, 1.197, 0.2, 15, 0.6, 5, 5]
+          "Param": [
+            3.762, 1.197, 0.2, 0, 15, 0.6, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1562,7 +1614,10 @@
             "",
             ""
           ],
-          "Param": [3.971, 1.2635, 0.2, 15, 0.6, 5, 5]
+          "Param": [
+            3.971, 1.2635, 0.2, 0, 15, 0.6, 5, 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0
+          ]
         }
       }
     },
@@ -1591,7 +1646,9 @@
             "",
             ""
           ],
-          "Param": [1.54, 4.14, 3, 15, 60]
+          "Param": [
+            1.54, 4.14, 3, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1614,7 +1671,10 @@
             "",
             ""
           ],
-          "Param": [1.6555, 4.4505, 3, 15, 60]
+          "Param": [
+            1.6555, 4.4505, 3, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1637,7 +1697,9 @@
             "",
             ""
           ],
-          "Param": [1.771, 4.761, 3, 15, 60]
+          "Param": [
+            1.771, 4.761, 3, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1660,7 +1722,9 @@
             "",
             ""
           ],
-          "Param": [1.925, 5.175, 3, 15, 60]
+          "Param": [
+            1.925, 5.175, 3, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1683,7 +1747,10 @@
             "",
             ""
           ],
-          "Param": [2.0405, 5.4855, 3, 15, 60]
+          "Param": [
+            2.0405, 5.4855, 3, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1706,7 +1773,9 @@
             "",
             ""
           ],
-          "Param": [2.156, 5.796, 3, 15, 60]
+          "Param": [
+            2.156, 5.796, 3, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1729,7 +1798,9 @@
             "",
             ""
           ],
-          "Param": [2.31, 6.21, 3, 15, 60]
+          "Param": [
+            2.31, 6.21, 3, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1752,7 +1823,9 @@
             "",
             ""
           ],
-          "Param": [2.464, 6.624, 3, 15, 60]
+          "Param": [
+            2.464, 6.624, 3, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1775,7 +1848,9 @@
             "",
             ""
           ],
-          "Param": [2.618, 7.038, 3, 15, 60]
+          "Param": [
+            2.618, 7.038, 3, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1798,7 +1873,9 @@
             "",
             ""
           ],
-          "Param": [2.772, 7.452, 3, 15, 60]
+          "Param": [
+            2.772, 7.452, 3, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1821,7 +1898,9 @@
             "",
             ""
           ],
-          "Param": [2.926, 7.866, 3, 15, 60]
+          "Param": [
+            2.926, 7.866, 3, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1844,7 +1923,9 @@
             "",
             ""
           ],
-          "Param": [3.08, 8.28, 3, 15, 60]
+          "Param": [
+            3.08, 8.28, 3, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1867,7 +1948,10 @@
             "",
             ""
           ],
-          "Param": [3.2725, 8.7975, 3, 15, 60]
+          "Param": [
+            3.2725, 8.7975, 3, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1890,7 +1974,9 @@
             "",
             ""
           ],
-          "Param": [3.465, 9.315, 3, 15, 60]
+          "Param": [
+            3.465, 9.315, 3, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1913,7 +1999,10 @@
             "",
             ""
           ],
-          "Param": [3.6575, 9.8325, 3, 15, 60]
+          "Param": [
+            3.6575, 9.8325, 3, 15, 60, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         }
       }
     }
@@ -1924,21 +2013,25 @@
       "Desc": "If Lyney consumes HP when firing off a <color=#FFD780FF>Prop Arrow</color>, the Grin-Malkin hat summoned by the arrow will, upon hitting an opponent, restore 3 Energy to Lyney and increase DMG dealt by 80% of his ATK.",
       "Icon": "UI_Talent_S_Liney_05",
       "Unlock": 1,
-      "ParamList": [3, 0.8]
+      "ParamList": [
+        3, 0.8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Conclusive Ovation",
       "Desc": "The DMG Lyney deals to opponents affected by <color=#FF9999FF>Pyro</color> will receive the following buffs:\\n·Increases the DMG dealt by 60%.\\n·Each <color=#FF9999FF>Pyro</color> party member other than Lyney will cause the DMG dealt to increase by an additional 20%.\\nLyney can deal up to 100% increased DMG to opponents affected by <color=#FF9999FF>Pyro</color> in this way.",
       "Icon": "UI_Talent_S_Liney_06",
       "Unlock": 4,
-      "ParamList": [0.6, 0.2]
+      "ParamList": [
+        0.6, 0.2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Trivial Observations",
       "Desc": "Displays the location of nearby <color=#FFD780FF>resources unique to Fontaine</color> on the mini-map.",
       "Icon": "UI_Talent_S_Liney_07",
       "Unlock": 0,
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Constellations": [
@@ -1946,37 +2039,37 @@
       "Name": "Whimsical Wonders",
       "Desc": "Lyney can have 2 <color=#FFD780FF>Grin-Malkin Hats</color> present at once.\\nAdditionally, Prop Arrows will summon 2 Grin-Malkin Hats and grant Lyney 1 extra stack of Prop Surplus. This effect can occur once every 15s.",
       "Icon": "UI_Talent_S_Liney_01",
-      "ParamList": [15]
+      "ParamList": [15, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Loquacious Cajoling",
       "Desc": "When Lyney is on the field, he will gain a stack of Crisp Focus every 2s. Each stack will increase his CRIT DMG by 20%. Max 3 stacks. This effect will be canceled when Lyney leaves the field.",
       "Icon": "UI_Talent_S_Liney_03",
-      "ParamList": [0.2, 2, 3]
+      "ParamList": [0.2, 2, 3, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Prestidigitation",
       "Desc": "Increases the Level of <color=#FFD780FF>Normal Attack: Card Force Translocation</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Liney_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Well-Versed, Well-Rehearsed",
       "Desc": "After an opponent is hit by Lyney's <color=#FF9999FF>Pyro</color> Charged Attack, this opponent's <color=#FF9999FF>Pyro RES</color> will be decreased by 20% for 6s.",
       "Icon": "UI_Talent_S_Liney_02",
-      "ParamList": [0.2, 6]
+      "ParamList": [0.2, 6, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "To Pierce Enigmas",
       "Desc": "Increases the Level of <color=#FFD780FF>Wondrous Trick: Miracle Parade</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Liney_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Guarded Smile",
       "Desc": "When Lyney fires a <color=#FFD780FF>Prop Arrow</color>, he will fire a Pyrotechnic Strike: Reprised that will deal 80% of a Pyrotechnic Strike's DMG. This DMG is considered Charged Attack DMG.",
       "Icon": "UI_Talent_S_Liney_04",
-      "ParamList": [0.8]
+      "ParamList": [0.8, 0, 0, 0, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -1989,7 +2082,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Rainbow Rose", "Id": 101236, "Count": 3, "Rank": 1 },
+          { "Name": "Rainbow Rose", "Id": 101236, "Count": 3, "Rank": 0 },
           { "Name": "Recruit's Insignia", "Id": 112032, "Count": 3, "Rank": 1 }
         ],
         "Cost": 20000
@@ -2008,7 +2101,7 @@
             "Count": 2,
             "Rank": 4
           },
-          { "Name": "Rainbow Rose", "Id": 101236, "Count": 10, "Rank": 1 },
+          { "Name": "Rainbow Rose", "Id": 101236, "Count": 10, "Rank": 0 },
           { "Name": "Recruit's Insignia", "Id": 112032, "Count": 15, "Rank": 1 }
         ],
         "Cost": 40000
@@ -2027,7 +2120,7 @@
             "Count": 4,
             "Rank": 4
           },
-          { "Name": "Rainbow Rose", "Id": 101236, "Count": 20, "Rank": 1 },
+          { "Name": "Rainbow Rose", "Id": 101236, "Count": 20, "Rank": 0 },
           {
             "Name": "Sergeant's Insignia",
             "Id": 112033,
@@ -2051,7 +2144,7 @@
             "Count": 8,
             "Rank": 4
           },
-          { "Name": "Rainbow Rose", "Id": 101236, "Count": 30, "Rank": 1 },
+          { "Name": "Rainbow Rose", "Id": 101236, "Count": 30, "Rank": 0 },
           {
             "Name": "Sergeant's Insignia",
             "Id": 112033,
@@ -2075,7 +2168,7 @@
             "Count": 12,
             "Rank": 4
           },
-          { "Name": "Rainbow Rose", "Id": 101236, "Count": 45, "Rank": 1 },
+          { "Name": "Rainbow Rose", "Id": 101236, "Count": 45, "Rank": 0 },
           {
             "Name": "Lieutenant's Insignia",
             "Id": 112034,
@@ -2099,7 +2192,7 @@
             "Count": 20,
             "Rank": 4
           },
-          { "Name": "Rainbow Rose", "Id": 101236, "Count": 60, "Rank": 1 },
+          { "Name": "Rainbow Rose", "Id": 101236, "Count": 60, "Rank": 0 },
           {
             "Name": "Lieutenant's Insignia",
             "Id": 112034,

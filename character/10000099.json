@@ -393,6 +393,11 @@
         "Title": "Joining Party: III",
         "Text": "I'm quite flattered.",
         "Unlocked": []
+      },
+      {
+        "Title": "About Escoffier",
+        "Text": "Miss Escoffier is a diligent and studious chef. Normally, dry lectures about perfumery would put someone to sleep, but not her. On top of that, her mind is so quick — she can recognize subtle links between pieces of information and can instantly put her knowledge into practice. Some people think she was blessed with a natural culinary gift. But, I believe the secret to her success is self-evident.",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
       }
     ],
     "SpecialFood": {
@@ -414,7 +419,7 @@
         "Name": "Ambrosial Verdance",
         "Desc": "Emilie's outfit. In homage to the launch of a classic perfume, the designer of this emerald-green dress drew inspiration from the concept of \"tactual fragrances.\" It is now part of Emilie's collection.",
         "Icon": "",
-        "Quality": null
+        "Quality": 0
       }
     ],
     "TraceEffect": []
@@ -793,7 +798,7 @@
   },
   "Skills": [
     {
-      "Name": "Normal Attack: Shadow-Hunting Spear (Custom)",
+      "Name": "Shadow-Hunting Spear (Custom)",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 consecutive spear strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to perform an upward slash.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
       "Promote": {
         "0": {
@@ -819,7 +824,7 @@
           ],
           "Param": [
             0.485608, 0.448954, 0.593004, 0.751029, 0.91332, 25, 0.639324,
-            1.278377, 1.596762
+            1.278377, 1.596762, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "1": {
@@ -845,7 +850,7 @@
           ],
           "Param": [
             0.525134, 0.485497, 0.641272, 0.81216, 0.98766, 25, 0.691362,
-            1.382431, 1.726731
+            1.382431, 1.726731, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "2": {
@@ -871,7 +876,7 @@
           ],
           "Param": [
             0.56466, 0.52204, 0.68954, 0.87329, 1.062, 25, 0.7434, 1.486485,
-            1.8567
+            1.8567, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "3": {
@@ -897,7 +902,7 @@
           ],
           "Param": [
             0.621126, 0.574244, 0.758494, 0.960619, 1.1682, 25, 0.81774,
-            1.635134, 2.04237
+            1.635134, 2.04237, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "4": {
@@ -923,7 +928,7 @@
           ],
           "Param": [
             0.660652, 0.610787, 0.806762, 1.021749, 1.24254, 25, 0.869778,
-            1.739187, 2.172339
+            1.739187, 2.172339, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "5": {
@@ -949,7 +954,7 @@
           ],
           "Param": [
             0.705825, 0.65255, 0.861925, 1.091613, 1.3275, 25, 0.92925,
-            1.858106, 2.320875
+            1.858106, 2.320875, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "6": {
@@ -975,7 +980,7 @@
           ],
           "Param": [
             0.767938, 0.709974, 0.937774, 1.187674, 1.44432, 25, 1.011024,
-            2.02162, 2.525112
+            2.02162, 2.525112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "7": {
@@ -1001,7 +1006,7 @@
           ],
           "Param": [
             0.83005, 0.767399, 1.013624, 1.283736, 1.56114, 25, 1.092798,
-            2.185133, 2.729349
+            2.185133, 2.729349, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "8": {
@@ -1027,7 +1032,7 @@
           ],
           "Param": [
             0.892163, 0.824823, 1.089473, 1.379798, 1.67796, 25, 1.174572,
-            2.348646, 2.933586
+            2.348646, 2.933586, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "9": {
@@ -1053,7 +1058,7 @@
           ],
           "Param": [
             0.959922, 0.887468, 1.172218, 1.484593, 1.8054, 25, 1.26378,
-            2.527025, 3.15639
+            2.527025, 3.15639, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "10": {
@@ -1079,7 +1084,7 @@
           ],
           "Param": [
             1.027681, 0.950113, 1.254963, 1.589388, 1.93284, 25, 1.352988,
-            2.705403, 3.379194
+            2.705403, 3.379194, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "11": {
@@ -1105,7 +1110,7 @@
           ],
           "Param": [
             1.09544, 1.012758, 1.337708, 1.694183, 2.06028, 25, 1.442196,
-            2.883781, 3.601998
+            2.883781, 3.601998, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "12": {
@@ -1131,7 +1136,7 @@
           ],
           "Param": [
             1.1632, 1.075402, 1.420452, 1.798977, 2.18772, 25, 1.531404,
-            3.062159, 3.824802
+            3.062159, 3.824802, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "13": {
@@ -1157,7 +1162,7 @@
           ],
           "Param": [
             1.230959, 1.138047, 1.503197, 1.903772, 2.31516, 25, 1.620612,
-            3.240537, 4.047606
+            3.240537, 4.047606, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         },
         "14": {
@@ -1183,7 +1188,7 @@
           ],
           "Param": [
             1.298718, 1.200692, 1.585942, 2.008567, 2.4426, 25, 1.70982,
-            3.418915, 4.27041
+            3.418915, 4.27041, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
           ]
         }
       }
@@ -1213,7 +1218,10 @@
             "",
             ""
           ],
-          "Param": [0.4708, 0.396, 0.84, 22, 0.3852, 10, 14]
+          "Param": [
+            0.4708, 0.396, 0.84, 22, 0.3852, 10, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1236,7 +1244,10 @@
             "",
             ""
           ],
-          "Param": [0.50611, 0.4257, 0.903, 22, 0.41409, 10, 14]
+          "Param": [
+            0.50611, 0.4257, 0.903, 22, 0.41409, 10, 14, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1259,7 +1270,10 @@
             "",
             ""
           ],
-          "Param": [0.54142, 0.4554, 0.966, 22, 0.44298, 10, 14]
+          "Param": [
+            0.54142, 0.4554, 0.966, 22, 0.44298, 10, 14, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1282,7 +1296,10 @@
             "",
             ""
           ],
-          "Param": [0.5885, 0.495, 1.05, 22, 0.4815, 10, 14]
+          "Param": [
+            0.5885, 0.495, 1.05, 22, 0.4815, 10, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1305,7 +1322,10 @@
             "",
             ""
           ],
-          "Param": [0.62381, 0.5247, 1.113, 22, 0.51039, 10, 14]
+          "Param": [
+            0.62381, 0.5247, 1.113, 22, 0.51039, 10, 14, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1328,7 +1348,10 @@
             "",
             ""
           ],
-          "Param": [0.65912, 0.5544, 1.176, 22, 0.53928, 10, 14]
+          "Param": [
+            0.65912, 0.5544, 1.176, 22, 0.53928, 10, 14, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1351,7 +1374,10 @@
             "",
             ""
           ],
-          "Param": [0.7062, 0.594, 1.26, 22, 0.5778, 10, 14]
+          "Param": [
+            0.7062, 0.594, 1.26, 22, 0.5778, 10, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1374,7 +1400,10 @@
             "",
             ""
           ],
-          "Param": [0.75328, 0.6336, 1.344, 22, 0.61632, 10, 14]
+          "Param": [
+            0.75328, 0.6336, 1.344, 22, 0.61632, 10, 14, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1397,7 +1426,10 @@
             "",
             ""
           ],
-          "Param": [0.80036, 0.6732, 1.428, 22, 0.65484, 10, 14]
+          "Param": [
+            0.80036, 0.6732, 1.428, 22, 0.65484, 10, 14, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1420,7 +1452,10 @@
             "",
             ""
           ],
-          "Param": [0.84744, 0.7128, 1.512, 22, 0.69336, 10, 14]
+          "Param": [
+            0.84744, 0.7128, 1.512, 22, 0.69336, 10, 14, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1443,7 +1478,10 @@
             "",
             ""
           ],
-          "Param": [0.89452, 0.7524, 1.596, 22, 0.73188, 10, 14]
+          "Param": [
+            0.89452, 0.7524, 1.596, 22, 0.73188, 10, 14, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1466,7 +1504,10 @@
             "",
             ""
           ],
-          "Param": [0.9416, 0.792, 1.68, 22, 0.7704, 10, 14]
+          "Param": [
+            0.9416, 0.792, 1.68, 22, 0.7704, 10, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1489,7 +1530,10 @@
             "",
             ""
           ],
-          "Param": [1.00045, 0.8415, 1.785, 22, 0.81855, 10, 14]
+          "Param": [
+            1.00045, 0.8415, 1.785, 22, 0.81855, 10, 14, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1512,7 +1556,10 @@
             "",
             ""
           ],
-          "Param": [1.0593, 0.891, 1.89, 22, 0.8667, 10, 14]
+          "Param": [
+            1.0593, 0.891, 1.89, 22, 0.8667, 10, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1535,7 +1582,10 @@
             "",
             ""
           ],
-          "Param": [1.11815, 0.9405, 1.995, 22, 0.91485, 10, 14]
+          "Param": [
+            1.11815, 0.9405, 1.995, 22, 0.91485, 10, 14, 0, 0, 0, 0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0
+          ]
         }
       }
     },
@@ -1564,7 +1614,9 @@
             "",
             ""
           ],
-          "Param": [2.172, 2.8, 13.5, 50]
+          "Param": [
+            2.172, 2.8, 13.5, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "1": {
           "Level": 2,
@@ -1587,7 +1639,10 @@
             "",
             ""
           ],
-          "Param": [2.3349, 2.8, 13.5, 50]
+          "Param": [
+            2.3349, 2.8, 13.5, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "2": {
           "Level": 3,
@@ -1610,7 +1665,10 @@
             "",
             ""
           ],
-          "Param": [2.4978, 2.8, 13.5, 50]
+          "Param": [
+            2.4978, 2.8, 13.5, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "3": {
           "Level": 4,
@@ -1633,7 +1691,9 @@
             "",
             ""
           ],
-          "Param": [2.715, 2.8, 13.5, 50]
+          "Param": [
+            2.715, 2.8, 13.5, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "4": {
           "Level": 5,
@@ -1656,7 +1716,10 @@
             "",
             ""
           ],
-          "Param": [2.8779, 2.8, 13.5, 50]
+          "Param": [
+            2.8779, 2.8, 13.5, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "5": {
           "Level": 6,
@@ -1679,7 +1742,10 @@
             "",
             ""
           ],
-          "Param": [3.0408, 2.8, 13.5, 50]
+          "Param": [
+            3.0408, 2.8, 13.5, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "6": {
           "Level": 7,
@@ -1702,7 +1768,9 @@
             "",
             ""
           ],
-          "Param": [3.258, 2.8, 13.5, 50]
+          "Param": [
+            3.258, 2.8, 13.5, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "7": {
           "Level": 8,
@@ -1725,7 +1793,10 @@
             "",
             ""
           ],
-          "Param": [3.4752, 2.8, 13.5, 50]
+          "Param": [
+            3.4752, 2.8, 13.5, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "8": {
           "Level": 9,
@@ -1748,7 +1819,10 @@
             "",
             ""
           ],
-          "Param": [3.6924, 2.8, 13.5, 50]
+          "Param": [
+            3.6924, 2.8, 13.5, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "9": {
           "Level": 10,
@@ -1771,7 +1845,10 @@
             "",
             ""
           ],
-          "Param": [3.9096, 2.8, 13.5, 50]
+          "Param": [
+            3.9096, 2.8, 13.5, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "10": {
           "Level": 11,
@@ -1794,7 +1871,10 @@
             "",
             ""
           ],
-          "Param": [4.1268, 2.8, 13.5, 50]
+          "Param": [
+            4.1268, 2.8, 13.5, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "11": {
           "Level": 12,
@@ -1817,7 +1897,9 @@
             "",
             ""
           ],
-          "Param": [4.344, 2.8, 13.5, 50]
+          "Param": [
+            4.344, 2.8, 13.5, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "12": {
           "Level": 13,
@@ -1840,7 +1922,10 @@
             "",
             ""
           ],
-          "Param": [4.6155, 2.8, 13.5, 50]
+          "Param": [
+            4.6155, 2.8, 13.5, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         },
         "13": {
           "Level": 14,
@@ -1863,7 +1948,9 @@
             "",
             ""
           ],
-          "Param": [4.887, 2.8, 13.5, 50]
+          "Param": [
+            4.887, 2.8, 13.5, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+          ]
         },
         "14": {
           "Level": 15,
@@ -1886,7 +1973,10 @@
             "",
             ""
           ],
-          "Param": [5.1585, 2.8, 13.5, 50]
+          "Param": [
+            5.1585, 2.8, 13.5, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+            0
+          ]
         }
       }
     }
@@ -1897,21 +1987,25 @@
       "Desc": "Each time it collects 2 <color=#FFD780FF>Scents</color>, the Level 2 Lumidouce Case will consume Scents and release Cleardew Cologne that deals <color=#99FF88FF>AoE Dendro DMG</color> equal to 600% of Emilie's ATK to opponents. This DMG is not considered Elemental Skill DMG.",
       "Icon": "UI_Talent_S_Emilie_05",
       "Unlock": 1,
-      "ParamList": [6]
+      "ParamList": [6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Rectification",
       "Desc": "Emilie deals increased DMG to Burning opponents based on her ATK, with every 1,000 ATK increasing DMG dealt by 15%. The maximum DMG bonus that can be gained this way is 36%.",
       "Icon": "UI_Talent_S_Emilie_06",
       "Unlock": 4,
-      "ParamList": [0.15, 0.36]
+      "ParamList": [
+        0.15, 0.36, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     },
     {
       "Name": "Headspace Capture",
       "Desc": "When the Lumidouce Case created by Emilie is on the field, all party members gain 85% <color=#FF9999FF>Pyro RES</color> against Burning DMG.",
       "Icon": "UI_Talent_S_Emilie_07",
       "Unlock": 0,
-      "ParamList": [0.85]
+      "ParamList": [
+        0.85, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0
+      ]
     }
   ],
   "Constellations": [
@@ -1919,37 +2013,37 @@
       "Name": "Light Fragrance Leaching",
       "Desc": "Increases the DMG dealt by <color=#FFD780FF>Fragrance Extraction</color> and her Passive Talent's Cleardew Cologne \"Lingering Fragrance\" by 20%. The latter requires unlocking said Passive Talent first.\\nAdditionally, when nearby party members trigger the Burning reaction on opponents or deal <color=#99FF88FF>Dendro DMG</color> to Burning opponents, they will generate an additional <color=#FFD780FF>Scent</color>. This effect can be triggered once every 2.9s.",
       "Icon": "UI_Talent_S_Emilie_01",
-      "ParamList": [2.9, 0.2]
+      "ParamList": [2.9, 0.2, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Lakelight Top Note",
       "Desc": "When <color=#FFD780FF>Fragrance Extraction</color>, <color=#FFD780FF>Aromatic Explication</color>, or Cleardew Cologne produced by the Passive Talent \"Lingering Fragrance\" (the last of which requires Passive Talent activation) hits opponents, those opponents' <color=#99FF88FF>Dendro RES</color> is decreased by 30% for 10s.",
       "Icon": "UI_Talent_S_Emilie_02",
-      "ParamList": [0.3, 10]
+      "ParamList": [0.3, 10, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Exquisite Essence",
       "Desc": "Increases the Level of <color=#FFD780FF>Fragrance Extraction</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Emilie_01",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Lumidouce Heart Note",
       "Desc": "<color=#FFD780FF>Aromatic Explication</color>'s duration is increased by 2s. The interval between opponents being selected as the target for Scented Dew is decreased by 0.3s.",
       "Icon": "UI_Talent_S_Emilie_03",
-      "ParamList": [2, 0.3]
+      "ParamList": [2, 0.3, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Puredew Aroma",
       "Desc": "Increases the Level of <color=#FFD780FF>Aromatic Explication</color> by 3.\\nMaximum upgrade level is 15.",
       "Icon": "UI_Talent_U_Emilie_02",
-      "ParamList": []
+      "ParamList": [0, 0, 0, 0, 0, 0, 0, 0]
     },
     {
       "Name": "Marcotte Sillage",
       "Desc": "When using <color=#FFD780FF>Fragrance Extraction</color> or <color=#FFD780FF>Aromatic Explication</color>, Emilie will gain Abiding Fragrance for 5s.\\nWhile this is active, after Emilie uses Normal or Charged Attacks, she will generate 1 Scent, and her Normal and Charged Attack DMG will be converted into <color=#99FF88FF>Dendro DMG</color> that cannot be overridden, and the DMG dealt will be increased by 300% of Emilie's ATK.\\n\\nThe Abiding Fragrance effect will be removed after 4 Scents are created this way or after its duration expires. Abiding Fragrance can be triggered once every 12s.",
       "Icon": "UI_Talent_S_Emilie_04",
-      "ParamList": [5, 4, 3, 12]
+      "ParamList": [5, 4, 3, 12, 0, 0, 0, 0]
     }
   ],
   "Materials": {
@@ -1962,7 +2056,7 @@
             "Count": 1,
             "Rank": 2
           },
-          { "Name": "Lakelight Lily", "Id": 101238, "Count": 3, "Rank": 1 },
+          { "Name": "Lakelight Lily", "Id": 101238, "Count": 3, "Rank": 0 },
           { "Name": "Meshing Gear", "Id": 112083, "Count": 3, "Rank": 1 }
         ],
         "Cost": 20000
@@ -1981,7 +2075,7 @@
             "Count": 2,
             "Rank": 4
           },
-          { "Name": "Lakelight Lily", "Id": 101238, "Count": 10, "Rank": 1 },
+          { "Name": "Lakelight Lily", "Id": 101238, "Count": 10, "Rank": 0 },
           { "Name": "Meshing Gear", "Id": 112083, "Count": 15, "Rank": 1 }
         ],
         "Cost": 40000
@@ -2000,7 +2094,7 @@
             "Count": 4,
             "Rank": 4
           },
-          { "Name": "Lakelight Lily", "Id": 101238, "Count": 20, "Rank": 1 },
+          { "Name": "Lakelight Lily", "Id": 101238, "Count": 20, "Rank": 0 },
           {
             "Name": "Mechanical Spur Gear",
             "Id": 112084,
@@ -2024,7 +2118,7 @@
             "Count": 8,
             "Rank": 4
           },
-          { "Name": "Lakelight Lily", "Id": 101238, "Count": 30, "Rank": 1 },
+          { "Name": "Lakelight Lily", "Id": 101238, "Count": 30, "Rank": 0 },
           {
             "Name": "Mechanical Spur Gear",
             "Id": 112084,
@@ -2048,7 +2142,7 @@
             "Count": 12,
             "Rank": 4
           },
-          { "Name": "Lakelight Lily", "Id": 101238, "Count": 45, "Rank": 1 },
+          { "Name": "Lakelight Lily", "Id": 101238, "Count": 45, "Rank": 0 },
           {
             "Name": "Artificed Dynamic Gear",
             "Id": 112085,
@@ -2072,7 +2166,7 @@
             "Count": 20,
             "Rank": 4
           },
-          { "Name": "Lakelight Lily", "Id": 101238, "Count": 60, "Rank": 1 },
+          { "Name": "Lakelight Lily", "Id": 101238, "Count": 60, "Rank": 0 },
           {
             "Name": "Artificed Dynamic Gear",
             "Id": 112085,

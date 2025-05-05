@@ -5,13 +5,13 @@
   "WeaponProp": [
     {
       "type": "GROW_CURVE_ATTACK_204",
-      "propType": "FIGHT_PROP_BASE_ATTACK",
-      "initValue": 41.0671
+      "initValue": 41.0671,
+      "propType": "FIGHT_PROP_BASE_ATTACK"
     },
     {
       "type": "GROW_CURVE_CRITICAL_201",
-      "propType": "FIGHT_PROP_HP_PERCENT",
-      "initValue": 0.12
+      "initValue": 0.12,
+      "propType": "FIGHT_PROP_HP_PERCENT"
     }
   ],
   "Rarity": 4,
@@ -332,27 +332,27 @@
     "1": {
       "Name": "Sea Shanty",
       "Desc": "When the wielder is healed or heals others, they will gain a Stoic's Symbol that lasts 30s, up to a maximum of 3 Symbols. When using their Elemental Skill or Burst, all Symbols will be consumed and the Roused effect will be granted for 10s. For each Symbol consumed, gain <color=#99FFFFFF>40</color> Elemental Mastery, and 2s after the effect occurs, <color=#99FFFFFF>2</color> Energy per Symbol consumed will be restored for said character. The Roused effect can be triggered once every 15s, and Symbols can be gained even when the character is not on the field.",
-      "ParamList": [30, 10, 15, 2, 40]
+      "ParamList": [30, 10, 15, 2, 40, 0, 0, 0]
     },
     "2": {
       "Name": "Sea Shanty",
       "Desc": "When the wielder is healed or heals others, they will gain a Stoic's Symbol that lasts 30s, up to a maximum of 3 Symbols. When using their Elemental Skill or Burst, all Symbols will be consumed and the Roused effect will be granted for 10s. For each Symbol consumed, gain <color=#99FFFFFF>50</color> Elemental Mastery, and 2s after the effect occurs, <color=#99FFFFFF>2.5</color> Energy per Symbol consumed will be restored for said character. The Roused effect can be triggered once every 15s, and Symbols can be gained even when the character is not on the field.",
-      "ParamList": [30, 10, 15, 2.5, 50]
+      "ParamList": [30, 10, 15, 2.5, 50, 0, 0, 0]
     },
     "3": {
       "Name": "Sea Shanty",
       "Desc": "When the wielder is healed or heals others, they will gain a Stoic's Symbol that lasts 30s, up to a maximum of 3 Symbols. When using their Elemental Skill or Burst, all Symbols will be consumed and the Roused effect will be granted for 10s. For each Symbol consumed, gain <color=#99FFFFFF>60</color> Elemental Mastery, and 2s after the effect occurs, <color=#99FFFFFF>3</color> Energy per Symbol consumed will be restored for said character. The Roused effect can be triggered once every 15s, and Symbols can be gained even when the character is not on the field.",
-      "ParamList": [30, 10, 15, 3, 60]
+      "ParamList": [30, 10, 15, 3, 60, 0, 0, 0]
     },
     "4": {
       "Name": "Sea Shanty",
       "Desc": "When the wielder is healed or heals others, they will gain a Stoic's Symbol that lasts 30s, up to a maximum of 3 Symbols. When using their Elemental Skill or Burst, all Symbols will be consumed and the Roused effect will be granted for 10s. For each Symbol consumed, gain <color=#99FFFFFF>70</color> Elemental Mastery, and 2s after the effect occurs, <color=#99FFFFFF>3.5</color> Energy per Symbol consumed will be restored for said character. The Roused effect can be triggered once every 15s, and Symbols can be gained even when the character is not on the field.",
-      "ParamList": [30, 10, 15, 3.5, 70]
+      "ParamList": [30, 10, 15, 3.5, 70, 0, 0, 0]
     },
     "5": {
       "Name": "Sea Shanty",
       "Desc": "When the wielder is healed or heals others, they will gain a Stoic's Symbol that lasts 30s, up to a maximum of 3 Symbols. When using their Elemental Skill or Burst, all Symbols will be consumed and the Roused effect will be granted for 10s. For each Symbol consumed, gain <color=#99FFFFFF>80</color> Elemental Mastery, and 2s after the effect occurs, <color=#99FFFFFF>4</color> Energy per Symbol consumed will be restored for said character. The Roused effect can be triggered once every 15s, and Symbols can be gained even when the character is not on the field.",
-      "ParamList": [30, 10, 15, 4, 80]
+      "ParamList": [30, 10, 15, 4, 80, 0, 0, 0]
     }
   },
   "Materials": {
