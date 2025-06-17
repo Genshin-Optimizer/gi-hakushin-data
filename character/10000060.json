@@ -5,6 +5,8 @@
     "ReleaseDate": "2022-05-31 00:00:00",
     "Birth": [4, 20],
     "Vision": "Hydro",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Umbrabilis Orchis",
     "Region": "ASSOC_TYPE_LIYUE",
     "Title": "Valley Orchid",
@@ -413,6 +415,7 @@
   },
   "Weapon": "WEAPON_BOW",
   "Rarity": "QUALITY_ORANGE",
+  "Element": "Hydro",
   "Icon": "UI_AvatarIcon_Yelan",
   "StaminaRecovery": 25,
   "BaseHP": 1124.9176,
@@ -777,9 +780,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S5" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S5" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S5" }
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S5", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

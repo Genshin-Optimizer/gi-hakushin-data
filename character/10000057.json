@@ -5,6 +5,8 @@
     "ReleaseDate": "2021-12-14 18:00:00",
     "Birth": [6, 1],
     "Vision": "Geo",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Taurus Iracundus",
     "Region": "ASSOC_TYPE_INAZUMA",
     "Title": "Hanamizaka Heroics",
@@ -445,6 +447,7 @@
   },
   "Weapon": "WEAPON_CLAYMORE",
   "Rarity": "QUALITY_ORANGE",
+  "Element": "Geo",
   "Icon": "UI_AvatarIcon_Itto",
   "StaminaRecovery": 25,
   "BaseHP": 1000.986,
@@ -809,9 +812,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S5" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S5" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S5" }
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S5", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

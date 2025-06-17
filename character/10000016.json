@@ -5,6 +5,8 @@
     "ReleaseDate": "2020-09-15 04:00:00",
     "Birth": [4, 30],
     "Vision": "Pyro",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Noctua",
     "Region": "ASSOC_TYPE_MONDSTADT",
     "Title": "Dark Side of Dawn",
@@ -420,6 +422,7 @@
   },
   "Weapon": "WEAPON_CLAYMORE",
   "Rarity": "QUALITY_ORANGE",
+  "Element": "Pyro",
   "Icon": "UI_AvatarIcon_Diluc",
   "StaminaRecovery": 25,
   "BaseHP": 1010.5192,
@@ -784,9 +787,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S5" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S5" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S5" }
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S5", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

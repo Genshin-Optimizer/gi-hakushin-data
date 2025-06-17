@@ -5,6 +5,8 @@
     "ReleaseDate": "2024-01-30 00:00:00",
     "Birth": [4, 11],
     "Vision": "Anemo",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Grus Serena",
     "Region": "ASSOC_TYPE_LIYUE",
     "Title": "Passerine Herald",
@@ -425,6 +427,7 @@
   },
   "Weapon": "WEAPON_CATALYST",
   "Rarity": "QUALITY_ORANGE",
+  "Element": "Anemo",
   "Icon": "UI_AvatarIcon_Liuyun",
   "StaminaRecovery": 25,
   "BaseHP": 810.322,
@@ -789,9 +792,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S5" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S5" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S5" }
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S5", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

@@ -5,6 +5,8 @@
     "ReleaseDate": "2023-08-15 00:00:00",
     "Birth": [2, 2],
     "Vision": "Pyro",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Felis Fuscus",
     "Region": "ASSOC_TYPE_FONTAINE",
     "Title": "Spectacle of Phantasmagoria",
@@ -448,6 +450,7 @@
   },
   "Weapon": "WEAPON_BOW",
   "Rarity": "QUALITY_ORANGE",
+  "Element": "Pyro",
   "Icon": "UI_AvatarIcon_Liney",
   "StaminaRecovery": 25,
   "BaseHP": 857.988,
@@ -812,9 +815,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S5" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S5" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S5" }
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S5", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

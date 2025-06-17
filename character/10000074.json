@@ -5,6 +5,8 @@
     "ReleaseDate": "2022-11-18 18:00:00",
     "Birth": [12, 19],
     "Vision": "Cryo",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Luscinia",
     "Region": "ASSOC_TYPE_SUMERU",
     "Title": "Fantastical Evening Star",
@@ -407,6 +409,7 @@
   },
   "Weapon": "WEAPON_SWORD_ONE_HAND",
   "Rarity": "QUALITY_PURPLE",
+  "Element": "Cryo",
   "Icon": "UI_AvatarIcon_Layla",
   "StaminaRecovery": 25,
   "BaseHP": 930.0268,
@@ -771,9 +774,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S4" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S4" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S4" }
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S4", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

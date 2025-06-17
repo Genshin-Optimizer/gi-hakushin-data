@@ -4,14 +4,14 @@
   "WeaponType": "WEAPON_BOW",
   "WeaponProp": [
     {
-      "type": "GROW_CURVE_ATTACK_104",
       "initValue": 37.6075,
-      "propType": "FIGHT_PROP_BASE_ATTACK"
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "type": "GROW_CURVE_ATTACK_104"
     },
     {
-      "type": "GROW_CURVE_CRITICAL_101",
       "initValue": 0.102133,
-      "propType": "FIGHT_PROP_HP_PERCENT"
+      "propType": "FIGHT_PROP_HP_PERCENT",
+      "type": "GROW_CURVE_CRITICAL_101"
     }
   ],
   "Rarity": 3,

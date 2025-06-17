@@ -5,6 +5,8 @@
     "ReleaseDate": "2024-01-09 18:00:00",
     "Birth": [1, 10],
     "Vision": "Pyro",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Sclopetum Ensiferum",
     "Region": "ASSOC_TYPE_FONTAINE",
     "Title": "Executor of Justice",
@@ -441,6 +443,7 @@
   },
   "Weapon": "WEAPON_POLE",
   "Rarity": "QUALITY_PURPLE",
+  "Element": "Pyro",
   "Icon": "UI_AvatarIcon_Chevreuse",
   "StaminaRecovery": 25,
   "BaseHP": 1002.9701,
@@ -805,9 +808,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S4" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S4" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S4" }
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S4", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

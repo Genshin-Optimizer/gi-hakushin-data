@@ -5,6 +5,8 @@
     "ReleaseDate": "2020-09-15 04:00:00",
     "Birth": [7, 27],
     "Vision": "Pyro",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Trifolium",
     "Region": "ASSOC_TYPE_MONDSTADT",
     "Title": "Fleeing Sunlight",
@@ -428,6 +430,7 @@
   },
   "Weapon": "WEAPON_CATALYST",
   "Rarity": "QUALITY_ORANGE",
+  "Element": "Pyro",
   "Icon": "UI_AvatarIcon_Klee",
   "StaminaRecovery": 25,
   "BaseHP": 800.7888,
@@ -792,9 +795,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S5" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S5" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S5" }
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S5", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

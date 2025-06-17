@@ -5,6 +5,8 @@
     "ReleaseDate": "2024-09-17 18:00:00",
     "Birth": [11, 11],
     "Vision": "Dendro",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Chimaera Alebriius",
     "Region": "ASSOC_TYPE_NATLAN",
     "Title": "Turnfire Hunt",
@@ -13,7 +15,7 @@
     "VA": {
       "Chinese": "斑马 & 弭洋",
       "Japanese": "杉山紀彰 & 竹内順子",
-      "English": "Jacob Takanashi & John Patneaude & Abby Espiritu",
+      "English": "Jacob Takanashi & Abby Espiritu",
       "Korean": "Kang Seong-woo & Park Li-na"
     },
     "Stories": [
@@ -469,6 +471,7 @@
   },
   "Weapon": "WEAPON_CLAYMORE",
   "Rarity": "QUALITY_ORANGE",
+  "Element": "Dendro",
   "Icon": "UI_AvatarIcon_Kinich",
   "StaminaRecovery": 25,
   "BaseHP": 1000.986,
@@ -833,9 +836,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S5" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S5" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S5" }
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S5", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

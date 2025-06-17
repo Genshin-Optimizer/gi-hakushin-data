@@ -5,6 +5,8 @@
     "ReleaseDate": "2023-08-15 00:00:00",
     "Birth": [2, 2],
     "Vision": "Anemo",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Felis Alba",
     "Region": "ASSOC_TYPE_FONTAINE",
     "Title": "Elegance in the Shadows",
@@ -437,6 +439,7 @@
   },
   "Weapon": "WEAPON_SWORD_ONE_HAND",
   "Rarity": "QUALITY_PURPLE",
+  "Element": "Anemo",
   "Icon": "UI_AvatarIcon_Linette",
   "StaminaRecovery": 25,
   "BaseHP": 1039.4418,
@@ -801,9 +804,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S4" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S4" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S4" }
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S4", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

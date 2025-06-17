@@ -4,14 +4,14 @@
   "WeaponType": "WEAPON_CATALYST",
   "WeaponProp": [
     {
-      "type": "GROW_CURVE_ATTACK_302",
       "initValue": 47.537,
-      "propType": "FIGHT_PROP_BASE_ATTACK"
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "type": "GROW_CURVE_ATTACK_302"
     },
     {
-      "type": "GROW_CURVE_CRITICAL_301",
       "initValue": 0.072,
-      "propType": "FIGHT_PROP_ATTACK_PERCENT"
+      "propType": "FIGHT_PROP_ATTACK_PERCENT",
+      "type": "GROW_CURVE_CRITICAL_301"
     }
   ],
   "Rarity": 5,

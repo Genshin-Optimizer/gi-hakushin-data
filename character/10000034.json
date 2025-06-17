@@ -5,6 +5,8 @@
     "ReleaseDate": "2020-09-15 04:00:00",
     "Birth": [3, 21],
     "Vision": "Geo",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Parma Cordis",
     "Region": "ASSOC_TYPE_MONDSTADT",
     "Title": "Chivalric Blossom",
@@ -429,6 +431,7 @@
   },
   "Weapon": "WEAPON_CLAYMORE",
   "Rarity": "QUALITY_PURPLE",
+  "Element": "Geo",
   "Icon": "UI_AvatarIcon_Noel",
   "StaminaRecovery": 25,
   "BaseHP": 1012.088,
@@ -793,9 +796,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S4" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S4" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S4" }
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S4", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

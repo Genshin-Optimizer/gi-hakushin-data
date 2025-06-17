@@ -5,6 +5,8 @@
     "ReleaseDate": "2025-05-06 00:00:00",
     "Birth": [3, 23],
     "Vision": "Anemo",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Catena Opele",
     "Region": "ASSOC_TYPE_NATLAN",
     "Title": "In the Wake of Wandering Winds",
@@ -418,6 +420,7 @@
   },
   "Weapon": "WEAPON_CATALYST",
   "Rarity": "QUALITY_PURPLE",
+  "Element": "Anemo",
   "Icon": "UI_AvatarIcon_Ifa",
   "StaminaRecovery": 25,
   "BaseHP": 845.2303,
@@ -782,9 +785,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S4" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S4" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S4" }
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S4", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

@@ -5,6 +5,8 @@
     "ReleaseDate": "2023-02-28 00:00:00",
     "Birth": [4, 7],
     "Vision": "Pyro",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Mantichora",
     "Region": "ASSOC_TYPE_SUMERU",
     "Title": "Flame-Mane",
@@ -432,6 +434,7 @@
   },
   "Weapon": "WEAPON_CLAYMORE",
   "Rarity": "QUALITY_ORANGE",
+  "Element": "Pyro",
   "Icon": "UI_AvatarIcon_Dehya",
   "StaminaRecovery": 25,
   "BaseHP": 1220.2496,
@@ -796,9 +799,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S5" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S5" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S5" }
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S5", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

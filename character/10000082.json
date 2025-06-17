@@ -5,6 +5,8 @@
     "ReleaseDate": "2023-05-02 18:00:00",
     "Birth": [4, 25],
     "Vision": "Dendro",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Lagenaria",
     "Region": "ASSOC_TYPE_LIYUE",
     "Title": "Beyond Mortality",
@@ -452,6 +454,7 @@
   },
   "Weapon": "WEAPON_CATALYST",
   "Rarity": "QUALITY_ORANGE",
+  "Element": "Dendro",
   "Icon": "UI_AvatarIcon_Baizhuer",
   "StaminaRecovery": 25,
   "BaseHP": 1039.1188,
@@ -816,9 +819,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S5" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S5" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S5" }
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S5", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

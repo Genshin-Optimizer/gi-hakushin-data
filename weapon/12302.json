@@ -4,14 +4,14 @@
   "WeaponType": "WEAPON_CLAYMORE",
   "WeaponProp": [
     {
-      "type": "GROW_CURVE_ATTACK_104",
       "initValue": 37.6075,
-      "propType": "FIGHT_PROP_BASE_ATTACK"
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "type": "GROW_CURVE_ATTACK_104"
     },
     {
-      "type": "GROW_CURVE_CRITICAL_101",
       "initValue": 40.8,
-      "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+      "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+      "type": "GROW_CURVE_CRITICAL_101"
     }
   ],
   "Rarity": 3,

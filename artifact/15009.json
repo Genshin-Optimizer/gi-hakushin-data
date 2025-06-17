@@ -5,16 +5,16 @@
   "Rank": [3, 4, 5],
   "Affix": [
     {
-      "id": 215009,
-      "level": 0,
-      "affixId": 2150090,
-      "paramList": [0.4, 0, 0, 0, 0, 0, 0, 0],
-      "openConfig": "Relic_FireResistance",
       "addProps": [
         { "propType": "FIGHT_PROP_NONE", "value": 0 },
         { "propType": "FIGHT_PROP_NONE", "value": 0 },
         { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
+      "affixId": 2150090,
+      "id": 215009,
+      "level": 0,
+      "openConfig": "Relic_FireResistance",
+      "paramList": [0.4, 0, 0, 0, 0, 0, 0, 0],
       "Name": "Prayers for Illumination",
       "Desc": "Affected by Pyro for 40% less time."
     }

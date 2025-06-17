@@ -5,6 +5,8 @@
     "ReleaseDate": "2023-01-17 00:00:00",
     "Birth": [3, 6],
     "Vision": "Dendro",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Osmanthus",
     "Region": "ASSOC_TYPE_LIYUE",
     "Title": "Burgeoning Grace",
@@ -418,6 +420,7 @@
   },
   "Weapon": "WEAPON_POLE",
   "Rarity": "QUALITY_PURPLE",
+  "Element": "Dendro",
   "Icon": "UI_AvatarIcon_Yaoyao",
   "StaminaRecovery": 25,
   "BaseHP": 1030.3239,
@@ -782,9 +785,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S4" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S4" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S4" }
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S4", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

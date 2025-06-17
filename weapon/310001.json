@@ -1,0 +1,9 @@
+{
+  "Name": "Serpent Devourer",
+  "Desc": "A glorious, illusory sword that emerged from the depths of the Ley Lines. It can change its appearance based on the Elemental Type of its wielder. Legend has it that this sword once held the name \"Logseims\" when it was wielded by a golden sinner in an ancient land.",
+  "WeaponType": "WEAPON_SWORD_ONE_HAND",
+  "Rarity": 4,
+  "Icon": "UI_EquipIcon_Sword_MorphVinces_{0}",
+  "Tag": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "Skin": true
+}

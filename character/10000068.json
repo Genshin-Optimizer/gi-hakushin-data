@@ -5,6 +5,8 @@
     "ReleaseDate": "2022-09-09 18:00:00",
     "Birth": [12, 21],
     "Vision": "Electro",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Magicae Lucerna",
     "Region": "ASSOC_TYPE_SUMERU",
     "Title": "Treasure of Dream Garden",
@@ -431,6 +433,7 @@
   },
   "Weapon": "WEAPON_CLAYMORE",
   "Rarity": "QUALITY_PURPLE",
+  "Element": "Electro",
   "Icon": "UI_AvatarIcon_Dori",
   "StaminaRecovery": 25,
   "BaseHP": 1039.4418,
@@ -795,9 +798,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S4" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S4" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S4" }
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S4", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

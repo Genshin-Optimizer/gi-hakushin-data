@@ -247,7 +247,7 @@
     "desc": "This ancient double-edged sword glimmers with moonlight. It is said that a now-silent Jinni dwells within it.",
     "KR": "크시포스의 달빛",
     "CHS": "西福斯的月光",
-    "JP": "サイフォス��月明かり"
+    "JP": "サイフォスの月明かり"
   },
   "11422": {
     "icon": "UI_EquipIcon_Sword_Kasabouzu",
@@ -366,7 +366,7 @@
     "EN": "Freedom-Sworn",
     "desc": "A straight sword, azure as antediluvian song, and as keen as the oaths of freedom taken in the Land of Wind.",
     "KR": "오래된 자유의 서약",
-    "CHS": "苍古���由之誓",
+    "CHS": "苍古自由之誓",
     "JP": "蒼古なる自由への誓い"
   },
   "11504": {
@@ -466,8 +466,18 @@
     "EN": "Peak Patrol Song",
     "desc": "An obsidian blade of unparalleled sharpness, light as a song. It was modified by a certain artisan to come equipped with a record-playing detachable Phlogiston Device.",
     "KR": "바위산을 맴도는 노래",
-    "CHS": "岩峰巡歌",
+    "CHS": "���峰巡歌",
     "JP": "岩峰を巡る歌"
+  },
+  "11517": {
+    "icon": "UI_EquipIcon_Sword_OuterSword",
+    "rank": 5,
+    "type": "WEAPON_SWORD_ONE_HAND",
+    "EN": "Azurelight",
+    "desc": "This blade was once pure and pristine as a white dawn star, but it has since been tinted a deep, dark blue.",
+    "KR": "창백한 섬광",
+    "CHS": "苍耀",
+    "JP": "蒼耀"
   },
   "12101": {
     "icon": "UI_EquipIcon_Claymore_Aniki",
@@ -597,7 +607,7 @@
     "desc": "An ancient greatsword discovered in the Blackcliff Forge. It swings with such an immense force that one feels it could cut straight through reality itself.",
     "KR": "고화 프로토타입",
     "CHS": "试作古华",
-    "JP": "古華·試作"
+    "JP": "古華��試作"
   },
   "12407": {
     "icon": "UI_EquipIcon_Claymore_Exotic",
@@ -1536,7 +1546,7 @@
     "EN": "Memory of Dust",
     "desc": "A stone dumbbell containing distant memories. Its endless transformations reveal the power within.",
     "KR": "속세의 자물쇠",
-    "CHS": "尘世之锁",
+    "CHS": "尘世之��",
     "JP": "浮世の錠"
   },
   "14505": {
@@ -1626,7 +1636,7 @@
     "EN": "Surf's Up",
     "desc": "A commemorative item originally reserved for the champion of the \"First All-Tribe Surfing Championship.\" Since said tournament is currently in the preparatory stage, the prize is in temporary storage at the Leisurely Puffer, with the shop owner as its custodian.",
     "KR": "서핑 타임",
-    "CHS": "冲浪时��",
+    "CHS": "冲浪时光",
     "JP": "サーフィンタイム"
   },
   "14517": {
@@ -1785,7 +1795,7 @@
     "type": "WEAPON_BOW",
     "EN": "Prototype Crescent",
     "desc": "A prototype longbow discovered in the Blackcliff Forge. The arrow fired from this bow glimmers like a ray of moonlight.",
-    "KR": "담월 프로토타입",
+    "KR": "담월 프로토��입",
     "CHS": "试作澹月",
     "JP": "澹月·試作"
   },
@@ -2088,5 +2098,125 @@
     "KR": "붉은 깃 별독수리",
     "CHS": "星鹫赤羽",
     "JP": "星鷲の紅き羽"
+  },
+  "310001": {
+    "icon": "UI_EquipIcon_Sword_MorphVinces_{0}",
+    "rank": 4,
+    "type": "WEAPON_SWORD_ONE_HAND",
+    "EN": "Serpent Devourer",
+    "skin": true,
+    "tag": "TAG_TYPE_COLOR_BY_ELEMENT",
+    "desc": "A glorious, illusory sword that emerged from the depths of the Ley Lines. It can change its appearance based on the Elemental Type of its wielder. Legend has it that this sword once held the name \"Logseims\" when it was wielded by a golden sinner in an ancient land.",
+    "KR": "삼키는 뱀",
+    "CHS": "蛇噬",
+    "JP": "呑蛇"
+  },
+  "310002": {
+    "icon": "UI_EquipIcon_Sword_MorphVinces_Great_{0}",
+    "rank": 5,
+    "type": "WEAPON_SWORD_ONE_HAND",
+    "EN": "Serpent Devourer - Sublimation",
+    "skin": true,
+    "tag": "TAG_TYPE_COLOR_BY_ELEMENT",
+    "desc": "A glorious, illusory sword glimmering with the power of \"Life\" that emerged from the depths of the Ley Lines. It can change its appearance based on the Elemental Type of its wielder. Legend has it that this sword once held the name \"Logseims\" when it was wielded by a transcendent sinner in an ancient land.",
+    "KR": "삼키는 뱀·실체",
+    "CHS": "蛇噬·真化",
+    "JP": "呑蛇・真化"
+  },
+  "320001": {
+    "icon": "UI_EquipIcon_Claymore_MorphGravitas_{0}",
+    "rank": 4,
+    "type": "WEAPON_CLAYMORE",
+    "EN": "Ardent Storm",
+    "skin": true,
+    "tag": "TAG_TYPE_COLOR_BY_ELEMENT",
+    "desc": "A glorious, illusory claymore that emerged from the depths of the Ley Lines. It can change its appearance based on the Elemental Type of its wielder. Legend has it that this claymore once held the name \"Starkuthr\" when it was wielded by an wise sinner in an ancient land.",
+    "KR": "맹렬한 열기",
+    "CHS": "赫烈",
+    "JP": "煌烈"
+  },
+  "320002": {
+    "icon": "UI_EquipIcon_Claymore_MorphGravitas_Great_{0}",
+    "rank": 5,
+    "type": "WEAPON_CLAYMORE",
+    "EN": "Ardent Storm - Sublimation",
+    "skin": true,
+    "tag": "TAG_TYPE_COLOR_BY_ELEMENT",
+    "desc": "A glorious, illusory claymore glimmering with the power of \"Reason\" that emerged from the depths of the Ley Lines. It can change its appearance based on the Elemental Type of its wielder. Legend has it that this claymore once held the name \"Starkuthr\" when it was wielded by a transcendent sinner in an ancient land.",
+    "KR": "맹렬한 열기·실체",
+    "CHS": "赫烈·真化",
+    "JP": "煌烈・真化"
+  },
+  "330001": {
+    "icon": "UI_EquipIcon_Pole_MorphSpinifer_{0}",
+    "rank": 4,
+    "type": "WEAPON_POLE",
+    "EN": "Shattered Moon",
+    "skin": true,
+    "tag": "TAG_TYPE_COLOR_BY_ELEMENT",
+    "desc": "A glorious, illusory polearm that emerged from the depths of the Ley Lines. It can change its appearance based on the Elemental Type of its wielder. Legend has it that this polearm once held the name \"Barnstokkr\" when it was wielded by a moon-hunting sinner in an ancient land.",
+    "KR": "부서진 달",
+    "CHS": "碎月",
+    "JP": "砕月"
+  },
+  "330002": {
+    "icon": "UI_EquipIcon_Pole_MorphSpinifer_Great_{0}",
+    "rank": 5,
+    "type": "WEAPON_POLE",
+    "EN": "Shattered Moon - Sublimation",
+    "skin": true,
+    "tag": "TAG_TYPE_COLOR_BY_ELEMENT",
+    "desc": "A glorious, illusory polearm glimmering with the power of \"Death\" that emerged from the depths of the Ley Lines. It can change its appearance based on the Elemental Type of its wielder. Legend has it that this polearm once held the name \"Barnstokkr\" when it was wielded by a transcendent sinner in an ancient land.",
+    "KR": "부서진 달·실체",
+    "CHS": "碎月·真化",
+    "JP": "砕月・真化"
+  },
+  "340001": {
+    "icon": "UI_EquipIcon_Catalyst_MorphIlia_{0}",
+    "rank": 4,
+    "type": "WEAPON_CATALYST",
+    "EN": "Hallowed Fetters",
+    "skin": true,
+    "tag": "TAG_TYPE_COLOR_BY_ELEMENT",
+    "desc": "A glorious, illusory catalyst that emerged from the depths of the Ley Lines. It can change its appearance based on the Elemental Type of its user. Legend has it that this catalyst once held the name \"Gleipnir\" when it was used by an oracle-issuing sinner in an ancient land.",
+    "KR": "신성한 속박",
+    "CHS": "圣缚",
+    "JP": "聖縛"
+  },
+  "340002": {
+    "icon": "UI_EquipIcon_Catalyst_MorphIlia_Great_{0}",
+    "rank": 5,
+    "type": "WEAPON_CATALYST",
+    "EN": "Hallowed Fetters - Sublimation",
+    "skin": true,
+    "tag": "TAG_TYPE_COLOR_BY_ELEMENT",
+    "desc": "A glorious, illusory catalyst glimmering with the power of \"Time\" that emerged from the depths of the Ley Lines. It can change its appearance based on the Elemental Type of its user. Legend has it that this catalyst once held the name \"Gleipnir\" when it was used by a transcendent sinner in an ancient land.",
+    "KR": "신성한 속박·실체",
+    "CHS": "圣缚·真化",
+    "JP": "聖縛・真化"
+  },
+  "350001": {
+    "icon": "UI_EquipIcon_Bow_MorphChrod_{0}",
+    "rank": 4,
+    "type": "WEAPON_BOW",
+    "EN": "Starpiercer",
+    "skin": true,
+    "tag": "TAG_TYPE_COLOR_BY_ELEMENT",
+    "desc": "A glorious, illusory bow that emerged from the depths of the Ley Lines. It can change its appearance based on the Elemental Type of its wielder. Legend has it that this bow once held the name \"Gusisnautar\" when it was wielded by a foul sinner in an ancient land.",
+    "KR": "꿰뚫린 별",
+    "CHS": "贯星",
+    "JP": "貫星"
+  },
+  "350002": {
+    "icon": "UI_EquipIcon_Bow_MorphChrod_Great_{0}",
+    "rank": 5,
+    "type": "WEAPON_BOW",
+    "EN": "Starpiercer - Sublimation",
+    "skin": true,
+    "tag": "TAG_TYPE_COLOR_BY_ELEMENT",
+    "desc": "A glorious, illusory bow glimmering with the power of \"Void\" that emerged from the depths of the Ley Lines. It can change its appearance based on the Elemental Type of its wielder. Legend has it that this bow once held the name \"Gusisnautar\" when it was wielded by a transcendent sinner in an ancient land.",
+    "KR": "꿰뚫린 별·실체",
+    "CHS": "贯星·真化",
+    "JP": "貫星・真化"
   }
 }

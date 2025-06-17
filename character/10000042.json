@@ -5,6 +5,8 @@
     "ReleaseDate": "2020-09-15 04:00:00",
     "Birth": [11, 20],
     "Vision": "Electro",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Trulla Cementarii",
     "Region": "ASSOC_TYPE_LIYUE",
     "Title": "Driving Thunder",
@@ -13,7 +15,7 @@
     "VA": {
       "Chinese": "谢莹",
       "Japanese": "喜多村英梨",
-      "English": "Kayli Mills",
+      "English": "Kayli Mills & Anonymous",
       "Korean": "Lee Bo-hee"
     },
     "Stories": [
@@ -157,7 +159,7 @@
       },
       {
         "Title": "About Us: Encouragement",
-        "Text": "I used to be so naive. I genuinely believed I was on a par with Rex Lapis... Seems I really overestimated myself. Hmm? Yes... You're right! I have plenty of self-confidence in other areas, so why not in this? ...I can catch up with him — I WILL catch up with him! I just need to keep my chin up, keep trying, and keep learning!",
+        "Text": "I used to be so naive. I genuinely believed I was on par with Rex Lapis... Seems I really overestimated myself. Hmm? Yes... You're right! I have plenty of self-confidence in other areas, so why not in this? ...I can catch up with him — I WILL catch up with him! I just need to keep my chin up, keep trying, and keep learning!",
         "Unlocked": [
           "Unlocks at Friendship Lv. 6",
           "Complete \"A New Star Approaches\""
@@ -522,6 +524,7 @@
   },
   "Weapon": "WEAPON_SWORD_ONE_HAND",
   "Rarity": "QUALITY_ORANGE",
+  "Element": "Electro",
   "Icon": "UI_AvatarIcon_Keqing",
   "StaminaRecovery": 25,
   "BaseHP": 1020.0524,
@@ -886,9 +889,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S5" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S5" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S5" }
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S5", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

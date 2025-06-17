@@ -5,6 +5,8 @@
     "ReleaseDate": "2022-02-16 00:00:00",
     "Birth": [6, 27],
     "Vision": "Electro",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Divina Vulpes",
     "Region": "ASSOC_TYPE_INAZUMA",
     "Title": "Astute Amusement",
@@ -457,6 +459,7 @@
   },
   "Weapon": "WEAPON_CATALYST",
   "Rarity": "QUALITY_ORANGE",
+  "Element": "Electro",
   "Icon": "UI_AvatarIcon_Yae",
   "StaminaRecovery": 25,
   "BaseHP": 807.46204,
@@ -821,9 +824,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S5" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S5" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S5" }
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S5", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

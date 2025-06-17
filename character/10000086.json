@@ -5,6 +5,8 @@
     "ReleaseDate": "2023-10-17 18:00:00",
     "Birth": [11, 23],
     "Vision": "Cryo",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Cerberus",
     "Region": "ASSOC_TYPE_FONTAINE",
     "Title": "Emissary of Solitary Iniquity",
@@ -19,7 +21,7 @@
     "Stories": [
       {
         "Title": "Character Details",
-        "Text": "To the great relief of the Maison Ordalie, most Fontainians are law-abiding citizens. As such, the Fortress of Meropide is not a place that they will ever visit in their lives.\\nAt the same time, there is an easily understood yet rather tragic truth, which is that those who have served time often find it difficult to reintegrate back into the \"overworld,\" and few will actively speak of their experiences in the \"underworld.\"\\nRather than a specific place, the Fortress is more like an idea, a warning, a symbol of misfortune and castigation ��� a byword amongst Fontainians. As for who controls this idea, that is unimportant.\\nThanks to this state of affairs, Wriothesley has been able to lead a secluded and private existence, living and traveling in Fontaine in a manner quite unbefitting of his status as the \"Duke.\"\\nIndeed, even as pedestrians are saying things like \"fool around any further, and I'll punch you straight into the Fortress of Meropide,\" or \"this job is garbage, I'd rather be tightening screws at the bottom of the sea,\" this administrator of said underwater fortress might be walking the same stone-paved road to the café, on his way to grab some takeout for his afternoon tea.",
+        "Text": "To the great relief of the Maison Ordalie, most Fontainians are law-abiding citizens. As such, the Fortress of Meropide is not a place that they will ever visit in their lives.\\nAt the same time, there is an easily understood yet rather tragic truth, which is that those who have served time often find it difficult to reintegrate back into the \"overworld,\" and few will actively speak of their experiences in the \"underworld.\"\\nRather than a specific place, the Fortress is more like an idea, a warning, a symbol of misfortune and castigation — a byword amongst Fontainians. As for who controls this idea, that is unimportant.\\nThanks to this state of affairs, Wriothesley has been able to lead a secluded and private existence, living and traveling in Fontaine in a manner quite unbefitting of his status as the \"Duke.\"\\nIndeed, even as pedestrians are saying things like \"fool around any further, and I'll punch you straight into the Fortress of Meropide,\" or \"this job is garbage, I'd rather be tightening screws at the bottom of the sea,\" this administrator of said underwater fortress might be walking the same stone-paved road to the café, on his way to grab some takeout for his afternoon tea.",
         "Unlock": []
       },
       {
@@ -432,6 +434,7 @@
   },
   "Weapon": "WEAPON_CATALYST",
   "Rarity": "QUALITY_ORANGE",
+  "Element": "Cryo",
   "Icon": "UI_AvatarIcon_Wriothesley",
   "StaminaRecovery": 25,
   "BaseHP": 1058.1852,
@@ -796,9 +799,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S5" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S5" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S5" }
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S5", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

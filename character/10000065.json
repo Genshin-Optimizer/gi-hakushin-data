@@ -5,6 +5,8 @@
     "ReleaseDate": "2022-06-21 18:00:00",
     "Birth": [7, 27],
     "Vision": "Electro",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Tribulatio Demptio",
     "Region": "ASSOC_TYPE_INAZUMA",
     "Title": "Mender of Tribulations",
@@ -408,6 +410,7 @@
   },
   "Weapon": "WEAPON_SWORD_ONE_HAND",
   "Rarity": "QUALITY_PURPLE",
+  "Element": "Electro",
   "Icon": "UI_AvatarIcon_Shinobu",
   "StaminaRecovery": 25,
   "BaseHP": 1030.3239,
@@ -772,9 +775,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S4" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S4" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S4" }
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S4", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

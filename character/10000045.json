@@ -5,6 +5,8 @@
     "ReleaseDate": "2021-04-06 18:00:00",
     "Birth": [1, 24],
     "Vision": "Cryo",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Spinea Corona",
     "Region": "ASSOC_TYPE_MONDSTADT",
     "Title": "Thorny Benevolence",
@@ -387,6 +389,11 @@
         "Title": "Receiving a Gift: III",
         "Text": "Do you really like this food?",
         "Unlocked": []
+      },
+      {
+        "Title": "About Dahlia",
+        "Text": "I like that he's in the habit of always offering to pick up the tab. In fact, his tavern etiquette in general is very good: He knows which questions he can ask and which ones to avoid. But since we figured each other out, I don't need to be too guarded around him anymore. It's so much easier to get along with people when they're smart like him.",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
       }
     ],
     "SpecialFood": {
@@ -422,6 +429,7 @@
   },
   "Weapon": "WEAPON_POLE",
   "Rarity": "QUALITY_PURPLE",
+  "Element": "Cryo",
   "Icon": "UI_AvatarIcon_Rosaria",
   "StaminaRecovery": 25,
   "BaseHP": 1030.3239,
@@ -786,9 +794,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S4" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S4" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S4" }
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S4", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

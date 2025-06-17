@@ -5,6 +5,8 @@
     "ReleaseDate": "2020-09-15 04:00:00",
     "Birth": [2, 14],
     "Vision": "Electro",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Victor Mare",
     "Region": "ASSOC_TYPE_LIYUE",
     "Title": "Uncrowned Lord of the Ocean",
@@ -396,6 +398,7 @@
   },
   "Weapon": "WEAPON_CLAYMORE",
   "Rarity": "QUALITY_PURPLE",
+  "Element": "Electro",
   "Icon": "UI_AvatarIcon_Beidou",
   "StaminaRecovery": 25,
   "BaseHP": 1094.1492,
@@ -760,9 +763,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S4" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S4" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S4" }
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S4", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

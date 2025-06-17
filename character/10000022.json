@@ -5,6 +5,8 @@
     "ReleaseDate": "2020-09-15 04:00:00",
     "Birth": [6, 16],
     "Vision": "Anemo",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Carmen Dei",
     "Region": "ASSOC_TYPE_MONDSTADT",
     "Title": "Windborne Bard",
@@ -29,7 +31,7 @@
       },
       {
         "Title": "Character Story 2",
-        "Text": "There is a towering oak tree at the center of Windrise, said to have sprouted when Vennessa ascended to the heavens a millennium ago.\\nIn the past few months, travelers resting in the shade of the great oak sometimes hear a young boy singing the tales of Barbatos, the Anemo Archon.\\nUnlike the ruling deities of the other nations, Barbatos has long left Mondstadt. In fact, the only visible proof of his connection with Mondstadt is the Statues of The Seven that appear across the land — even then, the resemblance is vague at best. Fortunately, Barbatos's past deeds are recorded in books and epics, sung and passed on by the bards.\\nIn contrast to these more canonical works, Venti's ballads tend to include bizarre adventures and acts of mischief, such as the time that Barbatos pinched the Cryo Archon's scepter and replaced it with a hilichurl's wooden club...\\nWorshippers of Barbatos are quick to decry these frivolous tales as blasphemous fabrications. But whenever someone confronts Venti about this, his response suggests that he has not an ounce of remorse.\\n\"How can you know that they're fabrications?\"\\nHe has a point — even the most devoted sister could not possibly know the details of all of Barbatos's deeds from a millennium ago.\\nOnly Venti knows the truth behind his song lyrics, and it is a truth he hides behind an enigmatic smile.\\nReason being, yes — Venti's tall tales of Barbatos's unorthodox exploits are entirely fabricated.\\nHey, Venti finds that a few drinks really gets his muse going. Can you really blame him?",
+        "Text": "There is a towering oak tree at the center of Windrise, said to have sprouted when Vennessa ascended to the heavens a millennium ago.\\nIn the past few months, travelers resting in the shade of the great oak sometimes hear a young boy singing the tales of Barbatos, the Anemo Archon.\\nUnlike the ruling deities of the other nations, Barbatos has long left Mondstadt. In fact, the only visible proof of his connection with Mondstadt is the Statues of The Seven that appear across the land — even then, the resemblance is vague at best. Fortunately, Barbatos's past deeds are recorded in books and epics, sung and passed on by the bards.\\nIn contrast to these more canonical works, Venti's ballads tend to include bizarre adventures and acts of mischief, such as the time that Barbatos pinched the Cryo Archon's scepter and replaced it with a hilichurl's wooden club...\\nWorshippers of Barbatos are quick to decry these frivolous tales as blasphemous fabrications. But whenever someone confronts Venti about this, his response suggests that he has not an ounce of remorse.\\n\"How can you know that they're fabrications?\"\\nHe has a point ��� even the most devoted sister could not possibly know the details of all of Barbatos's deeds from a millennium ago.\\nOnly Venti knows the truth behind his song lyrics, and it is a truth he hides behind an enigmatic smile.\\nReason being, yes — Venti's tall tales of Barbatos's unorthodox exploits are entirely fabricated.\\nHey, Venti finds that a few drinks really gets his muse going. Can you really blame him?",
         "Unlock": ["Unlocks at Friendship Lv. 3"]
       },
       {
@@ -428,6 +430,11 @@
           "Unlocks at Friendship Lv. 4",
           "Complete \"Incandescent Ode of Resurrection\""
         ]
+      },
+      {
+        "Title": "About Dahlia",
+        "Text": "O, Traveler, do you seek to hear the voice of the wind and know its guidance? Then I say to you... chatting to the deacon is your best bet. Haha, I'm kidding — come chat with me over a drink any time you want! The reason I usually get Dahlia to be my intermediary is because... well, I imagine you can probably guess why. He loves listening to the blustering of the wind, but crucially he has his own compass, too.",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
       }
     ],
     "SpecialFood": {
@@ -463,6 +470,7 @@
   },
   "Weapon": "WEAPON_BOW",
   "Rarity": "QUALITY_ORANGE",
+  "Element": "Anemo",
   "Icon": "UI_AvatarIcon_Venti",
   "StaminaRecovery": 25,
   "BaseHP": 819.8552,
@@ -827,9 +835,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S5" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S5" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S5" }
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S5", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

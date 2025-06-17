@@ -5,6 +5,8 @@
     "ReleaseDate": "2020-09-15 04:00:00",
     "Birth": [8, 10],
     "Vision": "Pyro",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Lepus",
     "Region": "ASSOC_TYPE_MONDSTADT",
     "Title": "Gliding Champion",
@@ -435,7 +437,7 @@
       {
         "Id": 202101,
         "Name": "100% Outrider",
-        "Desc": "Amber's outfit. This is a more formal �� but no less cool — version of the Outrider's uniform!",
+        "Desc": "Amber's outfit. This is a more formal — but no less cool — version of the Outrider's uniform!",
         "Icon": "UI_AvatarIcon_AmborCostumeWic",
         "Quality": 4
       },
@@ -451,6 +453,7 @@
   },
   "Weapon": "WEAPON_BOW",
   "Rarity": "QUALITY_PURPLE",
+  "Element": "Pyro",
   "Icon": "UI_AvatarIcon_Ambor",
   "StaminaRecovery": 25,
   "BaseHP": 793.2582,
@@ -815,9 +818,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S4" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S4" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S4" }
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S4", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

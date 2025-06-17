@@ -5,6 +5,8 @@
     "ReleaseDate": "2023-05-02 18:00:00",
     "Birth": [7, 9],
     "Vision": "Dendro",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Paradisaea",
     "Region": "ASSOC_TYPE_SUMERU",
     "Title": "Empyrean Reflection",
@@ -402,6 +404,7 @@
   },
   "Weapon": "WEAPON_CLAYMORE",
   "Rarity": "QUALITY_PURPLE",
+  "Element": "Dendro",
   "Icon": "UI_AvatarIcon_Kaveh",
   "StaminaRecovery": 25,
   "BaseHP": 1002.9701,
@@ -766,9 +769,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S4" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S4" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S4" }
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S4", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

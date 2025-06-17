@@ -1,0 +1,9 @@
+{
+  "Name": "Hallowed Fetters - Sublimation",
+  "Desc": "A glorious, illusory catalyst glimmering with the power of \"Time\" that emerged from the depths of the Ley Lines. It can change its appearance based on the Elemental Type of its user. Legend has it that this catalyst once held the name \"Gleipnir\" when it was used by a transcendent sinner in an ancient land.",
+  "WeaponType": "WEAPON_CATALYST",
+  "Rarity": 5,
+  "Icon": "UI_EquipIcon_Catalyst_MorphIlia_Great_{0}",
+  "Tag": "TAG_TYPE_COLOR_BY_ELEMENT",
+  "Skin": true
+}

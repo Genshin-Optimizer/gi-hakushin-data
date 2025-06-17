@@ -5,30 +5,30 @@
   "Rank": [3, 4, 5],
   "Affix": [
     {
-      "id": 215018,
-      "level": 0,
-      "affixId": 2150180,
-      "paramList": [0, 0, 0, 0, 0, 0, 0, 0],
-      "openConfig": "",
       "addProps": [
         { "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT", "value": 0.25 },
         { "propType": "FIGHT_PROP_NONE", "value": 0 },
         { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
+      "affixId": 2150180,
+      "id": 215018,
+      "level": 0,
+      "openConfig": "",
+      "paramList": [0, 0, 0, 0, 0, 0, 0, 0],
       "Name": "Pale Flame",
       "Desc": "Physical DMG is increased by 25%."
     },
     {
-      "id": 215018,
-      "level": 1,
-      "affixId": 2150181,
-      "paramList": [0.09, 7, 0.3, 0.25, 0, 0, 0, 0],
-      "openConfig": "Relic_AttackUpWhenNormalAtkAndExtraAtkHit",
       "addProps": [
         { "propType": "FIGHT_PROP_NONE", "value": 0 },
         { "propType": "FIGHT_PROP_NONE", "value": 0 },
         { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
+      "affixId": 2150181,
+      "id": 215018,
+      "level": 1,
+      "openConfig": "Relic_AttackUpWhenNormalAtkAndExtraAtkHit",
+      "paramList": [0.09, 7, 0.3, 0.25, 0, 0, 0, 0],
       "Name": "Pale Flame",
       "Desc": "When an Elemental Skill hits an opponent, ATK is increased by 9% for 7s. This effect stacks up to 2 times and can be triggered once every 0.3s. Once 2 stacks are reached, the 2-set effect is increased by 100%."
     }

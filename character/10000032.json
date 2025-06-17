@@ -5,6 +5,8 @@
     "ReleaseDate": "2020-09-15 04:00:00",
     "Birth": [2, 29],
     "Vision": "Pyro",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Rota Calamitas",
     "Region": "ASSOC_TYPE_MONDSTADT",
     "Title": "Trial by Fire",
@@ -431,6 +433,7 @@
   },
   "Weapon": "WEAPON_SWORD_ONE_HAND",
   "Rarity": "QUALITY_PURPLE",
+  "Element": "Pyro",
   "Icon": "UI_AvatarIcon_Bennett",
   "StaminaRecovery": 25,
   "BaseHP": 1039.4418,
@@ -795,9 +798,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S4" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S4" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S4" }
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S4", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

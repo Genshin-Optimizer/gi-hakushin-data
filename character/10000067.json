@@ -5,6 +5,8 @@
     "ReleaseDate": "2022-08-24 00:00:00",
     "Birth": [5, 8],
     "Vision": "Dendro",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Leptailurus Cervarius",
     "Region": "ASSOC_TYPE_SUMERU",
     "Title": "Sprout of Rebirth",
@@ -422,6 +424,7 @@
   },
   "Weapon": "WEAPON_BOW",
   "Rarity": "QUALITY_PURPLE",
+  "Element": "Dendro",
   "Icon": "UI_AvatarIcon_Collei",
   "StaminaRecovery": 25,
   "BaseHP": 820.6119,
@@ -786,9 +789,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S4" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S4" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S4" }
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S4", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

@@ -5,16 +5,16 @@
   "Rank": [3, 4, 5],
   "Affix": [
     {
-      "id": 215011,
-      "level": 0,
-      "affixId": 2150110,
-      "paramList": [0.4, 0, 0, 0, 0, 0, 0, 0],
-      "openConfig": "Relic_ElectricResistance",
       "addProps": [
         { "propType": "FIGHT_PROP_NONE", "value": 0 },
         { "propType": "FIGHT_PROP_NONE", "value": 0 },
         { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
+      "affixId": 2150110,
+      "id": 215011,
+      "level": 0,
+      "openConfig": "Relic_ElectricResistance",
+      "paramList": [0.4, 0, 0, 0, 0, 0, 0, 0],
       "Name": "Prayers for Wisdom",
       "Desc": "Affected by Electro for 40% less time."
     }

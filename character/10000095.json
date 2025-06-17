@@ -5,6 +5,8 @@
     "ReleaseDate": "2024-06-26 18:00:00",
     "Birth": [3, 30],
     "Vision": "Hydro",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Nereides",
     "Region": "ASSOC_TYPE_FONTAINE",
     "Title": "Wondrous Dragonheir",
@@ -52,7 +54,7 @@
       },
       {
         "Title": "Melusine-Specialized Portable Integrated Medical Apparatus",
-        "Text": "In the days before the main body of the Fontaine Research Institute had yet to float in the skies, the researchers would also accept some research projects that lay outside the scope of their usual investigations as a way to repay their benefactors.\\nThese projects were largely dry, uninteresting, but tolerable sacrifices for the sake of courting sponsors. Still, some would be outright ridiculous, to the point that the researchers might consider having their funding cut to be preferable to actually carrying them out.\\nOne day, one such task appeared, finding pride of place on their announcement boards.\\n\"Extra Urgent: Specialist Medical Device Development.\"\\n\"Requirements: 1. Portable, Small Size, Lightweight, to be carried with ease by a person with the build of a small child. 2. Needs to contain all needed medical implements for emergency calls (if present medical instruments cannot meet these requirements, a new complement of devices will need to be created separately.) 3. Contains a function with which to perform routine health checkups. 4. Must have a cute design.\"\\nThose who had gathered around the board to read this began to scrunch up their brows as they did so, and finally, they could not contain their anger any longer.\\n\"What sort of request is this? Never mind the how strict the requirements are — they're self-contradictory, too!\"\\n\"A cute design? What are we, toymakers?\"\\nBut the person who had put up the notice was unfazed by their infuriated response.\\n\"The commissioner is the Melusine head nurse at the Fortress of Meropide.\"\\nAt this, the researchers ��� who just moments before had been the very picture of outrage — fell utterly silent, until finally someone shouted out:\\n\"We're bidding for this one — no preferential treatment for those on shift! Also, anyone who complained just now is automatically out of the running!\"\\nAfter just a single month, Sigewinne had received a most satisfactory product. From then on, this heart-shaped medical kit could be seen at her hip wherever she went, indeed becoming one of her calling cards.\\nIf she had but one complaint, it would have to be its awful mouthful of a name — the \"Melusine-Specialized Portable Integrated Medical Apparatus.\"",
+        "Text": "In the days before the main body of the Fontaine Research Institute had yet to float in the skies, the researchers would also accept some research projects that lay outside the scope of their usual investigations as a way to repay their benefactors.\\nThese projects were largely dry, uninteresting, but tolerable sacrifices for the sake of courting sponsors. Still, some would be outright ridiculous, to the point that the researchers might consider having their funding cut to be preferable to actually carrying them out.\\nOne day, one such task appeared, finding pride of place on their announcement boards.\\n\"Extra Urgent: Specialist Medical Device Development.\"\\n\"Requirements: 1. Portable, Small Size, Lightweight, to be carried with ease by a person with the build of a small child. 2. Needs to contain all needed medical implements for emergency calls (if present medical instruments cannot meet these requirements, a new complement of devices will need to be created separately.) 3. Contains a function with which to perform routine health checkups. 4. Must have a cute design.\"\\nThose who had gathered around the board to read this began to scrunch up their brows as they did so, and finally, they could not contain their anger any longer.\\n\"What sort of request is this? Never mind the how strict the requirements are — they're self-contradictory, too!\"\\n\"A cute design? What are we, toymakers?\"\\nBut the person who had put up the notice was unfazed by their infuriated response.\\n\"The commissioner is the Melusine head nurse at the Fortress of Meropide.\"\\nAt this, the researchers — who just moments before had been the very picture of outrage — fell utterly silent, until finally someone shouted out:\\n\"We're bidding for this one — no preferential treatment for those on shift! Also, anyone who complained just now is automatically out of the running!\"\\nAfter just a single month, Sigewinne had received a most satisfactory product. From then on, this heart-shaped medical kit could be seen at her hip wherever she went, indeed becoming one of her calling cards.\\nIf she had but one complaint, it would have to be its awful mouthful of a name — the \"Melusine-Specialized Portable Integrated Medical Apparatus.\"",
         "Unlock": ["Unlocks at Friendship Lv. 4"]
       },
       {
@@ -462,6 +464,7 @@
   },
   "Weapon": "WEAPON_BOW",
   "Rarity": "QUALITY_ORANGE",
+  "Element": "Hydro",
   "Icon": "UI_AvatarIcon_Sigewinne",
   "StaminaRecovery": 25,
   "BaseHP": 1039.1188,
@@ -826,9 +829,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S5" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S5" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S5" }
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S5", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

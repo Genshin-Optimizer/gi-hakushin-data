@@ -5,6 +5,8 @@
     "ReleaseDate": "2024-11-19 00:00:00",
     "Birth": [10, 14],
     "Vision": "Electro",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Vampyrum Spectrum",
     "Region": "ASSOC_TYPE_NATLAN",
     "Title": "Shadow of the Night-Wind",
@@ -423,6 +425,7 @@
   },
   "Weapon": "WEAPON_BOW",
   "Rarity": "QUALITY_PURPLE",
+  "Element": "Electro",
   "Icon": "UI_AvatarIcon_Olorun",
   "StaminaRecovery": 25,
   "BaseHP": 775.02234,
@@ -787,9 +790,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S4" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S4" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S4" }
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S4", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

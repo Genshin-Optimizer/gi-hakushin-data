@@ -5,30 +5,30 @@
   "Rank": [1, 2, 3, 4, 5],
   "Affix": [
     {
-      "id": 210004,
-      "level": 0,
-      "affixId": 2100040,
-      "paramList": [0.2, 0, 0, 0, 0, 0, 0, 0],
-      "openConfig": "Relic_AllElemResistUp",
       "addProps": [
         { "propType": "FIGHT_PROP_NONE", "value": 0 },
         { "propType": "FIGHT_PROP_NONE", "value": 0 },
         { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
+      "affixId": 2100040,
+      "id": 210004,
+      "level": 0,
+      "openConfig": "Relic_AllElemResistUp",
+      "paramList": [0.2, 0, 0, 0, 0, 0, 0, 0],
       "Name": "Tiny Miracle",
       "Desc": "All Elemental RES increased by 20%."
     },
     {
-      "id": 210004,
-      "level": 1,
-      "affixId": 2100041,
-      "paramList": [0.3, 10, 10, 0, 0, 0, 0, 0],
-      "openConfig": "Relic_ElemDmgEnhanceElemResist",
       "addProps": [
         { "propType": "FIGHT_PROP_NONE", "value": 0 },
         { "propType": "FIGHT_PROP_NONE", "value": 0 },
         { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
+      "affixId": 2100041,
+      "id": 210004,
+      "level": 1,
+      "openConfig": "Relic_ElemDmgEnhanceElemResist",
+      "paramList": [0.3, 10, 10, 0, 0, 0, 0, 0],
       "Name": "Tiny Miracle",
       "Desc": "Incoming elemental DMG increases corresponding Elemental RES by 30% for 10s. Can only occur once every 10s."
     }

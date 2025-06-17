@@ -5,6 +5,8 @@
     "ReleaseDate": "2022-01-05 00:00:00",
     "Birth": [5, 21],
     "Vision": "Geo",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Opera Grandis",
     "Region": "ASSOC_TYPE_LIYUE",
     "Title": "Stage Lucida",
@@ -406,6 +408,7 @@
   },
   "Weapon": "WEAPON_POLE",
   "Rarity": "QUALITY_PURPLE",
+  "Element": "Geo",
   "Icon": "UI_AvatarIcon_Yunjin",
   "StaminaRecovery": 25,
   "BaseHP": 893.5552,
@@ -770,9 +773,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S4" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S4" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S4" }
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S4", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

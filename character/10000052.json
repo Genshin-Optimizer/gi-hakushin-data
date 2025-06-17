@@ -5,6 +5,8 @@
     "ReleaseDate": "2021-09-01 00:00:00",
     "Birth": [6, 26],
     "Vision": "Electro",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Imperatrix Umbrosa",
     "Region": "ASSOC_TYPE_INAZUMA",
     "Title": "Plane of Euthymia",
@@ -523,10 +525,18 @@
         "Quality": 0
       }
     ],
-    "TraceEffect": []
+    "TraceEffect": [
+      {
+        "Id": 215012,
+        "Name": "Echo: Plane of Euthymia",
+        "Desc": "Raiden Shogun's Envisaged Echo. \"The drawn bow is like the quartered moon, and studying the blade is like a circle of transparent jade. Now, the truth of jade lies beyond reach, my only companion the moonlit shades.\"",
+        "Icon": "UI_TraceEffectIcon_Shougun"
+      }
+    ]
   },
   "Weapon": "WEAPON_POLE",
   "Rarity": "QUALITY_ORANGE",
+  "Element": "Electro",
   "Icon": "UI_AvatarIcon_Shougun",
   "StaminaRecovery": 25,
   "BaseHP": 1004.79926,
@@ -891,9 +901,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S5" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S5" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S5" }
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S5", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

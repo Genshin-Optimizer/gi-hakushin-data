@@ -5,6 +5,8 @@
     "ReleaseDate": "2025-03-25 00:00:00",
     "Birth": [8, 8],
     "Vision": "Electro",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Carnotaurus",
     "Region": "ASSOC_TYPE_NATLAN",
     "Title": "Tempered in Molten Stone",
@@ -420,6 +422,7 @@
   },
   "Weapon": "WEAPON_POLE",
   "Rarity": "QUALITY_PURPLE",
+  "Element": "Electro",
   "Icon": "UI_AvatarIcon_Iansan",
   "StaminaRecovery": 25,
   "BaseHP": 893.5552,
@@ -784,9 +787,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S4" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S4" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S4" }
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S4", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

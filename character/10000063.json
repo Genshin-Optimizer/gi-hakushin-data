@@ -5,6 +5,8 @@
     "ReleaseDate": "2022-01-05 00:00:00",
     "Birth": [3, 10],
     "Vision": "Cryo",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Crista Doloris",
     "Region": "ASSOC_TYPE_LIYUE",
     "Title": "Lonesome Transcendence",
@@ -452,10 +454,18 @@
         "Quality": 0
       }
     ],
-    "TraceEffect": []
+    "TraceEffect": [
+      {
+        "Id": 215013,
+        "Name": "Echo: Lonesome Transcendence",
+        "Desc": "Shenhe's Envisaged Echo. \"From the world she seems apart, but there are those who know her heart.\"",
+        "Icon": "UI_TraceEffectIcon_Shenhe"
+      }
+    ]
   },
   "Weapon": "WEAPON_POLE",
   "Rarity": "QUALITY_ORANGE",
+  "Element": "Cryo",
   "Icon": "UI_AvatarIcon_Shenhe",
   "StaminaRecovery": 25,
   "BaseHP": 1011.47253,
@@ -820,9 +830,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S5" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S5" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S5" }
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S5", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

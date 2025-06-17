@@ -5,6 +5,8 @@
     "ReleaseDate": "1970-01-01 00:00:00",
     "Birth": [1, 1],
     "Vision": "None",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Viatrix",
     "Region": "ASSOC_TYPE_MAINACTOR",
     "Title": "",
@@ -34,8 +36,8 @@
       },
       {
         "Title": "Character Story 3",
-        "Text": "Not yet available",
-        "Unlock": ["Complete \"???\""]
+        "Text": "Though you made no promises, though it was an \"agreement\" the other party made one-sidedly,\\nYou nonetheless set out on a sojourn across the Seven Nations to reach \"the journey's end.\"\\nIt would be a stretch to call this a pleasant path — as your feet took you forward, you witnessed and were pulled into the crises each nation faced...\\nPerhaps this is no coincidence. Perhaps some tremendous tremor deeper beneath the world is to blame for the waves of catastrophe.\\nThe Tsaritsa's plan to collect the Gnoses persists apace, while the terrifying force corrupting the world awaits opportunities to strike.\\nAnd the Abyss Order, the organization led by your own flesh and blood...\\nFrom the Loom of Fate operational launch to the Atlas of the New World's completion, you know deep down that their actions are changing the fate of this world.\\nAs you gradually understand said world, you have also come to understand the things your brother...\\nBut this has not made your journey any easier, nor your footsteps lighter. That was not what you expected at first.",
+        "Unlock": ["Complete \"A Space and Time for You\""]
       },
       {
         "Title": "Character Story 4",
@@ -1033,7 +1035,7 @@
       },
       {
         "Title": "About Ways to Make a Fortune...",
-        "Text": "#<color=#37FFFF>Paimon:</color> Guess what? Paimon just thought of the best Mora-making idea ever!\\n<color=#37FFFF>{NICKNAME}:</color> Oh? Do tell.\\n<color=#37FFFF>Paimon:</color> Just look at how many people pass by this place every day. If we opened a business here, right outside the Stadium, we'd make a fortune without even trying!\\n<color=#37FFFF>{NICKNAME}:</color> So... What would you sell?\\n<color=#37FFFF>Paimon:</color> Uhhh... maybe... alchemical potions from Mondstadt?\\n<color=#37FFFF>{NICKNAME}:</color> I think there's already people selling similar stuff...\\n<color=#37FFFF>Paimon:</color> In that case, ummm... Ooh! Ores from Liyue! Yeah, we could make a killing off of those!\\n<color=#37FFFF>{NICKNAME}:</color> Pretty sure the Children of Echoes are already in that business, too...\\n<color=#37FFFF>Paimon:</color> Yeah... Wait, Paimon's got it — rugs from Sumeru! Those'll definitely be a hit!\\n<color=#37FFFF>{NICKNAME}:</color> Unfortunately, that's the specialty of the Masters of the Night-Wind.\\n<color=#37FFFF>Paimon:</color> Well then... we'll fence the whole Stadium up! And charge an admission fee to everyone who tries to get inside, whether they're a contestant or a spectator!\\n<color=#37FFFF>{NICKNAME}:</color> You'll be locked up before your fence is even half-finished...\\n<color=#37FFFF>Paimon:</color> Grrrrrrrr! Why does getting rich have to be so hard?",
+        "Text": "#<color=#37FFFF>Paimon:</color> Guess what? Paimon just thought of the best Mora-making idea ever!\\n<color=#37FFFF>{NICKNAME}:</color> Oh? Do tell.\\n<color=#37FFFF>Paimon:</color> Just look at how many people pass by this place every day. If we opened a business here, right outside the Stadium, we'd make a fortune without even trying!\\n<color=#37FFFF>{NICKNAME}:</color> So... What would you sell?\\n<color=#37FFFF>Paimon:</color> Uhhh... maybe... alchemical potions from Mondstadt?\\n<color=#37FFFF>{NICKNAME}:</color> I think there's already people selling similar stuff...\\n<color=#37FFFF>Paimon:</color> In that case, ummm... Ooh! Ores from Liyue! Yeah, we could make a killing off of those!\\n<color=#37FFFF>{NICKNAME}:</color> Pretty sure the Children of Echoes are already in that business, too...\\n<color=#37FFFF>Paimon:</color> Yeah... Wait, Paimon's got it ��� rugs from Sumeru! Those'll definitely be a hit!\\n<color=#37FFFF>{NICKNAME}:</color> Unfortunately, that's the specialty of the Masters of the Night-Wind.\\n<color=#37FFFF>Paimon:</color> Well then... we'll fence the whole Stadium up! And charge an admission fee to everyone who tries to get inside, whether they're a contestant or a spectator!\\n<color=#37FFFF>{NICKNAME}:</color> You'll be locked up before your fence is even half-finished...\\n<color=#37FFFF>Paimon:</color> Grrrrrrrr! Why does getting rich have to be so hard?",
         "Unlocked": ["Complete \"Black Stone Under a White Stone\""]
       },
       {
@@ -1048,7 +1050,7 @@
       },
       {
         "Title": "About the Stadium of the Sacred Flame...",
-        "Text": "#<color=#37FFFF>Paimon:</color> So just between the two of us... Paimon's been wondering about something. It's to do with the competitions at the Stadium.\\n<color=#37FFFF>Paimon:</color> You know how there's a point system? First everyone fights in teams, then for the teams that make it through, there's a set number of one-on-one matches, and after that, everyone's ranked based on their final scores.\\n<color=#37FFFF>Paimon:</color> Why did they structure it like that?\\n<color=#37FFFF>{NICKNAME}:</color> Maybe it's to maintain suspense until the final round? Everyone loves to see the underdog make a comeback at the last minute.\\n<color=#37FFFF>Paimon:</color> Could be, could be... Or maybe it's because they wanna avoid a situation where there's only two contestants and they're evenly matched?\\n<color=#37FFFF>{NICKNAME}:</color> Yeah... They'd end up having to call it a draw and quit.\\n<color=#37FFFF>Paimon:</color> Exactly! It'd be like pitting the most aggressive Tatankasaur against the most slippery Yumkasaur. Tatankasaur attacks, Yumkasaur dodges, and so on and so forth, until a whole day and night has passed...\\n<color=#37FFFF>Paimon:</color> By this point, the audience is starving, so they end the fight and agree to a round two some other time.\\n<color=#37FFFF>Paimon:</color> But round two comes and goes, and there's still no clear winner. This time, the fight only ends because the Yumkasaur makes an illegal surprise attack and injures the Tatankasaur.\\n<color=#37FFFF>Paimon:</color> ...Before long, we've ended up with \"Tatanka vs. Yumka,\" \"Tatanka vs. Yumka 2,\" \"Tatanka vs. Yumka: Return of the Sacred Scales,\" \"Tatanka vs. Yumka: Over the Volcano\"... and the sequels show no signs of stopping.\\n<color=#37FFFF>Paimon:</color> ...Wait, we should totally get those made into a film series! We'd make a ton of Mora.\\n<color=#37FFFF>{NICKNAME}:</color> Not a bad idea... Although, I don't think the Scions of the Canopy would be too too happy about you making their Saurian the villain!\\n<color=#37FFFF>Paimon:</color> Alright, well you pitch an idea then, if you're such a film critic!",
+        "Text": "#<color=#37FFFF>Paimon:</color> So just between the two of us... Paimon's been wondering about something. It's to do with the competitions at the Stadium.\\n<color=#37FFFF>Paimon:</color> You know how there's a point system? First everyone fights in teams, then for the teams that make it through, there's a set number of one-on-one matches, and after that, everyone's ranked based on their final scores.\\n<color=#37FFFF>Paimon:</color> Why did they structure it like that?\\n<color=#37FFFF>{NICKNAME}:</color> Maybe it's to maintain suspense until the final round? Everyone loves to see the underdog make a comeback at the last minute.\\n<color=#37FFFF>Paimon:</color> Could be, could be... Or maybe it's because they wanna avoid a situation where there's only two contestants and they're evenly matched?\\n<color=#37FFFF>{NICKNAME}:</color> Yeah... They'd end up having to call it a draw and quit.\\n<color=#37FFFF>Paimon:</color> Exactly! It'd be like pitting the most aggressive Tatankasaur against the most slippery Yumkasaur. Tatankasaur attacks, Yumkasaur dodges, and so on and so forth, until a whole day and night has passed...\\n<color=#37FFFF>Paimon:</color> By this point, the audience is starving, so they end the fight and agree to a round two some other time.\\n<color=#37FFFF>Paimon:</color> But round two comes and goes, and there's still no clear winner. This time, the fight only ends because the Yumkasaur makes an illegal surprise attack and injures the Tatankasaur.\\n<color=#37FFFF>Paimon:</color> ...Before long, we've ended up with \"Tatanka vs. Yumka,\" \"Tatanka vs. Yumka 2,\" \"Tatanka vs. Yumka: Return of the Sacred Scales,\" \"Tatanka vs. Yumka: Over the Volcano\"... and the sequels show no signs of stopping.\\n<color=#37FFFF>Paimon:</color> ...Wait, we should totally get those made into a film series! We'd make a ton of Mora.\\n<color=#37FFFF>{NICKNAME}:</color> Not a bad idea... Although, I don't think the Scions of the Canopy would be too happy about you making their Saurian the villain!\\n<color=#37FFFF>Paimon:</color> Alright, well you pitch an idea then, if you're such a film critic!",
         "Unlocked": ["Complete \"Black Stone Under a White Stone\""]
       },
       {
@@ -1167,6 +1169,7 @@
   },
   "Weapon": "WEAPON_SWORD_ONE_HAND",
   "Rarity": "QUALITY_ORANGE",
+  "Element": "Pyro",
   "Icon": "UI_AvatarIcon_PlayerGirl",
   "StaminaRecovery": 25,
   "BaseHP": 911.791,
@@ -1531,9 +1534,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S4" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S4" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S4" }
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S4", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

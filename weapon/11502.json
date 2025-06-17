@@ -4,14 +4,14 @@
   "WeaponType": "WEAPON_SWORD_ONE_HAND",
   "WeaponProp": [
     {
-      "type": "GROW_CURVE_ATTACK_301",
       "initValue": 45.9364,
-      "propType": "FIGHT_PROP_BASE_ATTACK"
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "type": "GROW_CURVE_ATTACK_301"
     },
     {
-      "type": "GROW_CURVE_CRITICAL_301",
       "initValue": 0.12,
-      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+      "type": "GROW_CURVE_CRITICAL_301"
     }
   ],
   "Rarity": 5,

@@ -5,6 +5,8 @@
     "ReleaseDate": "2025-05-06 00:00:00",
     "Birth": [6, 8],
     "Vision": "Cryo",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Dulciaria Structura",
     "Region": "ASSOC_TYPE_FONTAINE",
     "Title": "Tasteful Excellence",
@@ -133,12 +135,12 @@
         "Unlocked": ["Unlocks at Friendship Lv. 4"]
       },
       {
-        "Title": "About Us: Right to Critique",
+        "Title": "About Us: Principles of Innovation",
         "Text": "As some ingredients start to spoil, others are just beginning to sprout... That's pretty much a metaphor for cooking as a whole — it's always evolving. Classic recipes are valuable, but that doesn't mean we should be confined to that era. Of course, innovation needs to be thoughtful, otherwise you might end up with abominations like \"Lavender Melon Cream Macaroni\" or \"Jueyun Chili-Infused Earl Grey Tea\"... At the very least, you need to know where to draw the line!",
         "Unlocked": []
       },
       {
-        "Title": "About Us: Principles of Innovation",
+        "Title": "About Us: Right to Critique",
         "Text": "A chef should strive to give their customer the best experience, but when it comes to critique, the customer isn't always right. Some people are born with a less refined sense of taste. Others don't care about the subtleties of a dish, much less the intricate combination of presentation, smell, and taste. You, on the other hand, are a special case. You're detailed, perceptive, well-traveled, and someone who has dined with the Archons themselves. As such, only you have the right to critique all aspects of my work. If you think there's something off with one of my dishes, just let me know — I won't take offense.",
         "Unlocked": ["Unlocks at Friendship Lv. 6"]
       },
@@ -460,6 +462,7 @@
   },
   "Weapon": "WEAPON_POLE",
   "Rarity": "QUALITY_ORANGE",
+  "Element": "Cryo",
   "Icon": "UI_AvatarIcon_Escoffier",
   "StaminaRecovery": 25,
   "BaseHP": 1039.1188,
@@ -824,9 +827,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S5" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S5" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S5" }
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S5", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },
@@ -2041,7 +2044,7 @@
     },
     {
       "Name": "Constant Off-the-Cuff Cookery",
-      "Desc": "When using the Hold form of her Elemental Skill <color=#FFD780FF>{LINK#S11122}Low-Temperature Cooking{/LINK}</color>, Escoffier will activate her All-Spectrum Multi-Use Cooking Mek in its Off-the-Cuff Cookery mode.\\n\\n<color=#FFD780FF>Cooking Mek: Off-the-Cuff Cookery Mode</color>\\n· Places the Cooking Mek on the field. The Cooking Mek can absorb elemental attacks. When the absorbed elemental energy hits a certain limit, Escoffier can convert the ingredients placed within it into wonderful food.\\n· Escoffier needs time to purchase new ingredients, so she can only make a certain number of dishes like this each week. The number of dishes Escoffier can make resets every Monday at 4:00 AM.",
+      "Desc": "#When using the Hold form of her Elemental Skill <color=#FFD780FF>{LINK#S11122}Low-Temperature Cooking{/LINK}</color>, Escoffier will activate her All-Spectrum Multi-Use Cooking Mek in its Off-the-Cuff Cookery mode.\\n\\n<color=#FFD780FF>Cooking Mek: Off-the-Cuff Cookery Mode</color>\\n· Places the Cooking Mek on the field. The Cooking Mek can absorb elemental attacks. When the absorbed elemental energy hits a certain limit, Escoffier can convert the ingredients placed within it into wonderful food.\\n· Escoffier needs time to purchase new ingredients, so she can only make a certain number of dishes like this each week. The number of dishes Escoffier can make resets every Monday at 4:00 AM {TIMEZONE}.",
       "Icon": "UI_Talent_S_Escoffier_08",
       "Unlock": 0,
       "ParamList": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]

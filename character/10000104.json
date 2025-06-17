@@ -5,6 +5,8 @@
     "ReleaseDate": "2024-11-19 00:00:00",
     "Birth": [12, 10],
     "Vision": "Anemo",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Vultur Gryphus",
     "Region": "ASSOC_TYPE_NATLAN",
     "Title": "Skyborne Arbiter",
@@ -410,6 +412,7 @@
   },
   "Weapon": "WEAPON_BOW",
   "Rarity": "QUALITY_ORANGE",
+  "Element": "Anemo",
   "Icon": "UI_AvatarIcon_Chasca",
   "StaminaRecovery": 25,
   "BaseHP": 762.656,
@@ -774,9 +777,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S5" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S5" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S5" }
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S5", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

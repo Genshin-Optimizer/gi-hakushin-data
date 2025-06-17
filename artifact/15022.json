@@ -5,30 +5,30 @@
   "Rank": [4, 5],
   "Affix": [
     {
-      "id": 215022,
-      "level": 0,
-      "affixId": 2150220,
-      "paramList": [0.15, 0, 0, 0, 0, 0, 0, 0],
-      "openConfig": "",
       "addProps": [
         { "propType": "FIGHT_PROP_HEAL_ADD", "value": 0.15 },
         { "propType": "FIGHT_PROP_NONE", "value": 0 },
         { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
+      "affixId": 2150220,
+      "id": 215022,
+      "level": 0,
+      "openConfig": "",
+      "paramList": [0.15, 0, 0, 0, 0, 0, 0, 0],
       "Name": "Ocean-Hued Clam",
       "Desc": "Healing Bonus +15%."
     },
     {
-      "id": 215022,
-      "level": 1,
-      "affixId": 2150221,
-      "paramList": [3, 0.9, 0, 3.5, 30000, 0, 0, 0],
-      "openConfig": "Relic_HealAndHolyNova",
       "addProps": [
         { "propType": "FIGHT_PROP_NONE", "value": 0 },
         { "propType": "FIGHT_PROP_NONE", "value": 0 },
         { "propType": "FIGHT_PROP_NONE", "value": 0 }
       ],
+      "affixId": 2150221,
+      "id": 215022,
+      "level": 1,
+      "openConfig": "Relic_HealAndHolyNova",
+      "paramList": [3, 0.9, 0, 3.5, 30000, 0, 0, 0],
       "Name": "Ocean-Hued Clam",
       "Desc": "When the character equipping this artifact set heals a character in the party, a Sea-Dyed Foam will appear for 3 seconds, accumulating the amount of HP recovered from healing (including overflow healing). At the end of the duration, the Sea-Dyed Foam will explode, dealing DMG to nearby opponents based on 90% of the accumulated healing. (This DMG is calculated similarly to Reactions such as Electro-Charged, and Superconduct, but is not affected by Elemental Mastery, Character Levels, or Reaction DMG Bonuses). Only one Sea-Dyed Foam can be produced every 3.5 seconds. Each Sea-Dyed Foam can accumulate up to 30,000 HP (including overflow healing). There can be no more than one Sea-Dyed Foam active at any given time. This effect can still be triggered even when the character who is using this artifact set is not on the field."
     }

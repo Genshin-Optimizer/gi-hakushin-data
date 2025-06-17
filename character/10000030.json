@@ -5,6 +5,8 @@
     "ReleaseDate": "2020-12-02 04:00:00",
     "Birth": [12, 31],
     "Vision": "Geo",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Lapis Dei",
     "Region": "ASSOC_TYPE_LIYUE",
     "Title": "Vago Mundo",
@@ -503,6 +505,7 @@
   },
   "Weapon": "WEAPON_POLE",
   "Rarity": "QUALITY_ORANGE",
+  "Element": "Geo",
   "Icon": "UI_AvatarIcon_Zhongli",
   "StaminaRecovery": 25,
   "BaseHP": 1143.984,
@@ -867,9 +870,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S5" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S5" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S5" }
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S5", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

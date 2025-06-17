@@ -5,6 +5,8 @@
     "ReleaseDate": "2020-09-15 04:00:00",
     "Birth": [7, 5],
     "Vision": "Hydro",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Crater",
     "Region": "ASSOC_TYPE_MONDSTADT",
     "Title": "Shining Idol",
@@ -376,6 +378,11 @@
         "Title": "Receiving a Gift: III",
         "Text": "Oh, uh, oh dear...",
         "Unlocked": []
+      },
+      {
+        "Title": "About Dahlia",
+        "Text": "I really look up to Dahlia. We rely on him to share the word of Barbatos, and it's always a great help to us all. He never sticks around long at the Cathedral, though. Maybe it's too quiet for him? He seems to love the markets and the taverns. And he can be hard to find sometimes... same as Rosaria.",
+        "Unlocked": ["Unlocks at Friendship Lv. 4"]
       }
     ],
     "SpecialFood": {
@@ -411,6 +418,7 @@
   },
   "Weapon": "WEAPON_CATALYST",
   "Rarity": "QUALITY_PURPLE",
+  "Element": "Hydro",
   "Icon": "UI_AvatarIcon_Barbara",
   "StaminaRecovery": 25,
   "BaseHP": 820.6119,
@@ -775,9 +783,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S4" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S4" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S4" }
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S4", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S4", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

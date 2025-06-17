@@ -5,6 +5,8 @@
     "ReleaseDate": "2024-12-31 00:00:00",
     "Birth": [1, 20],
     "Vision": "Cryo",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Patina Anavatlaca",
     "Region": "ASSOC_TYPE_NATLAN",
     "Title": "Obsidian Opalstar",
@@ -393,7 +395,7 @@
       },
       {
         "Title": "Joining Party: II",
-        "Text": "Leave me alo�� Ahh, never mind! Let's go!",
+        "Text": "Leave me alo— Ahh, never mind! Let's go!",
         "Unlocked": []
       },
       {
@@ -433,6 +435,7 @@
   },
   "Weapon": "WEAPON_CATALYST",
   "Rarity": "QUALITY_ORANGE",
+  "Element": "Cryo",
   "Icon": "UI_AvatarIcon_Citlali",
   "StaminaRecovery": 25,
   "BaseHP": 905.654,
@@ -797,9 +800,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S5" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S5" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S5" }
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S5", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

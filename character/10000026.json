@@ -5,6 +5,8 @@
     "ReleaseDate": "2021-02-02 00:00:00",
     "Birth": [4, 17],
     "Vision": "Anemo",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Alatus Nemeseos",
     "Region": "ASSOC_TYPE_LIYUE",
     "Title": "Vigilant Yaksha",
@@ -392,6 +394,7 @@
   },
   "Weapon": "WEAPON_POLE",
   "Rarity": "QUALITY_ORANGE",
+  "Element": "Anemo",
   "Icon": "UI_AvatarIcon_Xiao",
   "StaminaRecovery": 25,
   "BaseHP": 991.4528,
@@ -756,9 +759,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S5" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S5" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S5" }
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S5", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

@@ -4,14 +4,14 @@
   "WeaponType": "WEAPON_POLE",
   "WeaponProp": [
     {
-      "type": "GROW_CURVE_ATTACK_302",
       "initValue": 47.537,
-      "propType": "FIGHT_PROP_BASE_ATTACK"
+      "propType": "FIGHT_PROP_BASE_ATTACK",
+      "type": "GROW_CURVE_ATTACK_302"
     },
     {
-      "type": "GROW_CURVE_CRITICAL_301",
       "initValue": 0.08,
-      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+      "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+      "type": "GROW_CURVE_CRITICAL_301"
     }
   ],
   "Rarity": 5,

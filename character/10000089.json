@@ -5,6 +5,8 @@
     "ReleaseDate": "2023-11-07 00:00:00",
     "Birth": [10, 13],
     "Vision": "Hydro",
+    "VisionSpecialTypeBefore": "???",
+    "VisionSpecialTypeAfter": "Vision",
     "Constellation": "Animula Choragi",
     "Region": "ASSOC_TYPE_FONTAINE",
     "Title": "Endless Solo of Solitude",
@@ -158,7 +160,7 @@
       },
       {
         "Title": "About the Vision",
-        "Text": "Once the ancient prophecy came to an end and everything was over, I fell into low spirits for a very long time. People who stand on the stage basking in the adulation of their audience must also bear the pressures of being in the public eye and living up to everyone's expectations. But I knew very well my person wouldn't be enough, and that putting on the act of a god would be able the only way to satisfy their adoration... And at the end of the day, all I ever experienced was loneliness. So there came a point when I loathed the very thought of acting and locked myself in my room. It wasn't until the moment I stood on stage and faced the audience again that I realized the anxiety in my heart had dissipated. The reason I can now stand before the crowd's watchful gaze is perhaps because... I have finally started to act as myself.",
+        "Text": "Once the ancient prophecy came to an end and everything was over, I fell into low spirits for a very long time. People who stand on the stage basking in the adulation of their audience must also bear the pressures of being in the public eye and living up to everyone's expectations. But I knew very well my person wouldn't be enough, and that putting on the act of a god would be the only way to satisfy their adoration... And at the end of the day, all I ever experienced was loneliness. So there came a point when I loathed the very thought of acting and locked myself in my room. It wasn't until the moment I stood on stage and faced the audience again that I realized the anxiety in my heart had dissipated. The reason I can now stand before the crowd's watchful gaze is perhaps because... I have finally started to act as myself.",
         "Unlocked": [
           "Unlocks at Friendship Lv. 4",
           "Complete \"The Little Oceanid\""
@@ -467,6 +469,7 @@
   },
   "Weapon": "WEAPON_SWORD_ONE_HAND",
   "Rarity": "QUALITY_ORANGE",
+  "Element": "Hydro",
   "Icon": "UI_AvatarIcon_Furina",
   "StaminaRecovery": 25,
   "BaseHP": 1191.65,
@@ -831,9 +834,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S5" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S5" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S5" }
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S5", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },

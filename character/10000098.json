@@ -5,6 +5,8 @@
     "ReleaseDate": "2024-06-04 00:00:00",
     "Birth": [9, 20],
     "Vision": "Electro",
+    "VisionSpecialTypeBefore": "",
+    "VisionSpecialTypeAfter": "",
     "Constellation": "Rapperia",
     "Region": "ASSOC_TYPE_FONTAINE",
     "Title": "Candlebearer, Shadowhunter",
@@ -49,7 +51,7 @@
       },
       {
         "Title": "\"Marechaussee Hunter's Legacy\"",
-        "Text": "If you're looking for the most characteristic element of Clorinde's outfit, look no further than the coat-tail cape that hangs down behind her.\\nFor Clorinde, this cape is a \"keepsake\" in the truest sense.\\nWhen she was but ten years old, the mentor who had trained and looked after her, Petronilla, left without saying goodbye. Even Mr. Callas, who always seemed to know everything, hadn't the slightest idea where the Marechaussee Hunter had gone. Not only did Clorinde turn the whole room inside out; she also went back to all the places where she had once trained to search for clues; but in the end, there was nothing that might indicate where her mentor had gone. In all her searching, the only thing she found was a long, slim, dark blue cape hanging in the closet.\\nClorinde had never seen her mentor wear this cape before; she always wore a black one. Even if Clorinde had somehow managed to forget this, the Gardes who Petronilla had often run rings around — combined with all the wanted posters pasted on walls throughout the city — would have reminded her anyway.\\n...But on the inside of the cape, you could clearly make out the unmistakable imprint of the Marechaussee Hunter's insignia. There was also a necklace with a dagger-shaped pendant that had her name carved into it — a belated birthday gift, it seemed.\\nBut this cape and the insignia upon it... Were they really a parting gift, or just another one of her mentor's tests?\\nClorinde couldn't tell, but she kept the items nonetheless.\\nIf it was a test, then she'd do everything in her power to prepare for the final trial that awaited her.\\nEven if the trial should span the rest of her life.",
+        "Text": "If you're looking for the most characteristic element of Clorinde's outfit, look no further than the coat-tail cape that hangs down behind her.\\nFor Clorinde, this cape is a \"keepsake\" in the truest sense.\\nWhen she was but ten years old, the mentor who had trained and looked after her, Petronilla, left without saying goodbye. Even Mr. Callas, who always seemed to know everything, hadn't the slightest idea where the Marechaussee Hunter had gone. Not only did Clorinde turn the whole room inside out; she also went back to all the places where she had once trained to search for clues; but in the end, there was nothing that might indicate where her mentor had gone. In all her searching, the only thing she found was a long, slim, dark blue cape hanging in the closet.\\nClorinde had never seen her mentor wear this cape before; she always wore a black one. Even if Clorinde had somehow managed to forget this, the Gardes who Petronilla had often run rings around — combined with all the wanted posters pasted on walls throughout the city �� would have reminded her anyway.\\n...But on the inside of the cape, you could clearly make out the unmistakable imprint of the Marechaussee Hunter's insignia. There was also a necklace with a dagger-shaped pendant that had her name carved into it — a belated birthday gift, it seemed.\\nBut this cape and the insignia upon it... Were they really a parting gift, or just another one of her mentor's tests?\\nClorinde couldn't tell, but she kept the items nonetheless.\\nIf it was a test, then she'd do everything in her power to prepare for the final trial that awaited her.\\nEven if the trial should span the rest of her life.",
         "Unlock": ["Unlocks at Friendship Lv. 4"]
       },
       {
@@ -414,6 +416,7 @@
   },
   "Weapon": "WEAPON_SWORD_ONE_HAND",
   "Rarity": "QUALITY_ORANGE",
+  "Element": "Electro",
   "Icon": "UI_AvatarIcon_Clorinde",
   "StaminaRecovery": 25,
   "BaseHP": 1008.61255,
@@ -778,9 +781,9 @@
       }
     ],
     "PropGrowCurves": [
-      { "type": "FIGHT_PROP_BASE_HP", "growCurve": "GROW_CURVE_HP_S5" },
-      { "type": "FIGHT_PROP_BASE_ATTACK", "growCurve": "GROW_CURVE_ATTACK_S5" },
-      { "type": "FIGHT_PROP_BASE_DEFENSE", "growCurve": "GROW_CURVE_HP_S5" }
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_HP" },
+      { "growCurve": "GROW_CURVE_ATTACK_S5", "type": "FIGHT_PROP_BASE_ATTACK" },
+      { "growCurve": "GROW_CURVE_HP_S5", "type": "FIGHT_PROP_BASE_DEFENSE" }
     ],
     "RecommendedProps": []
   },
