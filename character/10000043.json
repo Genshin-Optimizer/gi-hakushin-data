@@ -15,7 +15,7 @@
     "VA": {
       "Chinese": "小敢",
       "Japanese": "藤田茜",
-      "English": "Valeria Rodriguez",
+      "English": "Valeria Rodriguez & Anonymous",
       "Korean": "Kim Ha-young"
     },
     "Stories": [
@@ -810,6 +810,7 @@
   },
   "Skills": [
     {
+      "Id": 10431,
       "Name": "Wind Spirit Creation",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 attacks using Wind Spirits, dealing <color=#80FFD7FF>Anemo DMG</color>.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina and deals <color=#80FFD7FF>AoE Anemo DMG</color> after a short casting time.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nCalling upon the power of her Wind Spirits, Sucrose plunges towards the ground from mid-air, damaging all opponents in her path. Deals <color=#80FFD7FF>AoE Anemo DMG</color> upon impact with the ground.",
       "Promote": {
@@ -1206,6 +1207,7 @@
       }
     },
     {
+      "Id": 10432,
       "Name": "Astable Anemohypostasis Creation - 6308",
       "Desc": "Creates a small Wind Spirit that pulls opponents and objects towards its location, launches opponents within its AoE, and deals <color=#80FFD7FF>Anemo DMG</color>.\\n\\n<i>This is a little embarrassing, but though the elemental lifeforms birthed through this procedure dissipate very rapidly, they are incredibly useful when adventuring. Even failed experiments can have practical applications.</i>",
       "Promote": {
@@ -1587,6 +1589,7 @@
       }
     },
     {
+      "Id": 10435,
       "Name": "Forbidden Creation - Isomer 75 / Type II",
       "Desc": "Sucrose hurls an unstable concoction that creates a Large Wind Spirit.\\nWhile it persists, the Large Wind Spirit will continuously pull in surrounding opponents and objects, launch nearby opponents, and deal <color=#80FFD7FF>Anemo DMG</color>.\\n\\n<color=#FFD780FF>Elemental Absorption</color>\\nIf the Wind Spirit comes into contact with <color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro</color>/<color=#99FFFFFF>Cryo</color>/<color=#FFACFFFF>Electro</color> energy, it will deal additional elemental DMG of that type.\\nElemental Absorption may only occur once per use.\\n\\n<i>Sucrose used to give names to her volatile Anemo Hypostases, but their line of heirs quickly grew to surpass Baron Bunny the 893rd.</i>",
       "Promote": {

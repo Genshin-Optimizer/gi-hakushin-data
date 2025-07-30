@@ -803,6 +803,7 @@
   },
   "Skills": [
     {
+      "Id": 10291,
       "Name": "Kaboom!",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nThrows things that go boom when they hit things! Performs up to 3 explosive attacks, dealing <color=#FF9999FF>AoE Pyro DMG</color>.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina and deals <color=#FF9999FF>AoE Pyro DMG</color> to opponents after a short casting time.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nGathering the power of Pyro, Klee plunges towards the ground from mid-air, damaging all opponents in her path. Deals <color=#FF9999FF>AoE Pyro DMG</color> upon impact with the ground.",
       "Promote": {
@@ -1199,6 +1200,7 @@
       }
     },
     {
+      "Id": 10292,
       "Name": "Jumpy Dumpty",
       "Desc": "Jumpy Dumpty is tons of boom-bang-fun! \\nWhen thrown, Jumpy Dumpty bounces thrice, igniting and dealing <color=#FF9999FF>AoE Pyro DMG</color> with every bounce.\\n\\nOn the third bounce, the bomb splits into many mines.\\nThe mines will explode upon contact with opponents, or after a short period of time, dealing <color=#FF9999FF>AoE Pyro DMG</color>.\\n\\nStarts with 2 charges.\\n\\n<i>Jumpy Dumpty is Klee's good friend! She can't help but introduce him to everyone.</i>",
       "Promote": {
@@ -1595,6 +1597,7 @@
       }
     },
     {
+      "Id": 10295,
       "Name": "Sparks 'n' Splash",
       "Desc": "Klee's Blazing Delight! For the duration of this ability, continuously summons Sparks 'n' Splash to attack nearby opponents, dealing <color=#FF9999FF>AoE Pyro DMG</color>.\\n\\n<i>The knights all believe that Klee must have a lucky star watching over her to have never been hurt by any of her own bombs...</i>",
       "Promote": {

@@ -466,7 +466,7 @@
     "EN": "Peak Patrol Song",
     "desc": "An obsidian blade of unparalleled sharpness, light as a song. It was modified by a certain artisan to come equipped with a record-playing detachable Phlogiston Device.",
     "KR": "바위산을 맴도는 노래",
-    "CHS": "���峰巡歌",
+    "CHS": "岩峰巡歌",
     "JP": "岩峰を巡る歌"
   },
   "11517": {
@@ -607,7 +607,7 @@
     "desc": "An ancient greatsword discovered in the Blackcliff Forge. It swings with such an immense force that one feels it could cut straight through reality itself.",
     "KR": "고화 프로토타입",
     "CHS": "试作古华",
-    "JP": "古華��試作"
+    "JP": "古華·試作"
   },
   "12407": {
     "icon": "UI_EquipIcon_Claymore_Exotic",
@@ -778,6 +778,16 @@
     "KR": "대지를 울리는 자",
     "CHS": "撼地者",
     "JP": "アースシェイカー"
+  },
+  "12432": {
+    "icon": "UI_EquipIcon_Claymore_Polilith",
+    "rank": 4,
+    "type": "WEAPON_CLAYMORE",
+    "EN": "Flame-Forged Insight",
+    "desc": "Tribal tales tell of a great blade forged by the People of the Springs to protect a child who would embark on a distant journey. This particular weapon appears to be a replica of that legendary sword.",
+    "KR": "불로 벼린 지혜",
+    "CHS": "拾慧铸熔",
+    "JP": "知恵の溶炎"
   },
   "12501": {
     "icon": "UI_EquipIcon_Claymore_Dvalin",
@@ -1229,6 +1239,16 @@
     "CHS": "香韵奏者",
     "JP": "香りのシンフォニスト"
   },
+  "13515": {
+    "icon": "UI_EquipIcon_Pole_Perdix",
+    "rank": 5,
+    "type": "WEAPON_POLE",
+    "EN": "Fractured Halo",
+    "desc": "A spinning mechanical blade produced by the Clink-Clank Krumkake Craftshop that seems to hide secrets from a bygone era...",
+    "KR": "파멸의 빛고리",
+    "CHS": "支离轮光",
+    "JP": "砕け散る光輪"
+  },
   "14101": {
     "icon": "UI_EquipIcon_Catalyst_Apprentice",
     "rank": 1,
@@ -1546,7 +1566,7 @@
     "EN": "Memory of Dust",
     "desc": "A stone dumbbell containing distant memories. Its endless transformations reveal the power within.",
     "KR": "속세의 자물쇠",
-    "CHS": "尘世之��",
+    "CHS": "尘世之锁",
     "JP": "浮世の錠"
   },
   "14505": {
@@ -1646,7 +1666,7 @@
     "EN": "Starcaller's Watch",
     "desc": "A statue carved in the shape of an eagle, a sacred relic of the Masters of the Night-Wind that has been passed down from generation to generation.",
     "KR": "별지기의 시선",
-    "CHS": "祭星者之望",
+    "CHS": "祭星者��望",
     "JP": "祭星者の眺め"
   },
   "14518": {
@@ -1795,7 +1815,7 @@
     "type": "WEAPON_BOW",
     "EN": "Prototype Crescent",
     "desc": "A prototype longbow discovered in the Blackcliff Forge. The arrow fired from this bow glimmers like a ray of moonlight.",
-    "KR": "담월 프로토��입",
+    "KR": "담월 프로토타입",
     "CHS": "试作澹月",
     "JP": "澹月·試作"
   },
@@ -1975,7 +1995,7 @@
     "type": "WEAPON_BOW",
     "EN": "Flower-Wreathed Feathers",
     "desc": "A longbow that burns like a flame. The feathers that adorn it are said to have come from the ancient tyrant Ngoubou.",
-    "KR": "꽃장식 깃",
+    "KR": "꽃장�� 깃",
     "CHS": "缀花之翎",
     "JP": "花飾りの羽"
   },

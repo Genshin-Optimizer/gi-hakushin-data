@@ -15,7 +15,7 @@
     "VA": {
       "Chinese": "宴宁 & 多多poi",
       "Japanese": "悠木碧 & 古賀葵",
-      "English": "Sarah Miller-Crews & Corina Boettger",
+      "English": "Sarah Miller-Crews & Corina Boettger & Anonymous",
       "Korean": "Lee Sae-ah & Kim Ka-ryoung"
     },
     "Stories": [
@@ -1035,7 +1035,7 @@
       },
       {
         "Title": "About Ways to Make a Fortune...",
-        "Text": "#<color=#37FFFF>Paimon:</color> Guess what? Paimon just thought of the best Mora-making idea ever!\\n<color=#37FFFF>{NICKNAME}:</color> Oh? Do tell.\\n<color=#37FFFF>Paimon:</color> Just look at how many people pass by this place every day. If we opened a business here, right outside the Stadium, we'd make a fortune without even trying!\\n<color=#37FFFF>{NICKNAME}:</color> So... What would you sell?\\n<color=#37FFFF>Paimon:</color> Uhhh... maybe... alchemical potions from Mondstadt?\\n<color=#37FFFF>{NICKNAME}:</color> I think there's already people selling similar stuff...\\n<color=#37FFFF>Paimon:</color> In that case, ummm... Ooh! Ores from Liyue! Yeah, we could make a killing off of those!\\n<color=#37FFFF>{NICKNAME}:</color> Pretty sure the Children of Echoes are already in that business, too...\\n<color=#37FFFF>Paimon:</color> Yeah... Wait, Paimon's got it ��� rugs from Sumeru! Those'll definitely be a hit!\\n<color=#37FFFF>{NICKNAME}:</color> Unfortunately, that's the specialty of the Masters of the Night-Wind.\\n<color=#37FFFF>Paimon:</color> Well then... we'll fence the whole Stadium up! And charge an admission fee to everyone who tries to get inside, whether they're a contestant or a spectator!\\n<color=#37FFFF>{NICKNAME}:</color> You'll be locked up before your fence is even half-finished...\\n<color=#37FFFF>Paimon:</color> Grrrrrrrr! Why does getting rich have to be so hard?",
+        "Text": "#<color=#37FFFF>Paimon:</color> Guess what? Paimon just thought of the best Mora-making idea ever!\\n<color=#37FFFF>{NICKNAME}:</color> Oh? Do tell.\\n<color=#37FFFF>Paimon:</color> Just look at how many people pass by this place every day. If we opened a business here, right outside the Stadium, we'd make a fortune without even trying!\\n<color=#37FFFF>{NICKNAME}:</color> So... What would you sell?\\n<color=#37FFFF>Paimon:</color> Uhhh... maybe... alchemical potions from Mondstadt?\\n<color=#37FFFF>{NICKNAME}:</color> I think there's already people selling similar stuff...\\n<color=#37FFFF>Paimon:</color> In that case, ummm... Ooh! Ores from Liyue! Yeah, we could make a killing off of those!\\n<color=#37FFFF>{NICKNAME}:</color> Pretty sure the Children of Echoes are already in that business, too...\\n<color=#37FFFF>Paimon:</color> Yeah... Wait, Paimon's got it — rugs from Sumeru! Those'll definitely be a hit!\\n<color=#37FFFF>{NICKNAME}:</color> Unfortunately, that's the specialty of the Masters of the Night-Wind.\\n<color=#37FFFF>Paimon:</color> Well then... we'll fence the whole Stadium up! And charge an admission fee to everyone who tries to get inside, whether they're a contestant or a spectator!\\n<color=#37FFFF>{NICKNAME}:</color> You'll be locked up before your fence is even half-finished...\\n<color=#37FFFF>Paimon:</color> Grrrrrrrr! Why does getting rich have to be so hard?",
         "Unlocked": ["Complete \"Black Stone Under a White Stone\""]
       },
       {
@@ -1542,6 +1542,7 @@
   },
   "Skills": [
     {
+      "Id": 100551,
       "Name": "Foreign Blaze",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 5 rapid strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
       "Promote": {
@@ -1938,6 +1939,7 @@
       }
     },
     {
+      "Id": 10097,
       "Name": "Flowfire Blade",
       "Desc": "Wields a searing flame that can incinerate the very earth. Has different effects when Tapped or Held.\\n\\n<color=#FFD780FF>Tap</color>\\nCall forth flames in a raging blaze. When used, the Traveler gains 42 Nightsoul points and enters the Nightsoul's Blessing state, summoning a Blazing Threshold that follows the current active character.\\nWhen the Blazing Threshold gets close to opponents, it will deal Nightsoul-aligned <color=#FF9999FF>Pyro DMG</color> to nearby opponents at intervals.\\n\\n<color=#FFD780FF>Hold</color>\\nUnleash fire in a composed manner, dealing Nightsoul-aligned <color=#FF9999FF>AoE Pyro DMG</color> to nearby opponents. When used, the Traveler gains 42 Nightsoul points and enters the Nightsoul's Blessing state, summoning a Scorching Threshold that follows the current active character.\\nWhen the current active character within a Scorching Threshold deals DMG to opponents, the Threshold will launch a Coordinated Attack that deals Nightsoul-aligned <color=#FF9999FF>Pyro DMG</color> based on the Traveler's ATK. This effect can occur once every 3s.\\n\\n<color=#FFD780FF>Nightsoul's Blessing: Traveler</color>\\nContinuously consumes Nightsoul points. The Traveler's Nightsoul's Blessing state lasts 12s at maximum, and when their Nightsoul points are exhausted, this state will end. If this Elemental Skill is used again while active, the Traveler's Nightsoul points will be reset to 42 points.\\nBlazing and Scorching Thresholds will disappear once the Traveler's Nightsoul's Blessing state ends, and only 1 Blazing or Scorching Threshold summoned by the Traveler themselves can exist at any one time.\\n\\n<i>Together, you and Paimon watched the shifting colors of the flowing flames.</i>",
       "Promote": {
@@ -2334,6 +2336,7 @@
       }
     },
     {
+      "Id": 10098,
       "Name": "Plains Scorcher",
       "Desc": "Condense the flames into a mark, dealing Nightsoul-aligned <color=#FF9999FF>AoE Pyro DMG</color> to opponents up ahead. The Traveler restores 7 Nightsoul points per second for the next 4s.\\n\\n<i>Together, you and Paimon studied the principles behind an undying flame.</i>",
       "Promote": {

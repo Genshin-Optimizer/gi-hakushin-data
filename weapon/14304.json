@@ -331,27 +331,27 @@
   "Refinement": {
     "1": {
       "Name": "Rapids",
-      "Desc": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, or a Hydro-infused Swirl reaction, increases ATK by <color=#99FFFFFF>20%</color> for 12s.",
+      "Desc": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, Lunar-Charged, or a Hydro-infused Swirl reaction, ATK is increased by <color=#99FFFFFF>20%</color> for 12s.",
       "ParamList": [0.2, 0, 0, 0, 0, 0, 0, 0]
     },
     "2": {
       "Name": "Rapids",
-      "Desc": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, or a Hydro-infused Swirl reaction, increases ATK by <color=#99FFFFFF>25%</color> for 12s.",
+      "Desc": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, Lunar-Charged, or a Hydro-infused Swirl reaction, ATK is increased by <color=#99FFFFFF>25%</color> for 12s.",
       "ParamList": [0.25, 0, 0, 0, 0, 0, 0, 0]
     },
     "3": {
       "Name": "Rapids",
-      "Desc": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, or a Hydro-infused Swirl reaction, increases ATK by <color=#99FFFFFF>30%</color> for 12s.",
+      "Desc": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, Lunar-Charged, or a Hydro-infused Swirl reaction, ATK is increased by <color=#99FFFFFF>30%</color> for 12s.",
       "ParamList": [0.3, 0, 0, 0, 0, 0, 0, 0]
     },
     "4": {
       "Name": "Rapids",
-      "Desc": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, or a Hydro-infused Swirl reaction, increases ATK by <color=#99FFFFFF>35%</color> for 12s.",
+      "Desc": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, Lunar-Charged, or a Hydro-infused Swirl reaction, ATK is increased by <color=#99FFFFFF>35%</color> for 12s.",
       "ParamList": [0.35, 0, 0, 0, 0, 0, 0, 0]
     },
     "5": {
       "Name": "Rapids",
-      "Desc": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, or a Hydro-infused Swirl reaction, increases ATK by <color=#99FFFFFF>40%</color> for 12s.",
+      "Desc": "Upon causing a Vaporize, Electro-Charged, Frozen, Bloom, Lunar-Charged, or a Hydro-infused Swirl reaction, ATK is increased by <color=#99FFFFFF>40%</color> for 12s.",
       "ParamList": [0.4, 0, 0, 0, 0, 0, 0, 0]
     }
   },

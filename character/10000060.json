@@ -404,6 +404,13 @@
     },
     "Costume": [
       {
+        "Id": 206001,
+        "Name": "Tranquil Banquet",
+        "Desc": "The outfit Yelan has prepared for her holiday. Elegant yet neat, it conveys a sense of leisure while somehow still carrying a hint of concealed aggression...",
+        "Icon": "UI_AvatarIcon_YelanCostumeSummer",
+        "Quality": 4
+      },
+      {
         "Id": 206000,
         "Name": "The Waning Point",
         "Desc": "Yelan's outfit. It has lurked alongside its wearer in the shadows over many a year, to the point where the outfit almost has a mysterious temper of its own, like an orchid blooming at midnight.",
@@ -788,6 +795,7 @@
   },
   "Skills": [
     {
+      "Id": 10606,
       "Name": "Stealthy Bowshot",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 4 consecutive shots with a bow.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nPerforms a more precise <color=#FFD780FF>Aimed Shot</color> with increased DMG.\\nWhile aiming, flowing water will accumulate on the arrowhead. A fully charged torrential arrow will deal <color=#80C0FFFF>Hydro DMG</color>.\\n\\n<color=#FFD780FF>Breakthrough</color>\\nYelan will enter a \"Breakthrough\" state after spending 5s out of combat, which will cause her next Charged Aimed Shot to have 80% decreased charge time, and once charged, she can fire a \"Breakthrough Barb\" that will deal <color=#80C0FFFF>AoE Hydro DMG</color> based on Yelan's Max HP.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
       "Promote": {
@@ -1184,6 +1192,7 @@
       }
     },
     {
+      "Id": 10607,
       "Name": "Lingering Lifeline",
       "Desc": "Fires off a Lifeline that allows her to move rapidly, entangling and marking opponents along its path.\\nWhen this rapid movement ends, the Lifeline will explode, dealing <color=#80C0FFFF>Hydro DMG</color> to the marked opponents based on Yelan's Max HP.\\n\\n<color=#FFD780FF>Tap</color>\\nMoves a certain distance forward swiftly.\\n\\n<color=#FFD780FF>Hold</color>\\nEngages in continuous, swift movement, during which Yelan's resistance to interruption is increased.\\nDuring this time, Yelan can control this rapid movement and end it by using this Skill again.\\n\\nAdditionally, each opponent marked by the Lifeline when it explodes grants Yelan a 34% chance to reset her Breakthrough state.\\n\\n<i>Not until she begins to tug on the strings do evildoers, crooks, and scheming villains alike know that there is no escape.</i>",
       "Promote": {
@@ -1577,6 +1586,7 @@
       }
     },
     {
+      "Id": 10610,
       "Name": "Depth-Clarion Dice",
       "Desc": "Deals <color=#80C0FFFF>AoE Hydro DMG</color> and creates an \"Exquisite Throw,\" which aids her in battle.\\n\\n<color=#FFD780FF>Exquisite Throw</color>\\nFollows the character around and will initiate a coordinated attack under the following circumstances, dealing <color=#80C0FFFF>Hydro DMG</color> based on Yelan's Max HP:\\n·Can occur once every second when your active character uses a Normal Attack.\\n·Will occur each time Yelan's Lifeline explodes and hits opponents.\\n\\n<i>\"A gambling addiction is going to do you no good. I mean, let me just do the math for you as the dealer. What do you think your odds of beating me are, when I have seven dice and you, only one?\"</i>",
       "Promote": {

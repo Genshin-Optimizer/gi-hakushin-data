@@ -835,6 +835,7 @@
   },
   "Skills": [
     {
+      "Id": 11121,
       "Name": "Kitchen Skills",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 3 consecutive spear strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to perform an upward thrust.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
       "Promote": {
@@ -1231,6 +1232,7 @@
       }
     },
     {
+      "Id": 11122,
       "Name": "Low-Temperature Cooking",
       "Desc": "Behold the true meaning of \"cooking\"! Escoffier will demonstrate different cooking techniques when you Tap or Hold this skill, but rest assured, each of them is Fontaine's pride and joy.\\n\\n<color=#FFD780FF>Tap</color>\\nActivates her All-Spectrum Multi-Use Cooking Mek in its Cold Storage mode and deals <color=#99FFFFFF>AoE Cryo DMG</color> to nearby opponents.\\n\\n<color=#FFD780FF>Cooking Mek: Cold Storage Mode</color>\\nFollows the current active character and fires Frosty Parfaits at nearby opponents at intervals, dealing <color=#99FFFFFF>Cryo DMG</color>.\\n\\n<color=#FFD780FF>Arkhe: Ousia</color>\\nAt intervals, Escoffier will summon a Surging Blade when activating her Cooking Mek in Cold Storage mode, dealing Ousia-aligned <color=#99FFFFFF>AoE Cryo DMG</color>.\\n\\n<color=#FFD780FF>Hold</color>\\nActivates her All-Spectrum Multi-Use Cooking Mek's {LINK#N11120002}<color=#FFD780FF>Off-the-Cuff Cookery Mode</color>{/LINK}.",
       "Promote": {
@@ -1627,6 +1629,7 @@
       }
     },
     {
+      "Id": 11125,
       "Name": "Scoring Cuts",
       "Desc": "Displaying her exceptional knife skills, Escoffier deals <color=#99FFFFFF>AoE Cryo DMG</color> and restores HP to all nearby party members based on her ATK.",
       "Promote": {

@@ -767,6 +767,7 @@
   },
   "Skills": [
     {
+      "Id": 10261,
       "Name": "Whirlwind Thrust",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 6 consecutive spear strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to perform an upward thrust.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.\\nXiao does not take DMG from performing Plunging Attacks.",
       "Promote": {
@@ -1175,6 +1176,7 @@
       }
     },
     {
+      "Id": 10262,
       "Name": "Lemniscatic Wind Cycling",
       "Desc": "Xiao lunges forward, dealing <color=#80FFD7FF>Anemo DMG</color> to opponents in his path.\\nCan be used in mid-air.\\nStarts with 2 charges.\\n\\n<i>According to the legends of another land, the world will someday be crushed by two great wind wheels. Xiao's mastery over polearms is transcendent, ripping his foes apart like those legendary wind wheels.</i>",
       "Promote": {
@@ -1556,6 +1558,7 @@
       }
     },
     {
+      "Id": 10265,
       "Name": "Bane of All Evil",
       "Desc": "Xiao dons the Yaksha Mask that set gods and demons trembling millennia ago.\\n\\n<color=#FFD780FF>Yaksha's Mask</color>\\n·Greatly increases Xiao's jumping ability.\\n·Increases his attack AoE and attack DMG.\\n·Converts attack DMG into <color=#80FFD7FF>Anemo DMG</color>, which cannot be overridden by any other elemental infusion.\\n\\nIn this state, Xiao will continuously lose HP.\\nThe effects of this skill end when Xiao leaves the field.\\n\\n<i>Donning the Mask of the Yaksha, Xiao takes the terrifying, demon-conquering form of the Vigilant Yaksha. But this great power has also brought him great suffering. Some call him \"The Bane of All Evil.\"</i>",
       "Promote": {

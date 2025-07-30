@@ -477,7 +477,7 @@
     "EN": "Raiden Shogun",
     "desc": "Her Excellency, the Almighty Narukami Ogosho, who promised the people of Inazuma an unchanging Eternity.",
     "KR": "라이덴 쇼군",
-    "CHS": "雷电��军",
+    "CHS": "雷电将军",
     "JP": "雷電将軍"
   },
   "10000053": {
@@ -751,7 +751,7 @@
     "desc": "A caged bird secluded within the confines of the Sanctuary of Surasthana who can only see the world in her dreams.",
     "KR": "나히다",
     "CHS": "纳西妲",
-    "JP": "ナヒー���"
+    "JP": "ナヒーダ"
   },
   "10000074": {
     "birth": [12, 19],
@@ -970,7 +970,7 @@
     "element": "Pyro",
     "EN": "Chevreuse",
     "desc": "The captain of the Special Security and Surveillance Patrol, who wears justice as an ever-present seal upon her heart. Her musket shall only ever point at the guilty.",
-    "KR": "슈��르즈",
+    "KR": "슈브르즈",
     "CHS": "夏沃蕾",
     "JP": "シュヴルーズ"
   },
@@ -1298,6 +1298,19 @@
     "KR": "달리아",
     "CHS": "塔利雅",
     "JP": "ダリア"
+  },
+  "10000116": {
+    "birth": [4, 2],
+    "icon": "UI_AvatarIcon_Ineffa",
+    "rank": "QUALITY_ORANGE",
+    "weapon": "WEAPON_POLE",
+    "release": "2025-07-29 00:00:00",
+    "element": "Electro",
+    "EN": "Ineffa",
+    "desc": "A multifunctional robot containing integrated mechanical components from various nations. The Source Core in her chest has endured the passage of countless years.",
+    "KR": "이네파",
+    "CHS": "伊涅芙",
+    "JP": "イネファ"
   },
   "10000007-2": {
     "birth": [1, 1],

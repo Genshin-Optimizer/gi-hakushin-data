@@ -14,8 +14,8 @@
     "Detail": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
     "VA": {
       "Chinese": "鹿喑 & 多多poi",
-      "Japanese": "堀江瞬 & 古賀葵",
-      "English": "Zach Aguilar & Corina Boettger",
+      "Japanese": "堀���瞬 & 古賀葵",
+      "English": "Zach Aguilar & Corina Boettger & Anonymous",
       "Korean": "Lee Kyeong-tae & Kim Ka-ryoung"
     },
     "Stories": [
@@ -1542,6 +1542,7 @@
   },
   "Skills": [
     {
+      "Id": 100545,
       "Name": "Foreign Rockblade",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 5 rapid strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
       "Promote": {
@@ -1938,6 +1939,7 @@
       }
     },
     {
+      "Id": 10077,
       "Name": "Starfell Sword",
       "Desc": "You disgorge a meteorite from the depths of the earth, dealing <color=#FFE699FF>AoE Geo DMG</color>.\\nThe meteorite is considered a <color=#FFE699FF>Geo Construct</color>, and can be climbed or used to block attacks.\\n\\n<color=#FFD780FF>Hold</color>\\nThis skill's positioning may be adjusted.\\n\\n<i>You spoke with Paimon about the final destination of falling stars.</i>",
       "Promote": {
@@ -2319,6 +2321,7 @@
       }
     },
     {
+      "Id": 10078,
       "Name": "Wake of Earth",
       "Desc": "Energizing the Geo deep underground, you set off expanding shockwaves.\\nLaunches surrounding opponents back and deals <color=#FFE699FF>AoE Geo DMG</color>.\\nA stone wall is erected at the edges of the shockwave.\\nThe stone wall is considered a <color=#FFE699FF>Geo Construct</color>, and may be used to block attacks.\\n\\n<i>You and Paimon studied the pulse of the mountains.</i>",
       "Promote": {

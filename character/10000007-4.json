@@ -14,8 +14,8 @@
     "Detail": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
     "VA": {
       "Chinese": "宴宁 & 多多poi",
-      "Japanese": "悠木碧 & 古賀葵",
-      "English": "Sarah Miller-Crews & Corina Boettger",
+      "Japanese": "悠��碧 & 古賀葵",
+      "English": "Sarah Miller-Crews & Corina Boettger & Anonymous",
       "Korean": "Lee Sae-ah & Kim Ka-ryoung"
     },
     "Stories": [
@@ -1542,6 +1542,7 @@
   },
   "Skills": [
     {
+      "Id": 100553,
       "Name": "Foreign Ironwind",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 5 rapid strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
       "Promote": {
@@ -1938,6 +1939,7 @@
       }
     },
     {
+      "Id": 10067,
       "Name": "Palm Vortex",
       "Desc": "Grasping the wind's might, you form a vortex of vacuum in your palm, causing continuous <color=#80FFD7FF>Anemo DMG</color> to opponents in front of you.\\nThe vacuum vortex explodes when the skill duration ends, causing a greater amount of Anemo DMG over a larger area.\\n\\n<color=#FFD780FF>Hold</color>\\nDMG and AoE will gradually increase.\\n\\n<color=#FFD780FF>Elemental Absorption</color>\\nIf the vortex comes into contact with <color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro</color>/<color=#99FFFFFF>Cryo</color>/<color=#FFACFFFF>Electro</color>, it will deal additional elemental DMG of that type.\\nElemental Absorption may only occur once per use.\\n\\n<i>You discussed the way to grasp the formless wind with Paimon.</i>",
       "Promote": {
@@ -2333,6 +2335,7 @@
       }
     },
     {
+      "Id": 10068,
       "Name": "Gust Surge",
       "Desc": "Guiding the path of the wind currents, you summon a forward-moving tornado that pulls objects and opponents towards itself, dealing continuous <color=#80FFD7FF>Anemo DMG</color>.\\n\\n<color=#FFD780FF>Elemental Absorption</color>\\nIf the tornado comes into contact with <color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro</color>/<color=#99FFFFFF>Cryo</color>/<color=#FFACFFFF>Electro</color>, it will deal additional elemental DMG of that type.\\nElemental Absorption may only occur once per use.\\n\\n<i>You and Paimon studied the flapping of a butterfly's wings.</i>",
       "Promote": {

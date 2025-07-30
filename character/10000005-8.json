@@ -15,7 +15,7 @@
     "VA": {
       "Chinese": "鹿喑 & 多多poi",
       "Japanese": "堀江瞬 & 古賀葵",
-      "English": "Zach Aguilar & Corina Boettger",
+      "English": "Zach Aguilar & Corina Boettger & Anonymous",
       "Korean": "Lee Kyeong-tae & Kim Ka-ryoung"
     },
     "Stories": [
@@ -1542,6 +1542,7 @@
   },
   "Skills": [
     {
+      "Id": 100547,
       "Name": "Foreign Fieldcleaver",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 5 rapid strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to unleash 2 rapid sword strikes.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
       "Promote": {
@@ -1938,6 +1939,7 @@
       }
     },
     {
+      "Id": 10117,
       "Name": "Razorgrass Blade",
       "Desc": "With a flourish of your blade, you unleash a spray of razor-sharp leaves that go before you and deal <color=#99FF88FF>Dendro DMG</color>.\\n\\n<i>You and Paimon observed the flowing edges of grass and leaf.</i>",
       "Promote": {
@@ -2319,6 +2321,7 @@
       }
     },
     {
+      "Id": 10118,
       "Name": "Surgent Manifestation",
       "Desc": "Calling upon the might of the flora all around you, you create a Lea Lotus Lamp.\\nThis Lamp will deal continuous <color=#99FF88FF>Dendro DMG</color> to opponents within its AoE.\\n\\n<color=#FFD780FF>Lotuslight Transfiguration</color>\\nThe Lea Lotus Lamp will undergo the following changes after it comes into contact with <color=#80C0FFFF>Hydro</color>/<color=#FFACFFFF>Electro</color>/<color=#FF9999FF>Pyro</color>:\\n·<color=#80C0FFFF>Hydro</color>: the Lamp's AoE and the AoE of its attacks are increased.\\n·<color=#FFACFFFF>Electro</color>: the Lamp's ATK SPD is increased.\\n·<color=#FF9999FF>Pyro</color>: the Lamp will explode after a short delay and then disappear, dealing <color=#99FF88FF>AoE Dendro DMG</color>.\\nThe Lea Lotus Lamp can only undergo one Lotuslight Transfiguration in its duration.\\n\\nOnly one Lamp created by the Traveler can exist at any one time.\\n\\n<i>You and Paimon studied the sounds of plants that sprout after the rain.</i>",
       "Promote": {

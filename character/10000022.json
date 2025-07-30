@@ -31,7 +31,7 @@
       },
       {
         "Title": "Character Story 2",
-        "Text": "There is a towering oak tree at the center of Windrise, said to have sprouted when Vennessa ascended to the heavens a millennium ago.\\nIn the past few months, travelers resting in the shade of the great oak sometimes hear a young boy singing the tales of Barbatos, the Anemo Archon.\\nUnlike the ruling deities of the other nations, Barbatos has long left Mondstadt. In fact, the only visible proof of his connection with Mondstadt is the Statues of The Seven that appear across the land — even then, the resemblance is vague at best. Fortunately, Barbatos's past deeds are recorded in books and epics, sung and passed on by the bards.\\nIn contrast to these more canonical works, Venti's ballads tend to include bizarre adventures and acts of mischief, such as the time that Barbatos pinched the Cryo Archon's scepter and replaced it with a hilichurl's wooden club...\\nWorshippers of Barbatos are quick to decry these frivolous tales as blasphemous fabrications. But whenever someone confronts Venti about this, his response suggests that he has not an ounce of remorse.\\n\"How can you know that they're fabrications?\"\\nHe has a point ��� even the most devoted sister could not possibly know the details of all of Barbatos's deeds from a millennium ago.\\nOnly Venti knows the truth behind his song lyrics, and it is a truth he hides behind an enigmatic smile.\\nReason being, yes — Venti's tall tales of Barbatos's unorthodox exploits are entirely fabricated.\\nHey, Venti finds that a few drinks really gets his muse going. Can you really blame him?",
+        "Text": "There is a towering oak tree at the center of Windrise, said to have sprouted when Vennessa ascended to the heavens a millennium ago.\\nIn the past few months, travelers resting in the shade of the great oak sometimes hear a young boy singing the tales of Barbatos, the Anemo Archon.\\nUnlike the ruling deities of the other nations, Barbatos has long left Mondstadt. In fact, the only visible proof of his connection with Mondstadt is the Statues of The Seven that appear across the land — even then, the resemblance is vague at best. Fortunately, Barbatos's past deeds are recorded in books and epics, sung and passed on by the bards.\\nIn contrast to these more canonical works, Venti's ballads tend to include bizarre adventures and acts of mischief, such as the time that Barbatos pinched the Cryo Archon's scepter and replaced it with a hilichurl's wooden club...\\nWorshippers of Barbatos are quick to decry these frivolous tales as blasphemous fabrications. But whenever someone confronts Venti about this, his response suggests that he has not an ounce of remorse.\\n\"How can you know that they're fabrications?\"\\nHe has a point — even the most devoted sister could not possibly know the details of all of Barbatos's deeds from a millennium ago.\\nOnly Venti knows the truth behind his song lyrics, and it is a truth he hides behind an enigmatic smile.\\nReason being, yes — Venti's tall tales of Barbatos's unorthodox exploits are entirely fabricated.\\nHey, Venti finds that a few drinks really gets his muse going. Can you really blame him?",
         "Unlock": ["Unlocks at Friendship Lv. 3"]
       },
       {
@@ -843,6 +843,7 @@
   },
   "Skills": [
     {
+      "Id": 10221,
       "Name": "Divine Marksmanship",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 6 consecutive shots with a bow.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nPerforms a more precise <color=#FFD780FF>Aimed Shot</color> with increased DMG.\\nWhile aiming, favorable winds will accumulate on the arrowhead. A fully charged wind arrow will deal <color=#80FFD7FF>Anemo DMG</color>.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nFires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
       "Promote": {
@@ -1240,6 +1241,7 @@
       }
     },
     {
+      "Id": 10224,
       "Name": "Skyward Sonnet",
       "Desc": "#O wind upon which all hymns and songs fly, bear these earth-walkers up into the sky!\\n\\n<color=#FFD780FF>{LAYOUT_MOBILE#Tap}{LAYOUT_PC#Press}{LAYOUT_PS#Press}</color>\\nSummons a Wind Domain at the opponent's location, dealing <color=#80FFD7FF>AoE Anemo DMG</color> and launching opponents into the air.\\n\\n<color=#FFD780FF>Hold</color>\\nSummons an even larger Wind Domain with Venti as the epicenter, dealing <color=#80FFD7FF>AoE Anemo DMG</color> and launching affected opponents into the air.\\nAfter unleashing the Hold version of this ability, Venti rides the wind into the air.\\n\\nOpponents hit by Skyward Sonnet will fall to the ground slowly.\\n\\n<i>In the days when gods and men walked the earth together, the heavens were filled with countless songs. This melody has long since been forgotten.</i>",
       "Promote": {
@@ -1621,6 +1623,7 @@
       }
     },
     {
+      "Id": 10225,
       "Name": "Wind's Grand Ode",
       "Desc": "Fires off an arrow made of countless coalesced winds, creating a huge Stormeye that sucks in opponents and deals continuous <color=#80FFD7FF>Anemo DMG</color>.\\n\\n<color=#FFD780FF>Elemental Absorption</color>\\nIf the Stormeye comes into contact with <color=#80C0FFFF>Hydro</color>/<color=#FF9999FF>Pyro</color>/<color=#99FFFFFF>Cryo</color>/<color=#FFACFFFF>Electro</color>, it will deal additional elemental DMG of that type.\\nElemental Absorption may only occur once per use.\\n\\n<i>Many hymns written in praise of the Anemo Archon have been lost to time. This one sings of his mastery over the wind.</i>",
       "Promote": {

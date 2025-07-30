@@ -14,7 +14,7 @@
     "Detail": "A rattan weaver from Chenyu Vale. Clear-minded and well-tempered, she is as lively as a mountain spring.",
     "VA": {
       "Chinese": "刘十四",
-      "Japanese": "若山詩音",
+      "Japanese": "若山詩��",
       "English": "Anna Devlin",
       "Korean": "Kim Soon-mi"
     },
@@ -773,6 +773,7 @@
   },
   "Skills": [
     {
+      "Id": 11081,
       "Name": "Black Pheasant Strides on Water",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nWields her Feathermoon Rings to perform up to 4 attacks, dealing <color=#80FFD7FF>Anemo DMG</color>.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to throw out a Feathermoon Ring, dealing <color=#80FFD7FF>Anemo DMG</color>.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nGathers the power of Anemo and plunges towards the ground from mid-air, damaging all opponents in her path. Deals <color=#80FFD7FF>AoE Anemo DMG</color> upon impact with the ground.",
       "Promote": {
@@ -1169,6 +1170,7 @@
       }
     },
     {
+      "Id": 11082,
       "Name": "Swallow-Wisp Pinion Dance",
       "Desc": "Summoning forth the Swallow-Wisp Shield, a secret art passed down across generations, Lan Yan dashes forward and, upon making contact with her target, will leap back into the air.\\nThe Swallow-Wisp Shield's DMG absorption scales based on her ATK, and has a 250% absorption efficiency against <color=#80FFD7FF>Anemo DMG</color>.\\nWhile in mid-air due to the effects of her Elemental Skill: Swallow-Wisp Pinion Dance, pressing her Elemental Skill again or pressing Normal Attack will cause Lan Yan to hurl her Feathermoon Rings at an opponent, and they will spin between nearby opponents twice upon hit, dealing <color=#80FFD7FF>Anemo DMG</color>.\\nHolding the Skill will cause it to behave differently.\\n\\n<color=#FFD780FF>Hold</color>\\nEnter Aiming Mode to adjust the dash direction.\\n\\n<i>\"The clouds cut the lunar light, like shadows silver gracing one's sight.\"</i>",
       "Promote": {
@@ -1565,6 +1567,7 @@
       }
     },
     {
+      "Id": 11085,
       "Name": "Lustrous Moonrise",
       "Desc": "Lan Yan creates a Feathermoon Swallow Array, pulling in nearby opponents and objects and dealing multiple instances of <color=#80FFD7FF>AoE Anemo DMG</color>.\\n\\n<i>Strictly speaking, with only Lan Yan herself present, it cannot properly be called an \"array.\" However, if her Rattan Figures are brought into the picture, she can sort of fulfill the requirements... Probably.</i>",
       "Promote": {

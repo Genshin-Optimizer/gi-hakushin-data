@@ -814,6 +814,7 @@
   },
   "Skills": [
     {
+      "Id": 10231,
       "Name": "Dough-Fu",
       "Desc": "<color=#FFD780FF>Normal Attack</color>\\nPerforms up to 5 consecutive spear strikes.\\n\\n<color=#FFD780FF>Charged Attack</color>\\nConsumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.\\n\\n<color=#FFD780FF>Plunging Attack</color>\\nPlunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
       "Promote": {
@@ -1210,6 +1211,7 @@
       }
     },
     {
+      "Id": 10232,
       "Name": "Guoba Attack",
       "Desc": "Summons Guoba, who will continuously breathe fire at opponents, dealing <color=#FF9999FF>AoE Pyro DMG</color>.\\n\\n<i>Guoba loves to eat spicy food. Problem is, his stomach can't handle something this spicy.</i>",
       "Promote": {
@@ -1591,6 +1593,7 @@
       }
     },
     {
+      "Id": 10235,
       "Name": "Pyronado",
       "Desc": "Displaying her mastery over both fire and polearms, Xiangling sends a Pyronado whirling around her.\\nThe Pyronado will move with your character for the ability's duration, dealing <color=#FF9999FF>Pyro DMG</color> to all opponents in its path.\\n\\n<i>There will never be enough heat. Never.</i>",
       "Promote": {
